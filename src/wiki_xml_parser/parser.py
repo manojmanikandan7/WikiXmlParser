@@ -5,6 +5,8 @@ The module for parser functions
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from xml.dom.minidom import parseString, getDOMImplementation
+from bs4 import BeautifulSoup
+import html
 from os import PathLike
 import re
 
@@ -14,7 +16,7 @@ class XmlParser:
         self.ns = ns
 
     @staticmethod
-    def parse_xml(file: PathLike) -> ET.ElementTree:
+    def parse_xml(file: PathLike[str]) -> ET.ElementTree:
         """
         Parse the input XML file and return an `xml.etree.ElementTree.ElementTree` representation of it.
         :param file:
@@ -22,9 +24,10 @@ class XmlParser:
         """
         return ET.parse(file)
 
-    def get_attrs(self, page: ET.Element):
+    def get_attrs(self, page: ET.Element, corpus_name: str):
         """
 
+        :param corpus_name:
         :param page:
         :return:
         """
@@ -33,40 +36,57 @@ class XmlParser:
 
         title = page.find("default:title", self.ns).text
         _, title = title.split(":")
-        title_name, archive = re.sub(r"\s", "_", title).split("/")
+        title_splits = re.sub(r"\s", "_", title).split("/")
 
-        url = "https://en.wikipedia.org/wiki/" + title_name + '/' + archive
-        return {"type": "Talk", "date": timestamp, "sourceCorpus": "Wikiproject_Medicine", "filename": filename, "title": f"{title_name}_Talk_{archive}", "url": url}
+        # In this case, the page is not an archive
+        if len(title_splits) < 2:
+            xml_title = title_splits[0]
+            url = "https://en.wikipedia.org/wiki/" + title_splits[0]
+        else:
+            title_name, archive = title_splits
+            xml_title = f"{title_name}_Talk_{archive}"
+            url = "https://en.wikipedia.org/wiki/" + title_name + '/' + archive
+
+
+
+        return {"type": "Talk", "date": timestamp, "sourceCorpus": corpus_name, "filename": filename, "title": xml_title, "url": url}
 
     def clean_text(self, txt: str):
-        no_tags = re.sub("&lt;.*&gt;", "", txt)
-
-        no_titles = re.sub("{{.*}}", "", no_tags)
+        # Removing title formatting
+        # This should be done before removing tags, since Beautiful Soup looks for curly braces ('{', '}') for namespaces
+        no_titles = re.sub("{{.*}}", "", txt)
+        no_titles = re.sub(r"[\[.*\]]", "", no_titles)
         no_titles = re.sub("==+", "", no_titles)
 
-        no_format = re.sub("''+", "", no_titles)
+        # First, unescape the html special characters (i.e., &..; -> unicode forms)
+        txt = html.unescape(no_titles)
+        # Then, remove them using beautiful soup
+        no_tags = BeautifulSoup(txt, "lxml").text
+
+
+        no_format = re.sub("''+", "", no_tags)
 
         no_indent = re.sub(r"\n:*", "\n", no_format)
         return no_indent
 
 
 
-    def build_tree(self, page: ET.Element):
-        attrs = self.get_attrs(page)
+    def build_tree(self, page: ET.Element, corpus_name: str):
+        attrs = self.get_attrs(page, corpus_name)
         file = ET.Element("file", attrs)
         text = ET.SubElement(file, "text")
         segment = ET.SubElement(text, "segment", { "id" : f"id{attrs["filename"]}"})
         segment.text = self.clean_text(page.find("default:revision", self.ns).find("default:text", self.ns).text)
         return attrs["title"], file
 
-    def parse(self, input_file: PathLike, output_dir: PathLike):
+    def parse_corpus(self, input_file: PathLike[str], output_dir: PathLike[str], corpus_name: str):
         tree = self.parse_xml(input_file)
 
         pages = tree.findall("default:page", self.ns)
 
         for page in pages:
 
-            title, file = self.build_tree(page)
+            title, file = self.build_tree(page, corpus_name)
 
             et_string = ET.tostring(file, encoding="utf-8")
 
