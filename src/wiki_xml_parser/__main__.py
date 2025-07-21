@@ -1,7 +1,7 @@
 """
 
 """
-from src.wiki_xml_parser.parser import XmlParser
+from parser import XmlParser
 from pathlib import Path
 import argparse
 
