@@ -79,11 +79,15 @@ class XmlParser:
 
         # First, unescape the html special characters (i.e., &..; -> unicode forms)
         txt = html.unescape(no_titles)
+
+        # Removing the self-closing tags
+        txt = re.sub("<.+?/>", "", txt)
+
         # Then, remove them using beautiful soup
         soup = BeautifulSoup(txt, "lxml")
         refs = soup.find_all("ref")
         for ref in refs:
-            ref.decompose()
+            ref.decompose()  # Remove tag and content
         no_tags = soup.text
 
         # Remove formatting with double-single quotes (''...'')
