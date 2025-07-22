@@ -15,7 +15,9 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 dependencies = [
     "beautifulsoup4",
-    "lxml"
+    "lxml",
+    "typer",
+    "typing_extensions"
 ]
 
 [project.urls]
@@ -23,7 +25,7 @@ Homepage = "https://github.com/manojmanikandan7/WikiXmlParser"
 Issues = "https://github.com/manojmanikandan7/WikiXmlParser/issues"
 
 [project.scripts]
-wiki_parse = "wiki_xml_parser:main"
+wiki_parse = "wiki_xml_parser.cli:app"
 
 [build-system]
 requires = ["hatchling >= 1.26"]

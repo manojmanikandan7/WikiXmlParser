@@ -36,17 +36,27 @@ class XmlParser:
         filename = page.find("default:id", self.ns).text
 
         title = page.find("default:title", self.ns).text
-        _, title = title.split(":")
+
+        # Removing the "Wikipedia_Talk:" prefix
+        title_parts = title.split(":")
+
+        if title_parts[0] == "Wikipedia talk":
+            talk = "Wikipedia_Talk:"
+            title = title_parts[-1]
+        else:
+            talk = ""
+            title = title_parts[-1]
+
         title_splits = re.sub(r"\s", "_", title).split("/")
 
         # In this case, the page is not an archive
         if len(title_splits) < 2:
             xml_title = title_splits[0]
-            url = "https://en.wikipedia.org/wiki/Wikipedia_Talk:" + title_splits[0]
+            url = "https://en.wikipedia.org/wiki/" + talk + title_splits[0]
         else:
             title_name, archive = title_splits
             xml_title = f"{title_name}_Talk_{archive}"
-            url = "https://en.wikipedia.org/wiki/Wikipedia_Talk:" + title_name + '/' + archive
+            url = "https://en.wikipedia.org/wiki/" + talk + title_name + '/' + archive
 
 
 
@@ -60,20 +70,27 @@ class XmlParser:
         """
         # Removing title formatting
         # This should be done before removing tags, since Beautiful Soup looks for curly braces ('{', '}') for namespaces
-        no_titles = re.sub("{{.*}}", "", txt)
-        no_titles = re.sub(r"[\[.*\]]", "", no_titles)
+        no_titles = re.sub("{{.*?|", "", txt)
+        no_titles = re.sub("{{", "", no_titles)
+        no_titles = re.sub("}}", "", no_titles)
+        no_titles = re.sub(r"\[\[", "", no_titles)
+        no_titles = re.sub("]]", "", no_titles)
         no_titles = re.sub("==+", "", no_titles)
 
         # First, unescape the html special characters (i.e., &..; -> unicode forms)
         txt = html.unescape(no_titles)
         # Then, remove them using beautiful soup
-        no_tags = BeautifulSoup(txt, "lxml").text
+        soup = BeautifulSoup(txt, "lxml")
+        refs = soup.find_all("ref")
+        for ref in refs:
+            ref.decompose()
+        no_tags = soup.text
 
         # Remove formatting with double-single quotes (''...'')
         no_format = re.sub("''+", "", no_tags)
 
         # Remove indent guides
-        no_indent = re.sub(r"\n:*", "\n", no_format)
+        no_indent = re.sub(r"\n:+", "\n", no_format)
         return no_indent
 
 
