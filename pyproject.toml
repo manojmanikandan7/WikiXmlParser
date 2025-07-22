@@ -13,8 +13,21 @@ classifiers = [
 ]
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
+dependencies = [
+    "beautifulsoup4",
+    "lxml"
+]
 
 [project.urls]
 Homepage = "https://github.com/manojmanikandan7/WikiXmlParser"
 Issues = "https://github.com/manojmanikandan7/WikiXmlParser/issues"
+
+[project.scripts]
+wiki_parse = "wiki_xml_parser:main"
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+
 

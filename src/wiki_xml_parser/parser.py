@@ -13,8 +13,8 @@ class XmlParser:
     """
     A class for parsing the XML files
     """
-    def __init__(self, ns: dict[str:str]):
-        self.ns = ns
+    def __init__(self):
+        self.ns = {"default": "http://www.mediawiki.org/xml/export-0.11/"}
 
     @staticmethod
     def parse_xml(file: PathLike[str]) -> ET.ElementTree:
