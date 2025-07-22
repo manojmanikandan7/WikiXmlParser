@@ -1,0 +1,12 @@
+<!ELEMENT file (text)>
+<!ATTLIST file type (Article|Talk|Category) #REQUIRED>
+<!ATTLIST file date CDATA #IMPLIED>
+<!ATTLIST file sourceCorpus CDATA #IMPLIED>
+<!ATTLIST file filename CDATA #IMPLIED>
+<!ATTLIST file title CDATA #IMPLIED>
+<!ATTLIST file url CDATA #IMPLIED>
+<!ELEMENT text (segment)+>
+<!ELEMENT segment (#PCDATA)>
+<!ATTLIST segment id ID #REQUIRED>
+
+
