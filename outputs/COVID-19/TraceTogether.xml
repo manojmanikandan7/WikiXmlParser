@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE file
   SYSTEM 'wikixml.dtd'>
-<file type="Talk" date="2025-07-08T10:40:28Z" sourceCorpus="COVID-19" filename="63637283" title="TraceTogether" url="https://en.wikipedia.org/wiki/TraceTogether">
+<file type="Article" date="2025-07-08T10:40:28Z" sourceCorpus="COVID-19" filename="63637283" title="TraceTogether" url="https://en.wikipedia.org/wiki/TraceTogether">
 	<text>
 		<segment id="id63637283">TraceTogether was a digital system implemented by the Government of Singapore to facilitate contact tracing efforts in response to the COVID-19 pandemic in Singapore. The main goal was a quick identification of persons who may have come into close contact with anyone who has tested positive for COVID-19. The system helps in identifying contacts such as strangers encountered in public one would not otherwise be able to identify or remember. Together with SafeEntry, it allows the identification of specific locations where a spread between close contacts may occur.
 

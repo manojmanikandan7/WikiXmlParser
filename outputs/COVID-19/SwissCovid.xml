@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE file
   SYSTEM 'wikixml.dtd'>
-<file type="Talk" date="2023-11-11T14:02:39Z" sourceCorpus="COVID-19" filename="64829266" title="SwissCovid" url="https://en.wikipedia.org/wiki/SwissCovid">
+<file type="Article" date="2023-11-11T14:02:39Z" sourceCorpus="COVID-19" filename="64829266" title="SwissCovid" url="https://en.wikipedia.org/wiki/SwissCovid">
 	<text>
 		<segment id="id64829266">SwissCovid is a COVID-19 contact tracing app used for digital contact tracing in Switzerland. Use of the app is voluntary and based on a decentralized approach using Bluetooth Low Energy and Decentralized Privacy-Preserving Proximity Tracing (dp3t).
 

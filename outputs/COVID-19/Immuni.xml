@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE file
   SYSTEM 'wikixml.dtd'>
-<file type="Talk" date="2024-12-25T07:13:01Z" sourceCorpus="COVID-19" filename="65297129" title="Immuni" url="https://en.wikipedia.org/wiki/Immuni">
+<file type="Article" date="2024-12-25T07:13:01Z" sourceCorpus="COVID-19" filename="65297129" title="Immuni" url="https://en.wikipedia.org/wiki/Immuni">
 	<text>
 		<segment id="id65297129">Immuni was an open-source COVID-19 contact tracing app used for digital contact tracing in Italy, dismissed on 31 December 2022, after a long and debated criticism for having been a failure due to the lack of trust placed by citizens. Immuni COVID-19 contact-tracing app had in fact been downloaded only by 12% of Italians between 14 and 75 years old (the government had previously stated that, in order for the app to work properly, it should have been downloaded by at least 60% of Italians). It makes use of the Apple/Google Exposure Notification system.
 

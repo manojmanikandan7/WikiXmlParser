@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE file
   SYSTEM 'wikixml.dtd'>
-<file type="Talk" date="2025-07-09T01:52:06Z" sourceCorpus="COVID-19" filename="63683133" title="COVIDSafe" url="https://en.wikipedia.org/wiki/COVIDSafe">
+<file type="Article" date="2025-07-09T01:52:06Z" sourceCorpus="COVID-19" filename="63683133" title="COVIDSafe" url="https://en.wikipedia.org/wiki/COVIDSafe">
 	<text>
 		<segment id="id63683133">COVIDSafe was a digital contact tracing app released by the Australian Government on 26 April 2020 to help combat the ongoing COVID-19 pandemic. The app was intended to augment traditional contact tracing by automatically tracking encounters between users and later allowing a state or territory health authority to warn a user they have come within  with an infected person for 15 minutes or more. To achieve this, it used the BlueTrace and Herald protocol, originally developed by the Singaporean Government and VMWare respectively, to passively collect an anonymised registry of near contacts. The efficacy of the app was questioned over its lifetime, ultimately identifying just 2 confirmed cases by the time it was decommissioned on 16 August 2022.
 
