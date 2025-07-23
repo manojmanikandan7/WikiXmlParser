@@ -17,8 +17,30 @@ A parser that parses the XML exported using the [Wikipedia Export feature](https
 - `xml.dom.minidom` was used for including the DOCTYPE and &lt;?xml?&gt; declarations.
 - The `re` library was used for regex-based removal of formatting of texts (e.g. {{...}}, [[..]], ''...'').
 
+## Requirements
+
+- Python >= 3.9
+
+## Installation
+
+Currently, this tool can be installed from the source. 
+
+### Using `pip3 install`
+First, make sure you have `pip3` installed.
+
+Open a terminal and run the following commands.
+```bash
+$ python3 -m pip install --upgrade pip
+```
+
+Then, run the following command to install the package.
+```bash
+$ pip3 install "https://github.com/manojmanikandan7/WikiXmlParser/releases/download/v0.0.1/wiki_xml_parser-0.0.1-py3-none-any.whl"
+```
+
 ## Usage
 
+### As a module
 ```python
 from wiki_xml_parser.parser import XmlParser
 
@@ -28,4 +50,30 @@ x_parser = XmlParser()
 # Parse the corpus at `input_file` file path 
 # and store the results at folder 'output_dir'
 x_parser.parse_corpus(input_file, output_dir)
+```
+
+
+### As a Command Line Interface (CLI) tool
+The CLI can be accessed through the command `wiki_parse`. 
+
+Run the following for more information on the command
+```bash
+$ wiki_parse --help
+```
+```
+ Usage: wiki_parse [OPTIONS] INPUT_FILE_NAME OUTPUT_DIR CORPUS_NAME                                                                                                                                                              
+                                                                                                                                                                                                                                 
+ The command-line tool for parsing a Wikipedia-exported XML file to simplified XML files                                                                                                                                         
+                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                 
+╭─ Arguments ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ *    input_file_name      TEXT  The input file path for the XML file [default: None] [required]                                                                                                                               │
+│ *    output_dir           TEXT  The output file directory for the transformed XML files [default: None] [required]                                                                                                            │
+│ *    corpus_name          TEXT  The name of this corpus [default: None] [required]                                                                                                                                            │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─ Options ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ --install-completion          Install completion for the current shell.                                                                                                                                                       │
+│ --show-completion             Show completion for the current shell, to copy it or customize the installation.                                                                                                                │
+│ --help                        Show this message and exit.                                                                                                                                                                     │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
