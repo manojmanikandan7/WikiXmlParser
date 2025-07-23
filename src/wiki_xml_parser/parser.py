@@ -43,9 +43,11 @@ class XmlParser:
         if title_parts[0] == "Wikipedia talk":
             talk = "Wikipedia_Talk:"
             title = title_parts[-1]
+            corpus_type = "Talk"
         else:
             talk = ""
             title = title_parts[-1]
+            corpus_type = "Article"
 
         title_splits = re.sub(r"\s", "_", title).split("/")
 
@@ -60,7 +62,7 @@ class XmlParser:
 
 
 
-        return {"type": "Talk", "date": timestamp, "sourceCorpus": corpus_name, "filename": filename, "title": xml_title, "url": url}
+        return {"type": corpus_type, "date": timestamp, "sourceCorpus": corpus_name, "filename": filename, "title": xml_title, "url": url}
 
     def clean_text(self, txt: str):
         """
