@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2023-03-26T11:43:45Z" sourceCorpus="MEDRS" filename="48653775" title="Identifying_reliable_sources_(medicine)_Talk_Archive_20" url="https://en.wikipedia.org/wiki/Wikipedia_Talk:Identifying_reliable_sources_(medicine)/Archive_20">
+	<text>
+		<segment id="id48653775">The best evidence 
+
+This is about https://enwikipediaorg/w/indexphp?title=Wikipedia:Identifying_reliable_sources_%28medicine%29&amp;oldid=686611864&amp;diff=prev this attempted clarification  I usually begin with the assumption that User:CFCF is right, so I went to see what I could learn about the subject
+
+Here's the list of http://wwwcochranelibrarycom/topic/Heart%20%26%20circulation/?date=100&amp;stage=review&amp;per-page=25&amp;sort-by=date-desc circulatory-related Cochrane reviews—all 591 of them  There are two about diagnosis, two labeled as &quot;overview&quot;, and 587 are interventions (treatment or prevention)  Both overviews are about treatments; an &quot;overview&quot; is essentially a systematic review that leans heavily on previous Cochrane reviews  That's 9966% about treatments
+
+Here's the list of http://wwwcochranelibrarycom/topic/Pregnancy%20%26%20childbirth/?date=100&amp;stage=review&amp;per-page=25&amp;sort-by=date-desc pregnancy-related Cochrane reviews  There are 553  One is an overview of interventions  One is about prenatal diagnosis of Down syndrome  For that subject, 9964% of systematic reviews are about treatments
+
+I picked cardiology because I don't know much about subject, and pregnancy because it was the least disease-like condition in the list  I got very similar results from both  I haven't checked any others, but I suspect that they will be very similar  And basically my results are:  with a truly minuscule number of exceptions, systematic reviews are about treatments  
+
+Therefore I think that it's fair to say, as a first approximation, that if you want good evidence about treatments, then you should look for meta analyses and systematic reviews, but if you want anything else, you probably need to look for something else  &quot;The best evidence&quot; is never a source that doesn't exist
+
+Here's the problem that we need to solve:  We have editors quoting WP:MEDRS#Best evidence as a requirement for everything in an article  A couple of weeks ago, one of them quoted this sentence to complain about a Further reading list!  I know we have a tendency to shrug our shoulders and say, &quot;Oh, well, people are going to quote things out of context&quot;, but the fact is that well-written guidelines should make that as difficult as possible  That's how I've written WP:External links over the years, for example, and abuse of that guideline is quite minimal now  I think that narrowing the scope of that sentence, to explicitly acknowledge what we were thinking about back in the day, will help editors to use the advice correctly, and to stop using it inappropriately
+
+Also, I know that I gave silly examples in the edit summary, but there are serious ones:  For example, PubMed has exactly zero systematic reviews and meta-analyses about the reliability of Pregnancy tests in humans during the last 10 years  Zero  There are US$168 Billion in sales each year,http://wwwbioamdcom/investors, representing more than 100 million tests, and there are zero meta-analyses or systematic reviews on the subject  Why don't such papers exist?  Because they'd be pointless  It's not an area of research  Real experts use reference works, not review articles, to source information about that subject  But if we don't find ways to make it hard to quote that line inappropriately, then we'll continue to have editors misunderstanding the limited scope of that sentence and therefore we'll continue to have creating disputes over whether the best sources in existence are &quot;MEDRS-compliant&quot;
+
+I am, as always, open to other solutions  But I think we need to be clearer that meta-analyses and systematic reviews are only appropriate for some parts of an article  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 22:21, 20 October 2015 (UTC)
+
+Just as one point of clarification, Cochrane reviews focus on treatments because it's part of their http://wwwcochraneorg/about-us mission statement: &quot;to help you make informed choices about treatment,&quot; &quot;for using high-quality information to make health decisions,&quot; etc Other review series might have only a minority of treatment-related articles, eg many of the medically relevant Annual Reviews (publisher)|Annual Reviews journals User:Sunrise|Sunrise (User talk:Sunrise|talk) 05:05, 21 October 2015 (UTC)
+I think we could do well to source such a paragraph - I'm going to add it to my to-do list User:CFCF|CFCFUser talk:CFCF| 💌 Special:EmailUser/CFCF|📧 16:48, 21 October 2015 (UTC)
+Something along those lines would be great  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 22:41, 21 October 2015 (UTC)
+
+For each
+Here's the list of topics we might cover on a disease article, with a list of what I think the go-to sources are (for some hypothetical median disease):
+
+ Classification:  Narrative reviews and textbooks
+ Signs and symptoms:  Narrative reviews and textbooks
+ Causes:  Narrative reviews and textbooks for most things (&quot;AIDS is caused by HIV infection&quot;), plus meta-analyses and systematic reviews for risk factors that aren't widely known or accepted
+ Mechanism:  Narrative reviews and textbooks
+ Diagnosis:  Position statements, narrative reviews and textbooks for most diagnostic information (eg, &quot;To diagnose HIV infection, use an HIV test&quot;), plus meta-analyses and systematic reviews if you are discussing whether a diagnostic method works (eg, &quot;Is a screening mammogram worth it?&quot;)
+ Prevention or Screening:  Narrative reviews and textbooks for most things (&quot;Measles can be prevented by getting the vaccine&quot;), plus meta-analyses and systematic reviews in the unlikely case that you are discussing something disputed (&quot;Alcohol consumption causes one-sixth of breast cancer cases in the UK&quot;)
+ Treatment:   Meta-analyses and systematic reviews for efficacy/what ought to be done  Position statements, narrative reviews and textbooks for what's actually done
+ Outcomes or Prognosis:  Narrative reviews and textbooks
+ Epidemiology:  Narrative reviews, textbooks, reference works (eg, a WHO report on disease prevalence), meta-analyses and systematic reviews
+ History: Non-medical sources (eg, books on the history of medicine)
+ Society and culture:  Non-medical sources (eg, plain old books, especially if it's written by a sociologist)
+ Research directions:  Narrative reviews, statements from interested groups, even op-eds (with INTEXT attribution)
+ Special populations, such as Geriatrics or Pregnancy or Pediatrics:  All of the above, depending on what you're saying about the population
+ Other animals:  All of the above, depending on what you're saying about animals
+
+I don't know if your list would be the same, but it looks like I'd make a meta-analysis or a systematic review my first choice for only one section, and I'd choose one as supplemental material for about a third of the sections—or, to put it another way, not &quot;for most topics&quot;  In particular, my approach appears to be to prefer a meta-analysis or a systematic review only when I'm citing its conclusions, rather than its background section  The background section of a systematic review or a meta-analysis is not automatically better than the background section of any other paper
+
+Anyway, I tried this out as an exercise, and learned something about my thinking  Perhaps it would be an interesting exercise for other people, too  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 23:09, 21 October 2015 (UTC)
+Like it, will respond Please remind me if I haven't said anything in a week ;) User:CFCF|CFCFUser talk:CFCF| 💌 Special:EmailUser/CFCF|📧 10:11, 26 October 2015 (UTC)
+For &quot;Classification&quot; sections we normally accept ICD-10 by default, though further sources are often needed to clarify Textbooks are satisfactory because classification moves slowly If the article differs markedly from ICD-10, we should probably require multiple secondary sources per wp:REDFLAG Reliance on DSM-V without other classification references may be more controversial, but at least it is regarded as one notable sourceFor the &quot;Epidemiology&quot; sections of disease articles, papers such as  by the Global Burden of Disease Study collaboration are practically indispensableFor the &quot;History&quot; sections, specialized journals such as J Hist Med Allied Sci, Bull Hist Med or Ann Med Hist are often usefulUser:LeadSongDog|LeadSongDog User talk:LeadSongDog#top|come howl! 19:01, 26 October 2015 (UTC)
+
+ Publication bias 
+
+There is publication bias from http://journalsplosorg/plosmedicine/article?id=101371/journalpmed0020409 Chinese journals User:QuackGuru|QuackGuru (User talk:QuackGuru|talk) 22:56, 26 October 2015 (UTC)
+While you guys are arguing about this, there are gazillions of bad sources still littering medical articles When I ask for help here I am routinely ignored User:Abductive|Abductive (User talk:Abductive|reasoning) 05:49, 27 October 2015 (UTC)
+Post at WT:MED, not WT:MEDRS–this is the wrong forum to ask for help Also as far as I can recall you've gotten support each and every time you posted there User:CFCF|CFCFUser talk:CFCF| 💌 Special:EmailUser/CFCF|📧 10:07, 27 October 2015 (UTC) 
+
+ Wikipedia:Administrators' noticeboard/Incidents#Disruptive editing at MEDRS 
+
+Per Wikipedia:Administrators' noticeboard/Incidents#Disruptive editing at MEDRS I am considering WP:BOLDLY restoring a stable version from before the edit war, as I did https://enwikipediaorg/w/indexphp?title=Domestic_violence_against_men&amp;curid=34291298&amp;diff=688148421&amp;oldid=688093240 here I would like some advice as to what version would be best to restore to, and if any noncontroversial changes since that version should be rolled back in
+
+Although those who have been involved in the underlying content dispute that led to the edit warring on this page are free to comment, I am free to ignore them and I advise others here to do the same I am mostly interested in the opinion of those long-term editors who have been watching over this page for a while and who are not involved in any recent disputes on the pages where there is a question about where MEDRS applies --User:Guy Macon|Guy Macon (User talk:Guy Macon|talk) 01:56, 30 October 2015 (UTC)</segment>
+	</text>
+</file>

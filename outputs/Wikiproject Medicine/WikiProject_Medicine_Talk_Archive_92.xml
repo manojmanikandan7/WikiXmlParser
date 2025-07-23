@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2023-03-26T11:40:40Z" sourceCorpus="Wikiproject_Medicine" filename="52779743" title="WikiProject_Medicine_Talk_Archive_92" url="https://en.wikipedia.org/wiki/Wikipedia_Talk:WikiProject_Medicine/Archive_92">
+	<text>
+		<segment id="id52779743">an
+
+Wikidata for neumonia (failed experiment maybe)
+
+ile:WikidataIssue.png|thumb|upright=1.5|Critical issue with Wikidata
+
+So pneumonia is our 7th most read medical article this week.[https://en.wikipedia.org/wiki/User:West.andrew.g/Popular_medical_pages] We have been looking at pulling some data for the infoboxes from Wikidata as we make them more human friendly. ser:DePiep switched the infobox for pneumonia to pull from there and here is what it gives for medications for pneumonia &quot;simvastatin, ticagrelor, aztreonam, cholecalciferol, prednisone, sucralfate, acetylcysteine, sparfloxacin&quot;
+
+When I look at when this was added it is April 27, 2016 by a ser:ProteinBoxBot.[https://www.wikidata.org/w/index.php?title=Q12192&amp;type=revision&amp;diff=325685827&amp;oldid=325167966] Now everyone is allowed to make mistakes. The issue with Wikidata is that there is not the community to pick up the mistakes and fix them.
+
+Supposedly this ref[https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1064] says simvastatin is a major treatement for pneumonia? And this one say ticagrelor[https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL398435]. I do not even seen pneumonia mentioned. And they of course are not major treatments (or treatments at all). ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 20:06, 11 December 2016 (UTC)
+I agree with Doc, and the reversal of my edit is OK. Background: I am discovering Wikidata-in-infoboxes. So I changed the data in neumonia to be read from Wikidata (instead of being entered locally on this en:wiki). That did not show an improvement indeed. Actually, me as a layman in medicine, prefer reading &quot;antibiotics&quot; instead of a dozen drug names or so. So being critical about Wikidata data is good. -ser:DePiep|DePiep (ser talk:DePiep|talk) 20:18, 11 December 2016 (UTC)
+ Not a major treatment, but it has been looked at, see for example MID3|25219829|26517133. ser:Boghog|Boghog (ser talk:Boghog|talk) 20:19, 11 December 2016 (UTC)
+Yes I know statins have been looked at and that is likely why the bot picked it up. The review you link says for statins &quot;however, it remains unclear whether initiation of statins at time of diagnosis is beneficial.&quot; It is not a &quot;treatment&quot; in the human sense of the word but a prognostic risk factor that may affect outcomes.
+This is big data mining. And it keeps me confident in my job security :-) Humans are good at pulling needles from haystacks.
+Have pulled Wikidata use from the infobox[https://en.wikipedia.org/w/index.php?title=Template%3AInfobox_medical_condition_%28new%29&amp;type=revision&amp;diff=754275797&amp;oldid=754255090] 
+While Wikidata has use cases maybe this is simply not one of them. Wikidata can do well handling discrete numerical data but as soon as one get into more nuanced text things become muddy. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 20:23, 11 December 2016 (UTC)
+A search for reviews on &quot;https://www.ncbi.nlm.nih.gov/pubmed/?term=ticagrelor+pneumonia&quot; finds nothing. Would be interested to know why the bot pulled that in? ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 20:36, 11 December 2016 (UTC)
+(ec) Jeeeeeee. Another case of Doc James going nited_States_military_nuclear_incident_terminology#Broken_Arrow|broken arrow: [https://en.wikipedia.org/w/index.php?title=Template%3AInfobox_medical_condition_%28new%29&amp;type=revision&amp;diff=754275797&amp;oldid=754255090]. Unless this 'cooperation' (non- it is) changes, I stop improving med infoboxes. I reverted. Doc, in med I'll ask you first, but in data you are not king. -ser:DePiep|DePiep (ser talk:DePiep|talk) 20:42, 11 December 2016 (UTC)
+This was P:BRD. So IMO we should not longer be pulling from Wikidata for these items in the infobox. As you have reverted ser:DePiep I assume you feel we should still be pulling from Wikidata?
+If issues for basic content on such a major topic can exist in Wikidata for more than 7 month it is simply not a reliable source. We should not have it per P:MEDRS. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 21:03, 11 December 2016 (UTC)
+As it was/is, and as neumonia did/does on enwiki: ara|medicine overwrites Wikidata data. Fine. But you can not remove all Wikidata readings (untalked!). -ser:DePiep|DePiep (ser talk:DePiep|talk) 21:21, 11 December 2016 (UTC)
+I added all the links to Wikidata &quot;untalked&quot; [https://en.wikipedia.org/w/index.php?title=Template%3AInfobox_medical_condition_%28new%29&amp;type=revision&amp;diff=696124695&amp;oldid=692669767]. This is a new experimental template. Happy to discuss though. What is your reasons for wanting to keep them? ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 21:37, 11 December 2016 (UTC)
+Okay figure out the ref[https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL398435]. When you click on &quot;indications&quot; and expand to 100, at the bottom pneumonia is listed. Specifically it says &quot;PNEUMONIA D011014 EFO:0003106 PNEUMONIA 2&quot;. No idea what that means. Anyone else? ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 21:15, 11 December 2016 (UTC)
+[https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2107811]?([http://www.ebi.ac.uk/efo/EFO_0003106][https://id.nlm.nih.gov/mesh/D011014.html])--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 21:22, 11 December 2016 (UTC)
+Euh, can one of you explain what this has to do with the issue of: data by local input vs. Wikidata ? -ser:DePiep|DePiep (ser talk:DePiep|talk) 21:26, 11 December 2016 (UTC)
+
+* This is the same issue I identified last month with treatments listed in Wikidata for Parkinson's -- see ikipedia_talk:WikiProject_Medicine/Archive_90#Concern_with_Wikidata_redux|here.  Garbage in, garbage out.  We should not be pulling treatments into infoboxes from Wikidata in any kind of automated, widespread fashion. 
+Question - is that actually happening?ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 21:29, 11 December 2016 (UTC)
+We have a moderate sized community here on Wikipedia that keeps an eye on the most heavily read medical articles. This example shows that Wikidata does not. Thus I am proposing we pull linking to Wikidata for most of the terms in that infobox. This is why I made these edits[https://en.wikipedia.org/w/index.php?title=Template%3AInfobox_medical_condition_%28new%29&amp;type=revision&amp;diff=754275797&amp;oldid=754255090] to the infobox to stop it from happening going forwards. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 21:31, 11 December 2016 (UTC)
+(ec) |Jytdog. 1. Yes the lc|Medicine infobox templates use Wikidata automatically. For example, l|Infobox medical condition (new) reads four d:properties [btw I'm working on this one today, so that's why this issue came up]. 2. Also, local input happens (input by parameter ara|medicine in the en:wiki article. Editing as we know it). So far, this local input overwrites Wikidata input. (neumonia history). 3. |Doc James wants to discard (=not use) any Wikidata. At all. This might be reasonable, but I want that by talk outcome (WP:MED RfC?). 4. An other option is, I propose here: &quot;use &amp; track categorize MED articles that use Wikidata data&quot; (suspected by definition I understand). -ser:DePiep|DePiep (ser talk:DePiep|talk) 22:11, 11 December 2016 (UTC)
+* In Template:Infobox medical condition (new) there are many fields for things that are not data points (like a name, or IC50) but are things that it takes a human to summarize.  This template should never be implemented. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 21:41, 11 December 2016 (UTC)
+Well that is the point. This is not a &quot;data box&quot; but an &quot;info box&quot;. The goal is to provide point form top importance details. Not all or even most will be fillable for every condition. This will require human editors to fill it not bots based on other bots. 
+An example is at out ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 21:48, 11 December 2016 (UTC)
+Not the issue. Please stop yourself diverting others. -ser:DePiep|DePiep (ser talk:DePiep|talk) 22:44, 11 December 2016 (UTC)
+Dear ser:Doc James|Doc James and others: On behalf of the ser:ProteinBoxBot|ProteinBoxBot initiative that has been doing the vast majority of uploading of biomedical data to Wikidata, let me offer some thoughts.  First, I absolutely agree with the reversion of the template.  While I appreciate ser:DePiep|DePiep's initiative (and agree that this is P:BRD in action), data should only be pulled in from Wikidata after sufficient discussion and community consensus.  Our team has tried to be extremely proactive when proposing drawing from Wikidata (for example, see discussions we initiated for genes [https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Molecular_and_Cell_Biology/Archive_6#Preparing_for_WikiData_in_gene.2Fprotein_infoboxes] and compounds [https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Chemistry/Archive_39#Wikidata_as_source_for_infobox_data]).  We did not feel ready to make a similar proposal for disease infoboxes yet, but it will be right here at P:MED when we do.
+
+Second, please note that the evidence/provenance for all wikidata claims can be incorporated as part of the query to retrieve content.  Others have noted that in this particular case the evidence was traced back to hEMBL, which should be treated as a research resource and not a clinical one.  So, in the future when we do come to propose wikidata inclusion, we could (and likely should/will) restrict to only include statements that cite a clinically-reputable source (and in fact, we could use the advice of folks here to prioritize those reputable sources).  
+
+Third, I 100% agree that the issue of wikidata edits not showing up in the edit histories and watchlists here on Wikipedia is a critical one because it impedes oversight and transparency.  In fact, just last week our team was having a discussion with [https://wikimediafoundation.org/wiki/User:Dtaraborelli Dario Taraborelli] (Head of Research at ikimedia Foundation|WMF) about the need to make that happen.  I can't speak to prioritization among either the WMF or Wikidata teams, but I can say it's a known issue on both ends.  Of course, that will also be a key consideration for timing when our ProteinBoxBot team comes to propose greater use of Wikidata content.
+
+I hope this context is useful, and of course additional discussion and feedback is welcome...  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 22:15, 11 December 2016 (UTC)
+One can make wikidata edits show up on your watchlist here already. I just saw such a volume of changes from Wikidata that I turned it off again. Can only manage so much.
+For others you can click here[https://en.wikipedia.org/wiki/Special:Preferences#mw-prefsection-watchlist] and it is at the bottom. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 22:20, 11 December 2016 (UTC)
+Right, thanks for the reminder. However, I believe that option right now includes all edits to a corresponding wikidata item, which often results in an overwhelming volume.  The request to WMF and Wikidata is to only include history of the specific statements that are used in a Wikipedia article.  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 22:40, 11 December 2016 (UTC)
+ I wrote a user script (:User:Yair rand/DiffLists.js, can be enabled by adding importScriptURI( 'https://www.wikidata.org/w/index.php?title=User:Yair_rand/DiffLists.js&amp;action=raw&amp;ctype=text/javascript' ); to pecial:MyPage/common.js) which can filter Wikidata changes on watchlists (for example, you can set it to show only edits to certain properties), which might help. --ser:Yair rand|Yair rand (ser talk:Yair rand|talk) 01:53, 13 December 2016 (UTC)
+ser:Andrew Su thanks for your reply.   Just to say this now -- it takes work and thought to add P:Biomedical information to WP and it should be the same for WD.  The source should be MEDRS and we often weigh multiple MEDRS sources against one another (giving more weight to one than another for example, but still including something from a lesser-weighted one) when summarizing them.  This is not the kind of thing where can you pick a data point, find any source that supports it, and add it with that source.  Nor can you pick a good source and suck data points out of it.  Both of those would be &quot;garbage in&quot;.  My sense is that this how the &quot;treatments&quot; for both Parkinson's and Pneumonia got into WD - somebody just vacuumed data some source.  So I don't see how Biomedical information can ever &quot;scale&quot; in WD. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:32, 11 December 2016 (UTC)
+ser:Jytdog: We actually put quite a lot of work and thought into what we load to WD too.  It's just that the standards are different.  There are absolutely scenarios in which non-clinical-grade databases like hEMBL are absolutely useful to have in Wikidata.  ChEMBL is actually quite a reputable source within the biomedical research community, so even recording findings on treatment from in vitro experiments or animal models can be useful.  (For example, it is a core resource in our compound repositioning work.)  But, that is not the user community here at Wikipedia and WP:MED.  So, we will continue to add all reputable sources to WD regardless, but by no means should that all be indiscriminately slurped into WP.  We collectively need to put an equal amount of work and thought into deciding what is pulled from WD into WP.  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 22:49, 11 December 2016 (UTC)
+ser:Andrew Su No.  ChEMBL has zero value for P:Biomedical information.  This is exactly what I mean by &quot;garbage in, garbage out&quot;.  You want to build a junkyard, knock yourself out. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:55, 11 December 2016 (UTC)
+ ser:Jytdog: Again, ChEMBL as a resource is not without value.  To support the communities that do value it, it should remain in WD.  WP is one consumer of WD content.  If ChEMBL is deemed not to be useful for any WP article or template, no problem.  Those claims can easily be removed from any WD query.  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 23:03, 11 December 2016 (UTC)
+ser:Andrew Su I think you need to actually read P:Biomedical information.  Chembl may be useful for some data points, like a chemical structure, some binding data, or other simple facts.  I never said it wasn't. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 23:08, 11 December 2016 (UTC)
+I think you're speaking past each other. Andrew did say the information is valuable to the biomedical research community (i.e as a resource for researchers). I don't think he was meaning to imply Chembl is a reliable source for biomedical information as we define it. ser:Sizeofint|Sizeofint (ser talk:Sizeofint|talk) 00:03, 12 December 2016 (UTC)
+No. Andrew Suh thinks that chemicals that have some in vitro data listed in CHEMBL are &quot;drugs used for treatments&quot;.    This is the bizarro universe directly colliding with reality. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 00:20, 12 December 2016 (UTC)
+(ec) |Andrew Su| thx. re &quot;First, I absolutely agree with the reversion of the template&quot; - please clarify. We get that local input takes priority over Wikidata value (so, enwiki ara|Medicine|foo trumps P1995). But what when enwiki input absent? Then hide the Wikidata P1995 value? Or do we trustfully show the Wikidata returns? (Again, I'd say we should track-categorize those issues). -ser:DePiep|DePiep (ser talk:DePiep|talk) 22:40, 11 December 2016 (UTC)
+|DePiep — You actions were extremely disruptive and you have been very rude throughout this discussion. It was imperative that your edits be reverted to uphold at least a modicum of quality. If you do not see this, and continue to assert that it was merely &quot;OK&quot; I do not think you will fruitfully be able to contribute here. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 10:14, 13 December 2016 (UTC)
+ser:CFCF DePiep is actually being very reasonable here and i was admiring that but wasn't going to comment -  you don't want to see what happens when DePiep gets unreasonable. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:24, 13 December 2016 (UTC)
+ |DePiep: For the moment, I think no wikidata information should be included in WP for Template:Infobox medical condition (new).  The stakes are too high for this class of articles IMO, and the mechanics for oversight and transparency are not in place yet (my point #3 above).  And as a general rule, I think any move to include WD content in a template should be done with advance consultation and discussion with the most closely related wikiproject.  Just my (strong) opinion here...  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 22:58, 11 December 2016 (UTC)
+ Perhaps show nothing if it is blank but have a parameter that can be set to make it draw from Wikidata. ser:Sizeofint|Sizeofint (ser talk:Sizeofint|talk) 00:08, 12 December 2016 (UTC)
+* I [https://www.wikidata.org/w/index.php?title=Q12192&amp;type=revision&amp;diff=415784815&amp;oldid=414765941 removed] the garbage drug entries from the WD entry for pneumonia. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:42, 11 December 2016 (UTC)
+Example killed, issue unsolved. -ser:DePiep|DePiep (ser talk:DePiep|talk) 22:48, 11 December 2016 (UTC)
+ Per my description above about why this is not garbage in WD (but may be in WP), I undid your removal.  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 22:52, 11 December 2016 (UTC)
+And I reverted yours.  Those drugs are not drug used for treatment.  Do you people make up your own language in WD??   Are you trying to kill people?    Things get into Chembl if there is some experimental data - like one paper where somebody did something in vitro.  That is NOT a treatment.  Create a section for research results if you like. Do not put things that are NOT &quot;drug used for treatment&quot; in &quot;drug used for treatment&quot;.   ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 23:00, 11 December 2016 (UTC)
+
+*Let's all take a break. I for sure. Hav a good rest y'all. -ser:DePiep|DePiep (ser talk:DePiep|talk) 23:07, 11 December 2016 (UTC)
+
+ The place to examine that problem on Wikidata is at :Talk:Q12192| the talk page for |Q12192. Both |Jytdog and I have commented there.
+ If anyone's interested, there are papers examining the effect of (for example) statins on pneumonia for certain groups. There's a [http://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-016-0202-x primary study] that concludes &quot;Statin use among patients with MI might be associated with a decreased risk of hospitalization for pneumonia ...&quot; and a [http://www.europeanreview.org/article/7698 systematic review] that finds &quot;This meta-analysis supports that patients who happen to be receiving statin therapy have less mortality from pneumonia.&quot; But both of them are hedged with caveats that you'd need to read to put the conclusions into perspective. I found similar results when I looked for ucralfate and pneumonia. The point is that we can't just dismiss the entries in Wikidata while they have some (debatable) basis in fact; but lacking the nuances we find in examining potential sources, we can't just import the bald statements into medical infoboxes here.
+ Ideally, we would want to mark the references stored in Wikidata as primary or secondary sources. That would allow me to write modified functions in odule:Wikidata or odule:WikidataIB that filtered out results backed up by anything but secondary sources. Hopefully that would go a long way to resolving the sort of problems that we're currently experiencing. --ser:RexxS|RexxS (ser talk:RexxS|talk) 00:27, 12 December 2016 (UTC)
+This is really the classic database problem.  Databases are good for facts - for points of data.  Things like &quot;people who get pneumonia who are on steroids tend to have better outcomes&quot; is not something that you can put in a database.   Conversely, an entry in WD sourced to a MEDRS source isn't necessarily true or useful (e.g.  a &quot;statin&quot; entry in &quot;drugs for treatment&quot; in Pneumonia sourced to that review is not something that should be flagged as OK based on it having a MEDRS source) ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 00:39, 12 December 2016 (UTC)
+
+ Indeed. That's why all of the routines I create for importing information allow a locally supplied value to take precedence over anything held on Wikidata. Perhaps for medical infoboxes we should be using the calls I wrote in odule:WikidataIB that only allow an article's infobox to import from Wikidata after it's been enabled on that article. That might increase the chances of editor review of anything that gets pulled in from Wikidata. Cheers --ser:RexxS|RexxS (ser talk:RexxS|talk) 01:05, 12 December 2016 (UTC)
+Are all statements sourced to specifically ChEMBL unusable? If so, you could just filter out all statements using sources with P248 Q6120337 (ChEMBL). Or if a particular class of sources are usable/unusable, query the source's item for relevant characteristics. If it comes down to a much fuzzier issue of &quot;which sources can be actually used&quot;, without clear rules involved, the function could check whether the statement is ranked Preferred or Normal. --ser:Yair rand|Yair rand (ser talk:Yair rand|talk) 01:53, 13 December 2016 (UTC)
+ Take a look at |Q670131. It has been populated with data from ChEMBL. This is what you get when you ask for |P2175 up to 13 December 2016:
+* invoke:WikidataIB|getValue|qid=Q670131|name=treats|P2175|fetchwikidata=ALL → hypertriglyceridemia, familial hyperlipidemia , Early-onset Alzheimer's disease, chronic obstructive pulmonary disease, asthma, celiac disease, eye disease, MODY 2, glucose intolerance, atrial fibrillation, breast cancer, large intestine cancer , rectum cancer , sinusitis, cardiovascular disease, choroideremia, secondary progressive multiple sclerosis , pain, pneumonia, relapsing-remitting multiple sclerosis , Smith–Lemli–Opitz syndrome, subarachnoid hemorrhage, insomnia, non-small cell lung carcinoma , sickle cell anemia, pulmonary hypertension, bipolar disorder, chronic lymphocytic leukemia, stomach cancer, sepsis, Vitiligo, human immunodeficiency virus infectious disease , migraine, polycystic ovary syndrome, septic shock, Intraventricular hemorrhage, arteriosclerosis, coronary artery disease
+ Now, statins are used to treat conditions associated with high cholesterol levels, and imvastatin also reduces mortality from heart disease, diabetes, and stroke, regardless of cholesterol level. So several of those conditions would be appropriate values for &quot;medical condition treated&quot;, but neumonia is not a medical condition treated by simvastatin, because we have good sources that tell us that giving simvastatin to someone diagnosed with pneumonia doesn't do anything. So the question becomes if &quot;|P2175&quot; is swamped with conditions that the drug doesn't actually treat, how do we retrieve the conditions that it really does treat, like ypertriglyceridemia? Please don't tell me we need to go through every drug and condition to set preferred rank, because in that case it would be quicker to manually insert the correct values into the infobox in the article and forget about Wikidata all together. There is no point in having a property for &quot;all possible diseases that have been studied in connection with the drug&quot; and not having a property for &quot;conditions that the drug is used to treat&quot;. --ser:RexxS|RexxS (ser talk:RexxS|talk) 03:21, 13 December 2016 (UTC)
+
+Agree with ser:Jytdog on this. Statins are NOT a treatment for pneumonia. WD does not get to invent their own English language. 
+We have an excellent review that states &quot;however, it remains unclear whether initiation of statins at time of diagnosis is beneficial.&quot; This means &quot;statins are not a treatment for pneumonia&quot; 
+People call pull in data items as one offs from Wikidata at this point in time but we should not be pulling them in systemically for important deals. It is simply too risky at this point in time (and will make us look like idiots). They appear to speak a different language. Have removed from the template again[https://en.wikipedia.org/w/index.php?title=Template%3AInfobox_medical_condition_%28new%29&amp;type=revision&amp;diff=754464759&amp;oldid=754279945] as it is dangerous. Wikidata by default for important stuff is also too dangerous. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 20:23, 12 December 2016 (UTC)
+OK. ( sidenote: but why use ara|diff four times? Is just the differential diagnosis input. -ser:DePiep|DePiep (ser talk:DePiep|talk) 20:38, 12 December 2016 (UTC)
+With it there the infobox works. If it is not needed feel free to remove it ser:DePiep. I am far from an expert in info-boxes but happy to lean. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 07:13, 13 December 2016 (UTC)
+removed, [https://en.wikipedia.org/w/index.php?title=Template:Infobox_medical_condition_(new)&amp;diff=754556208&amp;oldid=754473290] +es.
+end sidenote ) -ser:DePiep|DePiep (ser talk:DePiep|talk) 08:41, 13 December 2016 (UTC)
+If WD wants to create a &quot;Has been studied in&quot; parameter feel free. But that is not the same as a &quot;treatment&quot; parameter. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 20:39, 12 December 2016 (UTC)
+[https://www.wikidata.org/w/index.php?title=Talk:Q12192&amp;diff=415975107&amp;oldid=415959145]commented, quite a few WD issues...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 21:09, 12 December 2016 (UTC)
+
+* Doc James noticed that Andrew ran a bot that added the &quot;drugs used for treatment&quot; entries, see the edtor listed in [https://www.wikidata.org/w/index.php?title=Q12192&amp;type=revision&amp;diff=325685827&amp;oldid=325167966 this dif]?   Oy.  I have asked andrew at their talk page in WD to undo it, [https://www.wikidata.org/w/index.php?title=User_talk:ProteinBoxBot&amp;diff=prev&amp;oldid=415994181 here]. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 21:49, 12 December 2016 (UTC)
+[https://www.wikidata.org/w/index.php?title=Special:Contributions&amp;offset=20160427011899&amp;limit=776&amp;contribs=user&amp;target=ProteinBoxBot&amp;namespace=&amp;tagfilter= this run] of 776 diffs added listings of chemicals into the &quot;drugs used for treatment&quot; field of disease articles, using data from CHEMBL (bad) and  [https://www.wikidata.org/wiki/Q21008030 NDF-RT] (which ~might~ be OK).   
+[https://www.wikidata.org/w/index.php?title=Special:Contributions&amp;offset=20160427004315&amp;limit=1169&amp;contribs=user&amp;target=ProteinBoxBot&amp;namespace=&amp;tagfilter= this] immediately prior run of 1169 diffs added entries in the &quot;medical condition treated&quot; field for the chemicals, using the same sources.  
+Those were from April of this year. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:09, 12 December 2016 (UTC)
+[https://www.wikidata.org/wiki/Wikidata:Requests_for_permissions/Bot/ProteinBoxBot_4 here] is where the bot was approved to add data from CHEMBL, which was apparently prompted by [https://www.wikidata.org/wiki/Wikidata:Administrators%27_noticeboard/Archive/2015/05#User:ProteinBoxBot this AN filing at WD].   Good to know they have AN there. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:18, 12 December 2016 (UTC)
+
+* found some discussions at WD &quot;chat&quot; which is a kind of centralized discussion board...
+** [https://www.wikidata.org/wiki/Wikidata:Project_chat/Archive/2016/09#Risperidone_versus_placebo_for_schizophrenia Risperidone versus placebo for schizophrenia] from August 2016.
+** apparently the fields at question here, &quot;drugs used for treatment&quot; (in disease entries) and &quot; medical condition treated&quot; (in chemical entries) were added to WD just in October 2015, per [https://www.wikidata.org/wiki/Wikidata:Status_updates/2015_10_10 this] status update. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:44, 12 December 2016 (UTC)
+WD need WPMEDRS. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 00:12, 13 December 2016 (UTC)
+(Cross posted from https://www.wikidata.org/wiki/User_talk:ProteinBoxBot#Undo_bot_run) ing|Jytdog|Doc James apologies for the slow and brief reply -- busy IRL today.  I still contest the label of &quot;bad data&quot;, but concede that we don't have the data modeling quite right here yet.  So we will remove those statements shortly and come up with a better data modeling plan.  In the mean time, if either of you has a suggestion on definitive data sources that could be used to populated the &quot;treats&quot; properties that reflect current clinical best practices, we're all ears.  (Right now, our team seems to be converging on dailymed...)  More soon... (EDIT: the bot run to remove these statements is now complete. Please let us know if you notice any remaining issues.)  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|nt:Talkpagelinktext) 04:32, 13 December 2016 (UTC)
+Thanks for posting here too.   I reckon that folks here would be happy to discuss data sources for matching drugs and diseases.   ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 04:39, 13 December 2016 (UTC)
+ser:Andrew Su have a number of proposals and data sources I would like to see added. Am working on a release of a data base under an open license. Will email you to talk about what is required before we can input. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 07:25, 13 December 2016 (UTC)
+See separate thread about ikipedia_talk:WikiProject_Medicine#Wikidata_and_non-MED_data|non-medical data in WD, like CAS number, to be used in lf|Drugbox. -ser:DePiep|DePiep (ser talk:DePiep|talk) 09:41, 13 December 2016 (UTC)
+dI have to say that if this data is labelled 'treatment' and not 'has been studied' then it is not only bad data, but dangerously bad data. While the data itself might be accurate for one point it can still have horrendous effects if incorrectly labelled. Just because the data is properly sourced in the first place doesn't mean you can't break it by using it incorrectly and turning things into a pointless unusable cesspool. I agree that Wikidata needs something similar to P:MEDRS, and it needs it now.ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 10:11, 13 December 2016 (UTC)
+How do we salvage this
+Looking at the [https://www.wikidata.org/wiki/Q12192]-page it now looks better. However it only lists two drugs: aztreonam and prednisone. While correct it gives only a sliver of what are accepted treatments. It would be better to show rug class#Therapeutic class. For something like pneumonia a large range of different antibiotics can be used, all depending on resistance, type of bacteria, local treatment guidelines, and a number of other factors. The same can be said for glucocorticoids — for example in Sweden we never use prednisone, only prednisolone (which is marginally faster acting because it skips one step in the metabolization). This has a very minor effect on treatment, but it is a different substance — and a range of other alternatives are available such as betamethasone or dexamethasone. So it would be much better to show treatments as: glucocorticoids, antibiotics.
+
+However this will not work in all cases, as some diseases have only a few accepted treatments. I have a hard time coming up how to balance these two different cases against eachother in Wikidata to ensure that we can both show drug classes when necessary and specific treatments when that is warranted. Thoughts? ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 10:28, 13 December 2016 (UTC)
+[https://www.wikidata.org/wiki/Q12192]much better(my watchlist for WD just lit up w/ about 50 different WD edits, so it &quot;seems&quot; something is being done/changed)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:25, 13 December 2016 (UTC)
+
+ It's still not right. Fetching |P2176 from |Q12192:
+* invoke:WikidataIB|getValue|qid=Q12192|name=treat|P2176|fetchwikidata=ALL → cetylcysteine, parfloxacin, ucralfate
+ Acetylcysteine is a used to treat paracetamol overdose, but does have some antibacterial properties, but I don't see evidence for &quot;treats pneumonia&quot;.
+ Sparfloxacin is a fluoroquinolone antibiotic, but is no longer available in the USA because of safety concerns. It has been mid:18986285|used to treat pneumonia, but it's a very poor choice to represent antibiotics as a treatment for pneumonia.
+ Sucralfate, a treatment for stomach ulcers, has already been discussed: the only [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27516/ secondary source] is a meta-analysis of whether treating stress ulcers in intensive care patients with sucralfate might increase the risk of pneumonia – not much of a &quot;treatment&quot;.
+ Perversely, I would recommend making more use of Wikidata in medical articles. It's only when folks like yourselves see mistakes like these that we stand a chance of correcting the errors in Wikidata. The next step is to fix the problem at source, so I'm going to change the Wikidata entry |Q12192 so that |P2176 contains just |Q12187. --ser:RexxS|RexxS (ser talk:RexxS|talk) 14:53, 13 December 2016 (UTC)
+ ing|RexxS thanks for the analysis, and for making the changes to WD.  Although I'm as bullish on WD as they come, I would actually strongly recommend we not include anything from WD related to diseases or drugs just yet.  Two reasons...  First, we need to get the sourcing right so that unreferenced claims (or claims that reference a source that is not trusted by WP:MED) do not show up as part of the query.  I'm pretty sure the standard invoke module does not allow this, and that writing some custom lua code will be necessary.  Second, while I agree with your &quot;many eyeballs make all bugs shallow&quot; argument for improving wikidata, unfortunately it's not possible for claim-specific wikidata changes to show up on WP histories and watchlists.  (This is my point #3 in my [https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Medicine&amp;diff=754296810&amp;oldid=754296515 previous comment].)  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 17:04, 13 December 2016 (UTC)
+ Oh, and one additional point.  We left the edges between pneumonia and acetylcysteine, sparfloxacin, sucralfate because they were imported from [https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/NDFRT/ NDF-RT], which we previously viewed as a reputable source for this information.  But, given your analysis, we are reassessing now.  Best, ser:Andrew Su|Andrew Su (ser talk:Andrew Su|talk) 17:07, 13 December 2016 (UTC)
+ ing|RexxS|Andrew Su|jytdog|DePiep|docjames|Boghog I removed the ~5000 indications which came from ChEMBL from Wikidata. ser:Sebotic|Sebotic (ser talk:Sebotic|talk) 17:32, 13 December 2016 (UTC)
+
+ Thank you, |Sebotic.
+ I disagree, |Andrew Su|Andrew. Wikidata is available to far more re-users that just the Wikipedias, and it's important to get the information right on Wikidata for everybody, rather than rely on filters to remove misleading/inaccurate data that each end-user would need to implement. As the author of the getValue() and related functions in odule:Wikidata and odule:WikidataIB, I've spent quite some effort in ensuring we have the ability for editors to decide how they want to fetch data, including overriding with a local value, enabling data-fetching on a per-article basis, suppression of unwanted fields, and rejection of unsourced Wikidata. So I'm not averse to writing Lua to do a job that's possible, like only returning values that are sourced to something other than Wikipedia. However, there is no magic code that recognises &quot;not trusted by WP:MED&quot; because in many cases the source database contains a mixture of useful and non-useful values. Yes, rejecting data sourced to ChEMBL would require nothing more than modifying line 153 in odule:WikidataIB to read if not ref:find(&quot;Wikipedia&quot;) and not ref:find(&quot;ChEMBL&quot;) then refs = refs + 1 end (or more likely I'd add a new call that took untrusted sources as parameters like &quot;ChEMBL&quot;, &quot;NDF-RT&quot;). But that would ameliorate the problem only for en-wp. The whole point of Wikidata is that it's a central database that serves all the Wikimedia projects as well as third parties. It's far better to get properties like |P2176 populated with values genuinely useful to medics and lay readers, and there's no reason why related properties like &quot;drugs studied in connection with&quot; couldn't be created for the researchers. --ser:RexxS|RexxS (ser talk:RexxS|talk) 17:43, 13 December 2016 (UTC)
+* The new data was imported based on a [https://www.wikidata.org/wiki/Q21008030VA NDF-RT] which is WD says is &quot;National Drug File Reference Terminology: A database by the Department of Veterans Affairs maintaining FDA approved drug concepts and their interactions&quot; which ~sounds~ like it would be an actual, clinically-used database.  and fwiw, along with detoxifying acetaminophen overdose aceytlcysteine is a mucolytic and used to help in cystic fibrosis and chronic obstructive pulmonary disease and as an adjuvant when the mucous gets really bad in lung infections. ([http://reference.medscape.com/drug/n-acetylcysteine-mucomyst-acetylcysteine-343425#91 ref])ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 18:23, 13 December 2016 (UTC)
+** Thanks, Jytdog. Does that mean that aceytlcysteine is actually used to treat pneumonia, then? --ser:RexxS|RexxS (ser talk:RexxS|talk) 00:15, 14 December 2016 (UTC)
+|RexxS — Seeing as no one answered yet I feel obliged to answer now 10 days late. Acetylcysteine is used for its supposed xpectorant properties. That is to say it would make the mucus excreted from the respiratory epithelium more viscous, thereby making it easier to cough up. The evidence is horrible and it is unclear if it's better than placebo — but in many places giving acetylcysteine is traditional, and since it has very few side-effects and is very cheap, the reasoning is that one might as well. If nothing else it will give a placebo-effect that is non-negligible. Sure some might say it's ethically dubious but it is definitely used. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 12:24, 25 December 2016 (UTC)
+Odd, none of this is covered in the article... Hmm... I'll see if I have time to dig up some sources. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 12:25, 25 December 2016 (UTC)
+***NAC is being studied for pneumonia and looks promising but I would not call it an established treatment yet.[https://www.ncbi.nlm.nih.gov/pubmed/27492531] 
+***What we have listed for the treatment of pneumonia on WP is &quot;antibiotics, steroids, antivirals&quot; entered by a human. Still need to add references. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 03:10, 14 December 2016 (UTC)
+Doc james that article you linked is something different - namely a direct antibacterial effect by breaking up biofilms and that it not how it has been used.  Inhaled NAC is used to break up mucus in CF, IPF, and pneumonia, to help people breathe. See MID|26324807 and MID|26070577.  I will add that evidence is bad.  the latter ref says: &quot;Aerosolized N-acetylcysteine has been used for many years as a mucolytic. N-acetylcysteine is inactivated at the airway surface and undergoes first-pass metabolism. Furthermore, it is irritating to the airway, with a pKa of 2.2 and a foul sulfur odor. There are no randomized controlled trials demonstrating a benefit of inhaled N-acetylcysteine or similar mucolytic medications in the treatment of any airway diseases, and therefore, these drugs are not recommended for clinical use.&quot;  The former ref is a a meta-analysis that comes to a different conclusion...  but either way, it is used.  Listing that was not la-la land like the stuff out of CHEMBL.  Do you know about this NDFRT database, btw?  See [https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/NDFRT/ here] at NIH/NLM website, and documentation [https://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT%20Documentation.pdf here].  All kinds of APIs [https://rxnav.nlm.nih.gov/NdfrtAPIs.html# here]  ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 08:19, 15 December 2016 (UTC)
+Not really familiar with NDFRT. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 18:08, 15 December 2016 (UTC)
+
+
+*should anyone wish to join[https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine#Participants Wikidata:WikiProject Medicine]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:50, 25 December 2016 (UTC)
+
+ What is treatment? 
+
+I've been watching that long thread about Wikidata above, and I think that different people have different ideas about what the label 'used for treatment' means (or ought to mean).  As someone noted above, the problem isn't necessarily collecting the information in Wikidata; the problem is when another group re-uses that information inappropriately because they didn't understand its limitations.
+
+So:  Statins aren't a treatment for pneumonia, because we have no evidence that starting a statin at the time of diagnosis is efficacious, right?  Except – are we absolutely certain that they're not used for any kind of pneumonia, including holesterol pneumonia?  
+
+For that matter, are we even absolutely certain that they're not used for treatment, by anyone?  Even if it's generally considered useless?  Mainstream medicine &quot;uses&quot; treatments all the time even when we know that they don't work.  Arthroscopic knee surgery is useless for pain (as all the regulars are familiar with me saying).  So is meniscus surgery.  So is vertebroplasty.  So is spinal fusion for herniated disks.  And, sure, it's lovely and idealistic to think that &quot;medicine&quot; self-corrects when faced with the evidence, but the main reason fewer of these spinal fusions are being performed in the US now is because health insurance companies are outright refusing to pay for them,[http://journals.lww.com/spinejournal/Abstract/2016/06010/Effects_of_a_Commercial_Insurance_Policy.10.aspx] not because any scientific self-correction was happening.  
+
+And then there's the issue of what &quot;was used&quot; but isn't any longer, or is only used in some countries or cultures.
+
+I think it might be helpful to have a more abstract discussion about what &quot;used for treatment&quot; could mean (i.e., how people from different fields, cultures, etc. might interpret that phrase) and what treatment-related categories might be useful to us on Wikipedia.  I could imagine, for example, separating &quot;used for treatment&quot; with date and place qualifiers to indicate outdated treatments, or &quot;used without evidence&quot; for non-evidence-based treatments, or &quot;evidence-based treatments&quot; for things currently believed to work.  What would you find useful?  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 03:27, 19 December 2016 (UTC)
+Unless we want to broaden the notion of &quot;treatment&quot; to include &quot;compound X sticks to protein Y which is relevant somehow to disease Z&quot; or even &quot;compound A caused a phenotype change in a mouse model for disease B&quot; (which is what you find recorded in hEMBL), this discussion has nothing at all to with the earlier discussion.  If people here want to broaden the meaning of &quot;treatment&quot; to include that, we are truly in a post-truth era and I should go to my wilderness hideout and wait out the apocalypse that is already upon us. 
+Speaking to the topic, yes as we have discussed, our articles should describe practice as well as evidence. And yes, it is sometimes hard to find sources that speak to what is actually practiced.  ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 04:33, 19 December 2016 (UTC)
+It's a word to be used with care, because it's ambiguous. In lay terms &quot;treat&quot; connotes alteration/improvement[https://www.merriam-webster.com/dictionary/treat], and it worries me that WP is full of statements of the kind that &quot;in folk medicine herb X is used to treat condition Y&quot; because it makes it appear this is just an option, and effectively sidesteps P:MEDRS. I sometimes re-word this to something like &quot;used in a attempt to treat&quot; or &quot;thought to be a treatment for&quot;. ser:Alexbrn|Alexbrn (ser talk:Alexbrn|talk) 04:45, 19 December 2016 (UTC)
+per JYT, treatment should mean &quot;A&quot; (cures, helps cure,helps manage, etc) &quot;B&quot;[https://www.ncbi.nlm.nih.gov/pubmedhealth/aboutcer/]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:54, 19 December 2016 (UTC)
+In common English, treatment often means things which are harmful, as in &quot;rough treatment&quot;, &quot;unjust treatment&quot;, etc. It also means things which are simply wasteful, as in &quot;window treatment&quot;. It is also used for industrial processes, such as nitric acid surface treatment of steel. Closer to home, in quack-speak it often means an intervention which is, within the norms of a particular school of quackery, considered as appropriate for their patients/marks/victims. (Practically that usually means that so far the &quot;treatment&quot; hasn't been found to have gotten many practitioners in trouble with the law.) Some schools, such as homeopathy and energy medicine, rarely treat with anything but placebos, so their treatment harms are limited to diverting patients from getting real help. Of course these practitioners see it as protecting patients from iatrogenic harm by &quot;allopaths&quot;. In short, the concept of &quot;treatment&quot; should never be conflated with efficacity, safety, or any other consideration of merit. It is simply some way of acting upon someone or something. We really need better, more specific terms for interventions which have been shown to be helpful, perhaps such as &quot;therapy&quot;, &quot;recommended practice&quot;, or &quot;approved medication&quot;. ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 17:07, 19 December 2016 (UTC)
+ser:WhatamIdoing|WhatamIdoing raises an important point and an example of a more generic issue with the (deeply flawed) ontological assumptions behind Wikidata. I think the best approach is along the lines ser:LeadSongDog|LeadSongDog suggests, that is, to clearly and specifically restrict the Wikidata field so that we know what it means and it is as difficult as possible for people to misinterpret it. Wikipedia articles should not be reliant on Wikidata: we should use prose to clarify such complications. ser:Bondegezou|Bondegezou (ser talk:Bondegezou|talk) 17:18, 19 December 2016 (UTC)
+We need to be using the typical common meaning of &quot;treatment&quot; when it comes to medicine. Yes we can find rare or atypical meanings such that &quot;treatment&quot; means whatever we want it to mean. Doing that would be a disservice to our readers IMO and make us all look silly. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 19:05, 19 December 2016 (UTC)
+But silly to which readership, James? Sure, some inside-ball readers will consider &quot;watchful waiting&quot; to be &quot;treatment&quot;, but patients or families may just think &quot;she didn't treat anything, she just made another appointment&quot;. Clarity of terminology should be there for all kinds of readers, whatever their reason for reading. That's not silly, it's just plain speech. ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 19:29, 19 December 2016 (UTC)
+Calling statins a treatment for pneumonia just because some paper found an association between long term use and risk is silly. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 19:32, 19 December 2016 (UTC)
+Sure. But calling them drugs approved for use in humans is fine. Calling their use for pneumonia &quot;investigational&quot;, &quot;off-label&quot;, &quot;unproven&quot; or even just &quot;wrong&quot; is more informative than ignoring the study entirely.  ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 20:33, 19 December 2016 (UTC)
+ The point is that all of these nuances of what treatment means should be discussed in the body of the article (when relevant), not in an infobox. We want Wikidata to be a useful database that we and other Wikipedias can use to populate infoboxes, or to answer queries like &quot;What treatment is used for pneumonia?&quot; If Wikidata gets swamped with 20+ possible answers to that question, most of which don't accord with the reality of common practice, then it becomes worthless as a reference to the lay reader. Similarly if the database contains 37 &quot;medical conditions treated by&quot; simvastatin, what use is it then to 99.99% of our readers? How many will be able to work out under what conditions it might be used to treat any one of those 37? Bundling together the statements &quot;simvastatin treats dyslipidemia&quot; with &quot;simvastatin treats pneumonia&quot;, as if they were equivalent, does a disservice to everyone. --ser:RexxS|RexxS (ser talk:RexxS|talk) 20:58, 19 December 2016 (UTC)
+
+In Wikipedia articles, I agree that we should be using plain English whenever that is reasonably possible (i.e., more often than when it's convenient).
+
+However, on Wikidata, we might benefit from more detailed sub-categorizations.  Rather than &quot;restricting&quot; (having less information on Wikidata), I'm thinking &quot;splitting&quot; (all the information, but divided up so it's easier to see what's typical/desirable/most salient).  From the above comments, here's a few categories that might be useful in some circumstances:
+
+* may have some relationship to treatment (Jytdog's very pointful example of &quot;compound X sticks to protein Y which is relevant somehow to disease Z&quot;)
+* produces a clinically useful result (e.g., patient feels better, even if the NNT tells you that the treatment probably did not cause the improvement)
+* it gets used by some healthcare practitioners (mainstream or otherwise), e.g., the common cold is pointlessly but actually &quot;treated&quot; with antibiotics, 
+* some sort of &quot;official&quot; status, e.g., &quot;treatment whose marketing is legally approved by  for the indication of community-acquired pneumonia&quot; or &quot;treatment recommended by the  practice guideline on &quot;.
+* things that actually work (according to best available evidence; may require some qualifications, e.g., antibacterials work on bacterial pneumonia but not so much on fungal pneumonia)
+* categories rather than individual things, e.g., antibiotics to treat pneumonias
+* a way to filter for common-ness, e.g., the most typical treatments rather than anything that's ever been used
+
+What else could we add to this list?  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 22:45, 19 December 2016 (UTC)
+
+You can take that top bullet out.  (please note that in my pointful example i didn't even begin to address whether compound X even could be a drug - it could be toxic as hell and still stick to protein Y).  
+Here is an example of well-intentioned stupidity.  There was a big push a while ago (like ~2000) to repurpose drugs for chronic CNS conditions under the theory that it is hard enough to get drugs into the brain, so let's reduce the risk by using drugs that have a long history and whose behavior in people is well understood.  This was also the beginning of the push for &quot;translational&quot; research in academia.   To facilitate that, the NINDS put together a library of compounds that they said were &quot;FDA approved off-patent drugs&quot; and gave it away to people and gave grants to people who wanted to do screens with it.  (see MID|12220871 and for example [http://web.alsa.org/site/PageServer?pagename=ALSA_Drug_Screening this press release])  I combed through that library back in about 2003 and found that yes, it had some off-patent marketed drugs, but at least half the compounds were ridiculous, like: a) phytochemicals (like curcumin and aidzein) that stick to everything -- are hits in almost assay you put them into and are useless as drug leads; animal drugs; other weird things that were not off-patent marketed drugs; and drugs that had been withdrawn from the market for toxicity.  Yes.  Drugs that had been withdrawn for toxicity.  For chronic CNS conditions.  And academics who used it and got hits, spent yet more time and money investigating whether some phytochemical or drug that had been withdrawn for toxicity changed a phenotype in an animal model.   Tremendous waste of a bunch of people's time and everybody's money, and there are now shitloads of papers in the biomedical literature, written using that library and under pressure to show &quot;translational&quot; relevance, claiming that a bunch of garbage compounds could be treatments for things like ALS or whatever.  CHEMBL is full of that garbage. 
+ In any case, no justification has been advanced by anybody as to why some hit out of a screen  belongs in a field called  &quot;drugs used for treatment&quot; and that is [https://www.wikidata.org/wiki/Property_talk:P2176 described] as &quot;drug that is used to treat this medical condition (this isn't a statement about the effectiveness of the drug)&quot;.   It doesn't say &quot;could be used&quot; nor does it say &quot;might be useful as a research reagent for studying the disease&quot;.  It says is used.   ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 23:47, 19 December 2016 (UTC)
+The first item might be a useful thing to collect in Wikidata, but it would need a completely different name.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 00:55, 20 December 2016 (UTC)
+no objection to that at all. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 02:47, 20 December 2016 (UTC)
+Another for the list, from Carl's comment above:
+* Used to treat symptoms of something, even if it doesn't treat the underlying pathology.
+That could be a long list for common conditions, especially if you expand it to non-drug treatments.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 05:06, 27 December 2016 (UTC)
+
+ GA Reassessment of aracetamol toxicity 
+aracetamol toxicity, an article that you or your project may be interested in, has been nominated for an individual good article reassessment. If you are interested in the discussion, please participate by adding your comments to the alk:Paracetamol toxicity/GA2|reassessment page. If concerns are not addressed during the review period, the good article status may be removed from the article. ser:BlueMoonset|BlueMoonset (ser talk:BlueMoonset|talk) 21:46, 17 December 2016 (UTC)
+
+
+
+*needs more opinions for this reassessment alk:Paracetamol_toxicity/GA2--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 10:30, 27 December 2016 (UTC)
+
+ motional and behavioral disorders/biophysical 
+
+I just came across this years-old article that seems to be written inappropriately as an essay/original hypothesis in violation of P:OR. I'd like if other users could take a look at it. ser:Everymorning|Everymorning ser talk:Everymorning|(talk) 16:09, 26 December 2016 (UTC)
+it does seem ikipedia:No_original_research--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 00:25, 27 December 2016 (UTC)
+It is a student essay :-( ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 12:35, 27 December 2016 (UTC)
+
+ eedle remover and citation style 
+ile:Wall-mounted sharps container.JPG|thumb|90 px|Wall-mounted sharps container
+I created a thread over on alk:Needle remover that I would love to get some feedback on. I would like to change the citations from parenthetical to citation style 1. I think it would be easier to read the article (as citation style 1 is used all over Wikipedia).  I'm not sure if there was a reason originally for using the style that the article currently uses.  Please let me know if you guys think this is a good or bad idea, and if you know why the article uses the style it does. ser:Zellfaze|Zell Faze (ser talk:Zellfaze|talk) 14:51, 27 December 2016 (UTC)
+
+
+
+give opinion(gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:18, 28 December 2016 (UTC)
+
+ sychopathy article 
+
+Can we get some eyes from this project on rticle|Psychopathy? We have &quot;new editor&quot; ser:Petergstrom|Petergstrom calling any and everything fringe, me pointing out that psychopathy is not a fringe topic and that it does not fall under P:Fringe, and ser:Penbat|Penbat challenging a lot of deletions that Petergstrom has made to the article. Petergstrom is correct that we should not be relying heavily on primary sources, but I've seen him clash with editors at other medical articles and it's my opinion that his POV of certain medical topics often clouds his judgment. See alk:Psychopathy#Neutral POV and lower for [https://en.wikipedia.org/w/index.php?title=Talk:Psychopathy&amp;oldid=756365853#Neutral_POV the discussions]. ser:Flyer22 Reborn|Flyer22 Reborn (ser talk:Flyer22 Reborn|talk) 13:19, 24 December 2016 (UTC)
+
+Yes there are quite a few colourful and relevant discussions at ser talk:Petergstrom. ser_talk:Petergstrom#Warning specifically mentions psychopathy.--ser:Penbat|Penbat (ser talk:Penbat|talk) 13:37, 24 December 2016 (UTC)
+
+That conversation is funny.  The other user eventually got banned, and the section I was arguing against got removed.  The reason I deleted so many of the section is because they were either poorly sourced, duplicates, or did not belong in an oversized article.  The article is twice the recommended size, and there are small sections talking about the primary/secondary, which has just been proposed by a couple of researchers.  Psychopathy isn't even a recognized diagnosis...it was changed for the DSM because of its symptom overlap, non-falsifiability, and lack of objective criteria.  It may be well researched but all of it relies heavily on Hares conception, and there is no standardization for criteria.  The article needs to be trimmed so its not huge.ser:Petergstrom|Petergstrom (ser talk:Petergstrom|talk) 22:11, 24 December 2016 (UTC)
+
+ser:Petergstrom|Petergstrom, which discussion are you referring to? Who got banned? You mean ser|Humorideas? If so, Humorideas isn't involved in the current dispute and was indefinitely blocked, not banned. On this site, there is a difference between being blocked and banned. As for the rest, ser:Literaturegeek|Literaturegeek argued against your assertions in the current discussion. ser:Flyer22 Reborn|Flyer22 Reborn (ser talk:Flyer22 Reborn|talk) 19:03, 28 December 2016 (UTC)
+
+Above, it seems that the editor you were talking about is ser|Hyperforin. ser:Flyer22 Reborn|Flyer22 Reborn (ser talk:Flyer22 Reborn|talk) 19:05, 28 December 2016 (UTC)
+
+Then again, ser:The abominable Wiki troll is tagged (on his/her talk page) as being banned, and Humorideas was blocked as a sock of The abominable Wiki troll; so, if The abominable Wiki troll is actually banned, then the editor behind both accounts is banned. ser:Flyer22 Reborn|Flyer22 Reborn (ser talk:Flyer22 Reborn|talk) 19:07, 28 December 2016 (UTC)
+
+ Watch this 
+
+Could a few more people put ancer pain on their watchlists?  It seems to attract simple vandalism.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:08, 27 December 2016 (UTC)
+will keep eye on...on a different point, the GA article mentioned might do with ICD[http://www.icd10data.com/ICD10CM/Codes/G00-G99/G89-G99/G89-/G89.3](and infobox)...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 22:43, 27 December 2016 (UTC)
+Why does that entry not exist in the WHO ICD-codes? [http://apps.who.int/classifications/icd10/browse/2016/en#/G89.3] ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 00:24, 28 December 2016 (UTC)
+your right, however NIH(G89.3)[https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=ICD-10-CM&amp;version=2015&amp;ns=ICD-10-CM&amp;code=G89.3]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 01:07, 28 December 2016 (UTC)
+In the UK we use CD10|R52.1 for generalized pain in cancer patients. For pain at a single organ or site we'd code the ICD-10 Chapter II code, followed by the individual pain site code. For example hip pain in bony mets would be coded to CD10|C78.5 plus CD10|M25.55. Although I'm unfamiliar with other versions of ICD-10, I m|was going to boldly add the R52.1 regardless; but, I decided against it, as there are only 2 mentions of intractable in the article body. ser:Little pob|Little pob (ser talk:Little pob|talk) 13:00, 28 December 2016 (UTC)
+Added. ser:Zellfaze|Zell Faze (ser talk:Zellfaze|talk) 02:12, 29 December 2016 (UTC)
+
+ Merger proposal 
+
+Please see alk:Bulletproof_diet#Merger_proposal ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 03:58, 29 December 2016 (UTC)
+
+
+
+
+*more opinions(gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:03, 29 December 2016 (UTC)
+
+ Notability of some herbal remedies 
+
+At alk:Phytodolor the question of whether this herbal product was notable enough (for Wikipedia purposes) came up.  Since that talk page may not get much traffic I'd like to suggest that interested editors from this project have a look.  Also, some related new pages may be of similar interest as well:  KI 306X, itadyl, and vocado/soybean unsaponifiables.  ser:Deli nk|Deli nk (ser talk:Deli nk|talk) 11:56, 29 December 2016 (UTC)
+per[https://www.ncbi.nlm.nih.gov/pubmed/17704984] perhaps merge hytodolor to heumatoid_arthritis(alternative medicine subsection)...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 18:40, 29 December 2016 (UTC)
+
+ RfC: Should there be a &quot;Alternative and pseudomedicine&quot; sidebar, or should it just be called alternative medicine. 
+
+Since there is no clear distinction between the two I consider there should be a single sidebar for both. This functions well because it includes both and resolves the issue that some people may raise that x isn't alternative, or y isn't pseudo — effectively ensuring that they aren't included anywhere, or that the template is avoided because one would need two sidebars. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 21:24, 29 December 2016 (UTC)
+See emplate_talk:Alternative_medicine_sidebar#Title_of_template
+
+Further thoughts
+More eyes needed at ircumcision in Africa ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 11:32, 29 December 2016 (UTC)
+commented article/talk--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 21:30, 29 December 2016 (UTC)
+
+ ipedema versus ipidosis 
+
+How are these terms related? Is one a symptom and the other a disease. Is it unusual that these articles don't reference each other? ser:NickCT|NickCT (ser talk:NickCT|talk) 14:59, 19 December 2016 (UTC)
+Several ref's seem to suggest these things are synomous.([https://books.google.com/books?id=_s65U1n9Lf8C&amp;pg=PA1206&amp;lpg=PA1206&amp;dq=Lipoedema+lipidosis&amp;source=bl&amp;ots=xicnROFIls&amp;sig=RBHxwGfvRB7irEFmOQL9l7YodL8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjb56-Rx4DRAhUBZiYKHUypApsQ6AEIIzAB#v=onepage&amp;q=Lipoedema%20lipidosis&amp;f=false],  [http://www.emedmd.com/content/chronic-peripheral-oedema-and-lymphoedema], [http://lipedemaproject.org/wp-content/uploads/2016/02/2010_Todd_Lipoedema-Presentation-and-Management.pdf]) I wonder if this is one of those odd situations where one set of literature seems to describe a symptom while another set seems to describe a disease. There also seems like there is a UK/US divide in the usage of the term. Perplexing....
+One way or another, I think my ultimate reason to post here is to ask whether these pages should reference each other. ser:NickCT|NickCT (ser talk:NickCT|talk) 15:23, 19 December 2016 (UTC)
+former[https://rarediseases.info.nih.gov/diseases/10542/lipedema] and latter[https://www.ninds.nih.gov/Disorders/All-Disorders/Lipid-Storage-Diseases-Information-Page]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 20:47, 19 December 2016 (UTC)
+eply to|Ozzie10aaaa - Right. But I'm still a little unclear on what if any relationship there is between Lipedema and Lipidosis. Is lipedema a type of lipidosis, or is a symptom of lipidosis? ser:NickCT|NickCT (ser talk:NickCT|talk) 22:02, 19 December 2016 (UTC)
+Lipidosis is abnormal storage of lipids, which can be without visible stigmata. Lipidema is, by definition, manifest in a palpable/visible way. One is a metabolic disorder, the other is a physical finding. They can overlap, but are not synonymous. — ser:soupvector|soupvector (ser_talk:soupvector|talk) 02:24, 20 December 2016 (UTC)
+eply to|soupvector - That makes sense. Though presumably the physical finding of Lipidema results from a metabolic disorder. ser:NickCT|NickCT (ser talk:NickCT|talk) 15:09, 20 December 2016 (UTC)
+eply to|NickCT - no, they are distinct (have another look at the articles, and my previous comment here). An imperfect analogy might be rain versus flooding - each can happen without the other, but there may be linkages. — ser:soupvector|soupvector (ser_talk:soupvector|talk) 18:44, 20 December 2016 (UTC)
+should help/review[http://journals.sagepub.com/doi/full/10.1177/1534734614554284]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 15:15, 20 December 2016 (UTC)
+
+
+*ipedema could use some editor help/edits, thank you--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:14, 30 December 2016 (UTC)
+
+ Change.org petition about our acupuncture article 
+
+alk:Acupuncture#Petition_regarding_this_page... by The Acupuncture Now FoundationThis article may need a significant number of extra eyes in the near future. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 01:03, 30 December 2016 (UTC)
+added this back to my watchlist. 07:30, 30 December 2016 (UTC)— Preceding ikipedia:Signatures|unsigned comment added by ser:Jytdog|Jytdog (ser talk:Jytdog#top|talk • pecial:Contributions/Jytdog|contribs) 
+The page was indefinitely semi-protected last year, so the risk is lower.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:19, 30 December 2016 (UTC)
+
+ alk:Thrombolysis#Proposed_merge_with_Thrombolytic_drug 
+
+interested in folks' thoughts on the above. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 07:29, 30 December 2016 (UTC)
+
+
+
+*more opinions needed(gave mine)...other merge suggestions appreciated--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 18:35, 30 December 2016 (UTC)
+
+ Parasympathetic rebound 
+
+arasympathetic rebound is a weird article. Five Pubmed hits but loads on oogle:Parasympathetic rebound|Google in terms of popular culture references. I might ask a friendly neurophysiologist if this is a thing or not. ser:Jfdwolff|JFW | ser_talk:Jfdwolff|T@lk 09:59, 23 December 2016 (UTC)
+
+Not necessarily the same as the ezold–Jarisch reflex. ser:Jfdwolff|JFW | ser_talk:Jfdwolff|T@lk 10:04, 23 December 2016 (UTC)
+*ite book|last1=Thorne|first1=Stephen Klein; B. Michael|last2=Thorne|first2=B. Michael|title=Biological psychology|date=2007|publisher=Worth|location=New York, N.Y.|isbn=9780716799221|pages=46-48|edition=1. printing|url=https://books.google.com/books?id=p4fNxxuuOgwC&amp;pg=PA47&amp;dq=parasympathetic+rebound&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjZzOakmorRAhXK4SYKHRfAC1AQ6AEIGjAA#v=onepage&amp;q=parasympathetic%20rebound&amp;f=false|accessdate=23 December 2016|language=en...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:33, 23 December 2016 (UTC)
+ing|Jfdwolff I'd suggest cross-posting a notice+link to this thread at T:PHARM and T:NEURO. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢) 18:41, 30 December 2016 (UTC)
+
+ ressure point needs review 
+
+This article needs some significant trimming. There may also be a number of related articles that we've missed over the years. This one has been tagged since 2007, with hardly anything done to it.
+
+I also redirected cupuncture point -&gt; cupuncture, we'll see if that holds. The sources in that article were even more abysmal and it was essentially a repeat of information on cupuncture... ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 16:08, 30 December 2016 (UTC)
+
+*ikipedia:Articles_for_deletion/Pressure_point#Pressure_point...(good redirect[https://en.wikipedia.org/w/index.php?title=Acupuncture_point&amp;diff=757416951&amp;oldid=742442029])--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 21:13, 30 December 2016 (UTC)
+*I think that the article needs to decide what the subject actually is.  It's linked to from a wide range of subjects:  the fictional ulcan nerve pinch, the mainstream medical concept of a yofascial trigger point, the altmed eridian (Chinese medicine), ister Mosquito (a video game), eroneal strike (a violent assault method), ouch of Death and many other articles about martial arts, etc.  It seems to me that it is highly unlikely that these are all the same subject.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 01:17, 31 December 2016 (UTC)
+
+ usinersen‎ 
+
+Fleshed out article on new drug; please review.  thx. and happy new year everybody! ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 02:18, 1 January 2017 (UTC)
+could add[https://www.ncbi.nlm.nih.gov/pubmed/28009016]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 01:02, 2 January 2017 (UTC)
+ Happy New Year! Good job. I removed a few factual errors (SMA is not a &quot;pediatric disorder&quot;, efficacy data on the prescription leaflet relates only to SMA1 infants, stabilisation can also be indicative of efficacy, etc.). Added this [http://dx.doi.org/10.1016/S0140-6736(16)31408-8] but you have now removed it (why? primary sources can be used in such a situation, and this is a secondary source as regards collected data anyway). Removed speculations on future revenues. Otherwise good, not much to add. Your edits to onis Pharmaceuticals seem more problematic, though - I left you a msg on your Talk page. Regards, — ser:Kashmiri|kashmiri ser talk:Kashmiri|TALK 02:14, 2 January 2017 (UTC)
+
+ New classification system for seizures (2016) 
+
+The International League Against Epilepsy has constructed a new classification system for eizure types. The new system is available [http://www.ilae.org/visitors/centre/documents/ClassificationSeizureILAE-2016.pdf here] and it would be a lengthy process to modify the entire article. It would be helpful if editors contribute in this process. ser:Vignyana|Vignyanaser talk:Vignyana|talk 14:02, 29 December 2016 (UTC)
+
+ser:Colin|Colin, are you around?  Can you give us a quick idea of what you think best with this new information?  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:48, 29 December 2016 (UTC)
+
+ILAE has released their encyclopedia (except for images / videos) under a Wikipedia compatible license which will make updating easier.
+Encyclopedia is [https://www.epilepsydiagnosis.org/] and under a CC BY SA 4.0 license.
+
+Also you will notice here that they are recruiting editors for Wikipedia :-) [http://www.ilae.org/] Applications are open until Jan 6th, 2017[http://www.ilae.org/Visitors/News/documents/WikipediaEpilepsyEditor.pdf]
+ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 12:31, 2 January 2017 (UTC)
+
+ Submission at Articles for Creation 
+
+Hello, folks.  We have a submission at Articles for Creation that addresses a topic within the scope of your project.  We would greatly appreciate your input as to the acceptability of its sources, as well as the accuracy and readability of the text.  We also have a question as to whether a stand-alone article on this topic is appropriate, or whether the draft largely duplicates material found in the existing articles on various types of brain cysts (a list of them appears in the Comments section of the draft).  The submission is raft:Brain cysts.  Comments can be left on the talk page of the draft.
+
+Thank you for any assistance that you can provide.  ser:NewYorkActuary|NewYorkActuary (ser talk:NewYorkActuary|talk) 19:40, 31 December 2016 (UTC)
+needs to follow MEDRS &amp; MEDMOS, aside from that might be a good idea as this is only a list[https://en.wikipedia.org/wiki/Cyst#Types] which doesn't go into detail...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:04, 1 January 2017 (UTC)
+A quick glance at the page has reminded me of something that someone (ser:MastCell?) said years ago:  Whenever you find a new editor who seems to be able to write, you should check for copyright violations.  I've checked, and I didn't find any matches.  I've also cleaned up some of the formatting, so it should be a bit easier to scan now.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 23:59, 2 January 2017 (UTC)
+
+ Request for feedback on the Hysterectomy talk page 
+
+Happy 2017 WikiProject Medicine!
+
+I left a comment on the talk page of the Hysterectomy article. If you have a chance, I would appreciate some feedback on how to best clean up this section.
+
+alk:Hysterectomy#Accuracy of table- Advantages and disadvantages of different hysterectomy techniques
+
+Thanks very much.
+ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 15:04, 3 January 2017 (UTC)
+commented article/talk--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 22:48, 3 January 2017 (UTC)
+
+ article titles &quot;X Therapy&quot; 
+ile:Monoclonal antibodies.svg|thumb|Monoclonal antibodies(used for cancer
+We have:
+* onoclonal antibody therapy
+* ntisense therapy
+
+Seems to me that both of these articles (and there may be more like this) are about the drugs, not intMonoclonal antibody therapyerventions.  Rename to something like ntisense drugs or more accurately ntisense biopharmaceuticals? ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 00:43, 2 January 2017 (UTC)
+not certain about placing them under either rename--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:08, 2 January 2017 (UTC)
+
+*nti–vascular endothelial growth factor therapy another example.
+*counter-examples:
+* onsteroidal anti-inflammatory drug not onsteroidal anti-inflammatory therapy
+* nti-inflammatory not nti-inflammatory therapy
+* ntiviral drug not ntiviral Therapy (that's about a journal)
+
+Then again there is hemotherapy ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 00:51, 4 January 2017 (UTC)
+
+ Neuropathic_pain#Anticonvulsants 
+
+I also posted a small question on neuropathic pain talk page, looking for advice for an appropriate citation to replace a &quot;citation needed&quot; tag. alk:Neuropathic pain#Anticonvulsants
+
+Thanks~ ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 17:13, 3 January 2017 (UTC)
+
+*more opinions (gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:14, 4 January 2017 (UTC)
+
+ ccelerating dark adaptation in humans 
+
+Hi everyone! My instinct is that this page should ultimately be redirected to daptation (eye), but (despite the article title) someone's put a lot of effort into adding information on basic science that I think would probably be valuable if moved elsewhere first. Thanks, ser:Sunrise|Sunrise (ser talk:Sunrise|talk) 17:30, 4 January 2017 (UTC)
+thanks!  someone has started the merge discussion there.  ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 18:18, 4 January 2017 (UTC)
+
+CDC / NIOSH
+Nice write up here [https://www.cdc.gov/niosh/enews/enewsV14N9.html#director]
+Thanks to ser:Harej|James Hare and ser:Keilana as our Wikipedians in Residence.
+
+ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 14:39, 4 January 2017 (UTC)
+The emphasis by NIOSH to upload videos is good to see, but does it conflict with P:YT concerns, and with concerns about whether there is sufficient wifi strength and software by WP users to play the videos? Although burdensome, should complex videos be partnered with a more easily accessed website of the same information? --ser:Zefr|Zefr (ser talk:Zefr|talk) 18:03, 4 January 2017 (UTC)
+People seem to be much less concerned about video/bandwidth issues now than they were, say, ten years ago.  It used to be that YouTube links were discouraged routinely, because who wants to spend all night downloading a video?  But now it's widely accepted, if there happens to be a decent video available.  
+(WP:YT is the external links guideline; it doesn't apply to videos that are hosted at Commons or on Wikipedia.)  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 23:59, 4 January 2017 (UTC)
+Agree if the videos are hosted on commons under an open license I have less concern. Of course they still need to be accurate. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 02:14, 5 January 2017 (UTC)
+
+ Two drafts about the same subject 
+
+Please help merge raft:Oroantral fistula and ser:Justryingtohelp/Oroantral fistula, the latter is more recently edited, so please involve |Justryingtohelp in the process. ser:Dodger67|Roger (Dodger67) (ser talk:Dodger67|talk) 22:27, 4 January 2017 (UTC)
+one could also merge raft:Oroantral_fistula#Etiology to axillary sinus#Maxillary sinusitis as the draft article may not warrant its own article ... (several reviews are quite old/or paywalled[https://www.ncbi.nlm.nih.gov/pubmed/?term=(+%22Oroantral+fistula%22+)+AND+Review%5Bptyp%5D])...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:25, 5 January 2017 (UTC)
+
+ Drug templates 
+
+I have a question about drug templates and I don't know where to find the information. The bottom of the templates says 
+ #WHO-EM ‡Withdrawn from market Clinical trials: †Phase III §Never to phase III
+But I'm not clear on how to use the clinical trials indicators. I'm assuming for a standard, FDA-approved drug, no indicator is used. For a drug that's in phase II clinical trials, is also nothing to be used? For a drug currently in phase III trials, the † is used. I assume that Never to phase III means the drug was abandoned during phase I or II of development? Can someone point me to where this is detailed or explain this to me?
+
+ser:Natureium|Natureium (ser talk:Natureium|talk) 22:07, 4 January 2017 (UTC)
+[https://en.wikipedia.org/wiki/Help:A_quick_guide_to_templates][http://www.fda.gov/ForPatients/ClinicalTrials/Types/default.htm]?--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 22:20, 4 January 2017 (UTC)
+# means it is on the WHO essential medicines list
+‡ means it was sold but is no longer
+† means it is in phase III trails
+§ means it never made it to phase III trials yet
+ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 02:12, 5 January 2017 (UTC)
+ So, § means it hasn't made it to phase 3 trials yet? Or it was abandoned without reaching phase 3? For example, the majority of pages on emplate:Monoclonals for tumors are pre-clinical, but don't have any indicators. Should they all? ser:Natureium|Natureium (ser talk:Natureium|talk) 02:39, 5 January 2017 (UTC)
+IMO it means either not yet or abandoned without reaching. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 15:56, 5 January 2017 (UTC)
+
+ ochrane Library talk page templates? 
+
+Is there a reliable source search template (like this one:  emplate:Reliable sources for medical articles) that auto-generates a search for the Cochrane reviews on the subject of the article?  --pecial:Contributions/122.108.141.214|122.108.141.214 (ser talk:122.108.141.214|talk) 00:09, 4 January 2017 (UTC)
+You can go to pubmed and type Cochrane Database Syst Rev &quot;name of subject&quot;. See for example [https://www.ncbi.nlm.nih.gov/pubmed/?term=Cochrane+Database+Syst+Rev+%22chiropractic%22 Cochrane Database Syst Rev &quot;chiropractic&quot;]. ser:QuackGuru|QuackGuru (ser talk:QuackGuru|talk) 00:15, 4 January 2017 (UTC)
+Thanks!  I've added it to erebral palsy, where I've been working for about a month.  --pecial:Contributions/122.108.141.214|122.108.141.214 (ser talk:122.108.141.214|talk) 01:05, 4 January 2017 (UTC)
+I could be added to emplate:Reliable sources for medical articles for all medical articles. ser:QuackGuru|QuackGuru (ser talk:QuackGuru|talk) 16:48, 4 January 2017 (UTC)
+I think it could be quite helpful to highlight the Cochrane reviews, because they're high-quality and the template is helpful in drawing editors towards good sources.  It might confuse some people to have 'another link going to pubmed', though.  ing|Doc James, you made the template in the first place, what do you think?  --pecial:Contributions/122.108.141.214|122.108.141.214 (ser talk:122.108.141.214|talk) 09:48, 5 January 2017 (UTC)
+Sure would be happy to also added a link to Cochrane reviews. Will do it in a bit unless someone beats me to it. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 15:58, 5 January 2017 (UTC)
+
+ cne vulgaris FAC Take2 
+
+Good morning Wikiproject Medicine members! I just wanted to give you all a heads up that a new FAC has been opened for the acne vulgaris article. I would definitely appreciate multiple editors weighing in with support/opposition/suggestions. The FAC can be found here [https://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Acne_vulgaris/archive2]. Thank you! ser:TylerDurden8823|TylerDurden8823 (ser talk:TylerDurden8823|talk) 15:16, 2 January 2017 (UTC)
+
+ I've tidied the alt text for you. As a general guide, the alt text should not duplicate the caption, and should not make statements that cannot be deduced from looking at the image – that sort of information is quite appropriate for the caption, though. --ser:RexxS|RexxS (ser talk:RexxS|talk) 19:46, 2 January 2017 (UTC)
+Thanks, I'd never done it before. Appreciate the assist. ser:TylerDurden8823|TylerDurden8823 (ser talk:TylerDurden8823|talk) 19:48, 2 January 2017 (UTC)
+I am adding a comment there.  --ser:My Core Competency is Competency|My Core Competency is Competency (ser talk:My Core Competency is Competency|talk) 16:40, 5 January 2017 (UTC)
+
+ Trachea transplants 
+
+In the light of the court case discussed in [https://forbetterscience.wordpress.com/2017/01/03/bavarian-court-sentences-me-to-prison-if-i-dare-repeat-unwelcome-facts-of-walles-trachea-transplants/ this blog post], should our article rachea (to which rachea transplant redirects) and the BLP horsten Walles be updated? Are we sure that they represent a full and neutral account of the cases surgery involved? At the very least, some extra eyeballs, against future vandalism, or PoV edits, would be wise. ser:Pigsonthewing|Andy Mabbett (Pigsonthewing); ser talk:Pigsonthewing|Talk to Andy; pecial:Contributions/Pigsonthewing|Andy's edits 20:04, 4 January 2017 (UTC)
+ Well, we really need a reliable third-party source that describes the matter. A blog should not be used as a reference. I did a quick search but I did not find a suitable source. I have watchlisted &quot;rachea&quot;. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 20:48, 4 January 2017 (UTC)
+agreed; i quickly worked over the relevant section of Trachea (which was bad news - promo content about Machi-whatever based on primary sources). ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 20:52, 4 January 2017 (UTC)
+
+d Thank you, both. It may also be worth watching for the creation of eike Walles. ser:Pigsonthewing|Andy Mabbett (Pigsonthewing); ser talk:Pigsonthewing|Talk to Andy; pecial:Contributions/Pigsonthewing|Andy's edits 16:02, 5 January 2017 (UTC)
+For those who've not tried this before:  if you click that redlink, you can watch the page.  Putting a page on your watchlist doesn't require the page to exist.  Then, if anyone creates it, the creation will appear in your watchlist.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:53, 5 January 2017 (UTC)
+
+ seudobulbar affect =/= Emotional lability 
+
+motional lability redirects to seudobulbar affect (PBA), which lists multiple alternative names most of which are synonymous with &quot;emotional lability&quot;, but not actually PBA.[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3849173/] I'm a little surprised we don't have an article on emotional lability. abile mood redirects to ood dysregulation, which seems more appropriate than PBA. Thoughts on changing these terms to redirect to mood dysregulation instead of to PBA?
+* Affective lability
+* Emotional incontinence
+* Emotional lability
+* Labile affect
+ser:Permstrump|—PermStrumpser Talk:Permstrump|(talk) 05:53, 6 January 2017 (UTC)
+[https://rarediseases.info.nih.gov/diseases/12012/pseudobulbar-affect]..seems to cover emotional incontinence and  emotional lability per NIH--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 10:27, 6 January 2017 (UTC)
+PBA can happen in the context of emotional lability, but emotional lability has a more common meaning, which is rapid changes in mood in short succession.[https://www.health.qld.gov.au/__data/assets/pdf_file/0030/387534/lability_fsw.pdf] I've never heard any say emotional incontinence, so that might be the same thing. ser:Permstrump|—PermStrumpser Talk:Permstrump|(talk) 15:32, 6 January 2017 (UTC)
+It looks like abile mood redirects to ood dysregulation, not motional dysregulation.  
+motional lability has changed over the last 10+ years:  ood disorder, abile affect, and now PBA.  I suspect a series of merge discussions, which could be reconsidered if someone is familiar with the subject area.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:31, 6 January 2017 (UTC)
+Mood/emotional/affect lability are terms I use on a regular basis in writing ental status exams (and I consider those to be more or less interchangeable). I never heard of Pseudobulbar affect or Emotional incontinence though. I pinged some editors that were active at ood swing (which I didn't realize was also an article when I first posted this) to get some more input. None of these options for redirects are perfectly synonymous with &quot;mood lability&quot;. Mood swings is the closest, but it has lay connotations that are misleading, so that's my main hesitation. ser:Permstrump|—PermStrumpser Talk:Permstrump|(talk) 22:17, 6 January 2017 (UTC)
+facepalm. ok. Agree we should have something for the sign, which could either be labile affect or emotional lability. I see that [https://en.wikipedia.org/w/index.php?title=Labile_affect&amp;oldid=369968167 labile affect] got morphed into PBA (which is wrong as PBA is one cause and a minor one). Still digesting all this..ser:Casliber|Cas Liber (ser talk:Casliber|talk · pecial:Contributions/Casliber|contribs) 23:01, 6 January 2017 (UTC)
+
+Okay, I would propose expanding motional lability rather than abile affect as it is potentially broader as it not only encompasses what a clinician sees but by virtue of its name allows some more in depth discussion of the conditions and situations that one sees it (bipolar, borderline, acute stress reaction, frontal disinhibition etc.) ser:Casliber|Cas Liber (ser talk:Casliber|talk · pecial:Contributions/Casliber|contribs) 23:05, 6 January 2017 (UTC)
+
+Right, [https://en.wikipedia.org/w/index.php?title=Emotional_lability&amp;type=revision&amp;diff=758686757&amp;oldid=370141350 BAM] let's go....ser:Casliber|Cas Liber (ser talk:Casliber|talk · pecial:Contributions/Casliber|contribs) 23:13, 6 January 2017 (UTC)
+BAM. I like it. :) ser:Permstrump|—PermStrumpser Talk:Permstrump|(talk) 03:36, 7 January 2017 (UTC)
+Thanks, Cas and Permstrump.  If someone adds another few sentences, then we probably have a decent P:DYK on our hands.
+If anyone's got some free time, it'd be good to check the redirect situation and to see pecial:WhatLinksHere, so that people end up at the most relevant pages for what they're reading about.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 07:16, 7 January 2017 (UTC)
+
+ efenamic acid 
+
+have a new user very enthusiastic about its potential to treat AD.  More eyes would be good thanks. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 02:15, 7 January 2017 (UTC)
+will keep eye on--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 10:53, 7 January 2017 (UTC)
+
+ esearch on the effects of violence in mass media 
+
+Opinions are needed on the following matter: alk:Research on the effects of violence in mass media#Latest edits. Permalink [https://en.wikipedia.org/w/index.php?title=Talk:Research_on_the_effects_of_violence_in_mass_media&amp;oldid=758285633#Latest_edits here]. ser:Flyer22 Reborn|Flyer22 Reborn (ser talk:Flyer22 Reborn|talk) 15:20, 4 January 2017 (UTC)
+
+
+*give opinion(gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 10:57, 7 January 2017 (UTC)
+
+MDMA addiction
+We are having a discussion [https://en.wikipedia.org/wiki/Talk:MDMA#Addictiveness here] regarding if old sources from the 1980s and early 1990s should be used instead of a Oct 2016 statement by the NIH. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 09:15, 8 January 2017 (UTC)
+
+
+
+
+*more opinions, MEDRS(gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 17:59, 8 January 2017 (UTC)
+
+ Name that article 
+
+I ran across the term minence-based medicine to describe rgument from authority in medical decisions (basically, &quot;Dr Famous (or &quot;my attending&quot;) said that this drug works, so I'm giving it to all my patients&quot;).  Surely we have an article, or at least a section, somewhere on this pre-evidence-based system?  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 04:05, 5 January 2017 (UTC)
+It's wordplay, a contrast with evidence-based medicine, so a nice joke, but I don't think we need an article of that name. It is just rgument from authority. The term could be mentioned in that article. ser:Bondegezou|Bondegezou (ser talk:Bondegezou|talk) 13:38, 5 January 2017 (UTC)
+The term has been used by quite a number of MEDRS-level sources, so we could have an article about the concept if anybody wanted to go to the effort of writing one.  But I agree that the need is not all that strong at the moment. ser:Looie496|Looie496 (ser talk:Looie496|talk) 15:35, 5 January 2017 (UTC)
+The vidence-based medicine article could use some work, maybe this could be added under a section on non-evidence based medicine. It encapsulates one major reason for why EBM is important. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 15:54, 5 January 2017 (UTC)
+Redirected to &quot;argument from authority&quot; ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 15:57, 5 January 2017 (UTC)
+That's a start.  
+It seems to me that there should be a (probably less joke-like) name for this approach to medicine, and that we should have an article for it.  We should be able to write things like, &quot;In the history of medicine, medical thinking started off with religion and superstition, and then moved towards trust-the-famous-guy for about a millenium or two, and it's now moving towards an evidence-based approach&quot; – with links for each of those.  (Or &quot;Homeopathy follows the trust-the-famous-guy model of medicine&quot;, since it does.)  But if we haven't got an article about this model of (pseudo-)thinking specifically in medicine, then redirecting it to the general/non-medical subject is a good start.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:09, 5 January 2017 (UTC)
+I recall a lengthy feud over the use of the term pse dixit: [https://en.wikipedia.org/wiki/Special:Search?search=ipse+dixit&amp;prefix=Talk%3AHomeopathy%2F&amp;fulltext=Search+archives&amp;fulltext=Search]. Best that doesn't all get restarted, perhaps, but &quot;his say-so&quot; carries virtually the same meaning in common English. ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 00:55, 9 January 2017 (UTC)
+What about adding a section to the rgument from authority article about arguments from authority in medicine and criticisms of them arising from the EBM movement? ser:Bondegezou|Bondegezou (ser talk:Bondegezou|talk) 18:19, 5 January 2017 (UTC)
+
+ Exercise intolerance 
+
+xercise intolerance says, &quot;Exercise intolerance is not a disease or syndrome in and of itself, but a primary symptom of chronic diastolic heart failure.&quot;
+
+What do you think this is meant in the latter half of the sentence?
+* &quot;If you have exercise intolerance, then you have chronic diastolic heart failure.&quot; (This seems unlikely, but perhaps there's an element of &quot;All true Scotsmen&quot; here, in which the people who have The One True Form of Exercise Intolerance are differentiated from all other people who merely don't tolerate exercising very well.)
+* &quot;If you have chronic diastolic heart failure, then you will have the symptom of exercise intolerance.&quot;
+* &quot;Every time I see a patient with exercise intolerance, I investigate whether the patient has chronic diastolic heart failure.&quot;
+* Something else?
+
+(I'm mostly looking for off-the-cuff POVs here, not sources.)  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:08, 30 December 2016 (UTC)
+As the journal source for the quoted statement is Cardiology Clinics, I interpret the authors stating a relationship of exercise intolerance and heart failure is unique to that general clinical audience and the article's intent to clarify how &quot;the mechanisms of exercise intolerance can lead to developing and testing rational treatments for heart failure.&quot; It is obviously misleading for the general WP user to have that understanding. The xercise intolerance lede has it right: &quot;a condition of inability or decreased ability to perform physical exercise at the expected level or duration of someone with a specific physical condition&quot;,i.e., intolerance can result from a number of disorders. The sentence under consideration is too specific to cardiology and is unnecessary to introduce the article. --ser:Zefr|Zefr (ser talk:Zefr|talk) 19:32, 30 December 2016 (UTC)
+Have just made a few edits to page - one was a change to the sentence that ser:Zefr|Zefr sees as OK. I couldn't understand the ref to someone with a specific physical condition - it did not seem to follow - am I missing something?--ser:Iztwoz|Iztwoz (ser talk:Iztwoz|talk) 19:48, 30 December 2016 (UTC)
+Moved the statement in question to the Causes section under &quot;Heart conditions&quot; as it had undue emphasis among numerous causes of intolerance to be highlighted in the lede. Reorganized content and added to the Causes section. This article needs a lot of work. --ser:Zefr|Zefr (ser talk:Zefr|talk) 21:32, 30 December 2016 (UTC)
+[https://www.ncbi.nlm.nih.gov/pubmed/27988306]review, might help(I have access)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 09:30, 9 January 2017 (UTC)
+
+ nfluenza vaccine 
+
+We really need more eyes here. thanks. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 07:11, 2 January 2017 (UTC)
+Am working on it! ser:Bondegezou|Bondegezou (ser talk:Bondegezou|talk) 09:11, 2 January 2017 (UTC)
+Thanks! ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 05:51, 3 January 2017 (UTC)
+
+Related: nfluenza A virus subtype H3N2
+Looks to be pertinent to the current season per WHO's [http://www.who.int/influenza/surveillance_monitoring/updates/latest_update_GIP_surveillance/en/ latest update]. It appears that their [http://www.who.int/influenza/vaccines/virus/recommendations/201602_recommendation.pdf vaccine recommendation for 2016] included A/Hong Kong/4801/2014 which should be helpful. The article could use some attention to reflect updates. ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 16:32, 5 January 2017 (UTC)
+[https://www.clinicalkey.es/#!/content/playContent/1-s2.0-S0264410X16305151?returnurl=http:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0264410X16305151%3Fshowall%3Dtrue&amp;referrer=https:%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F27381642]could also be added...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 09:24, 10 January 2017 (UTC)
+
+ysterectomy
+I posted a comment on the bottom of the talk page for hysterectomy re removing a paragraph with primary data. No feedback recieved yet. If you have a chance, I would appreciate a second opinion before I delete the information!  https://en.wikipedia.org/wiki/Talk:Hysterectomy#Primary_research_eVal_studyser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 18:39, 10 January 2017 (UTC)
+
+
+*more opinions(gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 10:45, 11 January 2017 (UTC)
+
+ Analeptic and psychoanaleptic 
+
+We have separate articles for naleptic and sychoanaleptic.  Are these two topics distinct enough to warrant separate articles, or can the two be merged?  -- ser:Edgar181|Ed (ser talk:Edgar181|Edgar181) 17:34, 10 January 2017 (UTC)
+sycholeptic has one(an article) as well...in regards to the above post ikipedia:Notability#Whether to create standalone pages applies to sychoanaleptic[https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Psychoanaleptic%22]...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 10:32, 11 January 2017 (UTC)
+Same thing so redirected on to the other. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 11:37, 11 January 2017 (UTC)
+
+I'm coming out of my hole
+Hello everyone!  I hope you are all doing well.  Happy New Year!
+
+Tyler could use some help improving the cne vulgaris article so he can achieve FA status.  I made an initial comment over at the ikipedia:Featured article candidates/Acne vulgaris/archive2, posing several questions that need input from the whole med community.  
+
+The article also needs a good copy editor to clean it up too (not my strength).
+
+Perhaps you call could help by commenting at the FA candidate link above? --ser:My Core Competency is Competency|My Core Competency is Competency (ser talk:My Core Competency is Competency|talk) 16:58, 9 January 2017 (UTC)
+for a good CEikipedia:WikiProject_Guild_of_Copy_Editors(I put GA's thru there its worth the time...IMO) BTW [https://en.wikipedia.org/w/index.php?title=Wikipedia:Featured_article_candidates/Acne_vulgaris/archive2&amp;diff=prev&amp;oldid=759185049]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 17:09, 9 January 2017 (UTC)
+ Just for the record, it has undergone peer review by a prominent member of GOCE. Granted, more material has been added since then but not huge amounts so I'd be surprised if there were a lot of additional fixes to make but it never hurts to have a few extra eyes on an article. ser:TylerDurden8823|TylerDurden8823 (ser talk:TylerDurden8823|talk) 21:43, 9 January 2017 (UTC)
+More opinions at the FAC would really be appreciated. Thanks everyone! ser:TylerDurden8823|TylerDurden8823 (ser talk:TylerDurden8823|talk) 03:29, 11 January 2017 (UTC)
+ser:My Core Competency is Competency good to see you back :-) ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 11:45, 11 January 2017 (UTC)
+
+ oloclar 
+ile:Limbal epithelium. Cells. SEM-BSE.jpg|thumb|140 px|Limbal stem cells
+keep and expand or redirect to tem-cell_therapy#Blindness_and_vision_impairment? ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 02:16, 9 January 2017 (UTC)
+keep/expand[https://www.ncbi.nlm.nih.gov/pubmed/?term=(+%22Holoclar%22+)+AND+Review%5Bptyp%5D]...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 08:57, 9 January 2017 (UTC)
+For wiki articles on research findings, is referencing news articles reporting on a scientific publication/finding better than referencing the primary source? I noticed that a good number of the citations for this paragraph and from news sources.  Thanks. ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 16:14, 9 January 2017 (UTC)
+no.  if it is actual P:Biomedical information then MEDRS applies; if it is scientific information then P:SCIRS should apply.  We should never be sourcing science-based content to popular media.  Something that is society culture (regulatory approvals or history or about business matters) then news articles are fine. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 16:57, 9 January 2017 (UTC)
+Thanks for the quick response ser:Jytdog|Jytdog! It seemed strange to me. I will replace the references later tonight. Should not take long to insert the original primary sources and remove the BBC etc! 
+As a summary, my understanding of how wikimedical pages work is as follows, please correct me if I am wrong!
+-Systematic reviews are best, other high quality reviews accepted for medical content. In the &quot;Research&quot; sections of the medical pages, primary research articles from peer reviewed publications appropriate if a systematic review has not been published or conducted. Is this correct?
+Thanks again!!
+ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 18:03, 9 January 2017 (UTC)
+No we should very very rarely, if ever, site primary literature in biology and medicine.  It is very unreliable.  If something isn't discussed in a review it is best just to say nothing until it is. Even in a research section.  Very importantly there.  and as to your restatement of MEDRS, please don't forget statements by major medical/scientific bodies, which includes regulatory authorities.  in the case of the cell therapy that this section is named for it has apparently been through the EMA so there should be an EMA dossier on it.   ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 18:50, 9 January 2017 (UTC)
+Thanks for the feedback and for making note of the regulatory authorities and scientific bodies ser:Jytdog|Jytdog. I appreciate you correcting me re: primary sources in the Research Sections. All the best,ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 19:01, 9 January 2017 (UTC)
+sure. the research section should really be broad, describing trends and not pinpointing specific experiments or clinical trials. Encyclopedic, not news.  We find those trends described in reviews. Lots of people want to load specific experiments into the research section and it is a constant effort to keep it high level.  ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 19:30, 9 January 2017 (UTC)
+Thanks. I will do my best to help out!ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 22:18, 9 January 2017 (UTC)
+Already redirected it to imbal stem cell. May be a good idea to simply continue the merging. Very little evidence for the stuff. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 12:09, 11 January 2017 (UTC)
+
+ eurodevelopmentalist - help from psych/neurology folks?  
+
+upon the request of another editor I created this disambig page, with supporting content in each of the targeted articles.  Not confident i captured it correctly so please review.  thx. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 04:50, 10 January 2017 (UTC)
+per ikipedia:Disambiguation seems ok...IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:23, 11 January 2017 (UTC)
+thanks for looking! ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 15:47, 11 January 2017 (UTC)
+
+ ipolar disorder research 
+
+Should I nominate ipolar disorder research for deletion? As it's currently written, it doesn't add anything of value to the existing bipolar articles (ipolar disorder, ipolar I, ipolar II, yclothymia, reatment of bipolar disorder, istory of bipolar disorder, ipolar disorder in children). I'm not sure if it has potential or if it would be redundant in any case. Thoughts? ser:Permstrump|—PermStrumpser Talk:Permstrump|(talk)
+yes please! ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 04:53, 10 January 2017 (UTC)
+You can probably just redirect it to ipolar disorder or a relevant section within it. Do an AfD if anyone disputes it then. ser:Sizeofint|Sizeofint (ser talk:Sizeofint|talk) 17:24, 10 January 2017 (UTC)
+Ok. I did what |Sizeofint said. Hopefully no one will have an issue. ser:Permstrump|—PermStrumpser Talk:Permstrump|(talk) 18:51, 10 January 2017 (UTC)
+If someone does, then I wouldn't be surprised to hear that the motivation was P:SIZE.  We used to recommend that a Wikipedia article be no larger than one-third the current size of ipolar disorder.  With the rise of readers on mobile devices, it would not be unreasonable to start thinking about that limit again.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 06:21, 12 January 2017 (UTC)
+
+ Long term care 
+
+Hi. I would like to edit some evidence-based information about long-term care interventions for older adults, but I am not sure in what wiki article I should include it. 
+
+The existing ong-term_care|Long-term care wiki page describes it from an organizational point of view, not focusing on the benefits of the available interventions. Would it make sense to create new sections in this article focusing on evidence-based care for older adults? Or, are there other more suitable articles to include this sort of information?  What are your thoughts about it? Thank you very much in advance. --ser:MonWiki|MonWiki (ser talk:MonWiki|talk) 21:15, 10 January 2017 (UTC)
+ursing home care --ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 22:27, 10 January 2017 (UTC)
+ser:MonWiki|MonWiki, it would make sense for us to grab anyone who is interested in that subject and chain him or her to a computer, with a steady supply of doughnuts and your caffeinated beverage of choice.  If I could give advice on creating another medically savvy Wikipedian-in-Residence, this might be the subject at the top of my list. 
+Those articles need a lot of work.  Just trying to figure out what they are and what they should be called could take a few weeks.  My impression is that most of the work in the field isn't really evidence-focused.  It's more about trying to find out what people actually want (e.g., more days or more happiness?).  There's been some fun work around dementia patients, though, with things like black flooring (which looks like a dangerous hole) to keep them from crossing certain boundaries.  I also saw some reports a few years ago about the beneficial effects of bringing in an optometrist to update the prescriptions for eyeglasses.  If memory serves, residents with proper glasses were not just happier but also ate better.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 07:28, 12 January 2017 (UTC)
+
+ Cochrane... captured? 
+
+In my work on alt med stuff, i sometimes look at cochrane reviews on this stuff and have been really surprised by what Cochrane folk have actually taken the time to look at, and some of their conclusions. 
+
+I also frequently come across people trying to add citations to [http://umm.edu/health/medical/altmed University of Maryland's CAM website] which is a woo-fest. 
+
+This just clicked and made sense to me.  (from [https://www.ncbi.nlm.nih.gov/books/NBK83790/#ch5.s2 here]): &quot;The Cochrane Complementary Medicine Field, based at the University of Maryland Center for Integrative Medicine, coordinates all of the CAM-related activities of the Cochrane Collaboration, including the development of a database with information on more than 7,000 controlled trials of CAM therapies and modalities, and facilitates the preparation of CAM reviews and the promotion of these reviews, especially among the members of the CAM community.&quot;
+
+Similar thing with om Jefferson (epidemiologist)|Tom Jefferson doing Cochrane reviews on vaccines and anti-virals. 
+
+So, oy.  The inmates are running the asylum in some places at Cochrane. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 22:41, 10 January 2017 (UTC)
+Seem some of that umm stuff. This one says &quot;there is no evidence that it works. In fact, there is very little scientific evidence that goldenseal works to treat any condition.&quot;[http://umm.edu/health/medical/altmed/herb/goldenseal]
+At Cochrane their are a few more checks and balances. Most Cochrane reviews like most of the high quality literature come out negative on alt med. And is much more conservative than the primary sources and blogs I often see used. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 11:27, 11 January 2017 (UTC)
+The Cochrane alt med reviews often have the &quot;promising... needs more study&quot; crap in their conclusions.   I would like to see Tom Jefferson take over the alt med branch and see how conclusions come out then. :) — Preceding ikipedia:Signatures|unsigned comment added by ser:jytdog|jytdog (ser talk:jytdog#top|talk • pecial:Contributions/jytdog|contribs) 11:44, 11 January 2017 (UTC)
+I think the answer may lie in tightening OS:MED to advise caution in how weasel words &amp; equivocal wordings an EBM publication are transposed into lay language for Wikpedia. We already effectively outlaw &quot;more research is needed&quot; and I'd like to see us warning against wording like &quot;may be effective, but ...&quot;, &quot;shows promise&quot; etc. ser:Alexbrn|Alexbrn (ser talk:Alexbrn|talk) 13:06, 11 January 2017 (UTC)
+It's been a long time since I looked at that section of MEDMOS, but I suspect that the &quot;shows promise&quot; line could be trivially added, in parallel to &quot;more research is needed&quot;.  &quot;May be effective, but...&quot; is a less promising approach, because the sentence might reasonably be completed with &quot;May be effective, but not safe&quot; or &quot;May be effective, but it costs a jillion dollars, and there's a ten-cent treatment that's effective, too.&quot;  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 07:32, 12 January 2017 (UTC)
+
+Concerning the misuse of evidence in high quality sources we should keep a lookout for the next surgeon-general appointment. If this is anything to go by [http://thehill.com/homenews/administration/313520-trump-meets-with-leading-vaccine-skeptic], we could really do with a tightening of MEDRS, pending an onslaught of inanity.
+
+I've been contemplating some work on defining how we weigh rey literature, both within and between reports. E.g. just because acupuncture is mentioned as part of a 400-page report on back pain doesn't mean it merits a whole section (or even inclusion at all) in a 100,000 byte article. Strengthening the guideline and creating stricter criteria for P:MEDWEASEL and P:MEDDUE could be a start. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 15:30, 11 January 2017 (UTC)
+Please let's keep bare-link politics out of WTMED. I'd like for our credibility to hinge on MEDRS (as you're really suggesting), and not have even the appearance of political bias. Let's not give critics easy traction. — ser:soupvector|soupvector (ser_talk:soupvector|talk) 21:59, 11 January 2017 (UTC)
+
+ Missing topics list 
+
+My list of ser:Skysmith/Missing topics about Medicine|missing topics about medicine (and related pages) are updated - ser:Skysmith|Skysmith (ser talk:Skysmith|talk) 15:04, 8 January 2017 (UTC)
+
+How did you figure this list? Some of these (and even more so on the hospitals list) seem like they would be better suited as a section of a larger article or just as a definition. ser:Natureium|Natureium (ser talk:Natureium|talk) 16:04, 8 January 2017 (UTC)
+*I see it as a place to look for ideas, but many entries are simply poorly-composed or misspelled, e.g. &quot;remitis&quot; which should be &quot;remitus&quot;. If it's well-formed and -spelled, then one option is a redirect to the proper section of a larger article. — ser:soupvector|soupvector (ser_talk:soupvector|talk) 18:36, 8 January 2017 (UTC)
+ I have collected my lists from various sources, including dictionaries and, in some cases, other wikipedia pages. Some of those in the list are no doubt suitable for redirects (but I don't know enough to make those) and there is bound to be mispellings as well. It would be fortunate if you could point them out. - ser:Skysmith|Skysmith (ser talk:Skysmith|talk) 18:47, 8 January 2017 (UTC)
+How best to help with these lists? For example, your ser:Skysmith/Missing_topics_about_Viruses|List of Missing Topics about Viruses includes &quot;Human T-cell lymphotrophic virus type1&quot;, which should be uman T-lymphotropic virus 1; other terms are archaic so a link to an article would not be as helpful (e.g. &quot;C-type virus&quot;). Should we edit your list directly and if so what sort of edit would be most useful? Embedding suggestions for curation on your pages might encourage participation - they are very useful lists. It might also be nice if you included a link to your list of lists (if such exists) for those of us who find these interesting. — ser:soupvector|soupvector (ser_talk:soupvector|talk) 19:57, 8 January 2017 (UTC)
+For example &quot;ick test&quot; is an easy redirect (done) to ladys Dick, who, this being Wikipedia, has a far more detailed bio than her partner &amp; husband eorge Frederick Dick.  I suspect lots of these are rather outdated terms though. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 19:53, 8 January 2017 (UTC)
+This being Wikipedia, we have data on the subject of whether men or women have more and/or longer bios, and it's the other way around.  You've found a counter-example, not evidence of a trend.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 20:17, 8 January 2017 (UTC)
+This ignores the question of whether this is appropriate, for example with historical figures like kings and queens. There are a number of husband and wife teams in science, publishing together, and the pattern there is consistent. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 17:22, 9 January 2017 (UTC)  
+* a bunch of them are just alternative names for things we already have articles on.  i created some (eg rine flow test) ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 02:27, 9 January 2017 (UTC)
+
+ colasia is misspelt; it should be chalasia
+ rgyrosis is rgyria
+ esquamate could redirect to esquamation
+ iverculitis is misspelt; it should be iverticulitis
+ uodenus I think is misspelt; it should be uodenum
+ ncephaly is misspelt; perhaps it should be ncephalopathy or nencephaly
+ scahr is misspelt; it should be schar
+ xtrophy is either a misspelling or an infrequently used alternative spelling; the common spelling is xstrophy
+ remitis is a misspelling – already noted by soupvector
+ illick competency is illick competence
+ That's it for now. I shall continue through the list when I have more time. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 11:44, 9 January 2017 (UTC)
+As a non speller I am a big fan of redirecting spelling variations. At least until such time as someone fixes the English language. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 12:37, 9 January 2017 (UTC)
+
+ eocecal value is a random misspelling; it should be leocecal valve
+ oculation is the process of formation of a ocule; I am unsure if that is a suitable redirect though – Wikipedia's &quot;locule&quot; article focuses on normal locules in plants
+ creotide is misspelt; it should be ctreotide
+ inealome is the French word for inealoma; (James can confirm!)
+ rotodulia seems to be [https://it.wikipedia.org/wiki/Protodulia an Italian word] describing a cult dedicated to St. Joseph
+ sammona is misspelt; it should be sammoma
+ apadilino refers to apadilino syndrome
+ ecidication is misspelt; it should be ecidivation; I am unsure if &quot;Recidivation&quot; should have a Wikipedia entry – it is essentially just a word with a dictionary definition
+ ectorele is misspelt; it should be ectocele
+ ectosigmoid refers to the ectosigmoid junction, which should probably have a stub article
+ etiform is essentially a dictionary word meaning [https://www.merriam-webster.com/dictionary/retiform net-like]; there are diseases that include the word such as etiform purpura
+ ser:Axl|Axl ¤ ser talk:Axl|[Talk] 15:03, 9 January 2017 (UTC)
+
+ Then there's things that don't seem to need an article, like winge and evere damage. What would you write the article about? ser:Natureium|Natureium (ser talk:Natureium|talk) 15:54, 9 January 2017 (UTC)
+If you are sure it is just a typo (and there are lots of these in these lists), either correct it at the list, turning the link blue, or set it up as a redirect if you think it is likely to be a common mis-spelling. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 17:26, 9 January 2017 (UTC)
+ Skysmith has asked us to point them out. That's what I'm doing. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 19:56, 9 January 2017 (UTC)
+I hope ser:Skysmith is watching - he does lots of these lists, &amp; this page is hard to follow on watchlist. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 03:19, 10 January 2017 (UTC)
+
+ acrolumbar is umbosacral, which redirects to ertebral column
+ chizocele probably refers to chizocoely
+ orbefacient is essentially a [https://en.wiktionary.org/wiki/sorbefacient dictionary word]
+ permatocyst is the same as permatocele
+ I don't think that tatitis is a real word; perhaps it is a misspelling of tatistics
+ ubacromial is just under the cromion and is the location of ubacromial bursitis and mpingement syndrome
+ ubdiaphragmatic is essentially a dictionary word, meaning below the diaphragm
+ uborbital fenestra seems to be an [http://rainbow.ldeo.columbia.edu/courses/v1001/8.html anatomical feature] of certain (extinct?) reptiles
+ ser:Axl|Axl ¤ ser talk:Axl|[Talk] 13:38, 10 January 2017 (UTC)
+ In the absence of any further comment from Skysmith, I am no longer going to look through the list. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 18:01, 10 January 2017 (UTC)
+ I am fixing these with the next reupdate, among other things - ser:Skysmith|Skysmith (ser talk:Skysmith|talk) 18:37, 10 January 2017 (UTC)
+&quot;Statitis&quot; is a hyphenation problem.  It's meant to be rostatitis.  See [https://books.google.com/books?id=xoNMsQQAdvAC&amp;pg=PA367&amp;lpg=PA367&amp;dq=&quot;statitis&quot;] in this awkwardly scanned book as a possible source of the confusion.  There are two Chinese translation-type sites that seem to have picked up entries matching items in the index, e.g., &quot;gonococcal pro statitis&quot;, as translatable terms.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 06:15, 12 January 2017 (UTC)
+ lol ser:Axl|Axl ¤ ser talk:Axl|[Talk] 16:15, 12 January 2017 (UTC)
+
+ yperthermia therapy, highly problematic 
+
+The article on yperthermia therapy is not at all in line with quality sources. Hyperthermia is a fringe practice akin to hronic lyme disease and the sort — yet our article currently states is can be used for hronic lyme disease, epression and ancer and has the image of a smiling lady sitting in a heat-suit. It reads as a shill piece and the article is in terrible shape and could use some more eyes and some extensive pruning. Basically everything in the lede is either wrong or a vast overstatement. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 17:13, 11 January 2017 (UTC)
+
+ I've taken an axe to the Mechanism and Effectiveness sections, removing unsupported claims and those sourced just to primary studies. I'm not sure about the use of the following sources as I haven't access to the books without a visit to a library, and the journal is not one I'm familiar with, but I obviously have some scepticism about what is being claimed:
+* ite book |author1=Carolyn Freeman |author2=Halperin, Edward C. |author3=Brady, Luther W. |author4=David E. Wazer |title=Perez and Brady's Principles and Practice of Radiation Oncology |publisher=Wolters Kluwer Health/Lippincott Williams &amp; Wilkins |location=Philadelphia |year=2008 |pages=637–644 |isbn=0-7817-6369-X 
+* ite book |author=Dollinger, Malin |title=Everyone's Guide to Cancer Therapy; Revised 5th Edition: How Cancer Is Diagnosed, Treated, and Managed Day to Day |publisher=Andrews McMeel Publishing |location=Kansas City, MO |year=2008 |pages= 98–100 |isbn=0-7407-6857-3 
+* ite journal |vauthors=Mallory M, Gogineni E, Jones GC, Greer L, Simone CB 2nd |title=Therapeutic hyperthermia: The old, the new, and the upcoming |journal=Crit Reviews Oncol Hematol |volume=S1040-8428 |issue=15 |pages=30018-4 |date=August 2015 |pmid=26315383 |doi=10.1016/j.critrevonc.2015.08.003
+ More thoughts and eyes on the article welcome. --ser:RexxS|RexxS (ser talk:RexxS|talk) 19:39, 11 January 2017 (UTC)
+ Speaking of hyperthermia and majorly problematic: agnetic hyperthermia being described as &quot;the ever-promising &quot;fourth leg&quot; of cancer treatment&quot; in the first sentence[https://en.wikipedia.org/w/index.php?title=Magnetic_hyperthermia&amp;oldid=753542922]. I'll do what I can, but I think this article is really in need of review. ser:Natureium|Natureium (ser talk:Natureium|talk) 22:56, 11 January 2017 (UTC)
+I looked into that article a few years ago.  My impression was that it was a real-but-not-common mainstream medical treatment for a few types of cancer.  However, I don't remember seeing anything about Lyme or depression.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 07:34, 12 January 2017 (UTC)
+It's one of those cases where evidence hardly exists, but the treatment is offered anyway. This however is not expressed in our article at all. One of very few systematic reviews on the topic, MID|27134130 says:
+alkquote|The review underscores the limited nature of the evidence; definitive conclusions are elusive. However, the promising results of RHT in the setting of intravesical chemotherapy, chemotherapy and radiotherapy show a trend towards legitimate efficacy.
+This is just in line with what is discussed in the section above here — wildly overstating benefits, ignoring that the evidence is horrible, or even ignoring when there is proven lack of benefit, and promoting things just the same. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 11:29, 12 January 2017 (UTC)
+ CFCF, I support your suggestion to merge agnetic hyperthermia in and I tried to simplify the thesis-level physics. I think the physics part could be merged into agnetic nanoparticles and the supposed clinical benefit into yperthermia therapy.ser:Natureium|Natureium (ser talk:Natureium|talk) 16:31, 12 January 2017 (UTC)
+Also, I have this half-remembered sense that there might have been two articles once upon a time:  one for cancer and one for everything else.  (That could explain why I don't remember seeing Lyme in it.)  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:41, 12 January 2017 (UTC)
+
+ Curcumin is a an-assay interference compounds|pan-assay interference compound 
+
+Great thing in Nature News recently....
+* ite journal|last1=Baker|first1=Monya|title=Deceptive curcumin offers cautionary tale for chemists|journal=Nature|date=9 January 2017|volume=541|issue=7636|pages=144–145|doi=10.1038/541144a|url=http://www.nature.com/news/deceptive-curcumin-offers-cautionary-tale-for-chemists-1.21269
+-- ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 17:06, 12 January 2017 (UTC)
+Likely the acronym for this new term, &quot;pan-assay interference compound&quot;, PAINS, is meant to infer curcumin is a &quot;pain in the ass&quot; to study because of its propensity for various false signals in screening for biological activity, as discussed here MID|26900761 and in the J. Med. Chem. report: [http://pubs.acs.org/doi/full/10.1021/acs.jmedchem.6b00975 &quot;curcumin is an unstable, reactive, nonbioavailable compound and, therefore, a highly improbable lead&quot;.] We need pharmacology editors to work on the stub for an-assay interference compounds|PAINS into which there would be justified discussion of the numerous similar compounds used in hytotherapy and raditional medicine that (stated for curcumin) there is &quot;no evidence it has any specific therapeutic benefits, despite thousands of research papers and more than 120 clinical trials. The scientists hope that their report will prevent further wasted research and alert the unwary to the possibility that chemicals may often show up as ‘hits’ in drug screens, but be unlikely to yield a drug.&quot; --ser:Zefr|Zefr (ser talk:Zefr|talk) 17:43, 12 January 2017 (UTC)
+
+ How and whether to discuss oFap in the context of asturbation 
+
+Greetings.  I included a short paragraph that was intended to introduce readers of the asturbation article to the oFap article.  I thought this would be an interesting contribution, particularly since the article on masturbation does not have a lot of information about abstaining from masturbation (apart from some limited treatment of old-fashioned anti-masturbation attitudes).  For me, the NoFap community is the obvious centre of discussion about such abstention nowadays.
+
+This did not go over especially well.  Firstly, the NoFap community was founded in response to a somewhat dubious research article.  One critic put the edrs template into the NoFap article in the relevant place.  To that I say: fair enough.  I'm interested in the community not primarily from a medical standpoint, but from a cultural and phenomenological standpoint.  Of course, the medical and scientific aspects of the issue are also interesting and I think these should be reflected on Wikipedia when possible too.  (E.g., research debunking the claims of the above mentioned dubious article might be included in the NoFap article itself.)
+
+Subsequent discussion focused less on the edrs issue, and more on the idea that NoFap is a &quot;fringe&quot; group.  P:ONEWAY was mentioned (although I don't actually think that it applies).  At the moment the conversation seems to have stagnated, without movement towards any consensus.  I'd appreciate if people here who take an interest in the various related themes might weigh in on the discussion at alk:Masturbation#MEDRS.  Thanks! ser:Arided|Arided (ser talk:Arided|talk) 02:52, 10 January 2017 (UTC)
+
+
+*also alk:Masturbation#RfC--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:54, 10 January 2017 (UTC)
+** The RFC's been closed.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 07:16, 12 January 2017 (UTC)
+
+At a glance, I think we've handled this poorly, and I'd like to talk about it because it's the kind of mess that's pretty typical for us.  The basic facts seem to be these:
+
+# A single primary research paper said if you are male and don't orgasm for a week, then your testosterone levels go up.  
+# There's this internet group, started by someone who thought it would be interesting to see if he could use this &quot;all natural&quot; technique to get higher testosterone levels.
+# It's kind of, if you squint a bit, maybe a small social movement against masturbation.
+
+An accurate description of these facts is:  Someone started an internet forum whose purpose is to encourage members not to masturbate, because he heard about a research paper that said not masturbating makes your testosterone go up.
+
+The response from medical editors seems to focus on the &quot;not masturbating makes your testosterone go up&quot; part (hereinafter &quot;the irrelevant part&quot;).  The actual story is:  there might be a small social movement against masturbation.  The irrelevant part is everything about the contents of the journal article.  We could write the entire thing without talking about science at all.
+
+But we're (not just one of us) leaping on the irrelevant part and saying that the irrelevant part needs a MEDRS-style source, even though that's neither relevant nor even factual.  (Imagine that we actually had a gold-plated review on the effects of sexual continence on testosterone.  Would the existence of that review change the fact that this guy was inspired to start an internet forum by the 2003 primary study?)
+
+I know that this is a bit of a soapbox, but I'm asking again:  when you are trying to decide whether something is P:Biomedical information, please read the whole paragraph first.  &quot;Intervention X has biological effect Y&quot; is potentially biomedical information.  &quot;This guy read a paper that claimed that intervention X had biological effect Y&quot; is historical information (also BLP).
+
+ser:Arided|Arided, IMO the main problem with your proposed addition is that it gives too much attention to one small[1] internet forum.  If it were a simple case of P:Build the web – if your proposal had said something like &quot;Some people choose not to masturbate for perceived health or personal benefits; for example, oFap is a non-religious online community whose members avoid masturbation&quot; under one of the multiple society/culture sections – then I think you might have had a small chance.  But even that could be difficult at a large article.  &quot;There's this small online community, see?&quot; is a lot less obviously relevant than things like &quot;Multiple large religious organizations say that it's immoral&quot;.
+
+(Also, someone mentioned the number of times that oFap is linked in Wikipedia.  It's presently linked in three navboxes:  l|addiction, l|masturbation, and l|pornography.  Those templates presumably account for all, or almost all, of the incoming links.)
+
+[1] Yes, small.  200,000 people is a lot if you're comparing it to, say, your high school, but for every account that subscribed to that internet forum around the world, over the space of years, there are two people in England and Wales alone alone who claimed to be edis on a single day.  If your worldwide group is smaller than the Jedis in England and Wales, it's still small.   
+
+ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 07:16, 12 January 2017 (UTC)
+I commented briefly on the RfC - looking at that MEDRS doesn't even seem to be mentioned. This was primarily a case of undue weight wasn't it? ser:Alexbrn|Alexbrn (ser talk:Alexbrn|talk) 07:29, 12 January 2017 (UTC)
+
+ ser:WhatamIdoing|WhatamIdoing, thanks, you've said much more eloquently what I was nattering on about on the talk page (alk:Masturbation), as I realised after the fact that I'd put my foot in my mouth.  Not sure where we go from here.  Deleting the asturbate-a-thon-referencing section on asturbation was a good start, getting the page back to some sort of NPOV.  Perhaps one way to proceed would be with some text similar to what you put in the brief doublequote summary, to be added on the exual abstinence wiki page.  Cheers! ser:Arided|Arided (ser talk:Arided|talk) 18:16, 12 January 2017 (UTC)
+
+ ist of drugs granted breakthrough therapy designation 
+
+Is this list really necessary when there's also Category:Breakthrough therapy? The list isn't up to date, and I don't want to bother if it's superfluous. ser:Natureium|Natureium (ser talk:Natureium|talk) 17:33, 12 January 2017 (UTC)
+
+Officially, Wikipedia believes that categories and lists are almost never redundant.  The pages views are 5x for the list, so if you wanted to focus on what's getting used more, the it's the list.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:45, 12 January 2017 (UTC)
+Thanks. I went through it and updated it. ser:Natureium|Natureium (ser talk:Natureium|talk) 21:01, 12 January 2017 (UTC)
+
+ App discussion at the Village Pump 
+
+Be aware ikipedia:Village_pump_(proposals)#Use_of_Wikipedia:WikiProject_Medicine.2FApp.2FBanner_on_articles.Best, ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 21:01, 12 January 2017 (UTC)
+CF, thanks(commented, as should others here)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 21:40, 12 January 2017 (UTC)
+
+ angover 
+
+we have a dual-IP using spammer edit warring at this article; some more eyes would be great. thx ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 05:14, 14 January 2017 (UTC)
+will keep eye on--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 10:41, 14 January 2017 (UTC)
+The article was P:SEMI'd.  I assume that the question of whether to mention an Asian folk remedy is still open.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:16, 14 January 2017 (UTC)
+
+ ysteamine - convert chembox to drugbox? 
+ile:Cysteamine-2D-skeletal.png|thumb|130 px|Cysteamine
+I completely rewrote this article - it went from [https://en.wikipedia.org/w/index.php?title=Cysteamine&amp;oldid=759476616 this] to what it is now - a typical drug article.   Don't know how to convert the chembox to a drugbox.... ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 15:45, 11 January 2017 (UTC)
+commented article/talk--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:14, 12 January 2017 (UTC)
+Done. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 18:16, 14 January 2017 (UTC)
+
+ Orphan pricing with some crazy background 
+
+just worked this over tonight.  crazy, crazy story.  
+
+If you want to play, first read the version that was there when I started: [https://en.wikipedia.org/w/index.php?title=Amifampridine&amp;oldid=759883719 this].  
+
+Then look at this: mifampridine#History.  I knew nothing about this before I started and got to piece that story together tonight. But the old version was just bizarro marketing speak.   ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 08:44, 14 January 2017 (UTC)
+Cleaned up some of whatever that was at ambert–Eaton myasthenic syndrome. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 17:23, 14 January 2017 (UTC)
+thanks that was next on my list! ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 18:32, 14 January 2017 (UTC)
+
+ Help needed with article formatting to MEDMOS 
+
+arotrauma lacks some sections recommended in MEDMOS. Would someone familiar with articles on trauma take a look and add the applicable headers? Cheers • • • ser:Pbsouthwood|Peter (Southwood) ser talk:Pbsouthwood|(talk): 14:22, 15 January 2017 (UTC)
+Thanks for the quick response Ozzie. • • • ser:Pbsouthwood|Peter (Southwood) ser talk:Pbsouthwood|(talk): 15:10, 15 January 2017 (UTC)
+anytime--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 15:12, 15 January 2017 (UTC)
+
+Brand names typically redirected to generic names
+A redirect is up for discussion here.[https://en.wikipedia.org/wiki/Wikipedia:Redirects_for_discussion/Log/2017_January_13#Tylenol]
+
+Basically the question is should we redirect brands to generics. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 08:46, 13 January 2017 (UTC)
+
+*give opinion(gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 15:22, 13 January 2017 (UTC)
+ Who else's would you give? ser:Natureium|Natureium (ser talk:Natureium|talk) 15:50, 13 January 2017 (UTC)
+I know you meant that purely as a joke, but you'd be surprised how often we see people reverting something because some other person might object to an edit.  It's one of the frustrations for editors who want to engage in a classic P:BRD process:  You boldly edit, someone reverts, you start a discussion, and the response is, &quot;Well, I don't really have an opinion; I just reverted it because I figured that someone would object, so why not revert it now and get it over with?&quot;
+One of the great things about this group is that people do respond to requests for feedback.  It's nice and reinforcing when we can see that it's happening.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:54, 13 January 2017 (UTC)
+
+This discussion specifically concerns whether ylenol should redirect to aracetamol or the ylenol (brand) article. Extremely few readers will be looking for the article about the brand and additional comments would be very helpful. ser:CFCF|Carl Fredrikser talk:CFCF| 💌 pecial:EmailUser/CFCF|📧 10:03, 14 January 2017 (UTC)
+ Really, how can you be so certain? Readers are interested in other things besides medicine like economics, marketing, crisis management, etc. ser:Boghog|Boghog (ser talk:Boghog|talk) 10:28, 14 January 2017 (UTC)
+Neither Tylenol nor Aspirin should not redirect to a page about a brand rather than a medicine. And than Cochin will want an article out their brand. We need to do this in part to hold the masses trying to use WP to market at bay. You can find the article about the brand easily from the one about the medication if you so chose. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 17:30, 14 January 2017 (UTC)
+I'm not buying the slippery slope argument.  I've never yet heard someone claim that they've created an article about their particular brand on the grounds that ylenol (brand) exists.  
+OTOH, ylenol (brand) is widely studied in business schools as part of marketing, communications, crisis management, and branding classes.  If some other brand of drug can make a similar claim, then we probably do want an article about their brand.  This probably explains why one thousand people are reading the article about the brand, rather than the drug, every day.
+(ochin appears to be a city in India; I think you've got a typo.)  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:21, 14 January 2017 (UTC)
+ Tylenol is a brand that is independently notable from the paracetamol medication. ylenol (brand) is an unnecessary disambiguation that was made in this [https://en.wikipedia.org/w/index.php?title=Tylenol_%28brand%29&amp;type=revision&amp;diff=663378047&amp;oldid=663359061 edit] without consensus with the edit summary q|the main topic is the medicine.  The main topic is the brand which contains the active ingredient paracetamol. ser:Boghog|Boghog (ser talk:Boghog|talk) 19:46, 14 January 2017 (UTC)
+ That view may be just a regional thing. I doubt that most folks outside of the USA would even know what Tylenol was, unless they've visited the states. In the UK, if you want paracetamol, you ask for paracetamol; asking for Tylenol will draw a blank stare from the pharmacist's assistant. --ser:RexxS|RexxS (ser talk:RexxS|talk) 03:13, 15 January 2017 (UTC)
+Indeed - so if someone outside the USA were to type &quot;Tylenol&quot; they're very likely to be searching for &quot;Tylenol (brand)&quot; and not &quot;paracetamol&quot;. It's not so obvious if they're in the USA, but finding themselves on &quot;Tylenol (brand)&quot; they'll quickly be able to jump to &quot;paracetamol&quot; if that was their intent. — ser:soupvector|soupvector (ser_talk:soupvector|talk) 04:29, 15 January 2017 (UTC)
+For what it's worth, I actually remember the time I entered &quot;tylenol&quot; into the search box.  I'm from Australia and had never heard the word.  All I needed to learn was that it's a brand name for paracetamol. The leads of aracetamol and ylenol (brand) both make this clear, though the latter does so earlier. ser:Adrian J. Hunter|Adrian J. Hunter(ser talk:Adrian J. Hunter|talk•pecial:contributions/Adrian J. Hunter|contribs) 19:34, 15 January 2017 (UTC)
+ser:WhatamIdoing per &quot;I've never yet heard someone claim that they've created an article about their particular brand on the grounds that Tylenol (brand) exists&quot;
+Here is someone from Jan 11th, 2017 using just that justification in an attempt to create an article on rocin.[https://en.wikipedia.org/w/index.php?title=User_talk:Doc_James&amp;oldid=760129327#Crocin_Brand_Wikipedia_Page] And not the first time I have heard the arguement either.
+If someone from the N. America is searching for Tylenol they are most likely looking for acetaminophen. As most of our readers are from N. America we should take that into account.
+ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 10:41, 15 January 2017 (UTC)
+
+ pastic cerebral palsy article - can TNT be applied? 
+
+The pastic cerebral palsy article has only one source.  My understanding is that spastic cerebral palsy is the most common type of erebral palsy when you break CP down by 'type of damage incurred'.  The main CP article says it's at 70% (with a source from 2000), the spastic CP page says it's at 90% (apparently unsourced).  If it's the most common subtype-by-type-of-damage, spastic CP is clearly going to be a notable topic to cover.  However... one source.  I've been lightly updating parts of the main CP article for a while now, but this is beyond my skills.  What should this article even contain, in comparison to the main CP article?  Should P:TNT be applied to the spastic CP article? --pecial:Contributions/122.108.141.214|122.108.141.214 (ser talk:122.108.141.214|talk) 03:12, 15 January 2017 (UTC)
+will look--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:35, 15 January 2017 (UTC)
+Thank you, that's already at least three times better.  --pecial:Contributions/122.108.141.214|122.108.141.214 (ser talk:122.108.141.214|talk) 20:06, 15 January 2017 (UTC)</segment>
+	</text>
+</file>

@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-01-23T18:19:02Z" sourceCorpus="Wikiproject_Medicine" filename="77947500" title="WikiProject_Medicine_Talk_Archive_172" url="https://en.wikipedia.org/wiki/Wikipedia_Talk:WikiProject_Medicine/Archive_172">
+	<text>
+		<segment id="id77947500">an
+
+ Proposed rewrite of ist of foodborne illness outbreaks in the United States 
+
+There is a ser:TinglesFrickinMap/sandbox/United States foodborne illness outbreak list rewrite|proposed rewrite at alk:List of foodborne illness outbreaks in the United States#Proposal for a rework of page that may be of interest to this WikiProject. This rewrite is still a work in progress, so please feel free to share any suggestions, critiques, etc. at the aforementioned talk page or ser talk:TinglesFrickinMap/sandbox/United States foodborne illness outbreak list rewrite. ser:TinglesFrickinMap|TinglesFrickinMap (ser talk:TinglesFrickinMap|talk) 16:57, 22 August 2024 (UTC)
+
+ser:TinglesFrickinMap|TinglesFrickinMap, I think that ser:TinglesFrickinMap/sandbox/United States foodborne illness outbreak list rewrite looks okay.  My main suggestion is that you remove unnecessary details from the descriptions.  This would probably include some of the exact dates and ways to identify which products were recalled.  Knowing that products with this code or that est by date have been recalled is useful during the outbreak but basically trivia years later.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:55, 23 August 2024 (UTC)
+
+ CRAM diet 
+
+The RAM diet article describes an (apparently) medical dietary treatment for diarrhea and gastroenteritis. The sources for it are terrible. We've had the article for 14 years, and it's been flagged as poorly sourced the entire time. I can't find any worthwhile references to add (but this is very far from my field of knowledge). Can anyone find anything about it? What should we do with the article? -- ser:Finlay McWalter|Finlay McWalter··–·ser talk:Finlay McWalter|Talk 21:40, 19 August 2024 (UTC)
+
+I wonder if that might be a pediatrics thing.  See also RAT diet (Bananas, Rice, Applesauce, Toast). ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 01:40, 20 August 2024 (UTC)
+Delete the article. I cannot find any references. ser:Jaredroach|Jaredroach (ser talk:Jaredroach|talk) 18:05, 21 August 2024 (UTC)
+
+ ikipedia:Articles for deletion/CRAM diet -- ser:Finlay McWalter|Finlay McWalter··–·ser talk:Finlay McWalter|Talk 06:43, 26 August 2024 (UTC)
+
+ Anyone know the fate of Human Anatomy Online? 
+
+Apparently there was a resource for anatomy images assembled by SUNY Downstate Medical School called [https://web.archive.org/web/20160605191201/http://ect.downstate.edu/courseware/haonline/ha.htm Human Anatomy Online] (archive from 2016). Sadly, I was ignorant of its existence until I saw it referred to in ikipedia:Manual_of_Style/Medicine-related_articles#External_links today. We even have a template l|SUNYAnatomyFigs transcluded on a few hundred pages that provides deadlinks to what I'm sure was a lovely resource. Does anyone know if this resource lives on under another name? I tried Googling, but didn't turn up anything. It'd be great if we could update the MEDMOS suggestion and fix the template. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 20:00, 23 August 2024 (UTC)
+
+https://web.archive.org/web/20160504211300/http://ect.downstate.edu/courseware/haonline/acknow.htm has a list of names of people who might know.  https://www.gold-standard.com/ might be the website for the publisher.  One of the linked websites suggests learn  gold-standard.com as a possible way to reach them, though if you can find them on a social media platform, that might be more effective. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 20:30, 23 August 2024 (UTC)
+Thank you WAID, I haven't reached out to those people yet. But I have checked about 5 dead links, and for each there's a version of the page archived in Internet Archive ([https://web.archive.org/web/20160303202804/http://ect.downstate.edu/courseware/haonline/figs/l22/220204.htm example]), and it's the type of static page that an archive can fully recapitulate. Unfortunately, the archives aren't all on the same date, so I can't rescue the template by just building an internet archive URL. My un-clever idea is that I could manually replace each templated instance with a link to an appropriate archived version, but that would take some time. Any chance you can think of a clever-er way to replace the links with the archived versions? You seem tech savvy. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 23:20, 25 August 2024 (UTC)
+AFAICT all clever ways of linking to the Internet Archive begin with talking to ser:GreenC|GreenC. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 03:15, 26 August 2024 (UTC)
+I did this pecial:Diff/827027496/1242311373 as a generic solution, imperfect but should mostly work. If you want to replace each template with an archive URL I can do that via bot, which is better since it will verify each archive is working and leave a lx|dead link if not. But takes a little more work to setup and run. Post a request to P:URLREQ.  -- ser:GreenC|Greenser talk:GreenC|C 04:29, 26 August 2024 (UTC)
+Thank you both! Per usual, you've saved the day. I'll check a couple dozen instances this evening, and if it seems necessary I'll post at URLREQ. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 17:13, 26 August 2024 (UTC)
+
+ Eastern equine encephalitis outbreak in Massachusetts 
+
+Please see alk:Eastern equine encephalitis#2024 Massachusetts outbreak. Any additional MEDRS-related tips appreciated there, for a new user who asked about this a the Teahouse. Thanks, ser:Mathglot|Mathglot (ser talk:Mathglot|talk) 02:15, 27 August 2024 (UTC)
+
+ alk:Imane Khelif 
+
+There are currently two RFCs at alk:Imane Khelif. Interested editors are invited to participate at alk:Imane Khelif/Archive 4#RfC lead and alk:Imane Khelif/Archive 4#RfC on weight of &quot;misinformation&quot; in lead. ser:TarnishedPath|TarnishedPathser talk:TarnishedPath|talk 09:40, 27 August 2024 (UTC)
+
+This BLP is one of the Olympic athletes in oxing at the 2024 Summer Olympics who has been the subject of speculation about whether she is ntersex.  As her private medical information appears to still be private, there is no medical content here, except perhaps to educate people on the difference between being trans and being intersex.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:57, 27 August 2024 (UTC)
+
+ Looking for a paywalled source 
+
+Does anyone have access to the full text of MID|27289303 in he Lancet Psychiatry|The Lancet Psychiatry?  This is for ikipedia talk:Perennial proposals#RFC: Should we add a section about proposals for adding prominent links to crisis hotlines at the tops of articles? where the article is claimed to be the only source about suicide-related content warnings on news/media (though this isn't evident from the abstract) and that it either says the evidence is &quot;unclear&quot; or that it's a &quot;fact&quot; that they don't work. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:56, 16 August 2024 (UTC)
+Mail me. ser:CFCF|CFCF (ser talk:CFCF|talk) 19:00, 16 August 2024 (UTC)
+FWIW thar review does not mention content warnings in any way, shape, or form. It refers to media depictions of suicide and to hotlines, but not to content warnings or disclaimers. ser:Fvasconcellos|Fvasconcellos (ser talk:Fvasconcellos|t·pecial:Contributions/Fvasconcellos|c) 19:08, 16 August 2024 (UTC)
+|Fvasconcellos, I did not realize you were active again (just when I'm not)!  Hooray and welcome back! ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  20:47, 16 August 2024 (UTC)
+Off and on (more off than on lately...) but boy, am I glad to see you :-) ser:Fvasconcellos|Fvasconcellos (ser talk:Fvasconcellos|t·pecial:Contributions/Fvasconcellos|c) 16:40, 1 September 2024 (UTC)
+
+ Input for ist of chronic pain syndromes 
+
+I recently created ist of chronic pain syndromes. This is my first time creating a list class article and I would really appreciate some feedback. Additionally I was wondering if since not every entry has a wikilink (nor do I think it would be reasonable to make each entry one) should I have descriptions for each disorder? ser:CursedWithTheAbilityToDoTheMath|CursedWithTheAbilityToDoTheMath (ser talk:CursedWithTheAbilityToDoTheMath|talk) 01:31, 1 September 2024 (UTC)
+
+That looks pretty good.  It's a good idea to have links to &quot;vocabulary words&quot; (e.g., for anyone doing a 'Dr Google' search on a diagnosis) or an explanation, but when I look at the list of &quot;Chronic visceral cancer pain, Chronic bone cancer pain, Chronic neuropathic cancer pain&quot;, I think people just need to know what iscera and europathy are.  I don't think they need an explanation that says &quot;Chronic bone cancer pain is when you have pain in your bones all the time because of cancer&quot;.  They'll be able to guess that much. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:08, 1 September 2024 (UTC)
+Sounds good, thank you for taking a look! I'll include the definitions for some of the medical terminology! (PS. I changed my username so thats why the signatures don't match) ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 18:10, 1 September 2024 (UTC)
+
+ What to do with ists of diseases 
+
+I feel that our various lists of medical conditions have gotten out of date. Both ist of genetic disorders and ist of syndromes are inapropriately short considering their topics (many syndromes are missing). Our alphabetically sorted ists of diseases is also in bad shape. Half the entries are syndromes (which I have also accidentally added syndromes to this list). Just looking at ist of diseases (0–9), I don't think a single article on that list is a disease; all of them seem to be syndromes. There are also many duplications, redirects, and red links. I'm not sure how to fix the issue, but I do have a couple of ideas. I could go through all the pages and sort them into their respective lists (either ist of diseases, ist of disorders, or ist of syndromes. This would obviously be time-consuming but would hopefully help with organization and also help de-orphan some pages. I was wondering if anyone knows what was originally used as a source for these lists. Also, should ref links and redirects be removed? (Pinging page owners ing|Alex.tan|Snakeyes (usurped)|Brainist|PierreAbbat|Altenmann|Lee Daniel Crocker ser:CursedWithTheAbilityToDoTheMath|CursedWithTheAbilityToDoTheMath (ser talk:CursedWithTheAbilityToDoTheMath|talk) 05:05, 1 September 2024 (UTC)
+
+[https://en.wikipedia.org/w/index.php?title=Lists_of_diseases&amp;diff=prev&amp;oldid=57198387 This diff from 2004] has a list of sources.  As a general rule, if a list or glossary is that old, there's a decent chance that it came from a public domain source.  The only exception I'm aware of is the ist of skin conditions, which largely came out of a medical school textbook. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:12, 1 September 2024 (UTC)
+Thank you. I assumed they used either rarediseases or orphanet. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 18:13, 1 September 2024 (UTC)
+
+Help the Wikimedia Foundation better understand how on-wiki collaborations work
+The [https://meta.wikimedia.org/wiki/Campaigns Campaigns team] at the Wikimedia Foundation is exploring how to expand it's work on campaigns, to support other kinds of collaboration. We are interested in learning from diverse editors that have experience joining and working on WikiProjects, Campaigns, and other kinds of on-wiki collaboration. We need your help: 
+* Take a survey about your experience with collaborations:  [https://docs.google.com/forms/d/e/1FAIpQLScKWHPjSjSqOmca8E-eQl1HHUxYRbB4QeEV3zR2bd1_tcwuMg/viewform?usp=sf_link with this Google Form ] 
+* Share examples of Collaborations or WikiProjects that have worked for you: https://meta.wikimedia.org/wiki/Campaigns/WikiProjects
+
+Whatever input you bring to the two spaces will help us make better decisions about next steps beyond the [https://meta.wikimedia.org/wiki/Campaigns/Foundation_Product_Team current tools we support]. ser:Astinson (WMF)|Astinson (WMF) (ser talk:Astinson (WMF)|talk) 18:58, 2 September 2024 (UTC)
+done, thanks for sharing.ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 16:58, 18 October 2024 (UTC)
+
+ rail (company) edit request 
+
+I'm reviewing old edit requests and alk:Grail_(company)#April_2024_COI_edit_requests has been open for a while. The first couple bullets here seem to fall squarely under P:MEDRS - it seems like the company has some kind of controversial cancer detection test, and the COI editor wants to add a couple studies evaluating the test. Is anyone up for taking a look? ser:Rusalkii|Rusalkii (ser talk:Rusalkii|talk) 04:21, 20 August 2024 (UTC)
+thank you for posting--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:28, 4 September 2024 (UTC)
+
+ [https://www.mcgill.ca/oss/article/critical-thinking-technology/can-you-trust-dr-wikipedia Can You Trust Dr. Wikipedia?] 
+
+For the interested. Nothing groundbreaking, but a good read. ser:Gråbergs Gråa Sång|Gråbergs Gråa Sång (ser talk:Gråbergs Gråa Sång|talk) 11:33, 7 September 2024 (UTC)
+
+Really interesting read. I’ll have to give it another read through before forming any opinions but thanks for sharing this! ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 22:08, 7 September 2024 (UTC)
+
+ ontaminated blood scandal in the United Kingdom 
+
+I've created a move request to nfected blood scandal in the United Kingdom; would appreciate any input from this WikiProject.
+
+If anyone could also go through the article and check that the prose is appropriate for a medicine-related article and that the sources are MEDRS-compliant, I would be very grateful too. Thank you! ser:GnocchiFan|GnocchiFan (ser talk:GnocchiFan|talk) 07:44, 4 September 2024 (UTC)
+commented--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:27, 4 September 2024 (UTC)
+This closed, with the page being moved to the proposed title. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:48, 8 September 2024 (UTC)
+
+ Symptoms of methanol poisoning 
+
+Hello MED folks. For 016 Irkutsk mass methanol poisoning, is it fair to say the following:
+* &quot;symptoms of ethanol toxicity include entral nervous system depression&quot; 
+* &quot;The human body breaks down methanol into ormaldehyde and ormic acid, both of which act as nerve toxins and damage the ptic nerve.&quot;
+
+The article is currently going through a FAC, and I am not a medical expert, so I'd appreciate any input from project members. Thank you! ser:The ed17|Ed ser talk:The ed17|[talk] P:OMT|[OMT] 21:46, 3 September 2024 (UTC)
+
+@ser:The ed17|The ed17 I'm not a medical expert either, but I have edited a lot of medical articles so hopefully I can help a bit. Both of these setences are medical claims which means ideally they should have P:MEDRS sources to back them up which it doesn't look like they do. As for the accuracy of the two statements, I'm not sure but I would feel more confident if they referanced a medical article. To sum up P:MEDRS biomedical information, such as symptoms, have a higher standard for sources. This means that ideally the source should be secondary (liturature reviews, systematic reviews etc.), published in reputable journal, and if possible published in the last 10 years. The source used doesn't fit the standard of P:MEDRS so do with that what you will. As for the wording &quot;central nervous system depression&quot; is a bit vaugue and overly technical. It might be more helpful to list symptoms. To save you the hassle of searching for MEDRS sources I found this article which might be helpful: 
+ite journal | last=Nekoukar | first=Zahra | last2=Zakariaei | first2=Zakaria | last3=Taghizadeh | first3=Fatemeh | last4=Musavi | first4=Fatemeh | last5=Banimostafavi | first5=Elham Sadat | last6=Sharifpour | first6=Ali | last7=Ghuchi | first7=Nasrin Ebrahim | last8=Fakhar | first8=Mahdi | last9=Tabaripour | first9=Rabeeh | last10=Safanavaei | first10=Sepideh | title=Methanol poisoning as a new world challenge: A review | journal=Annals of Medicine &amp; Surgery | publisher=Ovid Technologies (Wolters Kluwer Health) | volume=66 | year=2021 | issn=2049-0801 | doi=10.1016/j.amsu.2021.102445 | ref=none
+This article is recent, from a repurable publisher and is a review. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 04:39, 8 September 2024 (UTC)
+Thanks for the info, |IntentionallyDense! I rewrote that part of the article with that source you gave. I appreciate you not making me find a source myself. :-))) I was aware of MEDRS, but haven't had to interact with it before. I didn't realize it applied to what I thought of as basic things, like these symptoms. The wording of &quot;central nervous system depression&quot; was taken straight from the Wikipedia article title, and I've simplified it. ser:The ed17|Ed ser talk:The ed17|[talk] P:OMT|[OMT] 04:24, 10 September 2024 (UTC)
+Sounds good, I'm glad I could help! ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 04:27, 10 September 2024 (UTC)
+
+ Page views 
+
+I've been playing with some page views numbers.  One thing I've learned is that, based on a sample of 10K random articles, most articles on Wikipedia get read once a week or less.  
+
+I think that WPMED's core articles (e.g., about diseases and drugs) traffic tends to be higher than average.  If you're interested in checking out a favorite article, you can get the total annual page views at https://pageviews.wmcloud.org/ (default is the last 20 days, so switch it to a full year), and here's a quick cheatsheet to compare the result against (these are all from the 2023 calendar year):
+
+* 100K page views per year:  top 1%
+* 10K page views per year:  top 5%
+* 1K page views per year:  top 20%
+* 100 page views per year:  top 40%
+
+If you are interested in working on our most popular articles, then you can find an updated list at ikipedia:WikiProject Medicine/Popular pages.  For example, olio vaccine was the 994th most popular WPMED-tagged page last month, and its page views during 2023 (283K) put it around the top third of a percent of all Wikipedia articles, but it's barely in the top 2% of WPMED articles. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:35, 10 September 2024 (UTC)
+
+exual intercourse I get. But ibular hemimelia? Scratches head. ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 21:41, 10 September 2024 (UTC)
+Perhaps one of the aralympians had it, or a celebrity's baby was just born with it.  It wasn't in previous months, so it's probably just a temporary blip. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 02:40, 11 September 2024 (UTC)
+Many Paralympians, see ibular_hemimelia#Notable_people  — Preceding ikipedia:Signatures|unsigned comment added by ser:Johnbod at ILAE|Johnbod at ILAE (ser talk:Johnbod at ILAE#top|talk • pecial:Contributions/Johnbod at ILAE|contribs) 02:57, 11 September 2024 (UTC) 
+
+ Help with writting about pseudoscientific topics 
+
+I'm not sure where this question belongs but I thought I pose it here. I would like to improve the page drenal fatigue however I'm running into a bit of an issue. Normally with an article about a disease people write about symptoms, causes, diagnosis, treatment etc. but when said disease doesn't exist should we be deviating from that format? I've found a number of reputable sources debunking adrenal fatigue however they don't always go into detail about symptoms, causes, diagnosis, and treatment. I've also found two somewhat reliable sources that go into detail about the theories behind adrenal fatigue. However my other question is, does the fact that these articles support the existance of adrenal fatigue make them inherantly unreliable? Could these sources be used to say &quot;the symptoms associated with adrenal fatigue are xyz&quot; or &quot;proposed treatment for adrenal fatigue includes xyz&quot; (note I would also follow this up by talking about why those treatments don't work etc). The two sources that I'm not sure about are:
+
+* ite journal | last=Wilson | first=James L. | title=Clinical perspective on stress, cortisol and adrenal fatigue | journal=Advances in Integrative Medicine | volume=1 | issue=2 | date=2014 | doi=10.1016/j.aimed.2014.05.002 | pages=93–96|ref=none
+* ite book | last=Redmer | first=Jacqueline | title=Integrative Medicine | chapter=Adrenal Fatigue | publisher=Elsevier | date=2018 | isbn=978-0-323-35868-2 | doi=10.1016/b978-0-323-35868-2.00039-6|ref=none
+They are both published by Elsevier and seem okay at first glance but I'm not sure if it's appropriate to use them. Any guidance on the topic is appreciated. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 23:31, 10 September 2024 (UTC)
+
+There are definitely editors who would prefer to use a non-standard article format, because they want to signal in every way that it's Not Real™.  There are also editors who prefer to use the standard format because it's generally a good way to organize the material, and prefer to use the words inside the section to communicate the complexities.
+I think the best answer depends on exactly how non-real it is.  I'd avoid the standard format for fictional (e.g., Dragon pox), invented (e.g., arthambles), or purely historical diagnoses (e.g., emale hysteria).  I'd use something similar to the standard format for diseases that are contested but tacitly accepted (think ulf War syndrome, which may not be a single disease in nosological terms, but it's definitely not imaginary).  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 02:55, 11 September 2024 (UTC)
+I think I'm going to stick to the typical format but just make it clear that it's not a real pathology as the concept behind adrenal fatigue isn't too out there. Do you have thoughts on the sources? ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 14:43, 11 September 2024 (UTC)
+Sometimes the 'standard' (/not standard) MOSMED headings are useful, but sometimes the FRINGE stuff is so whack they don't apply. A frequently useful heading for altmed topic is, for example, &quot;Conceptual basis&quot; which is not a 'standard' MOSMED one. ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 07:10, 11 September 2024 (UTC)
+I was also thinking of modifying the headings a bit. Like instead of signs and symptoms putting &quot;Associated symptoms&quot; to show that they are associated with the disease but not actual symptoms persay. For causes I was thinking of putting &quot;Proposed causes&quot; to show that they haven't been proven (or in some cases even disproven). ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 14:45, 11 September 2024 (UTC)
+That sounds good. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:40, 11 September 2024 (UTC)
+
+ Requested move at alk:Analgesic#Requested move 11 September 2024 
+The request has been withdrawn. Please ignore this. --ser:Un assiolo|Un assiolo (ser talk:Un assiolo|talk) 17:55, 11 September 2024 (UTC)
+
+ile:Information.svg|30px|left There is a requested move discussion at alk:Analgesic#Requested move 11 September 2024 that may be of interest to members of this WikiProject. ser:Un assiolo|Un assiolo (ser talk:Un assiolo|talk) 12:55, 11 September 2024 (UTC)
+
+
+*give opinion(gave mine)--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 17:33, 11 September 2024 (UTC)
+
+ Articles for deletion. 
+
+There is a couple medical pages up for deletion that I would appreciate some opinions on.
+
+a|1=Acral arteriolar ectasia – (ikipedia:Articles for deletion/Acral arteriolar ectasia|View AfDikipedia:Articles for deletion/Log/2024 September 14#nchorencode:Acral arteriolar ectasia|View log | pecial:Diff/1225388969/cur|edits since nomination)
+(ind sources AFD|title=Acral arteriolar ectasia)
+
+a|1=Keratin implantation cyst – (ikipedia:Articles for deletion/Keratin implantation cyst|View AfDikipedia:Articles for deletion/Log/2024 September 14#nchorencode:Keratin implantation cyst|View log | pecial:Diff/1217143545/cur|edits since nomination)
+(ind sources AFD|title=Keratin implantation cyst)
+
+a|1=Stippled nails – (ikipedia:Articles for deletion/Stippled nails|View AfDikipedia:Articles for deletion/Log/2024 September 14#nchorencode:Stippled nails|View log | pecial:Diff/1223392718/cur|edits since nomination)
+(ind sources AFD|title=Stippled nails)
+
+a|1=Tumor alopecia – (ikipedia:Articles for deletion/Tumor alopecia|View AfDikipedia:Articles for deletion/Log/2024 September 12#nchorencode:Tumor alopecia|View log | pecial:Diff/1223393546/cur|edits since nomination)
+(ind sources AFD|title=Tumor alopecia)
+
+There is also some PROD pages if anyone wants to take a look at those:
+
+a|1=Dysplastic nail
+(ind sources AFD|title=Stippled nails)
+
+a|1=Hypertrichosis simplex of the scalp
+(ind sources AFD|title=Stippled nails)
+
+Any input or opinions are welcomed and appreciated! ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 17:31, 14 September 2024 (UTC)
+
+Since I pulled the page views numbers above, I checked these for fun.  They're approximately in the top third of all Wikipedia articles for popularity.
+These all look like the kinds of things that someone might see in a lab report or a doctor's note and ask Dr. Google to explain what the terms mean.  I'm not sure that we need a separate article for any of them, but I believe that we need to have the information somewhere.  Consequently, I think I would make a very general recommendation that you spend more time in ikipedia:Proposed article mergers than in ikipedia:Articles for deletion or ikipedia:Proposed deletion, especially for diseases and variations on diseases (e.g., ypertrichosis simplex of the scalp, which is a specific monogeneic type of ypertrichosis – a viable merge target – and also about which you might be interested [https://www.google.com/books/edition/Progress_in_Monogenic_Hair_Disorders/A-zGlpYzlRYC?hl=en&amp;gbpv=1&amp;dq=%22Hypertrichosis+simplex%22&amp;pg=PA2&amp;printsec=frontcover in the table of genetic mutations here], and [https://www.google.com/books/edition/Haare_und_Haarboden_Schweissdr%C3%BCsen_Talg/-H3RBgAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Hypertrichosis+simplex%22&amp;pg=PA172&amp;printsec=frontcover its place in a broader classification scheme here] [in German]). ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:49, 14 September 2024 (UTC)
+Some of these I was on the fence about and some (such as the tumor alopecia page) I wouldn't choose to put up for deletion now (I would have instead redirected to alopecia). However I have redirected a lot of these smaller pages and the ones I chose to put up for deletion are pages that I didn't see a clear page to redirect to (although I do miss things). I do prefer to redirect when possible but some of these pages don't really have a page where I feel like they could be merged/redirected to. For example the page cral arteriolar ectasia doesn't seem to have a page that it could be redirected to. As for ypertrichosis simplex of the scalp there is no evidence that said disease exists. I could not find it in the source given and the only other mention of it described it as a type of alopecia and cites an article about HYPOtrichosis simplex of the scalp which leads me to believe it may have been a typo hence why I opted for deletion over a redirect. As always I really appreciate your feedback and knowledge. (I also for some reason could not access the two links you provided). ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 18:00, 14 September 2024 (UTC)
+Oh, that's fascinating.  The table says that hyPERtrichosis simplex is autosomal dominant, MIM 146520 in gene CDSN at locus 6p21.  But https://omim.org/entry/146520 names the same gene and the same locus and says it's about hyPOtrichosis.  Perhaps different mutations in the same gene have opposite effects?
+The book says:
+qb|1=Michelson unterschied bei der Hypertrichosis folgende Formen: 
+# Hypertrichosis indoles hereditaria
+#: A. Hypertrichosis universalis
+#:: a) die exzessive Behaarung der Haarmenschen,
+#:: b) die allgemeine starke Behaarung des männlichen Körpers,
+#: B. Hypertrichosis localis: 
+#:: a) Hypertrichosis simplex, die zu starke Behaarung einer Stelle bei unveränderter Haut
+#:: b) Hypertrichosis hypertrophica, die exzessive Behaarung der sog. Naevi auf überpigmentierter und pathologisch veränderter Haut.
+# Hypertrichosis acquisata transitoria (Klebs) als im extrauterinen Leben erworben:
+#:: a) Hypertrichosis neurotica, infolge neurotischer Ursachen,
+#:: b) Hypertrichosis irritativa, als Folge von Hautreizungen
+
+with the relevant bit being 1.B.a): 1. says that it's hereditary, B. says that it's localized, and a) says that it's too much hair in one place on otherwise normal skin.
+BTW, Google Books gave the publication date as 2013, but it's a reprint of a 1932 book.  Perhaps this is an older name and rarely used now? ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:40, 14 September 2024 (UTC)
+Interesting. I’m at a loss with this one. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 20:10, 14 September 2024 (UTC)
+
+ How to cite Dorland's medical dictionary? 
+
+Hello, can someone please explain how to cite Dorland's medical dictionary like this format.orlandsDict|six/000084389|Podocyte I found this format in odocyte|this article, yet I am unable to access other definitions. I'm looking for the definition of pericapillary end foot on Dorland's, but every time I try accessing it, I get directed to [https://web.archive.org/web/20111124023155/http://www.merckengage.com/common/ms_transition.aspx?WT.mc_id=MESOURCE&amp;MTD=1/ this page] instead. Can someone help me find it? ser:PecMo|PecMo (ser talk:PecMo|talk) 06:48, 15 September 2024 (UTC)
+eply|User:PecMo.... Could try ite book |title=Dorland's Illustrated Medical Dictionary |date=2020 |publisher=Elsevier |location=Philadelphia |isbn=978-1-4557-5643-8 |page=117 |edition=33rd |url=https://books.google.com/books?id=6WnDDwAAQBAJ&amp;pg=PA117 |language=en. ser:Whispyhistory|Whispyhistory (ser talk:Whispyhistory|talk) 07:29, 15 September 2024 (UTC)
+eflist-talk
+
+ Requested move at alk:Hospital-acquired infection#Requested move 8 September 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:Hospital-acquired infection#Requested move 8 September 2024 that may be of interest to members of this WikiProject. ser:SafariScribe|Safari Scribepecial:Contributions/SafariScribe|Edits! ser talk:SafariScribe|Talk! 04:52, 16 September 2024 (UTC)
+
+ Belladelli et al. (2023) 
+
+As suggested at ikipedia:Reliable sources/Noticeboard#Belladelli et al. (2023): Reliable or unreliable?, I have reposted here. Please, see ikipedia:Reliable sources/Noticeboard#Belladelli et al. (2023): Reliable or unreliable? for further details:
+
+ser:Way6t|Way6t has claimed Belladelli et al. (2023) is not a reliable source. I have claimed that Belladelli et al. (2023) apparently is a reliable source. P:RS and P:MEDRS have both been brought up in the discussion. Relevant discussion may be found at: alk:Human penis size#Discussion on the inclusion of Belladelli 2023. I have shared some relevant, summarized details below. Please, feel free to take a closer look at the source and share your thoughts.
+
+* [https://wjmh.org/DOIx.php?id=10.5534/wjmh.220203 &quot;Worldwide Temporal Trends in Penile Length: A Systematic Review and Meta-Analysis&quot;]: 
+&quot;Worldwide Temporal Trends in Penile Length: A Systematic Review and Meta-Analysis, authored by Federico Belladelli et al., and published in World Journal of Men's Health (from website: &quot;Open Access, Peer-Reviewed&quot;, &quot;Indexed in SCIE, SCOPUS, DOAJ, and More&quot;, &quot;pISSN 2287-4208 eISSN 2287-4690&quot;) on Feb 15, 2023. Also, included in the National Institutes of Health/National Library of Medicine's [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10523114/ PubMed Central] and [https://pubmed.ncbi.nlm.nih.gov/36792094/ PubMed].
+* Per uman penis size's &quot;A note regarding sources&quot; (editnotice), which links to P:MEDRS: 
+&quot;This is ultimately a medical/scientific article, and we should use medical/scientific sources that meet the de-facto standards here for sources in articles on medical topics. Given that we now have high-quality evidence in the form of several peer-reviewed studies on this topic published in reputable journals, including a systematic review of other studies, as sources for this article, we should not now be citing either crowdsourced user-generated data, or non-peer-reviewed analysis thereof, even if they been reported on in reliable sources such as the popular press.&quot;
+ser:Daniel Power of God|Daniel Power of God (ser talk:Daniel Power of God|talk) 04:36, 11 September 2024 (UTC)
+
+That would be:
+* ite journal |vauthors=Belladelli F, Del Giudice F, Glover F, Mulloy E, Muncey W, Basran S, Fallara G, Pozzi E, Montorsi F, Salonia A, Eisenberg ML |title=Worldwide Temporal Trends in Penile Length: A Systematic Review and Meta-Analysis |journal=World J Mens Health |volume=41 |issue=4 |pages=848–860 |date=October 2023 |pmid=36792094 |pmc=10523114 |doi=10.5534/wjmh.220203 |url=
+which is a review in a weak (non-MEDLINE) journal, and which has gained some notoriety as a poster child for problematic peer-review and correction.[https://pubpeer.com/publications/BD25A47419CADF0E00B518E12678E5?utm_source=Chrome&amp;utm_medium=BrowserExtension&amp;utm_campaign=Chrome]. I would avoid using it. ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 06:58, 11 September 2024 (UTC)
+I mean theres a lot of different things to look at here. It does pass some checks (it's recent, peer reviwed, not a case study etc.) but theres also some red flags such as the journal it's in, and controvery surrounding it. Ultimately it comes down to &quot;is this the best possible source we could be using here&quot;. If there are better sources out there then I wouldn't personally include it but I could maybe make an arguement for it if it truly was the best resource we have on the topic. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 14:49, 11 September 2024 (UTC)
+It may be a crazy idea but if there aren't great sources, maybe Wikipedia isn't absolutely obliged to say something about trends in penis length? ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 14:51, 11 September 2024 (UTC)
+While I do agree with this, the point I was trying to get across was &quot;is there better sources?&quot; as I'm a bit confused why this source specefically needs to be used. However I may not have gotten my point accross effectively. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 22:47, 11 September 2024 (UTC)
+https://www.scopus.com/sourceid/21100943924 gives that journal a good rating. 
+MID|38792302 (in an MDPI journal) is the only paper that appears to have cited it.
+Since P:RSCONTEXT matters, I think it's worth taking a look at the proposed text, which is this (three paragraphs, three different parts of the article):
+----
+More recently, the eta-analysis and systematic review by Belladelli et al. (2023) of 55,761 men from 75 studies, done between 1942 and 2021, and based on estimations of ooled mean length, indicated that the average erect penis length was vt|13.93|cm, average stretched penis length was vt|12.93|cm, and average laccid penis length was vt|8.70|cm. Belladelli (2023) indicated that &quot;all measurements showed variation by geographic region. Erect length increased significantly over time in several regions of the world and across all age groups, while no trends were identified in other penile size measurements. After adjusting for geographic region, subject age, and subject population; erect penile length increased 24% over the past 29 years.&quot; Belladelli (2023) also indicated that &quot;importantly, when the current analyses were adjusted for the technique to achieve erection, the point estimates remained similar.&quot;
+The eta-analysis and systematic review by Belladelli et al. (2023) of 55,761 men from 75 studies, done between 1942 and 2021, and based on estimations of ooled mean length, indicated that the average erect penis length was vt|13.93|cm, average stretched penis length was vt|12.93|cm, and average laccid penis length was vt|8.70|cm.ite journal |last1=Belladelli |first1=Federico |display-authors=etal |date=Feb 15, 2023 |title=Worldwide Temporal Trends in Penile Length: A Systematic Review and Meta-Analysis |url=https://wjmh.org/DOIx.php?id=10.5534/wjmh.220203 |journal=World Journal of Men's Health |volume=41 |issue=4 |pages=848-860 |doi=10.5534/wjmh.220203 |issn=2287-4208 |oclc=10168435334 |pmc=10523114 |pmid=36792094 |s2cid=263309386 Belladelli (2023) indicated that &quot;all measurements showed variation by geographic region. Erect length increased significantly over time in several regions of the world and across all age groups, while no trends were identified in other penile size measurements. After adjusting for geographic region, subject age, and subject population; erect penile length increased 24% over the past 29 years.&quot; Belladelli (2023) also indicated that &quot;importantly, when the current analyses were adjusted for the technique to achieve erection, the point estimates remained similar.&quot;
+The eta-analysis and ystematic review by Belladelli et al. (2023) of 55,761 men from 75 studies, done between 1942 and 2021, and based on estimations of ooled mean length, indicated that the &quot;current report identified a significant difference in penile measurements across different geographical regions.&quot; The average flaccid penile length was vt|8.09|cm in frica, vt|7.23|cm in sia, vt|9.44|cm in urope, vt|9.82|cm in orth America, and vt|11.00|cm in outh America.ite journal |last1=Belladelli |first1=Federico |display-authors=etal |date=Feb 15, 2023 |title=Table 2: Worldwide Temporal Trends in Penile Length: A Systematic Review and Meta-Analysis |url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10523114/table/T2/ |journal=World Journal of Men's Health |volume=41 |issue=4 |pages=848-860 |doi=10.5534/wjmh.220203 |issn=2287-4208 |oclc=10168435334 |pmc=10523114 |pmid=36792094 |s2cid=263309386 The average stretched penile length was vt|12.53|cm in Africa, vt|11.60|cm in Asia, vt|13.40|cm in Europe, vt|13.75|cm in North America, vt|15.60|cm in South America, and vt|12.13|cm in multiple regions. The average erect penile length was vt|14.88|cm in Africa, vt|11.74|cm in Asia, vt|14.12|cm in Europe, vt|14.58|cm in North America, vt|15.71|cm in ceania, vt|14.50|cm in South America, and vt|15.33|cm in multiple regions. Belladelli (2023) indicated that &quot;importantly, when the current analyses were adjusted for the technique to achieve erection, the point estimates remained similar.&quot; Belladelli (2023) also found that &quot;after adjusting for geographic region, subject age, and subject population; erect penile length increased 24% over the past 29 years.&quot;
+----
+This does not comply with the rule to ikipedia:Manual of Style/Medicine-related articles#Cite sources, don't describe them.  Compliant text for the first paragraph would sound approximately like this:  
+&quot;The average erect penis length was vt|13.93|cm, average stretched penis length was vt|12.93|cm, and average laccid penis length was vt|8.70|cm, with more recent studies showing longer erect penis length.&quot;
+That's it.  
+Also, we probably shouldn't be reporting &quot;the verage&quot; (edian? eometric mean?  rithmetic mean? eighted arithmetic mean?) down to a tenth of a millimeter.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:00, 11 September 2024 (UTC)
+I want to add:  Given how bad the rest of the article is, it would not be surprising if someone thought that the verbose version above was actually preferred.  I've just cut bunch of text out from one section, and far more of that work needs to be done.
+It's also in need of a lot of P:MEDDATE.  One of the sources cited was from 1988 – 36 years old, and 31 years older than what P:MEDDATE recommends. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:12, 11 September 2024 (UTC)
+eflist-talk
+ser:Bon courage|Bon courage, ser:IntentionallyDense|IntentionallyDense, and ser:WhatamIdoing|WhatamIdoing, thanks for sharing your thoughts, findings, and observations. 
+
+Bon courage has pointed out that Belladelli et al. (2023) is a review in a non-EDLINE journal ([https://www.ncbi.nlm.nih.gov/nlmcatalog/101596899 World Journal of Men's Health]). Bon courage has also shared the source from ubPeer, which shows: Guillaume Cabanac shared two excerpts (accepted by PubPeer in August) from the imes Higher Education's &quot;Peer review will only do its job if referees are named and rated&quot;, which was authored on August 14, 2024 by Randy Robertson. Per [https://www.susqu.edu/live/profiles/456-randy-robertson Susquehanna University], Randy Robertson is an Associate Professor of English and Creative Writing. Robertson does not appear to be a subject-matter expert in a relevant field, which seems to make the claims made in the article, including the cited excerpts from PubPeer, questionable in terms of weight as it relates to this present discussion.
+
+WhatamIdoing has shared the source from copus and pointed out that Scopus gives the World Journal of Men's Health a good rating ([https://www.scopus.com/sourceid/21100943924#tabs=1 CiteScore rank 2023: 7.6, #11/120, 91st percentile]) as well as pointed out that Belladelli et al. (2023) has been cited by Bene et al. (2024) via ournal of Clinical Medicine (an DPI journal). [https://wjmh.org/DOIx.php?id=10.5534/wjmh.220203 World Journal of Men's Health] indicates that, via rossref, Belladelli et al. (2023) is cited by [https://www.mdpi.com/2077-0383/13/10/2760 Bene et al. (2024)], [https://link.springer.com/article/10.1007/s10508-024-02871-z Hanson et al. (2024)] via rchives of Sexual Behavior (a pringer Science+Business Media journal), and [https://www.nature.com/articles/s41443-023-00728-y Seranio et al. (2023)] via nternational Journal of Impotence Research (a pringer Nature journal).
+
+If the observation made about the cited excerpts from PubPeer being questionable is accepted and PubPeer, in this particular case, is accepted as not ultimately bearing weight in the discussion about Belladelli et al. (2023), then what has apparently been established is that the World Journal of Men's Health is a non-MEDLINE journal with a good rating from Scopus, and that Belladelli et al. (2023) – an article in the World Journal of Men's Health – is cited by three articles, one from an MDPI journal, one from a Springer journal, and one from a Springer Nature journal. What do you all think? ser:Daniel Power of God|Daniel Power of God (ser talk:Daniel Power of God|talk) 20:06, 18 September 2024 (UTC)
+
+Avoid. ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 20:13, 18 September 2024 (UTC)
+@ser:Daniel Power of God|Daniel Power of God, I think that &quot;is this reliable?&quot; is not the question that needs to be asked right now.  The article has much bigger problems.  
+Would you please read the alk:Human penis size#WP:MEDSAY copyediting and try to implement that for a couple of sections?  After you learn how to apply P:MEDSAY to this subject, then I think you'll be in a better position for talking about this particular source.
+@ser:Ozzie10aaaa|Ozzie10aaaa, if you have some time available in the next couple of weeks, would you mind dropping l|primary-source-inline and l|outdated source on that article?  I think the contributors there are trying their best, but they seem to be creating a comprehensive bibliography instead of an encyclopedia article.  I'm pretty lenient about the five-year recommendation in P:MEDDATE, but about 20% of the cited sources are from the previous century, meaning that a whole generation has been born and finished university since they were published.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 20:33, 18 September 2024 (UTC)
+WAID. will do tomorrow, no problem, Ozzie--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 20:44, 18 September 2024 (UTC)
+*one [https://en.wikipedia.org/w/index.php?title=Human_penis_size&amp;action=history]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 15:26, 19 September 2024 (UTC)
+*:hank you!  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:19, 19 September 2024 (UTC)
+
+ Requesting input at Teahouse on a draft 
+
+Please comment at ikipedia:Teahouse#How should I move Draft:Childhood dementia to the mainspace?, not here. Moving the draft itself [over an existing redirect] when ready is trivial, so the main question I am seeking additional viewpoints to is if raft:Childhood dementia is indeed ready for mainspace or suggestions for improvement. Thank you, ser:Rotideypoc41352|Rotideypoc41352 (ser talk:Rotideypoc41352|talk · pecial:Contribs/Rotideypoc41352|contribs) 18:29, 19 September 2024 (UTC)
+did a few edits[https://en.wikipedia.org/w/index.php?title=Draft:Childhood_dementia&amp;action=history]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:56, 20 September 2024 (UTC)
+
+Calculators
+We at Wiki Med have been working on developing medical calculators which you can see here on EN WP ser:Doc_James#Calculator or at dwiki:Body mass index or dwiki:CHA2DS2–VASc score. Not sure if there is interest here. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 21:11, 20 September 2024 (UTC)
+very useful[https://mdwiki.org/wiki/CHA2DS2%E2%80%93VASc_score] to add to some articles, IMO--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 23:51, 20 September 2024 (UTC)
+
+ Requested move at alk:Perspiration#Requested move 21 September 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:Perspiration#Requested move 21 September 2024 that may be of interest to members of this WikiProject. ser:Robertsky|– robertsky (ser talk:Robertsky|talk) 08:02, 21 September 2024 (UTC)
+
+ Post herniorraphy pain syndrome 
+
+I have been asked to relay a request for an update to ost herniorraphy pain syndrome; the cites are all more than a decade old, and it seems to be an area of active R&amp;D, where expertise would be really useful. Many thanks in advance to anyone who takes this on, or recruits someone who does. ser:HLHJ|HLHJ (ser talk:HLHJ|talk) 01:28, 24 September 2024 (UTC)
+
+Looks like there isn’t a whole lot of literature on the topic but I’ll see what I can do! ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 02:41, 24 September 2024 (UTC)
+Thank you very much, |IntentionallyDense! ser:HLHJ|HLHJ (ser talk:HLHJ|talk) 19:59, 24 September 2024 (UTC)
+
+ Improving + Translating APBD article 
+
+My name is Jeff Levenson and I am a volunteer co-president of the Adult Polyglucosan Body Disease Research Foundation (APBD RF). 
+APBD is a genetic neurodegenerative, glycogen storage disease type IV which often mimics MS. Because of that, most of our patients are misdiagnosed and take on average seven years to be properly diagnosed. I have been working on the dult polyglucosan body disease|APBD Wiki page in hopes of improving awareness about this disease. There is an English and German versions of the APBD page, but we desperately need help on other translations. i.e. Spanish, Portuguese, Polish, etc. 
+
+Can someone tell me if there a red link index and if it is recommended to use Wikidata  platform and/or Wiki Project: medicine to grapple with the challenges of spreading the word about APBD and allied diseases? ser:BabaJuly1982|BabaJuly1982 (ser talk:BabaJuly1982|talk) 15:49, 24 September 2024 (UTC)
+
+Welcome to Wikipedia, @ser:BabaJuly1982|BabaJuly1982.  Before you request translations, I suggest that you look for some more sources.  The main goal is to have the facts be up to date, but also to make it easy for editors to see at a glance that the facts are probably up to date, just by looking at how old the cited sources are.  The ideal is to get high-quality sources within the last five years; for rare diseases, it's often necessary to stretch that a bit.  Here is [https://pubmed.ncbi.nlm.nih.gov/?term=Adult+polyglucosan+body+disease&amp;filter=pubt.meta-analysis&amp;filter=pubt.review&amp;filter=pubt.systematicreview&amp;filter=datesearch.y_10&amp;filter=other.medline&amp;sort=date&amp;size=200 a list of newer medical journal articles] that might be useful, if you'd like to have a look.  
+When you feel like it's in good shape, then I suggest that you go to :Talk:Wiki Project Med and click the &quot;Add topic&quot; button at the top of the page, and leave a note to ask if anyone is coordinating translations at the moment.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:24, 24 September 2024 (UTC)
+ser:BabaJuly1982 yes we at Wiki Project Med have an ongoing translation project. We generally are only translating the leads of articles and for a lead of an article to be deemed ready for translation every sentence must be referenced to a high quality secondary source. Our translation dashboard is [https://mdwiki.toolforge.org/Translation_Dashboard/index.php here] and we have had more than [https://mdwiki.toolforge.org/Translation_Dashboard/leaderboard.php 3,500 translations] created by volunteers as a result of this initiative since 2021. Reach out when the lead of this article is ready and we can discuss next steps. ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 00:18, 26 September 2024 (UTC)
+
+ Priority rating maintenance 
+
+We seem to have some creep in Category:High-importance medicine articles.  Here are a few that I thought should be removed (presumably to Mid-importance, but let me know):
+
+* lteplase
+* liskiren
+* mantadine
+* rachidonic acid
+* lue baby syndrome
+* enzodiazepine dependence
+* ifidobacterium
+* ifidobacterium longum
+* lostridium (the genus, not lostridioides difficile infection)
+* iagnostic and Statistical Manual of Mental Disorders
+* conomic impact of HIV/AIDS
+* rror#Medicine|Error (not edical error)
+* riedreich's ataxia
+* I cocktail
+* uman T-lymphotropic virus 1
+* CD-10
+* nnate resistance to HIV
+* ist of medicine contamination incidents
+
+The rules are:  You tell me what rating you want, and it's okay with me.  I've picked these out by scrolling through the first half of the category, and it would actually be extremely helpful and desirable for you to tell me that I'm wrong about any of these that you think should be kept at this level.  If you don't have a good feeling for how we usually rate things, then Category:High-importance medicine articles|click on the category and scroll around for a few seconds (or ikipedia:WikiProject Medicine/Assessment|read the documentation, but scrolling through the cat will be faster and may be more helpful).  
+
+ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 05:28, 26 September 2024 (UTC)
+
+The only ones I could even see an arguement for being high priority are benzo dependance and GI cocktail however I have no issues with these being rated mid importance. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 13:49, 26 September 2024 (UTC)
+
+ Requested move at alk:Sexual disorder#Requested move 30 September 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:Sexual disorder#Requested move 30 September 2024 that may be of interest to members of this WikiProject. ser:Web-julio|Web-julio (ser talk:Web-julio|talk) 03:26, 30 September 2024 (UTC)
+
+ Requested move at alk:Oracle Cerner#Requested move 19 September 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:Oracle Cerner#Requested move 19 September 2024 that may be of interest to members of this WikiProject. ser:98Tigerius|98𝚃𝙸𝙶𝙴𝚁𝙸𝚄𝚂 ser talk:98Tigerius|[𝚃𝙰𝙻𝙺] 03:18, 27 September 2024 (UTC)
+thanks for posting--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 18:21, 2 October 2024 (UTC)
+
+ Potentially innacurate/outdated sentence in Childhood Dementia 
+
+I raised some concerns over a sentence in Childhood dementia saying: euronal ceroid lipofuscinosis|&quot;Neuronal ceroid lipofuscinoses, a group of ysosomal storage disease|lysosomal storage disorders, are thought to be its most common subtype.&quot;
+
+Is anyone interested in alk:Childhood dementia#Are NCLs the most common subtype of conditions in Childhood Dementia?|joining the discussion?
+
+My hope is that we can reach a consensus on whether the sentence is accurate or not. And if not, then what the best course of action is.
+
+Thank you. ser:Irina Rainbow|Irina Rainbow (ser talk:Irina Rainbow|talk) 18:37, 3 October 2024 (UTC)
+
+ Supraventricular ectopy  
+
+We have no entry for upraventricular ectopy. Should we, or should it be a redirect? ser:Pigsonthewing|Andy Mabbett (Pigsonthewing); ser talk:Pigsonthewing|Talk to Andy; pecial:Contributions/Pigsonthewing|Andy's edits 09:20, 3 October 2024 (UTC)
+
+Is it the same as [https://www.merckmanuals.com/en-ca/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/ectopic-supraventricular-arrhythmias Ectopic Supraventricular Arrhythmias]? I'm not sure that it has to be a page persay but I'm not sure where you would redirect it to either. Did you have any ideas? ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 14:38, 3 October 2024 (UTC)
+I have no medical knowledge; I was looking for the topic as I know someone who was recently diagnosed with SEV. ser:Pigsonthewing|Andy Mabbett (Pigsonthewing); ser talk:Pigsonthewing|Talk to Andy; pecial:Contributions/Pigsonthewing|Andy's edits 18:32, 3 October 2024 (UTC)
+It's possible that it could be redirected to ctopic beat. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 20:33, 3 October 2024 (UTC)
+
+ What's the consensus on MOS with regard to conventional vs &quot;person first language&quot; ?  
+
+There's a disagreement over conventionally wording vs &quot;person first language&quot; phrasing regarding pecial:Diff/1250560686|this edit. What's the general consensus on this and is there something in MOS that addresses this? 
+
+The long standing phrasing was:
+A needle and syringe programme (NSP), also known as needle exchange program (NEP), is a social service that allows injecting drug users (IDUs) to obtain clean and unused...
+
+One user came along and keeps putting their preferred version: 
+A needle and syringe programme (NSP), also known as needle exchange program (NEP), is a social service that allows people who inject drugs to obtain clean and unused...
+
+I personally prefer the long-standing version, although I was wondering what the consensus of the project prefers. 
+ser:Graywalls|Graywalls (ser talk:Graywalls|talk) 02:07, 12 October 2024 (UTC)
+
+@ser:Graywalls|Graywalls, have you found P:SUFFER?  
+You could also address the problem in a different way, e.g., &quot;...allows people to obtain clean and unused... This is intended to reduce the risks associated with injection of recreational drugs&quot; (or something like that).   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 02:36, 12 October 2024 (UTC)
+Yep, and I see &quot;Many patient groups, particularly those that have been stigmatised, prefer person-first terminology&quot;, but no definitive guidance on which should, or shall be used in Wikipedia articles. ser:Graywalls|Graywalls (ser talk:Graywalls|talk) 02:46, 12 October 2024 (UTC)
+Non-stigmatizing language is preferable, of course, as is a writing style that is clear, direct, and concise.  It is not always possible to achieve all of these desirable things in the same sentence.  As for which to prefer in a tradeoff, we have not found it necessary to have a hard and fast rule, and of course one of the fundamental policies is that there are P:No firm rules anyway. 
+Personally, if I were going to try to improve that article, I think it would be more productive to focus on the outdated facts instead of the wording of the one sentence. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 03:01, 12 October 2024 (UTC)
+e|WhatamIdoing, any objection to restoring the original phrasing alongside addressing outdated info? I think it's more concise and gets the point across. ser:Graywalls|Graywalls (ser talk:Graywalls|talk) 13:42, 12 October 2024 (UTC)
+
+ Introduction and Hello 
+
+Hello everyone
+
+I have been advised to come to this page and introduce myself. I am part of a team of instructors guiding undergrad students in creating articles on medical topics. These students are from the pharmacy and biomedical science disciplines at the faculty of medicine in our Uni. For various reasons, last semester I was involved in moving articles to the main space. Going forward this part will be handled by a more experienced editor in my location. How this space will be hugely beneficial is in helping us guide our students in writing quality articles. 
+
+To give you some background about our process, we begin by showing our students the ikipedia:Requested articles/Medicine|requested medical article list. There are issues with this list and thanks to some helpful members of this community, I have already been given some suggestions on how to handle this list and ideas for modifying this element of our guidance. Any other suggestions regarding this list or suggestions on how to get our medical students started are welcome! The suggested ideas so far will require some substantial restructuring in our syllabus from assignment design to modification of the assessment rubric which may not be possible for the next cohort. Students go through a 3-month period from topic selection to drafting, peer reviewing to final submission before we move the articles to the main space. We make students submit a downloaded PDF version of their sandbox drafts to Turnitin for plagiarism checking. Their submissions come at the end of the semester, and students tend not to engage in continuous edits once they have completed the course with us despite us encouraging them to do so. We understand well that not all articles will be accepted and we tell students that the best ones will go through. 
+
+I have a lot of questions regarding general Wikipedia protocols as well as questions specific to medical articles. Now that I have found this space, I will use it to check our alignments when the course gets going in January and students submit drafts. Nice to meet you here and I look forward to engaging with you.  ser:G.J.ThomThom|G.J.ThomThom (ser talk:G.J.ThomThom|talk) 02:14, 14 October 2024 (UTC)
+
+Thanks for this note.  But first I want you to show off some of the work done by your previous students.  Nobody expects a perfect article from any new editor, but yours seem to have done pretty well so far, and you've done a good job of teaching them that material needs citations from the beginning. 
+If you've got a list of those still in Draft: space, that would also be useful to have.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 03:50, 14 October 2024 (UTC)
+Here you go:
+orsal pancreatic agenesis
+rtificial saliva
+-linked genetic disease
+ermatologic surgical procedure
+cquired hand deformity
+lue light spectrum
+ex and drugs
+ace washing
+icroneedles
+regnancy hormones
+atatonic depression
+uman chimera
+irus crystallisation
+issue transplantation
+ongenital pseudarthrosis of the tibia
+igh-dose chemotherapy ser:G.J.ThomThom|G.J.ThomThom (ser talk:G.J.ThomThom|talk) 03:57, 14 October 2024 (UTC)
+Thank you for your comments @ser:WhatamIdoing|WhatamIdoing ser:G.J.ThomThom|G.J.ThomThom (ser talk:G.J.ThomThom|talk) 04:09, 14 October 2024 (UTC)
+With the next cohort, I will share excerpts during the drafting phase for comments and suggestions if I need them (very likely!).  ser:G.J.ThomThom|G.J.ThomThom (ser talk:G.J.ThomThom|talk) 04:19, 14 October 2024 (UTC)
+Thanks for this list.  I see a couple of them ended up getting ikipedia:Merging|merged and redirected to another article, which is fine. Some of these surprise me:  How did we not have articles on ace washing or igh-dose chemotherapy until this year?  In general, I think we're missing a lot of &quot;intermediate&quot; level articles:  we have hemotherapy and we have articles on individual drugs and regimens, but we don't have all the articles on general categories.  
+I know that you and IntentionallyDense are working on a list of possible articles for the next class, which should make things a little easier.  ikipedia:Requested articles/Medicine needs some clean up work.  You might also think about topics that are unrequested but still appropriate.  For example, we have the general article for rain tumor, but no article specifically about brain tumors in children, and that's the second most common category of hildhood cancer|pediatric cancer. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:11, 16 October 2024 (UTC)
+
+ PRAL 
+
+Hello everyone. In otential renal acid load (PRAL) it appears that this concept is somehow valid and is somehow contradicting: One the one hand the body produces acid which on the other hand does not affect pH of the blood (which is good, as otherwise the wrong food will kill you).
+
+Is there more reliable information about this? Best --ser:Julius Senegal|Julius Senegal (ser talk:Julius Senegal|talk) 17:44, 15 October 2024 (UTC)
+
+There's an alternative medicine diet about acid-producing foods, and I think that having a good article here might be the best defense against pseudoscientific nonsense creeping in.   
+@ser:Julius Senegal|Julius Senegal, there is some information about how PRAL is calculated [https://www.google.com/books/edition/Nutritional_Management_of_Renal_Disease/YZfhDwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Potential+renal+acid+load%22&amp;pg=PA136&amp;printsec=frontcover in this book] (start on pg 136, second column, and continues to the next page) and [https://www.google.com/books/edition/Biomarkers_of_acid_base_status_and_their/2qVwEAAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Potential+renal+acid+load%22+%22PRAL%22&amp;pg=PT27&amp;printsec=frontcover this book] might also be useful.  PRAL correlates with et acid excretion.[https://www.google.com/books/edition/Modern_Nutrition_in_Health_and_Disease/9zZvEAAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Potential+renal+acid+load%22+%22PRAL%22&amp;pg=PA120&amp;printsec=frontcover]  [https://www.google.com/books/edition/Fluid_Electrolyte_and_Acid_Base_Disorder/kBC-EAAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Potential+renal+acid+load%22+%22PRAL%22&amp;pg=PA518&amp;printsec=frontcover This book] and [https://www.google.com/books/edition/Nutrition_Therapy_for_Urolithiasis/xipADwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Potential+renal+acid+load%22+%22PRAL%22&amp;pg=PA103&amp;printsec=frontcover this one] describe it in terms of a dietary pattern (fruits and vegetables good; aged cheese bad) for kidney patients.  There is a related concept of ietary acid load (PRAL plus the acid actually in the food [https://pubmed.ncbi.nlm.nih.gov/38282081/]).  
+I'd love it if you'd have a go at expanding that article a bit. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:33, 16 October 2024 (UTC)
+
+ Second Opinion on the page umor necrosis factor 
+
+I've decided to officially ask for a second opinion on the umor necrosis factor GA review (page:alk:Tumor necrosis factor/GA1 and nominator:@ser:AdeptLearner123|AdeptLearner123) I'm mostly looking for second opinions regarding prose, readability, and broadness. Feel free to jump in wherever and offer what suggestions you have! ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 14:50, 2 October 2024 (UTC)
+thank you for post--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 20:46, 16 October 2024 (UTC)
+
+ Best Practices for Teaching Students to Write Effective Lead Sections 
+iscussion moved from|Wikipedia:Education noticeboard#Best Practices for Teaching Students to Write Effective Lead Sections
+The boxed content originally appeared at P:ENB; please follow up below the box. ser:Mathglot|Mathglot (ser talk:Mathglot|talk) 17:41, 16 October 2024 (UTC)
+
+ray|Copy of discussion originally at ikipedia:Education noticeboard#Best Practices for Teaching Students to Write Effective Lead Sections.
+xcerpt|Wikipedia:Education noticeboard|Best Practices for Teaching Students to Write Effective Lead Sections|hat=no
+
+Discussion moved here upon request. Please respond to ser:G.J.ThomThom's questions about &quot;t|guiding students in composing medical articles for Wikipedia&quot; below. Thanks, ser:Mathglot|Mathglot (ser talk:Mathglot|talk) 17:41, 16 October 2024 (UTC)
+
+You'll want to look over ikipedia:Manual of Style/Medicine-related articles#Content sections, if you haven't before.  The lead for a well-developed article about a disease usually has four paragraphs, and they usually combine some of these elements:
+* Definition, cause, and symptoms
+* Diagnosis and treatment
+* Screening, prevention, prognosis
+* Epidemiology, history, cultural information
+I've broken this list up to suggest four possible paragraphs, but ►you must use your judgment to pick the right elements.  For example, some disease have no treatment and the diagnostic process is simple and boring (e.g., run a lab test), so diagnosis and treatment wouldn't make a good paragraph.  Or the cause is unknown and it has no symptoms.  In that case, merge, rearrange, or omit whatever doesn't seem important.
+I don't think that medication articles follow the same pattern, but ikipedia:WikiProject Pharmacology/Style guide#Sections has a few specific details that they recommend including.  As a general rule for a Wikipedia article, you can look down the Table of Contents for the article, and the lead ought to say something (sometimes only half a sentence) about most of the sections.
+I helped with the recent updates to OS:LEADLENGTH, and I think that your students could set a goal of having at least 100 words in the lead.  That's usually feasible even for an article that isn't very long or well-developed yet.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:34, 16 October 2024 (UTC)
+Thank you and all noted. A lot has been clarified for me now regarding the lead.  ser:G.J.ThomThom|G.J.ThomThom (ser talk:G.J.ThomThom|talk) 23:37, 16 October 2024 (UTC)
+
+ What the heck happened to the nicotine article? 
+
+I am posting this here instead of on the talk page of the article, because I'd like to get the opinion of a broader base of editors interested in this, rather than just the (likely zero) people who read the talk page of the article in question.
+
+I was reading the article on icotine and noticed that the &quot;Adverse effects&quot; section was looking very sparse considering the nature of the substance. Particularly the subsection on the effects on the cardiovascular system was suspiciously sparse, given that nicotine is widely known to have an effect on blood pressure and heart rate. I checked an [https://en.wikipedia.org/w/index.php?title=Nicotine&amp;oldid=877772054#Adverse_effects older version] of the page from 2019, and back then the &quot;Adverse effects&quot; section was much longer with many paragraphs of comprehensively cited text (did not evaluate the contents of the citations though), including on cardiovascular health. Sure, it wasn't perfect and was in obvious need of cleanup, but the difference to the current article is night and day.
+
+What happened? Given the subject matter, my spidey sense detects a whiff of foul play. I am probably incapable of really doing anything about it myself (far from my field of expertise, and the article seems pretty controversial), but this bothered me enough that I wanted to ask for the opinions of editors with more experience on articles like this. —ser:Turdas|turdasser talk:Turdas|talk - pecial:Contributions/Turdas|contribs 19:12, 19 October 2024 (UTC)
+
+@ser:Turdas|Turdas, it looks like there was a ikipedia:Sockpuppetry|sock named ser:Westwourd editing that article in 2020, but I thought all of that got reverted.  That section had [https://en.wikipedia.org/w/index.php?title=Nicotine&amp;oldid=877772054#Adverse_effects already] been re-written by that point.  I wonder if the changes you've noticed could be found in [https://sigma.toolforge.org/usersearch.py?name=QuackGuru&amp;page=Nicotine&amp;server=enwiki&amp;max= the list of edits from this user].
+The best thing to do at this point would be to find a really great source and start over from scratch.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:13, 19 October 2024 (UTC)
+
+ How to use withdrawn Cochrane reviews 
+
+Hello! I am currently working through this [https://en.wikipedia.org/w/index.php?title=Category:Articles_citing_retracted_publications&amp;pageuntil=Shame#mw-pages] category of articles which retractionbot has tagged as citing retracted articles. While doing so I noticed a substantial portion of these related to medicine come from ochrane Library. Cochrane withdraws articles after a period of time - even before forthcoming updated medical reviews are published. [https://retractionwatch.com/2010/09/20/progressive-how-the-cochrane-library-handles-updates-in-progress/]
+
+I understand the risk of outdated medical articles, but many of them that I have seen cited are done for what I understand to be showing common treatment methods, rather than experimental treatment methods. This post here is seeking advice from those with more experience editing medical articles on how such withdrawn papers can or should be used. The following questions are especially helpful:
+* Should withdrawn Chochrane reviews still be cited for basic information on common treatment methods and/or experimental methods, or should they be tagged with etter source?
+* Should withdrawn Cochrane reviews have their year cited in text if they have been withdrawn due to being outdated?
+ser:Relmcheatham|Relm (ser talk:Relmcheatham|talk) 10:13, 23 October 2024 (UTC)
+Good question! I remove a withdrawn review citation entirely. If the evidence shared is still accurately conveyed, I try to replace it with a high quality secondary source that shares the same evidence in background sections or by looking to see if a new review supersedes it (if not updated). ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 13:27, 23 October 2024 (UTC)
+Hi again ing|Relmcheatham when you fix or replace a citation in an article from the list [https://en.wikipedia.org/w/index.php?title=Category:Articles_citing_retracted_publications&amp;pageuntil=Shame#mw-pages]  what do you do? Do you edit the list to let people know it has been verified/completed? Thanks.ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 14:51, 23 October 2024 (UTC)
+If they're only withdrawn out of precaution for being outdated, and are still the most up-to-date Cochrane review, then there's no real reliability issue save possibly for P:MEDDATE. See also ikipedia:Wikipedia_Signpost/2024-06-08/Special_report#c-Tom_Morris-20240609163300-Compassionate727-20240609004800|Tom Morris's 16:33, 9 June 2024 (UTC) comment in ikipedia:Wikipedia Signpost/2024-06-08/Special report.  ser:Headbomb|Headbomb {ser talk:Headbomb|t · pecial:Contributions/Headbomb|c · P:PHYS|p · P:WBOOKS|b} 15:52, 23 October 2024 (UTC)
+Thanks for the clarification! I think that fits with the examples I gave in the comment below of where I handled it. Please feel free to give those a look and see if there is perhaps a more preferable way to tag those. ser:Relmcheatham|Relm (ser talk:Relmcheatham|talk) 16:45, 23 October 2024 (UTC)
+I do the following:
+* I check the context (is it a medical claim, is it just one sentence or is it something integral to the page, is it the author's work, is the retraction mentioned on the page, etc)
+* I check the retraction notice/reason
+* If it is intentional cite, I tag it (you just insert '|intentional=yes' at the end of the reference) and mark the edit as minor (if that's all I do, otherwise I leave it as a major edit).
+* If it is an unintentional citation that is specific to that one study, I remove the claim citing the reason in the retraction. (Data manipulation, fraud, etc)
+* If it is an unintentional citation that seems likely to be backed up by other sources, then I tag it with nreliable source and etter source per the context.
+* If it is any more complex than that to where I would need to pick apart the page or find replacement sources, I will either leave it alone for now (not tag it so it stays in the category) or I post on the page's talk section so someone more familiar with the subject can handle it.
+On that last point I actually intended to narrow down the simple retracted citations until it was just the difficult ones that are too woven into the page or should be handled with care (around half of the retracted citations are medical in nature), and once that happened I would make a topic here with a list + summary of the more complex ones left. Examples of these complicated cases would be eight Loss and ype A and Type B personality theory where both cases are cited many times throughout the body of the article, and would likely need the eyes of someone far more familiar with the subject. I am a historian, so I have been leaning on caution when choosing what to edit and what to leave alone.
+I came here to ask this question since this particular source gave me trouble, and I know that there is a higher standard of scrutiny for editing medical articles and wanted to make sure I was doing it correctly. So far I have only edited three articles with a cochrane retraction. 
+# One was for a routine treatment for tongue disease that had been retracted due to the dentists not being able to update the study years later. [https://en.wikipedia.org/w/index.php?title=Tongue_disease&amp;diff=prev&amp;oldid=1252875795] This is the dif for that.
+# Another was [https://en.wikipedia.org/w/index.php?title=Osteoarthritis&amp;diff=prev&amp;oldid=1252868643] where I removed the source. In hindsight I believe given the context that this was a mistake, and so I have put it more in line with the previous example.
+# The third I would need to hunt down again, but I handled it like the first.
+Hope this helps. ser:Relmcheatham|Relm (ser talk:Relmcheatham|talk) 16:38, 23 October 2024 (UTC)
+Relm, I just want to say hank you for dealing with that category.  It's important work. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:17, 23 October 2024 (UTC)
+No problem! A few months ago I saw a post on a noticeboard requesting people sort through it. I did a few of the notable anti-vax figures before I got carried away with other projects. I went back to it and thought it would be a nice project while I have some free time to try and reduce it from 260 to as low as I can get it before calling in the specialists. ^^ ser:Relmcheatham|Relm (ser talk:Relmcheatham|talk) 16:40, 23 October 2024 (UTC)
+The Cochrane update bot is still working well. This flags reviews that are cited in articles when an updated version of the same review is published via MedLine, it updates the list monthly. It is up to date this month. This does not flag retracted reviews though.ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 21:29, 23 October 2024 (UTC)
+
+ Requested move at alk:The seven-year itch#Requested move 16 October 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:The seven-year itch#Requested move 16 October 2024 that may be of interest to members of this WikiProject. ser_talk:Asukite| ASUKITE 15:44, 25 October 2024 (UTC)
+
+ DMOZ and Curlie in External links 
+
+For a long while, this group has encouraged people to add a link to a MOZ or its successor, urlie.  The advantage is that having a link to a eb directory means we had less on-wiki maintenance to do and could redirect any spammy promoters to those websites.  However, the nearly moribund Curlie has finally shut down, and after a P:TFD discussion, all of these links are being removed by bot.
+
+If you want to add ikipedia:External links to an article, please consider a web directory.  You should pick the best site you can find, even if it's not an &quot;official&quot; webpage in any way.  Alternatively, pick a small number of websites that ikipedia:ELNO#EL1|do not substitute for article content.  Finally, if you decide that the best result for that article is no links, then consider moving any bulky sister link templates up into the top of the previous section (whatever that is), and then remove the External links section heading.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 07:00, 20 October 2024 (UTC)
+
+Thank you for the update WAID. Any chance someone who isn't afraid of template syntax could remove Curlie support from l|Medical resources? It's P:Template protection|template protected so you'll need to be a P:Template editor|template editor or administrator (or setup an edit request, which should be fairly straightforward; I can sort the latter out, I just thought it might be smoother coming from someone who understands templates).
+I think that's the only change needed in our guidance docs. I removed the Curlie recommendation at MEDMOS relatively recently. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 17:40, 25 October 2024 (UTC)
+It looks like it'll be pretty easy to strip out.  I've posted an edit request with the necessary details, as best as I can make out. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:00, 25 October 2024 (UTC)
+Thank you, that did make it look easy! ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 18:25, 25 October 2024 (UTC)
+
+ P:Peer review|Peer review request for rohn's disease 
+
+Hi all, |AdeptLearner123 is requesting feedback on rohn's disease at ikipedia:Peer review/Crohn's disease/archive2. Please have a look to help with their efforts to improve the article. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 13:25, 27 October 2024 (UTC)
+
+viCore
+I recently created a stub for viCore, a medical benefits management company. The company is the subject of a recent article by roPublica titled [https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations “Not Medically Necessary”: Inside the Company Helping America’s Biggest Health Insurers Deny Coverage for Care]. It may be of interest to members of this project. ser:Thriley|Thriley (ser talk:Thriley|talk) 22:47, 25 October 2024 (UTC)
+interesting article, thanks--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 01:31, 28 October 2024 (UTC)
+
+Marburg outbreak
+have started wanda Marburg disease outbreak , it should be noted this is the first time this occurs in Rwanda (and in recent years in other countries) please feel free to add/delete, thank you--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:32, 29 September 2024 (UTC)
+Added stuff on the socioeconomic/legal reasons that we don't have a vaccine in production yet. See also conomics of vaccines. 
+
+I should like to see an analysis of whether the existence of legal monopolies in the biomedical field is a net benefit to taxpayers, because it clearly has enormous negative externalities. This is doubly important because, outside the chemical and pharma sector, patents seem not to be a net benefit even to their owners (in the US, as of 2008;ite book |last1=Bessen |first1=James |last2=Meurer |first2=Michael J. |title=Patent failure : how judges, bureaucrats, and lawyers put innovators at risk |chapter=1 |date=2008 |publisher=Princeton University Press |location=Princeton |isbn=9780691143217 |url=http://www.researchoninnovation.org/dopatentswork/ |access-date=28 January 2021 (from fulltext of chapter one available at URL as a free sample) from ikipedia:Reference desk/Archives/Science/2021 January 26#How not to patent does help in further the advancement of science?|a Refdesk query). So the onus is rather on patents to show that they should exist. ser:HLHJ|HLHJ (ser talk:HLHJ|talk) 02:56, 3 October 2024 (UTC)
+I will also add some material, thanks for starting it ser:Noxoug1|Noxoug1 (ser talk:Noxoug1|talk) 08:06, 31 October 2024 (UTC)
+eflist-talk
+
+Also started arburg vaccine, just by copy-pasting from existing articles, because we have bola vaccine and did before one was in production, and because organizationally, a central place for that information would be good. ser:HLHJ|HLHJ (ser talk:HLHJ|talk) 04:00, 3 October 2024 (UTC)
+
+ DOIs vs PMIDs 
+
+Given the choice we should be preferring the former I think as it is an International Standard not a proprietary one. I suppose there may be a risk that PMIDs stop working if the US govt has its resourcing pulled? ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 06:36, 30 October 2024 (UTC)
+
+But they aren't equivalent. MID|37111210 takes me to the PubMed website with its own copy of the abstract and author details and other links and information. oi|10.3390/nu15081991 takes me to the publisher website's copy of the article. Surely there's a similar risk that a publisher might go under or suffer a Crowdstrike-like systems failure. And if PubMed stops being funded, who's to say International DOI Foundation might have some big falling out or loss of funding too, meaning all our doi.org links stop working.  I don't know why you are asking us to prefer one or the other. Let's have both. -- ser:Colin|Colin°ser talk:Colin|Talk 09:12, 31 October 2024 (UTC)
+Both sounds a safe option. I suppose I'm feeling jittery after seeing what problems the disappearance of the Internet Archive caused, which it was easy to assume was a permanent part of the Web, and because it's apparent the PUBMED infrastructure is subject to one government's ideals, which might change in odd ways.[https://edition.cnn.com/2024/10/29/politics/rfk-trump-control-hhs-usda/index.html] ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 11:18, 31 October 2024 (UTC)
+I suspect if PubMed lost funding from US Gov then it would be important enough to the international community to keep alive elsewhere. We'd have to rewrite the URLs from pubmed.ncbi.nlm.gov to pubmed.org or something, but that's a problem for the templates. -- ser:Colin|Colin°ser talk:Colin|Talk 16:14, 31 October 2024 (UTC)
+ At least part of PubMed is already mirrored by urope PubMed Central.  If PubMed lost funding from the U.S. government, then we are in a real world of ttps://www.science.org/content/article/researchers-state-panic-after-robert-f-kennedy-jr-says-trump-will-hand-him-health hurt. ser:Boghog|Boghog (ser talk:Boghog|talk) 16:49, 31 October 2024 (UTC)
+That sounds like a reason to prefer DOI to PMID. DOI represents the publisher's intention. ser:Bondegezou|Bondegezou (ser talk:Bondegezou|talk) 17:07, 31 October 2024 (UTC)
+ Both are useful for different reasons. There is no reason to prefer one over the other. ser:Boghog|Boghog (ser talk:Boghog|talk) 17:11, 31 October 2024 (UTC)
+ ubMed provides a lot of useful information that is often lacking in the publisher sites, such as related citations, cited by, indexing (eSH, UGO Gene Nomenclature Committee|gene ID, etc.). ser:Boghog|Boghog (ser talk:Boghog|talk) 17:20, 31 October 2024 (UTC)
+ Not to mention links from PubMed to ubMedCentral which contains full text that is sometimes missing from the publisher site. ser:Boghog|Boghog (ser talk:Boghog|talk) 17:26, 31 October 2024 (UTC)
+ What makes PubMedCentral so valuable is the IH Public Access Policy. In short, any publication resulting from research funded by the NIH must be freely available to the public through PubMedCentral. ser:Boghog|Boghog (ser talk:Boghog|talk) 17:45, 31 October 2024 (UTC)
+In the event of an announcement that PubMed was closing (it surely wouldn't happen by surprise overnight) then one of our bot wizards could look up all the PMID links to extract the DOI on the PubMed page, and add any missing DOI parameters/link to our references. Maybe there's a bot doing that already? If I use the Cite Journal editing tool, and supply a PMID, it can fill in the citation fields and the DOI. But if I supply a DOI then it can't lookup the PMID. So arguably the PMID is more useful at the moment, as it unlocks information about the other IDs that a DOI can't.  I remain puzzled why we are being asked to prefer one. -- ser:Colin|Colin°ser talk:Colin|Talk 08:37, 1 November 2024 (UTC)
+ Yes, ser:Citation bot already does this. If at least one of ara|pmid, ara|pmc, or ara|doi is specified, it can usually fill in the missing ones if they exist. ser:Boghog|Boghog (ser talk:Boghog|talk) 09:49, 1 November 2024 (UTC)
+
+ Fake AI-generated article? 
+
+I'm concerned about the content of anfosfamide.  I noticed that the references for this article have broken DOIs.  Upon investigation, I found that the titles of the references cannot be found by a Google search.  This type of real-looking but fake references is characteristic of what is written by ChatGTP and other AI text generators.  I suspect that this article was largely written by AI.  Other medical articles started by Ashleythesciencenerd may have the same problem ([https://en.wikipedia.org/w/index.php?title=Cancer_exodus_hypothesis&amp;diff=prev&amp;oldid=1251633723 example]).  pecial:Contributions/108.2.108.191|108.2.108.191 (ser talk:108.2.108.191|talk) 16:13, 2 November 2024 (UTC)
+
+ Yep, this article contains AI-generated fake references. While the topic is legitimate, the entire article needs to be rewritten. It appears that ChatGPT was used to create this content, which is cannot be used for reliable sourcing. Perplexity is generally a much more reliable option for generating accurate references. Regardless, if an AI tool is used to create content, it must be carefully checked by editors before posting. ser:Boghog|Boghog (ser talk:Boghog|talk) 18:33, 2 November 2024 (UTC)
+ [https://en.wikipedia.org/w/index.php?title=Canfosfamide&amp;diff=1255045051&amp;oldid=1255009206 Rewritten] sported by real citations. ser:Boghog|Boghog (ser talk:Boghog|talk) 21:24, 2 November 2024 (UTC)
+
+Request for Help: Expanding Psychological and Neurodevelopmental Disorders Section in NF1 Article
+
+Hello everyone,
+
+I am currently working on improving the 
+eurofibromatosis type I#Psychological and Neurodevelopmental Disorders|Psychological and Neurodevelopmental Disorders section of the Neurofibromatosis Type 1 (NF1) 
+article. Specifically, I need assistance with finding reliable resources and expanding the content related to Autism Spectrum Disorder (ASD) and Attention Deficit Hyperactivity Disorder (ADHD) in NF1.
+
+Both ASD and ADHD are highly prevalent in individuals with NF1, and they often exhibit distinct characteristics compared to idiopathic forms. I believe that enhancing this section will be especially useful for parents of affected children, as it could provide valuable insights into these unique challenges.
+
+If anyone has access to relevant studies or publications, or if you have experience with this subject, I would greatly appreciate your guidance in improving this section.
+
+I have found articles about ADHD in NF1, such as the one by Lion-François et al. (2020), which discusses the differences between ADHD and the syndromic ADHD in NF1. Honestly, I feel like this topic is a bit beyond my understanding, and I don't want to make mistakes when editing the article. If anyone has a good grasp of this issue, I would greatly appreciate your collaboration.
+
+Thank you in advance for your support!  — Preceding ikipedia:Signatures|unsigned comment added by ser:Fechu93|Fechu93 (ser talk:Fechu93#top|talk • pecial:Contributions/Fechu93|contribs) 21:29, 20 October 2024 (UTC) 
+maybe this...ite journal |last1=Walsh |first1=Karin S. |last2=Vélez |first2=Jorge I. |last3=Kardel |first3=Peter G. |last4=Imas |first4=Daniel M. |last5=Muenke |first5=Maximilian |last6=Packer |first6=Roger J. |last7=Castellanos |first7=Francisco X. |last8=Acosta |first8=Maria T. |title=Symptomatology of autism spectrum disorder in a population with neurofibromatosis type 1 |journal=Developmental Medicine and Child Neurology |date=February 2013 |volume=55 |issue=2 |pages=131–138 |doi=10.1111/dmcn.12038 |url=https://pubmed.ncbi.nlm.nih.gov/23163951/ |access-date=3 November 2024 |issn=1469-8749--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:10, 3 November 2024 (UTC)
+
+ Bots tagging &quot;outdated&quot; Cochrane reviews 
+
+Hello, 
+
+This bot-tagging of Cochrane reviews when they are updated with newer ones is a helpful feature to keep wp up to date. However I have a situation where both the older review and the updated one are cited. Therefore, the bot's actions are unhelpful. I reverted one such bot edit already, but now it happened again.  
+
+Here is the section in question: entral_rectopexy#Controversy_regarding_use_of_mesh
+
+This section of the article is a &quot;background&quot; or &quot;history&quot; of the development of the procedure. I thought the earlier Cochrane review was an important landmark publication to include in this section. The latest Cochrane review is cited in the next sentence. Thoughts? Thank you ser:Moribundum|Moribundum (ser talk:Moribundum|talk) 07:31, 3 November 2024 (UTC)
+ikipedia:WikiProject Medicine/Cochrane update tells you how to stop the bot repeating the tag. I think maybe the bot's edit comment should point this out. ser:Thincat|Thincat (ser talk:Thincat|talk) 12:06, 3 November 2024 (UTC)
+Thanks for answer. ser:Moribundum|Moribundum (ser talk:Moribundum|talk) 05:45, 4 November 2024 (UTC)
+See also How to use withdrawn Cochrane reviews, ikipedia:Wikipedia_Signpost/2024-06-08/Special_report, and ikipedia:Wikipedia_Signpost/2024-06-08/Special_report#c-Tom_Morris-20240609163300-Compassionate727-20240609004800|this comment.  ser:Headbomb|Headbomb {ser talk:Headbomb|t · pecial:Contributions/Headbomb|c · P:PHYS|p · P:WBOOKS|b} 06:58, 4 November 2024 (UTC)
+Thank you for flagging. Great to see these articles being improved. I do the following in these instances (shared on the bot project page) &quot;If we wish to use the old review in an article (e.g.: in the historical context), the reference can be marked with , where PMID is the Pubmed ID for the reference, and the bot will ignore it.&quot; ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 17:47, 6 November 2024 (UTC)
+Sorry to be so late, I see that this was figured out. This edit looks good to me ser:Moribundum|Moribundum! ttps://en.wikipedia.org/w/index.php?title=Ventral_rectopexy&amp;diff=1255300867&amp;oldid=1255078723 If it get's re-flagged please let me know and I can get some help looking for another solution.ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 17:51, 6 November 2024 (UTC)
+
+ Delirium caused by Anticholinergic medications 
+
+Hello. An experienced Doctor recommended I ask for help with the Delirium article here, he says he isnt available and very busy.
+
+Delirium, as most of you know, is a disorder / syndrome which occurs mostly in old / elderly people above age 70 or so. However, there is another type of Delirium caused by anticholinergic medications, and the Delirium article confuses readers by talking about mostly the elderly part of age over 70 people who have Delirium, not the other type caused by anticholinergic medications.
+
+I came here to ask for help with improving the Delirium article for that. Are there any people who can possibly help me improve Delirium article? Doctors I prefer of course, but anyone with medical knowledge generally. ser:Noam Atadgy|Noam Atadgy (ser talk:Noam Atadgy|talk) 06:00, 1 November 2024 (UTC)
+
+I forgot to say. I've improved Delirium article myself by alot! But theres some work needs to be done. ser:Noam Atadgy|Noam Atadgy (ser talk:Noam Atadgy|talk) 06:01, 1 November 2024 (UTC)
+I suppose there are many substances which can cause acute delirium.[https://pubmed.ncbi.nlm.nih.gov/33040861/] These should be mentioned in context without giving undue weight among the many causes overall.[https://www.nhsinform.scot/illnesses-and-conditions/brain-nerves-and-spinal-cord/delirium/] ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 07:33, 1 November 2024 (UTC)
+Perhaps the redirect ubstance-induced delirium (also CU delirium) should be turned into a separate article.  ser:G.J.ThomThom|G.J.ThomThom, the latter might be a good option for your students.  Category:Redirects with possibilities might be an interesting place to find likely missing articles. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 01:50, 2 November 2024 (UTC)
+Thats an amazing idea. I had no clue this redirect even exists. If a doctor can help write the basic info and start that new article it'd help alot. Although the current Delirium article talks about delirium caused by medication as well, it doesnt go into full details about it. Readers who read Delirium article, read about the one in old / elderly 70+ patients in hospitals. We need to separate the 2 types of Delirium.
+Another thing is. In the past Delirium was also called &quot;Acute confusional state&quot;? What does that mean? ser:Noam Atadgy|Noam Atadgy (ser talk:Noam Atadgy|talk) 02:06, 2 November 2024 (UTC)
+@ser:Noam Atadgy|Noam Atadgy, if we wait for one of the physicians to do this, it could be years.  Why don't you try putting together a very short article in ser:Noam Atadgy/sandbox, just to get us started?  You can copy relevant text and sources out of the main article.  You can make a list of substances from [https://www.google.com/books/edition/The_Treatment_Of_Psychiatric_Disorders/jnt0DwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=anticholinergic+delirium&amp;pg=PT25&amp;printsec=frontcover this book].  [https://www.google.com/books/edition/The_American_Psychiatric_Association_Pub/-WZnDwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=anticholinergic+delirium&amp;pg=PA1159&amp;printsec=frontcover This book] has two long paragraphs specifically about anticholinergic delirium, which you could probably summarize in two or three simpler sentences.  I think you could be successful in creating this page. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:20, 6 November 2024 (UTC)
+
+ Recent edits by AdeptLearner123 
+
+ser:AdeptLearner123|AdeptLearner123 recently cut down rohn's disease from [https://en.wikipedia.org/w/index.php?title=Crohn%27s_disease&amp;oldid=1251397700#External_links 257 references] to only 45. I didn't go through all 243 of their recent edits to that page, but it seems unlikely this is an improvement. Thoughts? They cut down umor necrosis factor as well. An IP also left alk:Crohn%27s_disease#Article_stripped_of_most_of_its_content|a comment on the Crohn's disease talk page about this issue. ser:WikiOriginal-9|~WikiOriginal-9~ (ser talk:WikiOriginal-9|talk) 00:53, 5 November 2024 (UTC)
+
+The majority of those references were from unreviewed webpages, or outdated papers. I have focused the references around a smaller number of articles from highly reputed journals, such as Nature and Mayo Clinic. ser:AdeptLearner123|AdeptLearner123 (ser talk:AdeptLearner123|talk) 00:57, 5 November 2024 (UTC)
+I did not cut down the tumor necrosis factor article; the prose increased from 250 to 300 kB. My changes brought the TNF article to GA status. ser:AdeptLearner123|AdeptLearner123 (ser talk:AdeptLearner123|talk) 01:08, 5 November 2024 (UTC)
+Fair enough. I was just looking at the number of references (83 to 40). ser:WikiOriginal-9|~WikiOriginal-9~ (ser talk:WikiOriginal-9|talk) 01:15, 5 November 2024 (UTC)
+Although I haven’t looked through the Crohn’s disease article it’s not uncommon to remove sources for various reasons. For example according to P:MEDDATE articles over 5 years old should be replaced with newer sources. So perhaps maybe a couple older refs were replaced in favour of newer more comprehensive sources? It’s also not uncommon to have one comprehensive article replace several smaller less comprehensive sources. Pretty much what I’m trying to say is although it may look odd, removing sources isn’t always a bad thing especially with medical articles. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 01:20, 5 November 2024 (UTC)
+@ser:IntentionallyDense|IntentionallyDense if there aren`t any newer sources, is it ok to keep the existing ones? what would be recommended? ser:Noxoug1|Noxoug1 (ser talk:Noxoug1|talk) 12:06, 5 November 2024 (UTC)
+If there is no newer sources then use the most recent, reliable and comprehensive source you can find. ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 15:07, 5 November 2024 (UTC)
+I agree with IntentionallyDense:  Use the best sources you can, and remember that MEDDATE is trying to guide you to the best sources, rather than providing a hard and fast cut off date.  Usually, in a heavily researched area (think ypercholesterolemia), you can write a great article using only eview articles from the top-ranked journals and the best med school textbooks, every source published in the last five years, and still have plenty of high-quality sources left over.  In a less popular area, you may need to stretch that:  maybe the sources need to be from mid-ranked journals.  Maybe you need a couple of primary sources.  Maybe you need sources that are 10 years old.
+Our advice is to aim for the ideal, but to do what's practical. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:41, 6 November 2024 (UTC)
+When I updated rostate cancer and brought it to P:FA|featured article status, the number of references dropped from 355 to 128. Some of that was trimming material, but much of that loss was updating the sourcing to more recent, higher-quality references. When an article grows bit-by-bit you often get 100 facts with 100 references. When sections or whole articles are updated at once you might get 100 facts with 20 references. Neither is inherently better. I'd suggest picking a section of rohn's disease (or any other article you're concerned about) and comparing the text/sources before and after to see if you feel it's improving or not. Hopefully you'll find it is (I haven't looked at it myself). If you find particular concerns, we'll have more to discuss here. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 20:12, 5 November 2024 (UTC)
+
+ Article on subjective refraction 
+
+Hello - as there does not seem to be an optometry WikiProject I am asking here instead in the hopes that someone has the necessary expertise. The article ubjective refraction, despite being (as far as I know) a fairly important topic in optometry, is in a rather unacceptable state. The vast majority of the article is written as a how-to guide and not a well-formatted one at that. Some content is probably salvageable, but everything else needs to be completely rewritten, so I think this will require some subject matter expertise. There seems to be a list of medical textbooks in the references. Thanks.  — ser:RTao|RTao (ser talk:RTao|talk • pecial:Contributions/RTao|contribs) 01:13, 7 November 2024 (UTC)
+
+Contrary to popular belief you don’t need any medical expertise to edit medical articles on Wikipedia. I understand you may not be comfortable editing such a technical area but I encourage you to try! ser:IntentionallyDense|IntentionallyDense (ser talk:IntentionallyDense|talk) 01:34, 7 November 2024 (UTC)
+@ser:IntentionallyDense|IntentionallyDense Fair point. I have edited in areas I know little about before, and I should probably do some of the basic cleanup there if I have time. Nevertheless, I hope someone with topic knowledge will contribute to making the eventual article more comprehensive/balanced.  — ser:RTao|RTao (ser talk:RTao|talk • pecial:Contributions/RTao|contribs) 02:56, 7 November 2024 (UTC)
+
+ WP:MED articles with no references 
+
+Hi all, WikiProject Unreferenced articles is holding a ikipedia:WikiProject Unreferenced articles/Backlog drives/November 2024|backlog drive this month to further reduce the number of articles tagged as completely lacking sources. This number has fallen precipitously over the last several years: from 153180 (Nov 2021) to 135232 (Nov 2022) to 1169778 (Nov 2023) to 78548 today. Perhaps we can help them out by taking a look at the ser:Ajpolino/sandbox2|138 articles currently tagged with our project's tag and l|unreferenced. A single reference to backup material in the article is sufficient to remove the tag. That list is at my sandbox, feel free to edit/comment that list directly or post here if you prefer. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 21:40, 5 November 2024 (UTC)
+
+I will put some time aside this month to look at these articles. Thanks for flagging @ser:Ajpolino|Ajpolino ser:Noxoug1|Noxoug1 (ser talk:Noxoug1|talk) 08:11, 6 November 2024 (UTC)
+Thank you... I will try and help too. ser:Whispyhistory|Whispyhistory (ser talk:Whispyhistory|talk) 14:52, 6 November 2024 (UTC)
+If I make a list of promising new-ish editors who have recently edited medicine-related articles, is someone willing to invite them to help out?  This seems like a good project for someone who would like to help but aren't sure where to start.  Also, can we send out a new ikipedia:WikiProject Medicine/Newsletter? ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:49, 6 November 2024 (UTC)
+Of course, I'm happy to help. Also I can put together a new newsletter this week. If anyone has thoughts/suggestions for newsletter topics or alternative formats that would make the newsletter more useful, please share them at ikipedia talk:WikiProject Medicine/Newsletter. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 21:25, 6 November 2024 (UTC)
+ent. If you don't subscribe to the newsletter, you can change that by adding your name to ikipedia:WikiProject Medicine/Newsletter/Mailing list|the mailing list. Apologies if the height of the side-by-side boxes looks janky at your screen width (you'll be comforted to know it looks great with my settings). If someone knows how to come up with a more universal solution, please do let me know. ser:Ajpolino|Ajpolino (ser talk:Ajpolino|talk) 22:32, 10 November 2024 (UTC)
+
+ Could you please see if these changes violate MEDRS? 
+
+I initially posted this at P:Helpdesk#Could someone who knows WP:MEDRS, please look at these changes?, so I wont repeat it here. I was recommended here, though if you'd prefer you can answer there. These were changes by a newish account that I am reluctant to revert myself, not my changes. – user usually at pecial:Contributions/2804:F14::/32|2804:F14::/32, currently pecial:Contributions/143.208.239.58|143.208.239.58 (ser talk:143.208.239.58|talk) 20:37, 10 November 2024 (UTC)
+
+Just to make it easier, the source they used is https://www.acespsychiatry.com/2024/10/12/what-to-say-to-kids/. – pecial:Contributions/143.208.239.58|143.208.239.58 (ser talk:143.208.239.58|talk) 01:34, 11 November 2024 (UTC)
+Hi, thanks for sharing! while the content is sourced (has references) it does not appear to be peer reviewed. In addition, on closer inspection, this is posted on a clinic website. The content itself may be helpful for improving the article. You could suggest that the person look at the reference list that the author generated for high quality secondary sources and improve the article using those if the person feels that the content is appropriate and helpful for improving the article.ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 02:34, 13 November 2024 (UTC)
+I just went to your post at the help deck. Good to see this was reverted as pretty weak source! ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 02:37, 13 November 2024 (UTC)
+
+ California opioid crisis 
+
+It would be helpful to have some more views on a proposal to merge entanyl crisis in San Francisco into alifornia opioid crisis, the case being P:MERGEREASON|short text, context, and overlap. The discussion is at alk:California opioid crisis#Fentanyl crisis in San Francisco. ser:Klbrain|Klbrain (ser talk:Klbrain|talk) 14:54, 8 November 2024 (UTC)
+thank you for posting--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:48, 13 November 2024 (UTC)
+
+Discussion at Wikipedia:Redirects for discussion/Log/2024 November 11#Ro (antigen)|Wikipedia:Redirects for discussion/Log/2024 November 11 § Ro (antigen)
+ile:Symbol watching blue lashes high contrast.svg|25px|link=|alt= You are invited to join the discussion at Wikipedia:Redirects for discussion/Log/2024 November 11#Ro (antigen)|Wikipedia:Redirects for discussion/Log/2024 November 11 § Ro (antigen).  ser:Shhhnotsoloud|Shhhnotsoloud (ser talk:Shhhnotsoloud|talk) 10:01, 11 November 2024 (UTC)
+commented--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 11:50, 13 November 2024 (UTC)
+
+ Updating troke 
+
+Hello, and hope you're well. Last month, the American Heart Association/American Stroke Association published [https://doi.org/10.1161/STR.0000000000000475 &quot;2024 Guideline for the Primary Prevention of Stroke&quot;]. The abstract says the 2024 guideline q|replaces replaces the 2014 &quot;Guidelines for the Primary Prevention of Stroke.&quot; Is it just me, or does troke (or any other article, for that matter) not cite the 2014 guidelines at all? Thanks! ser:Rotideypoc41352|Rotideypoc41352 (ser talk:Rotideypoc41352|talk · pecial:Contribs/Rotideypoc41352|contribs) 08:19, 12 November 2024 (UTC)
+
+Thanks for sharing. Do you have a specific edit suggestion? I can take a look at the guideline but if you have an idea of places in the stroke article that needs to be updated with the new recommendations that would be great! ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 02:38, 13 November 2024 (UTC)
+Not really. My suggestion would've been, &quot;Maybe I could at least replace citations of the old guideline with the current 2024 one,&quot; but I think the Stroke article does not cite the old guideline at all! I otherwise have not had a chance to closely compare the article to the current guideline; I actually heard about the update from the ssociated Press, but I don't know if the AP summary is accurate. I know AP itself is accurate and that scientific reporting in even reputable newspapers for laypeople like me can be all over the place. ser:Rotideypoc41352|Rotideypoc41352 (ser talk:Rotideypoc41352|talk · pecial:Contribs/Rotideypoc41352|contribs) 14:42, 13 November 2024 (UTC)
+
+ Human penis concerns 
+
+Hi, I'd like someone way more knowledgeable about biology to take a look at uman penis#Female phenotypic quality. I raised some concerns on the talk page yesterday, but no one has commented yet. ser:Clovermoss|Clovermoss🍀 ser talk:Clovermoss|(talk) 08:38, 15 November 2024 (UTC)
+
+@ser:Clovermoss|Clovermoss Thank you for bringing this to our attention! ser:IntentionallyDense|Intentionallyser talk:IntentionallyDense|Dense (pecial:Contributions/IntentionallyDense|Contribs) 14:46, 15 November 2024 (UTC)
+It looks like we need to strip ancient and primary sources out of that article.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 15:37, 15 November 2024 (UTC)
+
+ About med school 
+
+It looks like we need a few med students at ikidata:Wikidata talk:WikiProject Medicine#Modelling_internship,_residency,_fellowship_of_physicians|d:Wikidata talk:WikiProject Medicine#Modelling internship, residency, fellowship of physicians to talk about how education and training of physicians is organized in each country (e.g., is residency &quot;employment&quot;?).  Please join the discussion over there. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 04:43, 16 November 2024 (UTC)
+
+ Good article reassessment for onsciousness 
+onsciousness has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the ikipedia:Good article reassessment/Consciousness/1|reassessment page. If concerns are not addressed during the review period, the good article status may be removed from the article. ser:Z1720|Z1720 (ser talk:Z1720|talk) 16:15, 16 November 2024 (UTC)
+
+ WHtR below 0.4, values for anorexia, emaciated? 
+
+At aist-to-height_ratio#Recommended_boundary_values there are clear boundary values 0.4, 0.5 and 0.6 and above.
+
+Any boundaries known below WHtR 0.4? E.g. for
+* norexia_nervosa
+* maciation
+* what is the lean counterpart of besity-associated_morbidity?
+ser:Uwappa|Uwappa (ser talk:Uwappa|talk) 09:08, 17 November 2024 (UTC)
+
+@ser:Uwappa|Uwappa I’m not fully sure of your question here but I’ll try my best to answer. 
+Anorexia is diagnosed based partially off BMI not waist to height ratio although i’m sure you could find some study that gives info on the average WHtR.
+alnutrition, specifically alnutrition#Effects has information on the health effects of malnutrition. norexia nervosa#Prognosis goes over the complications of anorexia as well. ser:IntentionallyDense|Intentionallyser talk:IntentionallyDense|Dense (pecial:Contributions/IntentionallyDense|Contribs) 19:46, 17 November 2024 (UTC)
+Doing a little quick math, for an average-height woman, it's called ize zero.  The average US woman is 5'4&quot;, and 0.4 ratio means a waist size below 25.5&quot;, which is a size 0 dress on the ands' End website (it will be a size 2 or 4 for some other brands).   It's not automatically a medical problem.
+I don't think there is a single lean counterpart, because causes become more important.  Anorexia nervosa, BTW, can appear in any size body.  It's about what happens in your head, not about the current shape of your body. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:46, 17 November 2024 (UTC)
+Please have a look at: aist-to-height_ratio#Recommended_boundary_values and ile:Waist_to_height_ratio_graph.svg|200px.
+NICE defines 0.4 as the lower bound of healthy.
+Anything below 0.4 is unspecified, grey in the chart.
+Any source that defines 'yellow' and 'red' boundaries below 0.4?
+Is grey really grey? Unspecified? Really? ser:Uwappa|Uwappa (ser talk:Uwappa|talk) 21:09, 17 November 2024 (UTC)
+It might be.  The thing is, especially for women, two individuals could have the same overall body composition, but because one has an hourglass figure and the other has a straight/rectangular figure, they could fall on different sides of the same line.  That doesn't mean that the one with the narrower waist is more or less healthy.  The cutoff lines for these things are always somewhat arbitrary. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:36, 17 November 2024 (UTC)
+Yes, I understand all of that, especially at the high end of the scale. That is not my question.
+The question is: Any boundary values known below 0.4, just like above 0.5? ser:Uwappa|Uwappa (ser talk:Uwappa|talk) 21:52, 17 November 2024 (UTC)
+
+ Arthur E. Hertzler 
+
+I've started an article on rthur E. Hertzler. Having started to dig into the numerous references about him, there's much more there than I currently have the time to write about, particularly in material found at [https://union.ku.edu/creation-ku-med this page]. There is also other material that I can see referenced, but can't read because of journal paywalls, such as [https://jamanetwork.com/journals/jamasurgery/article-abstract/212276 this article], and there's material about him in The Kansas Doctor: A Century of Pioneering by Thomas Neville Bonner, which I also don't have access to.
+
+Hertzler by all accounts seems to have lived a fascinating life, and was clearly both brilliant and quite a character. Would anyone here be interested in expanding this article? — ser:The Anome|The Anome (ser talk:The Anome|talk) 07:28, 21 November 2024 (UTC)
+
+The JAMA article is available via ikipedia:The Wikipedia Library.  After you're logged in, [https://jamanetwork-com.wikipedialibrary.idm.oclc.org/journals/jamasurgery/fullarticle/212276?resultClick=1 this direct link] will probably work. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:31, 21 November 2024 (UTC)
+
+ Autism on Wikipedia 
+
+Hi, a friend at Wikimedia UK suggested it could be wise to post about this here: I have a piece just out in Thinking Person's Guide to Autism, on '[https://thinkingautismguide.com/2024/11/how-wikipedia-systematically-misleads-people-about-autism.html How Wikipedia Systematically Misleads People About Autism]'. It describes some of my experiences editing relevant pages here, and argues that Wikipedia's autism coverage is badly out of date. I don't use the term in the article, but effectively Wikipedia's guidelines tend to enshrine a strong tatus quo bias. One consequence of this is that a biomedical framing of autism is largely taken for granted, despite the attitudes and insights of contemporary autism specialists, not to mention autistic communities.
+
+I understand that similar biases have affected Wikipedia's coverage of marginalised groups across the board, but it seems that to date, there has been far more coordinated and institutional investment in correcting systematic gender bias, LGBT exclusion and racial prejudice.
+
+I bring this up here because my impression is that Wikipedia's main Autism entry has inherited a framing and structure that is ubiquitous in our coverage of diseases and disorders, but which is questionably relevant and arguably unhelpful when it comes to something like autism - with pathophysiology, management, prognosis, epidemiology and so on.
+
+Its physiology is much-studied, but still poorly understood, and many would question the appropriateness of the 'patho-' prefix; 'management' is not really an appropriate way of thinking about a difference that affects someone's entire way of being; 'prognosis' can be summed up in the single word 'lifelong'; 'epidemiology' …I mean, there are some reasonably interesting things to be said about the statistics (variations in which inevitably reflect the limitations of the data more than objective real-world differences) but there are so many other things that are more important.
+
+So I guess I'm posting here partly to just give people a heads-up about the article, and partly to enquire about how attached people are to this general structure… and why?
+
+I note that ender dysphoria is a separate article from ransgender, allowing one to focus on the formal, medicalised interpretation of trans experience, while the other is more about being trans. Stuff that non-clinicians are actually likely to want to know, or benefit from knowing. Not sure that's an ideal solution, but it's an interesting one that's been discussed a couple of times in alk:Autism as well; there are various helpful parallels that are worth considering, I think. ser:Oolong|Oolong (ser talk:Oolong|talk) 18:12, 25 November 2024 (UTC)
+
+ Sourcing milestone 
+
+Hello, all:  
+
+We've been working this month on getting at least one source into unreferenced medicine-related articles.  There are now ser:Ajpolino/sandbox2|less than 100 unsourced articles on the list!  A few years ago, that list was over 400 articles.  Less than a year ago, it was over 200 articles.  We have made really good progress this year.  Please take a minute and see if you can add a source to at least one article.  
+
+We are doing this now to support the ikipedia:WikiProject Unreferenced articles/Backlog drives/November 2024 and also because we think that sources are particularly important for anything medicine-related on Wikipedia.  The backlog drive has officially resulted in about 7,000 of Wikipedia's unsourced articles getting a new source (i.e., with #NOV24 in the edit summary), plus all the pages that got new references but which weren't tagged.  
+
+Please join in and do your bit.  We'd really appreciate it. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:31, 27 November 2024 (UTC)
+
+ PCORI (Patient Centered Outcomes Research Institute) as MEDRS? 
+
+Is there a consensus that using PCORI is an acceptable P:MEDRS source? There is a six-year [https://en.wikipedia.org/wiki/Wikipedia_talk:Identifying_reliable_sources_(medicine)/Archive_28#PCORI_(Patient_Centered_Outcomes_Research_Institute):_Evidence_update_for_clinicians_and_patients old discussion about using PCORI] that was [https://en.wikipedia.org/wiki/User_talk:Whywhenwhohow#Recent_revert_discussion pointed out to me]. -ser:Whywhenwhohow|Whywhenwhohow (ser talk:Whywhenwhohow|talk) 00:48, 21 November 2024 (UTC)
+
+I place PCORI in the same category as CDC or NIH. But I have seen edit wars centered on whether or not an NIH medical dictionary was P:MEDRS, and the resolution was not(!), so I suppose these sources in whole or in part may not be P:MEDRS. But if none of their work product is, one starts to get very close to the conclusion that nothing is P:MEDRS. ser:Jaredroach|Jaredroach (ser talk:Jaredroach|talk) 11:08, 21 November 2024 (UTC)
+One of the challenges with &quot;MEDRS&quot; is that there is the ideal (e.g., a peer-reviewed review article published in a highly reputable journal within the last five years) and then there is the good-enough (you don't need an &quot;ideal&quot; source to say that the common cold is caused by a virus).  Even if PCORI isn't &quot;ideal&quot;, it might be &quot;good enough&quot;, depending on what's being said. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:26, 21 November 2024 (UTC)
+I agree. I think that it is depending on what is being shared from the source and if it is a medical claim or paraphrased background information that fills an important gap in an article.ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 22:30, 27 November 2024 (UTC)
+
+ Requested move at alk:Spinal disc herniation#Requested move 13 November 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:Spinal disc herniation#Requested move 13 November 2024 that may be of interest to members of this WikiProject. ser:Raladic|Raladic (ser talk:Raladic|talk) 21:26, 28 November 2024 (UTC)
+commented--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:35, 29 November 2024 (UTC)
+
+ Good article reassessment for artha Hughes Cannon 
+artha Hughes Cannon has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the ikipedia:Good article reassessment/Martha Hughes Cannon/1|reassessment page. If concerns are not addressed during the review period, the good article status may be removed from the article. ser:Z1720|Z1720 (ser talk:Z1720|talk) 01:23, 19 November 2024 (UTC)
+thank you for post--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:36, 29 November 2024 (UTC)
+
+ &quot;dissociates by quantum&quot; / &quot;the quantum of fatigue&quot; 
+
+If someone with the relevant expertise could look at alk:Fatigue#&quot;Quantum&quot;|this baffling language in the atigue article, that would be wonderful. ser:MartinPoulter|MartinPoulter (ser talk:MartinPoulter|talk) 14:02, 3 December 2024 (UTC)
+
+Fixed. ser:Jaredroach|Jaredroach (ser talk:Jaredroach|talk) 15:14, 3 December 2024 (UTC)
+
+ eurocysticercosis Peer review 
+
+Hello everyone, in an attempt to get eurocysticercosis to FA status I have begun a P:Peer review on the topic which can be found at ikipedia:Peer review/Neurocysticercosis/archive1. Any input is welcomed! ser:IntentionallyDense|Intentionallyser talk:IntentionallyDense|Dense (pecial:Contributions/IntentionallyDense|Contribs) 22:04, 3 December 2024 (UTC)
+
+ Retinal tuft and VTS: draft articles 
+
+Hi! I noticed that there are no articles on etinal tuft or itreomacular traction syndrome, common eye conditions that can lead to retinal detachments. I have never started an article before and decided to try it out. I would love some help expanding to the level where I can submit it. Suggestions super welcome. 
+I am also curious how much I should expand it before I submit it. Are stubs accepted? If so, can I submit now?
+*raft:Retinal tuft
+*raft:Vitreomacular traction syndrome
+
+Thank you so much! ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 14:27, 3 December 2024 (UTC)
+
+While I encourage you to write more, both of the articles look acceptable for P:AFC. ser:IntentionallyDense|Intentionallyser talk:IntentionallyDense|Dense (pecial:Contributions/IntentionallyDense|Contribs) 20:57, 3 December 2024 (UTC)
+Both of these articles are in the mainspace now.  Thank you for your work! ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:27, 5 December 2024 (UTC)
+
+ valvular heart disease: treatment 
+
+In the valvular heart disease article in the section on treatment of Aortic valve disorder, it is said that treatment is normally surgical, with catheter treatment for special cases. I have just been told by a cardiologist that catheter treatment is now preferred for all patients. pecial:Contributions/38.55.71.51|38.55.71.51 (ser talk:38.55.71.51|talk) 18:59, 2 December 2024 (UTC)
+https://en.wikipedia.org/wiki/Wikipedia:Why_MEDRS ?--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 02:28, 6 December 2024 (UTC)
+
+ New disease outbreak 
+
+I've created 024 unknown Democratic Republic of Congo disease outbreak. I hope this isn't premature, but it seemed to me like there was enough to start an article. The name will probably have to change as learn more. Input from others very welcome. ser:Bondegezou|Bondegezou (ser talk:Bondegezou|talk) 11:35, 6 December 2024 (UTC)
+[https://www.cidrap.umn.edu/misc-emerging-topics/lab-results-expected-soon-dr-congos-mystery-outbreak lab results pending] doubtful it's 'unknown'--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 12:45, 6 December 2024 (UTC)
+Sorry, I missed there was already 024 Kwango province disease outbreak. Will merge. ser:Bondegezou|Bondegezou (ser talk:Bondegezou|talk) 12:43, 6 December 2024 (UTC)
+Thanks.  It's not unusual to get a couple of people simultaneously starting articles on events.  The ocean-near-California earthquake yesterday had half a dozen people starting articles that all got merged up.  I treat it as proof that someone else also thought the subject was notable.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:50, 6 December 2024 (UTC)
+
+ Requested move at alk:Assisted suicide#Requested move 30 November 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:Assisted suicide#Requested move 30 November 2024 that may be of interest to members of this WikiProject. ser:Raladic|Raladic (ser talk:Raladic|talk) 05:47, 7 December 2024 (UTC)
+
+Images
+We at Wiki Project Med Foundation are supporting an illustrator. Do folks here have drawings they wish to see created? ser:Doc James|Doc James (ser talk:Doc James|talk · pecial:Contributions/Doc James|contribs · pecial:EmailUser/Doc James|email) 20:16, 9 December 2024 (UTC)
+
+ile:Obstetric_Fistula_Locations_Diagram.png|thumb|Obstetric Fistula Locations Diagram
+In 2015, an illustrator made this diagram for us.  Perhaps this will spark an idea for someone. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 22:10, 9 December 2024 (UTC)
+
+ Introducing Let's Connect 
+
+Hello everyone,
+
+I hope that you are in good spirits. My name is ser:Serine Ben Brahim|Serine Ben Brahim and I am a part of the etawiki:Grants:Knowledge_Sharing/Connect/Team|Let’s Connect working group - a team of movement contributors/organizers and liaisons for  7 regions : MENA | South Asia | East, South East Asia, Pacific | Sub-Saharan Africa | Central &amp; Eastern Europe | Northern &amp; Western | Latina America. 
+
+ Why are we outreaching to you? 
+Wikimedia has 18 projects, and 17 that are solely run by the community, other than the Wikimedia Foundation. We want to hear from sister projects that some of us in the movement are not too familiar with and would like to know more about. We always want to hear from Wikipedia, but we also want to meet and hear from the community members in other sister projects too. We would like to hear your story and learn about the work you and your community do. You can review our past learning clinics etawiki:Grants:Knowledge_Sharing/Connect/Calendar|here.
+
+We want to invite community members who are:
+
+* Part of an organized group, official or not
+* A formally recognized affiliate or not
+* An individual who will bring their knowledge back to their community
+* An individual who wants to train others in their community on the learnings they received from the learning clinics.
+
+To participate as a sharer and become a member of the Let’s Connect community you can sign up through this [https://docs.google.com/forms/d/e/1FAIpQLSdiea87tSYmB2-1XHn_u8RLe7efMJifJBzffIM-6rtpx0PWqw/viewform registration form].
+
+Once you have registered, if you are interested, you can get to know the team  via google meets or  zoom to brainstorm an idea for a potential learning clinic about this project or just say hello and meet the team. Please email us at Letsconnectteam@wikimedia.org. We look forward to hearing from you :)
+
+Many thanks and warm regards,
+
+Let’s Connect Working Group Member
+
+ile:Let's_Connect_logo.svg|100x100px|Let's_Connect_logo ser:Serine Ben Brahim|Serine Ben Brahim 
+ser:Serine Ben Brahim|Serine Ben Brahim (ser talk:Serine Ben Brahim|talk) 09:14, 11 December 2024 (UTC)
+
+ Merge proposed for Disorders of Sex Development and Sexual Anamolies  
+
+alk:Disorders of sex development#Merge Proposal|Here's the discussion for anyone interested. ser:Urchincrawler|Urchincrawler (ser talk:Urchincrawler|talk) 16:23, 10 December 2024 (UTC)
+thanks for post--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:06, 11 December 2024 (UTC)
+
+ Looking for a Tuesday Challenge? elvis_justo_major - Giant Pelvis 
+
+Hi! I came across this article from the ser:Ajpolino/sandbox2|list of uncited articles. It has some very very very outdated citations! I looked briefly on pubmed and also did some hand searching on google for anything anywhere near a MEDRS source. I am now out of time and figured I would post it here in case someone else wants to try this challenge! Perhaps there is a more common name for this condition of a distorted pelvis that is being missed? Not sure how they got the incidence quote etc. Happy editing!
+
+elvis justo major
+
+ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 13:42, 10 December 2024 (UTC)
+[https://www.ncbi.nlm.nih.gov/medgen/539445 this is the only thing I found]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:14, 11 December 2024 (UTC)
+Thanks ing|Ozzie10aaaa. I found a book on amazon that was written from the Wikipedia article. Yikes! https://www.amazon.com.au/Pelvis-Justo-Major-Fernande-Antigone/dp/613793196X Not using this source- ha! ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 15:38, 12 December 2024 (UTC)
+yes, that happens alot,Ozzie--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 15:49, 12 December 2024 (UTC)
+
+ Do The Lancet's Personal View articles meet the standards for a secondary source? 
+
+Hi WikiProject Medicine, 
+
+The Lancet has a kind of article called a 'Personal View' that is peer reviewed. It has a lot of the formalities of a review article -- description of search strategy and selection criteria, extensive citations for claims, etc. Does this count as a review, and if not, does it still count as a suitable secondary source for biomedical information? ser:Daphne Morrow|Daphne Morrow (ser talk:Daphne Morrow|talk) 11:12, 14 December 2024 (UTC)
+
+Oh I forgot to add. 'Personal View' articles come up when you search The Lancet for review articles only, so clearly The Lancet's editors consider them as part of the Review category. But does WikiProject Medicine? ser:Daphne Morrow|Daphne Morrow (ser talk:Daphne Morrow|talk) 11:34, 14 December 2024 (UTC)
+Should be fine for non-contentious knowledge and non-novel claims. Novel personal views may be due and should probably be attributed. Any examples in mind? ser:Bon courage|Bon courage (ser talk:Bon courage|talk) 11:37, 14 December 2024 (UTC)
+Thank you for this. 
+I was asking in general but here is an example: 
+Hashimoto’s disease has a widely discussed issue with persistent symptoms in about 10-15% of patients despite euthyroid status. There’s a number of commonly discussed hypotheses for why this might be. An article like this https://www.thelancet.com/journals/landia/article/PIIS2213-8587(22)00004-3/abstract
+discusses one of the more common hypotheses, that some patients lack peripheral tissue conversion of t4 into t3. I feel something like this makes for a suitable source in context?   ser:Daphne Morrow|Daphne Morrow (ser talk:Daphne Morrow|talk) 13:03, 14 December 2024 (UTC)
+I think that an article like this would be sufficient for paraphrasing a background section of an article, if a higher quality review/textbook etc is not available. In my own editing I would not share the hypotheses of a mechanism responsible for persisting symptoms from a commentary article without higher quality supporting MEDRS sources.ser:JenOttawa|JenOttawa (ser talk:JenOttawa|talk) 13:13, 14 December 2024 (UTC)
+Thank you Jen, that makes perfect sense.  ser:Daphne Morrow|Daphne Morrow (ser talk:Daphne Morrow|talk) 13:17, 14 December 2024 (UTC)
+
+Contra TAAR1 agonism as the mediator of amphetamine actions
+Requesting input on this topic ikipedia_talk:WikiProject_Pharmacology#Contra_TAAR1_agonism_as_the_mediator_of_amphetamine_actions|here at WikiProject Pharmacology. Thanks. – ser:AlyInWikiWonderland|AlyInWikiWonderland (ser_talk:AlyInWikiWonderland|talk, pecial:Contributions/AlyInWikiWonderland|contribs) 10:47, 13 December 2024 (UTC)
+commented--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:33, 14 December 2024 (UTC)
+
+ NIK and comparable genes with inhibitors in clinical trials 
+
+I started this discussion at ikipedia talk:WikiProject Molecular Biology, and it was suggested that I inquire here. Basically, Wikipedia has tens of thousands of articles on individual human genes, many bot-made and maintained with very little human attention. NIK caught my eye because a happened to read about clinical trials underway for inhibitors thought to be cancer-preventative. As noted in the other discussion, Wikipedia coverage of gene-directed trial therapies ranges from something like SP1 (which currently contains no information on investigative efforts), to D47 (which is reasonably well-covered in this respect). ser:BD2412|BD2412 ser talk:BD2412|T 20:34, 13 December 2024 (UTC)
+[https://en.wikipedia.org/w/index.php?title=USP1&amp;action=history added some recent papers, general research]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 14:04, 14 December 2024 (UTC)
+ Thank you - I will get around to adding some specifics. Cheers! ser:BD2412|BD2412 ser talk:BD2412|T 15:57, 16 December 2024 (UTC)
+
+ Requested move at alk:Zoonotic origins of COVID-19#Requested move 14 December 2024 
+ile:Information.svg|30px|left There is a requested move discussion at alk:Zoonotic origins of COVID-19#Requested move 14 December 2024 that may be of interest to members of this WikiProject. ser:TarnishedPath|TarnishedPathser talk:TarnishedPath|talk 14:24, 15 December 2024 (UTC)
+
+The proposal is to move the page oonotic origins of COVID-19 → OVID-19 zoonotic origin theory. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:42, 16 December 2024 (UTC)
+
+raft:Delay, Deny, Defend (practice)|Delay, Deny, Defend (practice)
+I recently created a draft for raft:Delay, Deny, Defend (practice)|Delay, Deny, Defend (practice), which has recently gotten a lot of press in the aftermath of the illing of Brian Thompson. There is currently an article for the book elay, Deny, Defend, but I believe the practice is notable enough for its own article. I'd appreciate any help with sourcing. Thank you, ser:Thriley|Thriley (ser talk:Thriley|talk) 20:22, 6 December 2024 (UTC)
+[https://en.wikipedia.org/wiki/Draft:Delay,_Deny,_Defend_(practice) it needs more text and sources...IMO]--ser:Ozzie10aaaa|Ozzie10aaaa (ser talk:Ozzie10aaaa|talk) 13:06, 17 December 2024 (UTC)
+
+ ater fluoridation 
+If someone has an or two eyes on that - new account promotes findings of a review regarding associations of IQ and fluoridation (what is missing: decrease in IQ points). This review is flawed - arbage in, garbage out - as it solely relies on the flawed papers from the past. --ser:Julius Senegal|Julius Senegal (ser talk:Julius Senegal|talk) 18:54, 19 December 2024 (UTC)
+
+Thanks for the note.
+This is a political 'thing' in the US at the moment, so having a decent article will be the best way to prevent well-intentioned but imperfect attempts to improve it.  In particular, I think that the claims that have been in the news for the last year should be directly mentioned and addressed.  Usually, if we put in something that says &quot;____ was claimed, but this is wrong because...&quot; then that will work, but if we remove it, then people assume that it's accidentally missing, and that we would consider if helpful for someone to add &quot;____ is true!&quot; to the article.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:45, 19 December 2024 (UTC)
+ That ist true, but the SPA is now even removing all criticism at all. I didn't delete it just moved it.
+ that is why this is highly flawed and needs attention by more members here. The SPA is just reverting in a nonconstructive way.--ser:Julius Senegal|Julius Senegal (ser talk:Julius Senegal|talk) 22:13, 19 December 2024 (UTC)
+@ser:The Anome|The Anome, I see you were editing that page recently.  @ser:Doc James|Doc James semi'd the page indefinitely years ago.  What do you think about raising that to P:EXTCONFIRMED?  Or tagging it as part of P:AP2, since that's what's driving the edit wars? ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 00:18, 20 December 2024 (UTC)
+Better sooner than later.
+ You see that also on the discussion page. --ser:Julius Senegal|Julius Senegal (ser talk:Julius Senegal|talk) 17:49, 20 December 2024 (UTC)
+
+ No CSD for badly referenced medical articles/gibberish? 
+
+So, angqi acupoint has sadly been created by one of my students (sorry). But it also made me suprised - I was going to CSD it but I could not see an applicable criterion?  ser:Hanyangprofessor2|Piotrus at Hanyang|ser talk:Hanyangprofessor2| reply here 11:53, 23 December 2024 (UTC)
+
+One person's &quot;badly referenced medical content&quot; is another person's P:TRUTH.  I think you did a reasonable thing by moving it to the Draft: namespace.   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:23, 23 December 2024 (UTC)
+This is not the sort of thing that I would think would have a CSD criterion at all. ser:BD2412|BD2412 ser talk:BD2412|T 19:50, 23 December 2024 (UTC)
+I agree.  It's not concrete and indisputable enough. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 20:43, 23 December 2024 (UTC)
+
+ PANDAS 
+There are a lot of new SPAs at alk:PANDAS; more eyes needed. ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  09:38, 16 December 2024 (UTC)
+
+Could some people please put this article on their elp:Watchlist|Watchlists?  In the last month, only nine registered editors with this on their watchlists have checked this article. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 19:42, 16 December 2024 (UTC)
+I added it to my watchlist. Is the article itself getting vandalized? If so it might need page protection. ser:IntentionallyDense|Intentionallyser talk:IntentionallyDense|Dense (pecial:Contributions/IntentionallyDense|Contribs) 21:36, 16 December 2024 (UTC)
+No, it's getting well-intentioned efforts from people who believe the article has the wrong POV.  They may not be 100% wrong, so we need good editors here. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:45, 16 December 2024 (UTC)
+Correct; and it is a difficult topic complicated by multiple factors. The topic has long been plagued by canvassing that occurs at popular tic-related message boards and online support groups for parents -- a phenomenon mentioned in multiple sources -- so editors who understand policy and guideline as well as medicine have been lacking to keep up with that.  Some dated sections need rewriting (not so much for changed content, but to update the citations used that usually say same), but motivation wanes when much educating about policies and guidelines has to be done along the way, along with answering a lot of misinformation or overinterpretation of sources.  Summary: more eyes needed, still and always. ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  13:43, 17 December 2024 (UTC)
+Here is a lay article that provides an overview of the territory:
+* https://www.gavi.org/vaccineswork/when-infection-sparks-obsession-pandas-and-pans
+ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  14:31, 17 December 2024 (UTC)
+
+A good deal of the talk discussion at PANDAS is now about PANS, which was AFD'd 12 years ago (ikipedia:Articles for deletion/Pediatric acute-onset neuropsychiatric syndrome).  Is it time now to create that article?  When PANS first came up, it was just another in a string of hypotheses (PANDAS, PITANDs, PANS, CANS); now it seems to be the prevailing one.  I'm unsure of the technicalities of overriding that AFD, or even if that's the best course of action; if someone clues me in on how to proceed here, I could stub up the new PANS article.  |Ajpolino?  ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  21:11, 17 December 2024 (UTC)
+
+I think that would be reasonable, but step one is going to be finding some good sources. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 23:17, 17 December 2024 (UTC)
+Secondary reviews since the 2012 AFD, at least:
+# MID|39334578 2024
+# MID|34197525 2021
+# MID|33041996 2020
+# MID|32206586 2020
+# MID|31111754 2019
+# MID|30996598 2019
+# MID|29309797 2018
+... at least.  So if someone advises on the process for overwriting an AFD'd article, I can separate out the relevant content. ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  02:16, 18 December 2024 (UTC)
+At this point, I think that just boldly replacing the redirect with a decent article would be fine.  It might be convenient to draft it in your sandbox, so you can replace it in a single edit. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 06:53, 18 December 2024 (UTC)
+I could do that as soon as I get a free moment; I just wanted to be sure a bold replacement over a previous AFD wouldn't be problematic.  I should be able to get to that later today, unless someone tells me doing so is unwise. ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  15:31, 18 December 2024 (UTC)
+We could take it to ikipedia:Deletion review if you'd like to avoid any possible risk of a l|db-repost complaint.  (I could take it there for you, if you'd like.) ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:19, 18 December 2024 (UTC)
+I am drowning IRL ... maybe we could wait 'til after Christmas?  I'm not sure anyone would object to the article being recreated, as I was the only one opining in the past!  Whatever you think, I'm just SO out of time ... ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  23:09, 18 December 2024 (UTC)
+P:There's no deadline.  In the meantime, here's a virtual life preserver:  🛟   ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 00:06, 19 December 2024 (UTC)
+I don't think we need a second article. A google shows most coverage is on PANS/PANDAS together. If PANDAS is a subset of PANS then what is needed perhaps is to move the existing PANDAS article to PANS and cover PANDAS within that. That allows us to use sources talking about &quot;PANS/PANDAS&quot; together but also sources covering just one where appropriate. -- ser:Colin|Colin°ser talk:Colin|Talk 10:02, 19 December 2024 (UTC)
+I can't think of any reason to oppose that; would like to see more feedback, though. ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  12:57, 19 December 2024 (UTC)
+Re q|Is the article itself getting vandalized?, another question is whether the talk page is being used appropriately or disruptively?  ser:SandyGeorgia|SandyGeorgia (ser talk:SandyGeorgia|Talk)  22:36, 23 December 2024 (UTC)</segment>
+	</text>
+</file>

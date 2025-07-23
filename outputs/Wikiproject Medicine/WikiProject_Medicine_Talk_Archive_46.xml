@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2023-12-13T01:14:58Z" sourceCorpus="Wikiproject_Medicine" filename="42281282" title="WikiProject_Medicine_Talk_Archive_46" url="https://en.wikipedia.org/wiki/Wikipedia_Talk:WikiProject_Medicine/Archive_46">
+	<text>
+		<segment id="id42281282">an
+
+Textbooks copy and pasting appear to be growing
+We may need to change our referencing requirements to only allow sources published before the existence of Wikipedia.
+
+Trying to verify that these are all names for eptospirosis: Weil's syndrome, canicola fever, canefield fever, nanukayami fever, 7-day fever, Rat Catcher's Yellows, Fort Bragg fever, black jaundice, and Pretibial fever. We list them all back in 2010.[https://en.wikipedia.org/w/index.php?title=Leptospirosis&amp;oldid=404489759]
+
+This textbook lists them in the same order as us [http://books.google.ca/books?id=mX1XAQAAQBAJ&amp;pg=RA1-PA189#v=onepage&amp;q&amp;f=false] its from 2013. This textbooks list the same order [http://books.google.ca/books?id=mvO2wKDjtGMC&amp;pg=PA402] and it is from 2012. So does this textbook [http://books.google.ca/books?id=m7vT6i3xmC4C&amp;pg=PA54]. Exact same order from 2012. Gah. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 07:15, 14 March 2014 (UTC)
+Have been able to verify all to sources before Wikipedia. Looks like we got them right. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 07:39, 14 March 2014 (UTC)
+Any of the rint on demand publishers should be considered as suspect, especially when there are no earlier editions. [http://books.google.com/books?id=7LmEMAEACAAJ&amp;dq=%22Weil's+syndrome,+canicola+fever,+canefield+fever,+nanukayami+fever,+7-day+fever,+Rat+Catcher's+Yellows,+Fort+Bragg+fever,+black+jaundice,+and+Pretibial+fever%22&amp;hl=en&amp;sa=X&amp;ei=S_giU-rjAcmwyQHlw4HgBQ&amp;ved=0CCoQ6AEwAA This gbook blurb] is at least clear that it was taken from Wikipedia.  In such cases, lx|Backwardscopy may be useful in warning editors to avoid the wikibook, but we really need a systemic scanning tool looking at each newly added reference to test for such.ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 13:03, 14 March 2014 (UTC)
+I wonder... Amazon seems to be hip-deep in this trade. Can eff Bezos et al. be persuaded to dedicate some of their vast computing resources to QA of the products they're selling?  No doubt there's a ruth in advertising argument to be made, but they might simply want to protect their brand. ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 13:39, 14 March 2014 (UTC)
+See mazon.com_controversies#Sale_of_Wikipedia.27s_material_as_books. ser:Lesion|Lesion (ser talk:Lesion|talk) 13:45, 14 March 2014 (UTC)
+* Apparently another example of this phenomenon: alk:Masseter_muscle#Masseter and Platysma. Publishers were Boundless and MobileReference. ser:Lesion|Lesion (ser talk:Lesion|talk) 13:36, 14 March 2014 (UTC)
+Just a note on that last one, Boundless publish direct copies of Wikipedia, so they are always off-limits. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 15:08, 14 March 2014 (UTC) 
+And I like boundless, the attribute us sort of, and they make clear all their content is CC BY SA. I only have issues with those claiming copyright over our content and who do not attribute. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 23:04, 14 March 2014 (UTC)
+Book LLC is not owned by amazon though is it? Do we know how much they make from books that openly copy and paste from Wikipedia? Would be happy to approach them. We just need a well thought out argument for why they should care. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 23:09, 14 March 2014 (UTC)
+While attribution is good, it doesn't solve the circular referencing problem. These books have a number of characteristics that can be auto detected at least in principle.  All are published in recent years, have very few if any copies held in major libraries, and most are attributed to one of a handful of publishers that are themselves fairly new. They sell only online. I'm pretty sure a bot could be crafted that would be able to flag these if we agree it is needed.ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 03:12, 15 March 2014 (UTC)
+Yes agree. The P:Turnitin bot though is needed much more. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 07:10, 15 March 2014 (UTC)
+
+ Duplicates 
+
+yperkinetic disorder. DHD.  See the infobox in hyperkinetic disorder.  Note the definition/nomenclature provided for IDC10 CD10|F|90||f|90.  Also note that the former is basically just an article on ADHD.
+
+I realize the former, per the ICD10 page, is a &quot;group&quot; of disorders as well as &quot;ADHD&quot;, but the group is so insignificant/arbitrary that I don't think it should be an article.  Should the former just redirect to the latter? ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 21:22, 15 March 2014 (UTC)
+Yes one is the ICD10 term the other is the DSM term. The DSM term has predominance in usage. I would support a merge as they are two different classification for the the same thing. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 23:28, 15 March 2014 (UTC)
+
+ Dabigatran 
+
+I see abigatran is being edited extensively, and it has some quite detailed section headings. I imagine primary sources are probably being overused. Maybe someone could take a look. ser:Biosthmors|Biosthmors (ser talk:Biosthmors|talk) pls ikipedia:Notifications#Features|notify me (i.e. [Template:U|U) while signing a reply, thx 22:10, 15 March 2014 (UTC)
+
+I have warned l|Truebreath more than once and left a message on T:PHARM, but I don't have time to manually rip out all the primary sources. (S)he also edits ivaroxaban and pixaban. I agree that we need good articles on these medications. ser:Jfdwolff|JFW | ser_talk:Jfdwolff|T@lk 22:30, 15 March 2014 (UTC)
+
+Wow. [https://tools.wmflabs.org/usersearch/usersearch.py?name=Truebreath&amp;page=Dabigatran&amp;server=enwiki&amp;max=500 More than 52% of the edits to this page were made by Truebreath]. At least (s)he's not spamming pharma-funded crap about how amazingly safe and effective it is. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 22:35, 15 March 2014 (UTC)
+
+I censored 3 sections w/ comments - left a note with each censor.  Most of [https://en.wikipedia.org/w/index.php?title=Dabigatran&amp;diff=599784286&amp;oldid=599776655 these edits] are just layout edits to collapse the TOC/organize the article and fix section headers.  I only checked one section for primary sources - it was mostly cited with recent reviews.  Hopefully the rest of the article is cited similarly. Still a lot left to organize/check in this article. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 22:45, 15 March 2014 (UTC)
+I have placed those sections on the talk page. And re-organized the article per P:MEDMOS. Trimmed a lot of the primary research which provided content that was overly details. Also removed dosing info and watched the three articles in question. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 00:09, 16 March 2014 (UTC)
+
+ More eyes on aniel Amen 
+
+I added the tag for this project on the talk page. I hope that it was accurate to do so. Amen's article is going under a full overhaul, and that might be an improvement. However, a number of statements seem to cast doubt on many, possible most, aspects of his work. I'm concerned Wikipedia is characterizing him as some sort of quack, when I'm not sure that is quite accurate. [http://scholar.google.com/scholar?hl=en&amp;q=%22daniel+amen%22&amp;btnG=&amp;as_sdt=1%2C5&amp;as_sdtp= a Google Scholar search] suggests he has some credibility, or at least sway. I don't feel my experience in medical issues will be terribly useful here, and would very much appreciate anyone familiar with him/his fields of study, to have a look.
+If he is using SPECT scans to &quot;diagnose&quot; ADHD and pushing vitamin supplements, yup there are issues. And the titles of his books, wow. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 08:53, 14 March 2014 (UTC)
+I don't know if he is doing that, or if that is another mischaracterization of what he does do. Or even if he is pioneering in the field, and trying to share what he feels are areas of further investigation. That he dumbs down complex issues, in order to get people to make better life choices, seems admirable. I don't know that any of it is that cut and dry. A thoughtful look at his life is undoubtably a good read, a tar and feathering, maybe not so much. My hunch is that items are being cherry-picked, and used against him. In fairness, others may feel that is a good solution to counteract promotional editing which has been accused on the talk page. I encourage people to have a look and address anything the feel needs it. ser:Sportfan5000|Sportfan5000 (ser talk:Sportfan5000|talk) 09:25, 14 March 2014 (UTC)
+Wikipedia is in fact rather soft on him compared to many comments in RS. Have you read the article's Talk page? ser:Alexbrn|Alexbrn ser talk:Alexbrn|talk|pecial:Contributions/Alexbrn|contribs|ser:Alexbrn#Conflict_of_interest_declaration|COI 09:30, 14 March 2014 (UTC)
+Looked back in the history and there appears to be some COI editing. It seems like there was an attempt to promote him and his business on Wikipedia. And we have had a few editors deal with it. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 09:51, 14 March 2014 (UTC)
+ser:Sportfan5000 you are framing things in terms of how you feel and your hunches. Please note that there are policies and guidelines at play that govern health related content:  ikipedia:Neutral_point_of_view#Fringe_theories_and_pseudoscience (policy),  P:FRINGE (guideline) and P:MEDRS (guideline).  Folks working on the article are making judgements based on their solid knowledge of these policies and guidelines.  Discussion needs to remain grounded on policies and guidelines, not on feelings and hunches.  Thanks. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 12:45, 14 March 2014 (UTC)
+
+
+I originally posted this on the oticeboard#Daniel Amen|Biographies of Living Persons Noticeboard, section on Daniel Amen but thought I would add this here as well, as it might actually be even more relevant here in this discussion--
+
+edical-RINGE is about cience, but sychology is not, and never can be, purely a science--   
+
+I have a concern that the aniel Amen article is being treated like a &quot;cience article&quot; when, in fact, much of the topic is about sychology, which can never be a &quot;ure science&quot;. 
+
+I think treating a psychology article (such as this one) like it is about &quot;pure science&quot;, is misguided. Treating Psychology as a science has inherent limits-- that is, in reality, psychology is much more of what is called a &quot;oft science&quot; than it ever could be a &quot;ard science&quot;. Science can help in the understanding of psychology, and should be used as much as possible to the extent that it can help, but there is something about psychology that is more elusive and much more difficult to pin down. There is an aspect of psychology that is very hard to apply ard science in any conclusive way.    
+
+In a nutshell, psychology is inherently ubjective, when science is a practice in bjectivity. (sychology being an essential part of what sychiatry is, in addition to the neurological and pharmaceutical aspects). All of this makes it much harder to &quot;scientifically evaluate&quot; things that involve psychological states of mind. 
+
+ *So psychiatrists are all less scientific than they appear to be (including Dr. Amen's critics). And so are neuroscientists, when they start talking about sychology.  
+
+Psychiatry is far from being a &quot;cut and dried&quot; field, and that applies as much to Dr. Amen's critics as it does to Dr. Amen. I therefore fear that treating critics of a psychological theory as if they are the &quot;voice of science&quot; is giving these critics authority that they do not deserve. Of course Dr. Amen should not get authority that he does not deserve either. But this does not take us to the same place as a &quot;RINGE conclusion. Instead it takes us to a place of not being able to know much of anything for sure. And so a responsible article would rely more heavily on the &quot;this can not be known for sure either way one (literature)|tone&quot;, than a RINGE tone. There can be no RINGE where there is no science, or in this case, some science, but not enough science. This cuts both ways, applying just as much to Dr. Amen's critics as it does to Dr. Amen.  
+
+Thanks.
+
+ser:Cliffswallow-vaulting|Cliffswallow-vaulting (ser talk:Cliffswallow-vaulting|talk) 20:22, 15 March 2014 (UTC)
+
+Giving the article a medical-fringe angle then implies that psychology is medical when it is not, or not sufficiently so for the purposed of medical fringe or science fringe designations.
+ser:Cliffswallow-vaulting|Cliffswallow-vaulting (ser talk:Cliffswallow-vaulting|talk) 20:25, 15 March 2014 (UTC)
+
+My biggest concern is that medicalizing this subject, also encourages medicalizing other psychology articles. Which opens the door to subjecting them all to medical-fringe or science-fringe designations. The ramifications go far beyond this article. 
+
+It's the wrong tandard and could be abused elsewhere (in other psychology articles). 
+
+sychology, despite it's inherent resistance to scientific method, deserves to exist and has value, without being hammered by RINGE accusations. Better that everyone knows to take psychology with a grain of salt, rather than to label all of it as a falsehood.
+
+ser:Cliffswallow-vaulting|Cliffswallow-vaulting (ser talk:Cliffswallow-vaulting|talk) 20:25, 15 March 2014 (UTC)
+
+Are you suggesting that the use of SPECT scans doesn't fall within the remit of the scientific method? ser:AndyTheGrump|AndyTheGrump (ser talk:AndyTheGrump|talk) 20:30, 15 March 2014 (UTC)
+
+I'm saying that PECT scans are combined with psychological evaluations-- so once you combine a ard science method with a oft science method, there is really no clear hard science anymore. You can't anymore rove it than isprove it.
+
+Therefore saying that it is proven is not right, but saying that it has been dis-proven is also not right. What you can say is that there is disagreement and criticism.ser:Cliffswallow-vaulting|Cliffswallow-vaulting (ser talk:Cliffswallow-vaulting|talk) 05:24, 16 March 2014 (UTC)
+
+ Merger proposal 
+
+...of 
+hysical examination and eneral medical examination - see  alk:General medical examination#Proposed merge with Physical examination
+
+cheers, ser:Casliber|Cas Liber (ser talk:Casliber|talk · pecial:Contributions/Casliber|contribs) 13:13, 16 March 2014 (UTC)
+
+ File:Abdominal examn.jpg at the illustration lab 
+
+I posted  this diagram on the illustration lab here [https://en.wikipedia.org/wiki/Wikipedia:Graphics_Lab/Illustration_workshop#Abdominal_examination_sketch]. Suspect the diagram will be completely reworked, so some may wish to give input at this stage if they can suggest any improvements. Kind regards, ser:Lesion|Lesion (ser talk:Lesion|talk) 17:49, 16 March 2014 (UTC)
+
+ &quot;Indications&quot; 
+uotebox|
+*Surgeries and procedures
+**Indications
+**Contra-indications
+**Technique (avoid step-by-step instructions)
+**Risks/Complications
+**Recovery or Rehabilitation
+**History (e.g., when it was invented)
+**Society and culture (includes legal issues, if any)
+**Special populations
+**Other animals
+|source =the current text of ikipedia:Medmos#Surgeries_and_procedures
+
+I'm going through a GA review at present and the reviewer finds the use of the term &quot;Indications&quot; as a section heading confusing (in this case referring to a surgical procedure).  Although indications is listed in MEDMOS, is there another (more layperson-friendly) term that is commonly used? ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 17:58, 14 March 2014 (UTC)
+
+You might consider &quot;uses&quot; or &quot;applications&quot;, but I agree that &quot;indications&quot; is the most precise term. ser:DoctorJoeE|DoctorJoeE pecial:Contributions/DoctorJoeE|review transgressions/ser talk:DoctorJoeE|talk to me! 18:08, 14 March 2014 (UTC)
+I think they have a point as, though the most precise word, &quot;indications&quot; is not generally understood the way that say &quot;diagnosis&quot; is. If we are talking about ental implant#Indications (as it now is), something like &quot;Types and uses&quot; best summarizes the content there. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 18:14, 14 March 2014 (UTC)
+Indications is not esoteric medical word, it is used in everyday parlance. Don't think more clumsy terms like &quot;uses&quot;, &quot;applications&quot;, &quot;type&quot; or even &quot;reasons&quot; (e.g. as seen on ental_extraction#Reasons) are particularly needed. Only reasons adequately reproduces the meaning of the original word... but it doesn't sound particularly encyclopedic imo. Should use the term which the sources are using. Link to ndication (medicine) in the first sentence of the section if needed. ser:Lesion|Lesion (ser talk:Lesion|talk) 18:24, 14 March 2014 (UTC)
+Indications is not used in &quot;everyday parlance&quot; with the medical meaning where I live (mind you, neither is &quot;parlance&quot;). The link can't be used in a heading, though it should be used in the text.  In what seems to be the example concerned here the section covers more than a narrow interpretation of &quot;indications&quot; in any case. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 18:32, 14 March 2014 (UTC)
+utdent The term confused ser:TonyTheTiger who, from what I can see, has a lot of experience with reviewing articles.  If it confused this user, I'm going to assume that it will confuse the average person.  However, it's part of medmos so I didn't want to make a change that was non-uniform.  I can't link it in the title as ser:Johnbod said. Personally, I'm not sure the average reader would understand that an indication is &quot;a valid reason&quot; for an operation/procedure/test. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 18:39, 14 March 2014 (UTC)
+and Tony's American.  There may well be a P:ENGVAR issue here too. In the US drug packaging leaflets are apparently required by legislation to use the term; in the UK they are not and patient information will typically (normally, always?) avoid it, having a section called something like &quot;What FOO tablets are and what they are used for&quot;.  Another reason to be cautious in using the term, and maybe note an ENGVAR issue at MEDMOS. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 18:41, 14 March 2014 (UTC)
+Just took a poll in my house (n=2) and neither thought the meaning was intuitive. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 18:46, 14 March 2014 (UTC)
+=D wouldn't that be P:original research|original research? But, I have to insist that indication(s) is not an esoteric word. I suspect that it is not originally a medical term... medicine has borrowed it from ordinary English. &quot;Did the volcano give any indications that it was about to erupt?&quot; ser:Lesion|Lesion (ser talk:Lesion|talk) 18:51, 14 March 2014 (UTC)
+I think, overall, that the recommended headings in the MEDMOS would have to be changed before your reviewer would be able to appropriately ask for this section to change... ser:Lesion|Lesion (ser talk:Lesion|talk) 18:58, 14 March 2014 (UTC)
+I agree with Lesion -- &quot;indications&quot; is the proper term, and can be linked to ndication (medicine) in the first sentence of the section if you are seriously concerned that readers will not understand; although its meaning becomes intuitively obvious once readers begin reading the section.  Reducing descriptors to the lowest common denominator, at the expense of precision, is a mistake in an encyclopedia, IMHO. ser:DoctorJoeE|DoctorJoeE pecial:Contributions/DoctorJoeE|review transgressions/ser talk:DoctorJoeE|talk to me! 19:00, 14 March 2014 (UTC)
+I was going to say &quot;Of course it's &quot;not originally a medical term&quot;! But the medical meaning is different from the normal ones...&quot; until I looked at the ED, who in fact say it &quot;apparently&quot; is the earliest sense, dating to 1541, though in fact the early citations seem closer to &quot;symptom&quot; in modern usage, as &quot;indications&quot; of what a patient's condition is, not what to do about it. I think Ian (and Tony) are right to think it is not very generally understood in its precise modern medical sense of &quot;a valid reason to use a certain test, medication, procedure, or surgery&quot; (our article, from Mirriam-Webster).  You get on to the 2nd page of the 935 hits in a search for &quot;indications&quot; on the UK NHS website [http://www.nhs.uk/Search/Pages/Results.aspx?q=indication] before you hit a use in this technical sense.  ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 19:04, 14 March 2014 (UTC)
+utdent
+But that sense is still in use. &quot;Night sweats might indicate malaria&quot;. This is the same sense as the nonmedical use: &quot;Rumbling might indicate that the volcano is about to erupt&quot;. The other sense of the word, as something (e.g. sign/symptom or specific condition) which triggers something else to happen (e.g. a specific treatment choice over another), is also not confined to medicine. &quot;A rumbling volcano indicates that you should quickly move to safety.&quot; I have difficulty understanding how there is any difference between the medical use and the nonmedical use of the term. ser:Lesion|Lesion (ser talk:Lesion|talk) 19:25, 14 March 2014 (UTC)
+With respect, that's probably why you are a dentist, not a lexicographer. OED distinguishes 4 senses of the noun, of which the medical is 1b (also 4 for the verb). Try seeing how many of the 935 uses in the link above mean &quot;a valid reason to use a certain test, medication, procedure, or surgery&quot;, or to take any form of action. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 19:34, 14 March 2014 (UTC)
+Even if we agreed that indications is a common enough term to let it stand, the next logical question would be, &quot;Is contra-indications intuitive to the layperson?&quot;.  We need to consider the terms together. Is &quot;Reasons for use&quot; and &quot;Reasons not to use&quot; any less percise? Maybe &quot;Indications for use&quot; Btw - what is the average reading comprehension level of an english speaking user? ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 19:49, 14 March 2014 (UTC)
+
+&quot;ontraindication&quot; can be wikilinked just as easily as can &quot;indication&quot;.  &quot;Reasons for use/not use&quot; is clumsy and unencyclopedic; &quot;indications for use&quot; is redundant. ser:DoctorJoeE|DoctorJoeE pecial:Contributions/DoctorJoeE|review transgressions/ser talk:DoctorJoeE|talk to me! 19:59, 14 March 2014 (UTC)
+Personally, and rather perversely, I think &quot;contra-indications&quot;, as effectively only a medical term (or at least a scientific/technical one), is rather less confusing to the average reader. The question is not just whether to use or not use, but whether to use and explain, as well as linking. If used, I think they should be explained, and if used in a header, explained right afterwards. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 20:05, 14 March 2014 (UTC)
+utdent K - I'll leave it as is for now and provide a link to this discussion for the reviewer.  I don't think there will be a clear concensus on the terms anytime soon. If there is any desire for more discussion, I'm happy to be involved.  As it stands now; 2 think it should change and 2 think it should stay the same.  No agreement on an alternative. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 20:25, 14 March 2014 (UTC)
+I much prefer &quot;medical uses&quot; and &quot;recreational uses&quot;. Indications more refers to the position of oversight bodies such as the FDA and Health Canada. This is more legal and should be in the &quot;society and culture section&quot; ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 22:16, 14 March 2014 (UTC)
+You are thinking of &quot;approved indications&quot;, which is a much narrower thing.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 02:28, 17 March 2014 (UTC)
+I have made the change here [https://en.wikipedia.org/w/index.php?title=Wikipedia%3AManual_of_Style%2FMedicine-related_articles&amp;diff=599642213&amp;oldid=596755839] and will also bring to the talk page. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 22:20, 14 March 2014 (UTC)
+Agree with James.  For style and an understandable categorization, its straightforward to name the main section &quot;Uses&quot; and subheadings (if relevant) &quot;Medical&quot;, &quot;Recreational&quot;, &quot;Performance enhancing&quot;/&quot;Enhancing performance&quot;, etc. E.g., ethamphetamine#Uses &amp; mphetamine#Uses. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 22:22, 14 March 2014 (UTC)
+I'll change to medical uses in the article.  Thanks for reviewing everyone.  ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 22:27, 14 March 2014 (UTC)
+&quot;Medical uses&quot; is not always a suitable substitute for &quot;indications&quot;. In this article particularly, it doesn't make a great deal of sense to use this language about a surgical procedure. Surgical sources use the term medical to mean non-surgical. ser:Lesion|Lesion (ser talk:Lesion|talk) 22:46, 14 March 2014 (UTC)
+Yes but that comes from a time when surgeons cut hair. Now they are doctors like the rest of us :-) Common usage is that medical means both &quot;surgery and non-surgery&quot; ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 22:53, 14 March 2014 (UTC)
+In a surgical context, medical may mean nonsurgical, and this occurs in modern sources. &quot;Medical uses&quot; makes less sense than &quot;Reasons&quot;, which is the most accurate substitute so far suggested, not that I think substitution is required. ser:Lesion|Lesion (ser talk:Lesion|talk) 23:11, 14 March 2014 (UTC)
+How about just &quot;uses&quot; than? ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 06:35, 15 March 2014 (UTC)
+Answered on ikipedia talk:Manual of Style/Medicine-related articles‎#Indications versus medical uses. ser:Lesion|Lesion (ser talk:Lesion|talk) 13:50, 15 March 2014 (UTC)
+
+ User adding many primary sources 
+
+Have concerns about this editor: [https://en.wikipedia.org/wiki/Special:Contributions/Asucur] ser:Lesion|Lesion (ser talk:Lesion|talk) 14:32, 14 March 2014 (UTC)
+Every single one of their edits I have looked at begins with &quot;A recent study showed that ... &quot; cited with a primary source. Not checked to see if any of the authors' names are recurring. ser:Lesion|Lesion (ser talk:Lesion|talk) 14:35, 14 March 2014 (UTC)
+There's a lot of that. It's way past time we had a bot marking citations of papers that PubMed identifies as having a particular publication type, as with:  Journal Article (as opposed to Review, Systematic review, or Meta-analysis). I know we've talked about it before, but I don't think we ever actually raised a p:Bot request for it. The approach is not without minor drawbacks, but we can't afford to allow the perfect to be the enemy of the good here.
+The l|cite journal template can take the parameter ara|type|Systematic review (e.g.) which is suitable for the purpose of capturing the information.
+ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 15:54, 14 March 2014 (UTC)
+Trimmed primary sources. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 22:14, 14 March 2014 (UTC)
+Incidentally, the number of uses of that phrase on this website is [https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;profile=advanced&amp;search=%22a+recent+study%22&amp;fulltext=Search&amp;ns0=1&amp;profile=advanced alarmingly high]--more than 1500. Looks like a lot of MEDRS-enforcing cleanup is needed, although some of those are obviously false positives and/or have nothing to do with this Wikiproject. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 02:35, 17 March 2014 (UTC)
+
+ Wikipedia:WikiProject Fisiologia &amp; Anatomia 1 
+
+ikipedia:WikiProject Fisiologia &amp; Anatomia 1 is a ikipedia:Database reports/New WikiProjects|new WikiProject in the ortuguese language. 
+—ser:Wavelength|Wavelength (ser talk:Wavelength|talk) 16:23, 17 March 2014 (UTC)
+This exists because it is managed by a professor whose class is developing Portuguese Wikipedia. They are participating in the P:WEP|Wikipedia Education Program and are on English Wikipedia because classroom support software only exists here and not for Portuguese. I did not know what else to do with them so I invited them to be resident here in English Wikipedia since they wanted the tools. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 18:36, 17 March 2014 (UTC)
+Thank you for your explanation.
+—ser:Wavelength|Wavelength (ser talk:Wavelength|talk) 19:09, 17 March 2014 (UTC)
+Thanks Blue. Yes these are work arounds that the non consistency between Wikipedia languages require. It has my support. Hopefully the WMF will increase consistency between languages. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:02, 18 March 2014 (UTC)
+
+ Redirecting article 
+
+I feel it might be best to redirect njury to rauma (medicine) as the later is much more comprehensive and the first serves very little purpose in the condition that it is in now. I placed a discussion of the matter alk:Injury|here. Any input would be valued.  ser:Peter.C|Peter.C • ser talk:Peter.C|talk • pecial:Contributions/Peter.C|contribs 16:32, 16 March 2014 (UTC)
+Trauma (medicine) means a significant injury not just any injury thus I do not think we should merge. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 08:41, 18 March 2014 (UTC)
+
+ ikipedia:Articles_for_deletion/BioCell_Collagen 
+
+Your opinions on this would be appreciated. ser:Smartse|SmartSE (ser talk:Smartse|talk) 12:04, 18 March 2014 (UTC)
+
+ Psoriasis 
+
+Can I congratulate l|TylerDurden8823 here for getting psoriasis to GA? This is a huge topic, and while it was ikipedia:MCOTW|collaboration of the month he expanded the article almost single-handedly to an excellent standard. I bet y'all are itching to go have a look at the result. Well done! ser:Jfdwolff|JFW | ser_talk:Jfdwolff|T@lk 20:47, 17 March 2014 (UTC)
+Thanks Jfd =) ser:TylerDurden8823|TylerDurden8823 (ser talk:TylerDurden8823|talk) 00:39, 18 March 2014 (UTC)
+Congrats. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 12:44, 18 March 2014 (UTC)
+
+ anger triangle of the face 
+
+Have never heard of this, and there's no citations in the article. Is it a hoax, a myth or an exaggeration? What's the deal? --ser:Harizotoh9|Harizotoh9 (ser talk:Harizotoh9|talk) 22:57, 17 March 2014 (UTC)
+No it's real. A bit old but I have heard of it in a few textbooks. ser:Lesion|Lesion (ser talk:Lesion|talk) 23:19, 17 March 2014 (UTC)
+I have added one of the 3 PubMed results to the article. Apparently there's an urban legend going around that says if you pop a pimple in the triangle (aka the &quot;triangle of death&quot;) you can cause an infection because the bacteria travel to the back of the brain, and from there they travel to your sinuses. &quot;If not treated right away, an infection in your sinus cavity can be very serious, leading to paralysis, loss of vision, or even death.&quot; [http://www.huffingtonpost.com/2013/09/25/popping-pimples-kill-you-infection_n_3961886.html] ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 00:03, 18 March 2014 (UTC)
+Probably over-dramatic.  From what I remember in anatomy, the risk is of valveless facial veins allowing retrograde flow to the cavernous sinus or brain causing either brain abscess or cavernous sinus thrombosis.  I've seen one of each in 20 years with little evidence it came from something like this.  Neurosx may have something more to say about it, but it's relatively uncommon.  [http://www.ncbi.nlm.nih.gov/pubmed/19528145 This reference] relates to MRSA but you get the idea. Its a review article that supports it. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 00:24, 18 March 2014 (UTC)
+They teach this in medical school. Should look to see if it has some truth. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 00:44, 18 March 2014 (UTC)
+Medical books supports it [http://books.google.ca/books?id=T4bUKXR508wC&amp;pg=PA56] ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:04, 18 March 2014 (UTC)
+
+Thanks guys. I was afraid it might be some kind of a hoax or myth. It should be re-written. Also what is the actual proper terminology? Maybe it should also be merged into another article? --ser:Harizotoh9|Harizotoh9 (ser talk:Harizotoh9|talk) 07:26, 18 March 2014 (UTC)
+I am happy with it named as it is. But yes could use work. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 08:31, 18 March 2014 (UTC)
+Any aspect of myth has to do with how common it is. As far as I know its extremely rare, and the article states that most people, but not all have valves in their facial veins. I think it would be good to get some numbers or incidence in there. It is a real phenomena, but Wikipedia should be careful so as not to exaggerate the danger. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 08:55, 18 March 2014 (UTC)
+Absolutely agree with that ^ ser:Lesion|Lesion (ser talk:Lesion|talk) 11:41, 18 March 2014 (UTC)
+Added 5 references - may need some rewording.  One of the original studies is from 1937 (as a link to the full original article) called it the danger area because 61% of cases of avernous sinus thrombosis were the result of furuncles in the area. But the term comes from 1850's! ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 14:29, 18 March 2014 (UTC)
+
+ ex therapy article  
+
+ser|Rmcoe significantly expanded the Sex therapy article today as part of a P:Student assignment. I've cleaned up the content a bit, but the expansions could use the assessment of others from WP:MED (such as how the article should be organized and if any content and/or sources should be removed). ser:Flyer22|Flyer22 (ser talk:Flyer22|talk) 17:01, 18 March 2014 (UTC)
+
+That is obviously a major improvement.  It's gone from two general references (one weak) to more than a dozen inline citations.  The sources include textbooks and academic journals.  It covers aging, which is an area that our articles (especially sex-related articles) are often biased against.  It's not perfect (what article is?), but it is a major improvement.
+Also, I think it meets the P:DYK rules for fivefold expansion.  Perhaps someone would like to write a hook and nominate it?  The main page benefits from having general interest articles like this.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 17:35, 18 March 2014 (UTC)
+
+Agreed. ser:Flyer22|Flyer22 (ser talk:Flyer22|talk) 17:54, 18 March 2014 (UTC)
+
+The aging thing, though, that seems to be a wide academic bias; the vast majority of sexuality/sexual activity sources I come across focus on youth or those who are iddle aged, but with the middle age portion usually only covering those in their 30s, 40s or early 50s (ages that are still young by many people's standards, especially those in their 30s)...if ages are mentioned or discussed. And this aspect, that sexuality/sexual activity research often does not focus on older adults, is also another piece that the Sex therapy article addresses. ser:Flyer22|Flyer22 (ser talk:Flyer22|talk) 18:14, 18 March 2014 (UTC)
+
+ Writer's block 
+
+Any suggestions for a better opening sentence?
+&quot;Anesthesia, or anaesthesia (from reek language|Greek ang|grc|αν-, an-, &quot;without&quot;; and ang|grc|αἴσθησις, aisthēsis, &quot;sensation&quot;), is a temporary, drug induced state the purpose of which is to reach one or all of the three endpoints of hypnosis, analgesia and muscle relaxation.&quot;
+ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 19:30, 18 March 2014 (UTC)
+ Personally, I'd prefer the current opening paragraph. In the lead we ought to avoid medical jargon: for example, nalgesia - even wikilinked - is not as good as &quot;reduction of pain&quot; for a lay reader. Also, from a diving medicine standpoint, air is an anaesthetic at sufficient depth (see itrogen narcosis) and enon is a [http://www.general-anaesthesia.com/xenon-anaesthesia.html usable anaesthetic at normal pressure]. The anaesthetic effect of air under pressure doesn't fit well with our normal concept of a drug and narcosis is not a purposeful effect. I know it's not much help to your writer's block, but it might help to see as broad a picture as possible when trying to write definitions. --ser:RexxS|RexxS (ser talk:RexxS|talk) 20:06, 18 March 2014 (UTC)
+Also: &quot;one or all&quot; - never just two of them? Sorry! I presume &quot;one or more&quot; is better. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 20:51, 18 March 2014 (UTC)
+&quot;&quot;Anesthesia, or anaesthesia (from reek language|Greek ang|grc|αν-, an-, &quot;without&quot;; and ang|grc|αἴσθησις, aisthēsis, &quot;sensation&quot;), is a temporary, drug induced state, that removes awareness, pain and muscle tension. Happy editing, Myrtle G. ser:Myrtlegroggins|Myrtlegroggins (ser talk:Myrtlegroggins|talk) 22:04, 18 March 2014 (UTC)
+Thanks for the ideas - back to the sandbox. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 22:05, 18 March 2014 (UTC)
+
+ Access to wikilibrary 
+
+A bit of a strange request here, but have been working on P:ANATOMY articles recently and have hit a bit of a loggerhead: can't find any good sources for the history of organs. May seem like a strange issue, but per our recent changes to P:MEDMOS#Anatomy|the guidelines (and common sense) I need some historical data to get organ articles up to GA... eg who discovered or first documented organs etc., but this is quite difficult now, requiring a lot of digging for each organ. Without the prospect of GA it is a little demotivating to make random edits that only somewhat improve articles. Finding comprehensive and reliable sources is really quite difficult.
+
+I have heard that Wikilibrary can sometimes help with this, by providing online access to some sources? I'm not sure what sources are available, but I've used Google books to access some pages of these books and they are very high-quality and was wondering if someone could point me in the right direction? (such as how to add them to the library, or access them if they are already there?)
+* &quot;Surgery : basic science and clinical evidence&quot; Jeffrey A Norton
+* &quot;Elsevier's integrated anatomy and embryology&quot; Bruce Ian Bogart Victoria H Ort Philadelphia : Mosby/Elsevier, c2007
+
+Kind regards, --ser:LT910001|LT910001 (ser talk:LT910001|talk) 08:39, 14 March 2014 (UTC)
+|LT910001 I have full online access to the first of those sources, and there are quite a few chapters on history in it. I'm not exactly sure on how we can best use that, but message/mail me and we can probably work something out. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 14:17, 17 March 2014 (UTC)
+Textbooks will be what you will need to use. The history section I always find hard. This one looks good [http://books.google.ca/books?id=JagK-qIWaZoC&amp;pg=PA76] and this has a bit [http://books.google.ca/books?id=0QXLxgrH2jcC&amp;pg=PA5]. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 08:50, 14 March 2014 (UTC)
+
+Found this [http://babel.hathitrust.org/cgi/pt?id=mdp.39015006607066;view=1up;seq=9] The world's anatomists; concise biographies of anatomic masters, from 300 B. C. to the present time, whose names have adorned the literature of the medical profession, The book is from 1905 and not copyrighted. Might be something. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 11:30, 14 March 2014 (UTC)
+Unfortunately that source has the wrong angle, but I'm looking for something better in the Hathitrust collection. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 11:35, 14 March 2014 (UTC)
+
+If sources don't cover it, then it's not P:DUE to include it, even if the suggested list for typical articles encourages it.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:32, 14 March 2014 (UTC)
+Thanks all for your help. The two books I am looking for are textbooks. Have put in a request at the state library to lend them to me, will see where that leads. Am uncomfortable using old books, as it is not uncommon for there to be some variance in the histories that they report (eg during the intervening investigators may point out it is A, not B, who discovered something). Am also uncomfortable about ignoring the history entirely - I feel it would be quite strange to nominate any article, from allbladder through ervix through almaris longus muscle without at least some mention about who first documented it and the etymology of the term, and any changes in understanding over time. And that's not even mentioning the fact that almost all sources neglect the history in Chinese and Indian traditional medicines entirely, which have their own parallel anatomical histories. --ser:LT910001|LT910001 (ser talk:LT910001|talk) 00:40, 15 March 2014 (UTC)
+
+As |WhatamIdoing says I think that P:UNDUE applies in the cases that history is difficult to find. As you point out historical sources may differ wildly, but I think that is something that occurs extensively in all historical fields. For some newer sources the following books might be relevant. Not all of them are strictly text-books, but they have extensive bibliographies (which can be viewed in Amazons quick-look feature). Also do we really need to use text-books, P:MEDRS isn't applicable, and these should work according to P:RS?:
+*Cambridge Illustrated History of Surgery, Harold Ellis 
+
+*History Of Anatomy: THE POST-VESALIAN ERA Bilbiography [http://www.amazon.com/History-Of-Anatomy-THE-POST-VESALIAN/dp/0398067732/ref=sr_1_3?ie=UTF8&amp;qid=1395060322&amp;sr=8-3&amp;keywords=history+of+anatomy], Persaud
+
+*Human Anatomy: A Visual History from the Renaissance to the Digital Age,  Benjamin A. Rifkin &amp;  Michael J. Ackerman
+
+-- ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 14:07, 17 March 2014 (UTC)
+
+Also there is a new text-book due out in June from Wiley called History of anatomy, ISBN:9781118524251 . Don't know how to properly link it, but it might be very relevant. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 14:27, 17 March 2014 (UTC)
+I'd try asking the [http://wellcomelibrary.org/ Wellcome Library] who specialize in the History of Medicine, &amp; are very web &amp; wiki-friendly. The stuff might not all be online, but it's a start.  There will in fact be tons of stuff out there. You are I presume looking for the history of the development of the understanding of the functions of organs - all the big ones were very familiar to cooks etc from prehistoric times, but you don't want recipes I presume. ser:Johnbod|Johnbod (ser talk:Johnbod|talk) 17:03, 17 March 2014 (UTC)
+Public domain source
+Found this ridiculously detailed source (was looking for something completely different): 
+*[http://catalog.hathitrust.org/Record/001557037 Medical discoveries : who and when : a dictionary listing thousands of medical and related scientific discoveries in alphabetical order, giving in each case the name of the discoverer, his profession, nationality, and floruit, and the date of the discovery.] 
+It's from 1959, so it isn't new, but its quite a bit better than the 1905 source, and I would go as far as to say it's ideal. 
+Public domain as well, so as long as it is cited we can use the direct text from the book. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 08:48, 18 March 2014 (UTC)
+Wow, spot on! That's exactly what it was looking for. I have been resorting to googling &quot;[organ name] + Galen&quot; or &quot;[organ name] 
++ Hippocrates&quot; in order to at least get something relevant. --ser:LT910001|LT910001 (ser talk:LT910001|talk) 06:03, 19 March 2014 (UTC)
+
+ egenerative medicine 
+
+More eyes here would be nice. Seems to have a nice collection of dubious non-MEDRS noncompliant sourcing, P:SYNTH, etc.  ser:Yobol|Yobol (ser talk:Yobol|talk) 16:13, 19 March 2014 (UTC)
+
+ More eyes please 
+
+drenal fatigue and hronic stress has become an area of contention, with dubious sources/links being added. I would appreciate more eyes on these articles. Thanks. ser:Yobol|Yobol (ser talk:Yobol|talk) 15:11, 19 March 2014 (UTC)
+I'm a bit confused. ypoadrenia redirects to Adrenal fatigue, but MedlinePlus says it's [http://www.merriam-webster.com/medlineplus/hypoadrenalism the same thing as hypoadrenalism], which is apparently, unlike Adrenal fatigue, a real disease. So should hypoadrenia be retargeted? ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 15:41, 19 March 2014 (UTC)
+I think this is a case where this is a term which has been co-opted to mean the alt med entity &quot;adrenal fatigue&quot; now. I think historically it had a different meaning in medicine (see [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1044180/ this] for example), but I don't think it is a term widely used in now standard medicine, but used mainly by alt med types. ser:Yobol|Yobol (ser talk:Yobol|talk) 18:35, 19 March 2014 (UTC)
+
+ onference on Retroviruses and Opportunistic Infections 
+
+This article has survived who knows how many years with no independent sources and, well, no anything except a table of individual events full of dead links. It needs a lot of work and if this is not done, I'll probably AFD it. Here are some sources to work with: [http://www.scientificamerican.com/article/long-acting-shot-prevents-infection-with-hiv-like-virus/] [http://www.washingtonpost.com/wp-dyn/content/article/2010/02/17/AR2010021704706.html] ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 18:40, 19 March 2014 (UTC)
+
+ AfC submission - 19/03 
+
+ikipedia talk:Articles for creation/Injection of Biomaterial, Alginate, into Ischemic Tissue Post Myocardial Infarction to Limit Left Ventricular Remodeling and Improve Function. ser:FoCuSandLeArN|FoCuSandLeArN (ser talk:FoCuSandLeArN|talk) 15:04, 19 March 2014 (UTC)
+Gah. No. Needs inline refs. Needs primary sources removed. If there is anything left needs to be combined into another article. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:21, 20 March 2014 (UTC)
+It's got copyvio written all over it, as far as I can tell; i'm just not sure which of the sources it's copied from. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 01:35, 20 March 2014 (UTC)
+
+ Merge all iuresis stubs 
+
+When I reviewed and accepted a new article at AfC, old-induced diuresis, I discovered that all the &quot;XXXXXXXX diuresis&quot; articles listed on the iuresis disambiguation page are brief stubs. I believe merging them all to iuresis is a better option than having half a dozen closely related perma-stubs. The interrelationships between the different &quot;varieties&quot; of diuresis can then also be explained better. ser:Dodger67|Roger (Dodger67) (ser talk:Dodger67|talk) 06:51, 18 March 2014 (UTC)
+
+Support, although there might be case for keeping &quot;post-obstructive diuresis&quot; separate. I would turn iuresis into a full article based on MEDMOS and merge all the MEDRS-supported content in there. ser:Jfdwolff|JFW | ser_talk:Jfdwolff|T@lk 12:27, 18 March 2014 (UTC)
+There is no ost-obstructive diuresis article, at least not under this title. The stub articles to be merged are: orced diuresis, mmersion diuresis, smotic diuresis, ebound diuresis and old-induced diuresis. I'm not sure what (if anything) should be done with the olyuria article in this process. ser:Dodger67|Roger (Dodger67) (ser talk:Dodger67|talk) 21:39, 18 March 2014 (UTC)
+
+I have started a draft merged article at raft:Diuresis (merging multiple stubs). I have just done a rough merge so far, the texts of the various source articles are still basically unchanged, just pasted into the draft page - please feel free to edit - the article needs a proper lead and repetition in the sections that used to be separate articles needs to be taken out, as does overlinking, etc. I really need to get to bed now, it's well past [http://www.urbandictionary.com/define.php?term=Pumpkin%20time pumpkin time] at my end. ser:Dodger67|Roger (Dodger67) (ser talk:Dodger67|talk) 23:05, 18 March 2014 (UTC)
+
+I need some help composing a suitable lead that describes diuresis in general before the article goes into detail in various subsections. ser:Dodger67|Roger (Dodger67) (ser talk:Dodger67|talk) 09:01, 20 March 2014 (UTC)
+
+ Invitation to Wikiconference USA 
+
+ile:WikiConference USA 2014 banner.svg|thumb|right|[http://wikiconferenceusa.org/wiki/Main_Page Please come if you can!]
+Hello! In New York City Friday 30 May - Sunday 1 June [http://wikiconferenceusa.org/wiki/Main_Page Wikiconference USA] will be held as a national United States Wikipedia meetup hosted by meta:Wikimedia New York City|Wikimedia New York City and meta:Wikimedia DC|Wikimedia DC. All are welcome to attend. Scholarship applications to cover travel expenses are accepted until the end of March and presentation submissions are requested until that time but can be accepted until closer to the conference.
+
+In previous years New York City conferences have gathered 150 attendees. At this conference we are hoping for more people to attend.
+
+It would be nice if participants and supporters of WikiProject Medicine could attend. Anyone with questions may contact me or any of the other organizers, or post on the conference website. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 22:04, 12 March 2014 (UTC)
+
+Wow, cool! Why didn't they spam this at the top of every page instead of Wikimania? After all, it's closer (both temporally and spatially). ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 22:21, 12 March 2014 (UTC)
+|Jinkinson WikiProject Medicine is an international forum. Most people here are not in the United States, so unfortunately, this conference is not accessible to most people on this board. The &quot;they&quot; who could spam this are volunteers. You could share this, if you like, by going to P:GEONOTICE and making a request to target people in your geographical area. Right now, we have no particular plans to spam this to the entire United States because we have little money and no staff, so the plan was to do targeted outreach in places where people might be particularly interested. I posted this to about 15 places on and off Wikipedia where I personally go, and I tell others to also just post in likely places. Anyone is welcome, but this is definitely an event for and by Wikipedia enthusiasts. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 13:44, 13 March 2014 (UTC)
+
+I will be there and would love to meet fellow medical Wikipedians. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 22:03, 13 March 2014 (UTC)
+
+I hope I'll be able to go, but I'm not sure yet (I'll be in the area for a family thing, which is convenient). ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 15:18, 20 March 2014 (UTC)
+
+ unner's knee? 
+
+This article is currently a redirect to hondromalacia patellae, but at least as far as I was aware liotibial band syndrome is a more common cause of runner's knee. 
+Some sources state runner's knee being the common name of at least 4 distinct injuries. Anyone out there who can point me to a good source so I can create a proper disambiguation page?
+The best I found is this review from 1999 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1313339/], which states it is equivalent to atellofemoral pain syndrome
+-- ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 09:56, 19 March 2014 (UTC)
+
+Dab pages aren't supposed to be sourced.  I suggest starting with the names you're already aware of, and letting it expand organically as other people find more.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 14:52, 19 March 2014 (UTC)
+Done, thanks. If anyone has more in-depth knowledge, please add to the dab ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 15:42, 19 March 2014 (UTC)
+Added lica syndrome.  Hope you don't mind unpublished anecdotes as references on medical DABs.miley|wink &quot;Runners-knee&quot;-related pain started after a distance runner had completed 2 marathons.  On three separate occasions with different doctors, the knee pain was misdiagnosed as either patellar chondromalacia or PFPS based upon an MRI, a simple X-ray, and/or a CT-scan.  Still unsatisfied with each dx after using wikipedia and linked sources to ifferential diagnosis|self-ddx and rule these out, he saw a 4th doctor that finally suspected plica syndrome based upon an X-ray and an MRI.  He confirmed it during arthroscopic knee surgery and excised 2 plica. Following that surgery ~5 years ago, that runner (who happens to be me) completed another 2 marathons without even a single recurrence of &quot;Runner's knee&quot; type pain... I obviously don't have much faith in some doctors as a result of that.  I'm sure there's an actual medical review which includes this since its already in the &quot;see also&quot; of every one of the articles above, but I'm too lazy to check pubmed atm.  I'd suggest just leaving it there based upon P:IGNOREALLRULES and the likelihood that I didn't spend time writing this paragraph because I wanted to create a pointless fabrication. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 18:50, 19 March 2014 (UTC)
+I also came across the article because I've had Iliotibial band syndrome about a year ago, but first looked at it today. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 19:58, 19 March 2014 (UTC)
+
+ WhatamIdoing is correct to point out that disambiguation pages should not have references. However P:DABREF indicates that the target articles should have appropriate references. Therefore articles such as hondromalacia patellae and lica syndrome should state that &quot;Runner's knee&quot; is an alternative name, and a reference should be provided.
+
+ Seppi333, I don't agree with your application of WP:IAR. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 13:28, 20 March 2014 (UTC)
+liotibial band syndrome, Patellofemoral pain syndrome/chondromalacia patellae are the only ones I can find which are called Runner's knee in the literature.
+Reading up a bit, there are sources out there calling lica syndrome the great imitator of knee injuries, maybe it would be better to add it to the differential diagnosis section of the articles?
+Finally, I have a source stating that hondromalacia patellae is an older name for atellofemoral pain syndrome, for which there are two separate articles. Anyone know better? ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 15:11, 20 March 2014 (UTC)
+MID|19887299 I probably should've just checked for reviews instead.  That took just as long to do. &quot;Runner's knee&quot; isn't really a technical/medical term for disorders – it's just a catch-all and informal term referring to overuse injuries typically seen in runners, particularly those associated with chronic pain along the medial or lateral aspect of the patella. Also, ing|Axl could I ask you to continue your review on the amph FAC if you have time over the next two weeks?  It'll probably close after that. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 17:57, 20 March 2014 (UTC)
+
+Side note umper's knee
+I also came across this article, which redirects to atellar tendinitis, which is correct and all, but there is nothing on that page about differential diagnosis in younger individuals with inding-Larsen and Johansson syndrome, which in turn shares an article with sgood–Schlatter disease. I think this is an oversight and plan to split the articles. Thoughts? ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 19:42, 19 March 2014 (UTC)
+Done ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 15:11, 20 March 2014 (UTC)
+
+ P:SYNTH on mphetamine articles 
+
+ser2|Dosenfant has been adding synthesis to amphetamine articles wrt Adderall composition; he's also been deleting the 5-ht toxidrome OD symptom, but that's unrelated to WP:SYNTH.  
+*Threads: alk:Dextroamphetamine#Dextro_:_Levo_ratio_in_Adderall[1] alk:Adderall#Lead &amp; alk:Amphetamine#5-HT toxidrome
+His edits may need to be checked/watched on other articles. I'll likely end up taking this to the OR noticeboard if he continues. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 18:03, 18 March 2014 (UTC)
+What the heck? There's no account with the username Dosefant. [https://en.wikipedia.org/w/index.php?title=Special%3AListUsers&amp;username=Dosefant&amp;group=&amp;limit=50] Was that a typo, ser:Seppi333? ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 18:25, 18 March 2014 (UTC)
+Oops, thanks for fixing that.  I meant to link/ping |Dosenfant. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 19:03, 18 March 2014 (UTC)
+ [1] added alk:Dextroamphetamine#Dextro_:_Levo_ratio_in_Adderall above.
+ I contributed a change to the articles dderall and mphetamine, based on what was already written in extroamphetamine. The statement(s) at that time were, that Adderall would have a D:L amphetamine ratio of 3:1, which was obviously wrong. The current statment 3:1 ratio of D:L amphetamine salts is true, but rather useless, as it mixes up active and inactive ingredients. The 72.7% dextroamphetamine in Adderall where at least mentioned in the book The Amphetamine Debate, although I'm rather sceptic about the quality of the statement there, cause it mistakes dexamphetamine and lisdexamphetamine (might be a typo /autocorrect of a typo as well as simply bad quality) (Moore, Elaine.[http://books.google.com/books?id=6vfMjBwzpIgC&amp;pg=PA90 The Amphetamine Debate: The Use of Adderall, Ritalin and Related Drugs for Behavior Modification, Neuroenhancement and Anti-Aging Purposes]. McFarland, 2010, p. 90.). I myself calculated ratios therefore (but got different values), see alk:Dextroamphetamine#Dextro_:_Levo_ratio_in_Adderall, and e.g. ser:Seppi333 didn't reply till today on that. See also ser_talk:Edward_Bower#D:L-amphetamine_ratio_of_Adderall, because ser:Edward Bower has pecial:diff/122637472/122638124|introduced the statement originally. He seems to be inactive, so he likely won't tell what his source was.
+ Seppi333 confuses having a lot of wikipedia contributions with having or even beeing a reliable, published source. see alk:Amphetamine#5-HT toxidrome. He simply mistakes mphetamines with mphetamine, he hasn't shown up with a single source simply telling mphetamine overdose might cause erotonin syndrome. Best, ser:Dosenfant|--Richard (ser talk:Dosenfant|talk) 22:27, 18 March 2014 (UTC)
+ot|Seppi's response|bg=peach
+ Have you bothered reading the most official/direct sources for this information?
+
+&quot;11 DESCRIPTION
+ADDERALL XR is a once daily extended-release, single-entity amphetamine product. ADDERALL XR combines the neutral sulfate salts of
+dextroamphetamine and amphetamine, with the dextro isomer of amphetamine saccharate and d,l-amphetamine aspartate monohydrate. The
+ADDERALL XR capsule contains two types of drug-containing beads designed to give a double-pulsed delivery of amphetamines, which
+prolongs the release of amphetamine from ADDERALL XR compared to the conventional ADDERALL (immediate-release) tablet formulation.
+Each capsule contains: 5 mg 10 mg 15 mg 20 mg 25 mg 30 mg
+Dextroamphetamine Saccharate 1.25 mg 2.5 mg 3.75 mg 5.0 mg 6.25 mg 7.5 mg
+Amphetamine Aspartate Monohydrate 1.25 mg 2.5 mg 3.75 mg 5.0 mg 6.25 mg 7.5 mg
+Dextroamphetamine Sulfate USP 1.25 mg 2.5 mg 3.75 mg 5.0 mg 6.25 mg 7.5 mg
+Amphetamine Sulfate USP 1.25 mg 2.5 mg 3.75 mg 5.0 mg 6.25 mg 7.5 mg
+Total amphetamine base equivalence 3.1 mg 6.3 mg 9.4 mg 12.5 mg 15.6 mg 18.8 mg
+is from [http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021303s026lbl.pdf Shire's December 2013 FDA medication guide for Adderall XR]
+(reformatting that as a readable table)
+{|class=&quot;wikitable&quot;
+|Each capsule contains:||5mg||10mg||15mg||20mg||25mg||30mg
+|-
+|Dextroamphetamine Saccharate|| 1.25 mg|| 2.5 mg|| 3.75 mg|| 5.0 mg|| 6.25 mg|| 7.5 mg
+|-
+|Amphetamine Aspartate Monohydrate|| 1.25 mg|| 2.5 mg|| 3.75 mg|| 5.0 mg|| 6.25 mg|| 7.5 mg
+|-
+|Dextroamphetamine Sulfate USP|| 1.25 mg|| 2.5 mg|| 3.75 mg|| 5.0 mg|| 6.25 mg|| 7.5 mg
+|-
+|Amphetamine Sulfate USP|| 1.25 mg|| 2.5 mg|| 3.75 mg|| 5.0 mg|| 6.25 mg|| 7.5 mg
+|-
+|Total amphetamine base equivalence||3.1 mg|| 6.3 mg|| 9.4 mg|| 12.5 mg|| 15.6 mg|| 18.8 mg
+|}
+
+and 
+
+Amphetamine, in the enantiomer ratio present in ADDERALL® (immediate-release)(d- to l- ratio of 3:1), ...
+
+is REPEATEDLY stated in [http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/011522s040lbl.pdf Barr's generic Adderall December 2007 FDA medication guide] (the most recent label for any Adderall IR pharmaceutical).
+I don't dispute the validity of your statement.  My problems with it are: 
+*2.3% is insignificantly small to make this needlessly more complicated for the average reader.
+*The formulation is obviously intentionally based upon the ratio of salts.
+*You don't cite it.
+
+
+As for 5-HT toxidrome, all I can say to that is you apparently can't read.  That quote says amph OD induces a &quot;syndrome&quot; with some of its symptoms secondary to &quot;serotonin excess.&quot;  Serotonin toxicity symptoms manifest on a spectrum, not as a binary state (i.e., an ndicator function).  This is why your statement &quot;No, it's not a pefect match, a serotonin syndrom is not just an excess of serotonin&quot; is wrong. Serotonin syndrome is just a toxic overdose of serotonin (technically, neuronal activity).  
+You're intentionally misrepresenting my statement that &quot;I wrote the section and read the sources&quot; as an rgument from authority. I'll just be explicit and say what it was meant to suggest:
+* To the best of my knowledge, everything in this section is sound and has perfect text-source integrity
+* I'm accountable for the verifiability of the content. 
+* It's laughable that you're giving me a lecture on the difference between amphetamine and substituted amphetamines.
+ob
+ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 23:18, 18 March 2014 (UTC)
+
+ot|2nd Response of Dosenfant|bg=peach
+ Adderall: Anyway, your complaint is a self-attack, as you only pecial:redirect/revision/600140086|filled the introduction with more details. Never have you simply added a citation needed tag at the 72.7%, instead you have attacked me with the words &quot;His edits may need to be checked/watched on other articles.&quot;. What a nice guy you are!
+ You could have easily shortened your Adderal answer to zero words, as it says nothing new. Have a look on alk:Dextroamphetamine#Dextro_:_Levo_ratio_in_Adderall, that's not a small gap. Just ignore the probem? And if you want to say 72.7% are roughly 75% than write &quot;roughly&quot;. But you still need a source that tells you the D:L ratio (without salts, roughly or accurate). Will you show up with one, different from The Amphetamine Debate that I mentioned?
+
+ 5-HT toxidrome: A syndrome whose most prominent feature is an adrenergic storm with some of its symptoms secondary to serotonin excess (so just amended by an obviously smaller serotonin excess compared to the adrenergic and dopaminergic). To call that serotonin syndrome is just false. Found words &quot;excess of serotonin&quot; in erotonin syndrome and in paper about amphetamine overdose -&gt; amphetamine overdose may cause serotonin syndrome = SYNTH.
+ amphetamine is [http://jpet.aspetjournals.org/content/318/2/604.full  considerably less effective in elevating plasma 5-HT compared with fenfluramine, MDMA, and methamphetamine], mphetamine is a less potent drug out of mphetamines regarding 5-HTP excess. Btw, fenfluramine and MDMA are agonists at 5-HT receptors, too. That might contribute to their serotonin toxicity, so it's not clear if it's just an elevated serotonin level that causes serotonin syndrome of mphetamines (I guess agonism is the central mechanism of action for a serotonin syndrome caused by agonists as SD).
+Time does matter: It is healthy to have a pulse rate of 200bpm for a short while on a run, but dangerously if it takes longer.
+ Your continuum theory is just as good as fever = hyperpyrexia, intensity above some cut-off does matter. If you don't show up with a citable source saying &quot;amphetamine causes serotonin syndrom&quot; (mild or whatever), then take it out of the article or do cite literally. Is a serotonin syndrom technically just an excess of serotonin? You know a case of a human with diagnosis of an acute serotonin syndrome, and anybody measured the theorized excess of serotonin? Technically it's just differential diagnosis.
+ It would be easy to circumnavigate the problems caused by your interpretation of the &quot;cited&quot; source, just by citing it: &quot;an excess of serotonin&quot; (add &quot;and related symptoms&quot; if you want) instead of serotonin syndrom/toxidrome in mphetamine#Overdose. But that does require that you think critically about your own contributions. Btw, I have no doubts in your ability to read.
+ &quot;It's laughable&quot;... But it was pecial:diff/598451967/598462108|necessary (&quot;it lists MDMA right next to it&quot;, where it is superclass substituted amphetamines. After that SYNTH &quot;but this could easily happen given a high enough (&quot;extremely large&quot;) overdose for ~100% SERT phosphorylation&quot; and again [http://jpet.aspetjournals.org/content/318/2/604.full that's a highly unlikely speculation and OR]).
+ partly edited ser:Dosenfant|--Richard (ser talk:Dosenfant|talk) 10:45, 19 March 2014 (UTC)
+ob
+ser:Dosenfant|--Richard (ser talk:Dosenfant|talk) 09:18, 19 March 2014 (UTC)
+
+ot|Seppi's 2nd response|bg=peach
+*Serotonin syndrome:
+The scope of all the policies you've stated so far, P:PRIMARY, P:OR, and P:SYNTH, is limited to article content. Non-article content is completely outside the scope of these.  If I said amphetamine is a panacea that cures all diseases known to man without any reference at all, I can do it right here on WT:MED, and it's perfectly OK as long as my statement adheres to the talk page guidelines. I don't care if you think I'm wrong about any statement I've made, or even if you misrepresent some of my statements like you've done in your reply above.
+
+I do care that the amphetamine article strictly adheres to these policies (and to a lesser extent adderall/dextroamphetamine as well, since they're not currently FA-nominated).  I cited a review and provided a quote containing a statement which I've asserted is equivalent to the definition of serotonin syndrome. Specifically, I've said that it's defined as a toxidrome model involving excessive serotonin activity in neurons. If you know this isn't the definition of that concept, you should be correcting me with a reference; in which case, I would have to find a suitable replacement reference or remove the phrase/citation from the article.  On the other hand, if you aren't familiar with serotonin syndrome, you should simply ask me to provide you with a reference which defines it as this model. 
+
+I'll let you decide who provides the reference for this.
+
+*Enantiomer ratios:
+instead you have attacked me with the words &quot;His edits may need to be checked/watched on other articles.. What a nice guy you are!I'm delightful, aren't I? |1
+You could have easily shortened your Adderal answer to zero words, as it says nothing new.No, I actually explained to you, in the bulleted list, why I have an issue with it and suggested how you could correct the policy breach of WP:SYNTH. 
+
+As for the ratio you want to add, I don't really care if it's added or not; I think it's useless, but I won't delete it if you add it with an appropriate citation.  However, I will revert it if you change the current salt ratio text/reference instead of adding it with the reference separately.
+ob
+ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 17:25, 19 March 2014 (UTC)
+
+ot|3rd Response of Dosenfant|bg=peach
+I know about the scope of WP:SYNTH,... I'm not a newby, although I have less contributions to en.wikipedia.org as I have on de.wikipedia.org. So if you're stating here just small talk, you are totally right, but I would add that this talk page is not inteded for small talk. I criticise your edits on the pages themselves, WP:SYNTH,... are applying, cause its in their scope. Your edit misses a justification without talk here (no word of serotonin toxydrome/syndrome in given cite in mphetamine) and that on article talk pages. You would have had either to add a sufficient cite that doesn't need your vulnerable interpretation, or I may have refered to your interpretation's justification here in my critic.
+
+I agree, your 1st reply (to me) could only be shortened to the bullet list. It doesn't matter in lead how a manufacturer is describing its formulation, it's obviously useless for any reader to state any ratio between a mixture of active and inactive ingedients (e.g. salt-ratio) in lead. I never removed the note in the article about salt-ratio, and I won't do. I will shorten lead again and add the cite.
+
+Changing &quot;erotonin syndrome|serotonin toxidrome&quot; to &quot;erotonin syndrome#Spectrum concept|excess of serotonin&quot; is the maximum what you can take out of all mentioned cites from the given reference.
+ob
+ser:Dosenfant|--Richard (ser talk:Dosenfant|talk) 09:04, 20 March 2014 (UTC)
+
+That seems reasonable. [https://en.wikipedia.org/w/index.php?title=Amphetamine&amp;diff=600481864&amp;oldid=600417247 Diff] ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 18:10, 20 March 2014 (UTC)
+
+ How many types of cohort studies are there? 
+
+I was surprised to discover that while rospective cohort study and etrospective cohort study are not redlinks, ongitudinal cohort study is. Does anyone know if maybe two of these terms are synonymous with each other or something? It seems like the [http://www.merriam-webster.com/dictionary/longitudinal two] [http://www.merriam-webster.com/dictionary/prospective?show=0&amp;t=1395335879 words] have distinct meanings in epidemiology, so there should probably be 2 separate pages on longitudinal and prospective studies. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 17:20, 20 March 2014 (UTC)
+At the risk of sounding like a dumb-ass, this is my understanding of it. I'm no epidemiologist.  A cohort study defines a group (the group is the cohort) and observes them.  It can be cross-sectional (meaning the group at any given point in time), prospective or retrospective.  I believe longitudinal in this instance is synonymous with prospective.  There are also matched cohort studies, when long-term observations is impractical, unethical or impossible.  For instance, does eating fast-food lead to greater heart disease.  It's tough to control all the variables, other than fast food consumption that contribute to heart disease so they match the patients based on other risk factors with one match being high fast-food consumption and the other low (edit: then following them going forward for the occurrence of heart disease).  In this sense, the cohort is cross-sectional (looking at previous behavior) the longitudinal.  A prospective randomized trial would create an inception cohort of people, then randomize them to 2 treatment groups. Question from the peanut butter test?  Does that help? ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 17:33, 20 March 2014 (UTC)
+In that case, should ongitudinal cohort study be redirected to rospective cohort study? ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 17:43, 20 March 2014 (UTC)
+I think so. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 18:08, 20 March 2014 (UTC)
+edited example above ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 18:22, 20 March 2014 (UTC)
+
+ A longitudinal study is a study that observes subjects over a period of time. Because longitudinal studies typically require planning, most of these are prospective studies. But there is no reason that a longitudinal study cannot be retrospective. For instance, with the advent of electronic medical records, plenty of folk are doing retrospective longitudinal studies using patient medical histories. --ser:Mark viking|Mark viking (ser talk:Mark viking|talk) 18:36, 20 March 2014 (UTC)
+
+Block of text being added to a bunch of articles
+This same block of text [https://en.wikipedia.org/w/index.php?title=Stomatitis&amp;diff=600418721&amp;oldid=599977213] is being added to a dozen or more articles [https://en.wikipedia.org/wiki/Special:Contributions/Epeefleche]. Thoughts? ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 08:35, 20 March 2014 (UTC)
+From a medical point of view, this would set the precedent to add the thousands of potential allergens with the potential to cause contact dermatitis to the hundreds of pages that describe the anatomy or specific topics of dermatitis.  From an editorial point of view, it seems contrary to the concept  of original writing on Wikipedia to cut and paste the same sentence in many articles.  If there are sufficient sources to create it, would it be better to create a page on balsam of peru including it's allergenic potential.  I've never heard of this stuff.  Common elsewhere in the world?  same as friar's balsam? ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 12:40, 20 March 2014 (UTC)
+ Insertion of that text into generic articles such as &quot;tomatitis&quot; and &quot;heilitis&quot; gives P:UNDUE|undue weight. The information should only be in &quot;alsam of Peru&quot;. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 13:13, 20 March 2014 (UTC)
+Thanks yes that is my position. Just at the one article. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 13:15, 20 March 2014 (UTC)
+Imo, articles like tomatitis and heilitis should mention as many of the most common allergens as possible. But ofc we need MEDRS sources to support it. Note also that cheilitis already mentioned balsam of peru before these edits (in heilitis#Eczematous_cheilitis) but only in one short sentence. That should probably be enough, so no need to duplicate info there with these edits. Support inclusion of a similar one sentence mention on other articles if relevant and if MEDRS sources used. Probably relevant on stomatitis, not sure about oral ulceration. ing|Epeefleche courtesy notification. Many thanks, ser:Lesion|Lesion (ser talk:Lesion|talk) 13:47, 20 March 2014 (UTC)
+To Ian and Axl, have a look at urning_mouth_syndrome#Other_causes_of_an_oral_burning_sensation, if the number of allergens (or in that case substance which cause a burning sensation) gets out of hand, it does not take up much room to stick them all in a table... we should try to give encyclopedic coverage after all. ser:Lesion|Lesion (ser talk:Lesion|talk) 13:52, 20 March 2014 (UTC)
+Yes it is more about the amount of text. How is this relevant on the nusol &quot;Balsam of Peru is used in food and drink for flavoring, in perfumes and toiletries for fragrance, and in medicine and pharmaceutical items for healing properties&quot; [https://en.wikipedia.org/w/index.php?title=Anusol&amp;diff=600448495&amp;oldid=600422846] ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 13:54, 20 March 2014 (UTC)
+
+It sounds like a common allergen: &quot;Balsam of Peru (BOP) is a well-known contact allergen that is one of the most prevalent in the United States.&quot; from http://www.ncbi.nlm.nih.gov/pubmed/23857009 . ser:Lesion|Lesion (ser talk:Lesion|talk) 14:17, 20 March 2014 (UTC)
+Yes some content is fine. It is the degree. I hope we have figured it out. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 14:22, 20 March 2014 (UTC)
+I'm interested that even our editors most knowledgeable in this area are not familiar with alsam of Peru, given its top-five allergen status.  But all the more reason for appropriate mention.  Clearly, only mentioning it in the article itself is less than ideal.  But I agree that mentions should be appropriately trimmed.  I think Doc James and I have trimmed it well in a couple of articles, and Lesion raised an article where it was less well placed than another related article (it is a problem in some dental cements and related dental products).  BTW, in  its crude form, has even been banned from some products.--ser:Epeefleche|Epeefleche (ser talk:Epeefleche|talk) 15:35, 20 March 2014 (UTC)
+=) not totally hopeless, wiki already mentioned this on some articles like atch test (medicine)#Common allergens and heilitis. Per Axl's comment (see below), on article like tomatitis etc, probably better to mention this substance in the context of a list of common allergens. In each case, need a P:MEDRS|MEDRS source to support specifically that this allergen causes that condition. ser:Lesion|Lesion (ser talk:Lesion|talk) 17:10, 20 March 2014 (UTC)
+ Lesion, the reference for the list in urning_mouth_syndrome#Other_causes_of_an_oral_burning_sensation is Oral and maxillofacial medicine: the basis of diagnosis and treatment. This is a generic textbook and is a suitable source for this information in this article.
+
+ [https://en.wikipedia.org/w/index.php?title=Stomatitis&amp;diff=600418721&amp;oldid=599977213 This edit] includes four references:-
+
+ ite web|url=http://dermnetnz.org/dermatitis/balsam-of-peru-allergy.html |title=Balsam of Peru contact allergy |publisher=Dermnetnz.org |date=December 28, 2013 |accessdate=March 5, 2014ite book|url=https://books.google.com/books?id=mrreTHuo54wC&amp;dq=balsam+of+peru+allergy&amp;pg=PA352 |title=Biocompatibility of Dental Materials |author=Gottfried Schmalz, Dorthe Arenholt Bindslev |publisher= Springer|date= 2008|isbn=9783540777823 |accessdate=March 5, 2014ite book|url=https://books.google.com/books?id=kDWlWR5UbqQC&amp;dq=%22balsam+of+peru%22+allergy&amp;pg=PT530 |title=Clinical Dermatology |author=Thomas P. Habif |publisher=Elsevier Health Sciences |date=2009 |isbn=978-0323080378 |accessdate=March 6, 2014ite book|url=https://books.google.com/books?id=fmwYAgAAQBAJ&amp;dq=%22balsam+of+peru%22+allergy&amp;pg=PT264 |title=Conn's Current Therapy 2014: Expert Consult |author=Edward T. Bope, Rick D. Kellerman |publisher=Elsevier Health Sciences |date= 2013 |isbn=9780323225724 |accessdate=March 6, 2014
+
+eflist
+
+ The first reference is specifically about balsam of Peru. It is not suitable for generic articles about &quot;Stomatitis&quot; or &quot;Dermatitis&quot;. The other three references are generic texts. In these, balsam of Peru is mentioned as one of a list of substances. To describe only balsam of Peru gives it undue weight. If it is to be included, it should only be as part of a list. There is certainly no need to state &quot;Balsam of Peru is used in food and drink for flavoring, in perfumes and toiletries for fragrance, and in medicine and pharmaceutical items for healing properties.&quot; ser:Axl|Axl ¤ ser talk:Axl|[Talk] 15:41, 20 March 2014 (UTC)
+
+OK yes agree. On stomatitis, I have started a short list of allergens so there is not undue weight. Whole article needs much work... I have used &quot;DermNet NZ&quot; in the past, it is referenced, although not an ideal source there is lot of good info there. ser:Lesion|Lesion (ser talk:Lesion|talk) 16:26, 20 March 2014 (UTC)
+
+*If you look at the indicated [https://en.wikipedia.org/w/index.php?title=Stomatitis&amp;diff=600418721&amp;oldid=599977213 diff], it simply jumps out that the real problem from an editorial standpoint is the fact that nearly everything that was pre-existing in that section lacked any refs whatsoever.  People reading that article should see RS-supported information, which should include known causes (referenced to RSs), in language they can understand that is accurate -- that should be our focus.  The non-RS supported material should either be properly supported, or deleted. I've tagged it in the meantime.  Much of the article suffers from the same malady ... and not from the inclusion of reference to a top-5 allergen, supported by RSs.--ser:Epeefleche|Epeefleche (ser talk:Epeefleche|talk) 18:51, 20 March 2014 (UTC)
+
+As to the refs -- please note that &quot;Major academic publishers (e.g., Elsevier, Springer Verlag, Wolters Kluwer, and Informa) publish specialized medical book series with good editorial oversight; volumes in these series summarize the latest research in narrow areas, usually in a more extensive format than journal reviews.&quot;  The text are perfectly excellent RSs, and should not be deleted (keeping the refs in allows the reader to jump to the ref for further info). 
+
+Adding any other &quot;top 5&quot; allegens would of course be appropriate.  Feel free.  But that's not cause for deletion of this top-5 allergen, RS supported.
+
+That whole article is in a poor state. Not convinced the current layout is the best approach for this broad scoped article... A layout like heilitis might be better, which doesn't have any causes section, instead mentioning the causes as the different types are discussed. ser:Lesion|Lesion (ser talk:Lesion|talk) 20:19, 20 March 2014 (UTC)
+Have a look at [http://books.google.ca/books?id=vT9YAQAAQBAJ&amp;lpg=PA573&amp;ots=fIx-uNCD2f&amp;dq=Thyssen%20J.P&amp;pg=PA566#v=snippet&amp;q=Balsam%20Peru%20&amp;f=false p.566] and 567, from Middleton's Allergy: Principles and Practice  (2013).  ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 17:52, 20 March 2014 (UTC)
+Interesting - Made up of 25 chemicals including cinnamon.  I regularly see cinnamon allergy in the mouth.  Says that it's in eugenol too but the eugenol page doesn't list it.  I wonder how many products actually have it there or if the allergy is due to one particular chemical of the 25 that are in it. Will have to do some more reading. Thx for the info |Epeefleche ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 19:22, 20 March 2014 (UTC)
+Found a good review [http://www.ncbi.nlm.nih.gov/pubmed/23806164] and downloaded the text on BOP to ser:Ian Furst/sandbox|my sandbox. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 19:38, 20 March 2014 (UTC)
+Ian -- excellent.  Looking forward to your further thoughts. Also -- fyi, patch tests commonly check for cinnamon, and where one is allergic to BOP but not cinnamon (which I can attest happens), one knows that it is one of the other known or unknown elements that is causative.--ser:Epeefleche|Epeefleche (ser talk:Epeefleche|talk) 20:55, 20 March 2014 (UTC)
+
+ Merger proposal 
+
+Proposing merger of ongenital cystic adenomatoid malformation into ongenital pulmonary airway malformation. See alk:Congenital pulmonary airway malformation#Merger proposal. Thanks! ser:EricEnfermero|EricEnfermero ser talk:EricEnfermero|HOWDY! 22:28, 20 March 2014 (UTC)
+
+ il pulling 
+
+Due to the recent surge in popularity and discussion about this topic, this page is beginning to receive some attention from editors who are citing primary studies. This article would likely benefit from some more eyes and I wouldn't mind some assistance in making it a more robust article discussing the safety/efficacy of the practice. I've started working on it, but it has a long way to go. ser:TylerDurden8823|TylerDurden8823 (ser talk:TylerDurden8823|talk) 03:24, 21 March 2014 (UTC)
+
+* I proposed a merge, comments here: alk:Mouthwash#Proposed_merge_with_Oil_pulling. TY, ser:Lesion|Lesion (ser talk:Lesion|talk) 02:55, 22 March 2014 (UTC)
+
+ New article needs a good scrubbing 
+
+Please take a look at edical Family Therapy, it's a new article with many layout and formatting errors, bring your industrial grade mops and brooms! It's full of inline external links, malformed wikilinks and unnecessary html markup, amongst other errors. The content as such also needs to be evaluated in terms of the standards applicable to medical articles. ser:Dodger67|Roger (Dodger67) (ser talk:Dodger67|talk) 22:24, 22 March 2014 (UTC)
+
+ Request for some extra opinions 
+
+
+
+McGrigor then concluded that women’s brains were more analogous to infants, thus deeming them inferior at the time.[8] To further these claims of female inferiority and silence the feminists of the time, other anthropologists joined in on the studies of the female skull. These cranial measurements are the basis of what is known as craniology. These cranial measurements were also used to draw a connection between women and black people. French craniologist, F. Pruner, went on to describe this relationship as: “The Negro resemble[ing] the female in his love for children, his family, and his cabin
+
+
+# Is this notable? Please read Human_skull#Sexual_dimorphism. I don't know of the controversy or scientists but I feel strange having some person's racist opinions left in the article unless it is particularly notable. Is this not a 19th-century example of speculation? (which does not satisfy P:MEDRS) 
+# ervix#Cervical mucus would value some additional opinions as to what does/does not satisfy P:MEDRS. Cheers, --ser:LT910001|LT910001 (ser talk:LT910001|talk) 05:31, 22 March 2014 (UTC)
+
+This is more a social and cultural / historical issue rather than a medical one. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 05:58, 22 March 2014 (UTC)
+
+I suspect that the information about cervical mucus' contents is correct, but we do have a strong preference for sources from the current century.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:38, 22 March 2014 (UTC)
+
+As the point on phrenology, yes that section is actually fairly representative of the debate at the time.  However, that section has some pretty obvious P:Weight|weight issues when it comes to craniology/phrenology.   While that debate is absolutely noteworthy, being of serious historical, cultural, and empirical value (especially as regards the evolution of the evolved sciences) its proper place is at hrenology (and to a lesser extent nthropometry), not the article focused on the current scientific understanding of the human cranium and its relevance to the brain. There should be little more than a brief reference to those pseudo-scientific analogs to modern science and whatever reference is left there should be represented as thoroughly debunked by modern developments.   That's not the only statement in that section which is troubling -- there's also this: &quot;Some authors consider this size difference to partly explain the alleged difference in average intelligence between men and women, and between various human races.&quot;  That particular claim is so far outside the scientific mainstream (and has been for most of the modern era) that I don't even know where to start.  More particular to our purposes here, said claim is not supported to any significant weight by the scientific consensus presented by the vast majority of sources available on the subject.   On the subject of sources, if you are looking for a good text to contextualize this debate and the evolution of scientific understanding of the subject, you can do a lot worse than tephen Jay Gould's he Mismeasure of Man, which, though a little dated, is still a definitive work on deconstructing this and several other types of antiquated psuedoscience on intellect that developed from the same tradition.  Anyway, my time is limited so I'll not edit that section immediately, but if no one does soon, I certainly will.  It should present little problem; justifying that change on the basis of policy and the sources will be the easiest task any Wikipedian ever took on.  ser:Snow Rise|Snow (ser talk:Snow Rise|talk) 17:37, 23 March 2014 (UTC)
+
+ New articles for review:  
+
+Please see ex disparity in stroke care and ecellularized and Recellularized Hearts as a Therapeutic Strategy for Heart Failure. Title length aside, are they notable topics that don't duplicate existing topics?
+ser:Animalparty|--Animalparty-- (ser talk:Animalparty|talk) 01:46, 19 March 2014 (UTC)
+Yes students. They do not understand the manual of style or referencing requirements. They often just fill Wikipedia full of essays. Here is the rest of the class [https://en.wikipedia.org/wiki/Education_Program_talk:University_of_Michigan/Social_Work_Practice_with_Community_and_Social_Systems_(Winter_2014)/Grading] ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 07:36, 19 March 2014 (UTC)
+A better solution might be if they posted their essays on Wikiuniversity, and any relevant essays were then transferred to Wikipedia. --ser:LT910001|LT910001 (ser talk:LT910001|talk) 08:52, 19 March 2014 (UTC)
+Yes agree. Soon someone will try to add these to the see also sections of main articles. We need a rule that see also sections are not to collect student essays. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 08:54, 19 March 2014 (UTC)
+An &quot;essay&quot;, as in l|essay-like, is a mistake I've never seen anyone make as part of a class project.  They might post something that reads like a paper for school, but &quot;essay&quot; in that tag means a personal reflection on your feelings or opinions about the subject.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 14:50, 19 March 2014 (UTC)
+Thanks WAID for keeping an eye on my English :-) Yes I mean that it reads like and is formatted like a paper for school. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:20, 20 March 2014 (UTC)
+Your English is perfectly correct here. This is one of those annoying times when the wikijargon means something else entirely.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:26, 20 March 2014 (UTC)
+I actually think some student articles are decent, but need some reformatting/tweaking/re-citing/MEDRS-related pruning to be good.  I started copyediting an article that I renamed to eurobiological effects of physical exercise, which was a poorly titled class project, but contained some interesting and relatively significant findings IMO. I'll probably have to recite most of the sources before I'm done with it though; I'm also still in the process of cutting things out. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 21:04, 23 March 2014 (UTC)
+
+ SM blood donor controversy 
+
+Could some editors check out SM blood donor controversy? I think some of the statistics might be out of context, implying MSM are infected at much higher rates, but perhaps they are spot on. ser:Sportfan5000|Sportfan5000 (ser talk:Sportfan5000|talk) 01:36, 20 March 2014 (UTC) [WP:BAN 03:11, 24 March 2014 (UTC)]
+Yes MSM are infected at a higher rate in much of the world. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:39, 20 March 2014 (UTC)
+I'm aware the rates can be higher, I'm wondering if the statistics Wikipedia is reporting are both accurate, and presented with due weight. ser:Sportfan5000|Sportfan5000 (ser talk:Sportfan5000|talk) 02:08, 20 March 2014 (UTC) [WP:BAN 03:11, 24 March 2014 (UTC)]
+|Sportfan5000 Could you post any specific concern on the talk page of that article? What gave you pause? ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 16:17, 20 March 2014 (UTC)
+
+ Reform of citation structure for all Wikimedia projects 
+
+If you're thinking about attending Wikimania and [https://wikimania2014.wikimedia.org/wiki/Submissions/Reform_of_citation_structure_for_all_Wikimedia_projects#Interested_attendees this discussion] would interest you, please consider adding your name to the proposal as a possible attendee. That list helps the organisers decide which proposals to include in the program. --ser:Anthonyhcole|Anthonyhcole (ser talk:Anthonyhcole|talk · pecial:Contributions/Anthonyhcole|contribs · pecial:EmailUser/Anthonyhcole|email)  08:07, 24 March 2014 (UTC)
+ Tool Labs is down 
+
+Some of the tools there aren't working. [http://tools.wmflabs.org/citation-template-filling/cgi-bin/index.cgi?ddb=&amp;type=pubmed_id&amp;id=] [https://tools.wmflabs.org/sigma/created.py?name=Jinkinson&amp;server=enwiki&amp;ns=,,&amp;redirects=none] Anyone know why (or how we can get this fixed)? ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 18:23, 18 March 2014 (UTC)
+Yes editor tools break on a regular basis. Usually they came back in a bit. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 23:32, 18 March 2014 (UTC)
+What happen is all the tools were transfered to a new server and each tool has to be reinstalled and restarted.   I have run into technical difficulies getting the template filler working again. I am still working on it. ser:Boghog|Boghog (ser talk:Boghog|talk) 18:23, 19 March 2014 (UTC)
+ ixed (at least the citation template filler) After some required tweaks to the configuration files, the template filler is up and running again. ser:Boghog|Boghog (ser talk:Boghog|talk) 11:40, 24 March 2014 (UTC)
+hank you--ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 11:52, 24 March 2014 (UTC)
+
+People adding primary sources of which they are the author
+These two users 
+*pecial:Contributions/Rakeshyashroy
+*pecial:Contributions/Hkouros
+ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 15:49, 24 March 2014 (UTC)
+The people are [http://www.pdsoros.org/current_fellows/index.cfm/yr/2004#kedem] and [http://scholar.google.co.in/citations?user=06QwUXwAAAAJ&amp;hl=en]. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 20:31, 24 March 2014 (UTC)
+
+ So Sportfan5000 is a sock of Benjiboi 
+
+I'm pretty surprised. Is anyone else, or did you see this coming? It seems like he was (at least by banned-user standards) such a constructive contributor. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 17:50, 24 March 2014 (UTC)
+Posting here was very strange. So no not surprised. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 17:56, 24 March 2014 (UTC)
+You mean it was strange for me to post here, or strange for him to? ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 18:08, 24 March 2014 (UTC)
+I mean his posting here was strange. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 11:00, 25 March 2014 (UTC)
+
+ Student Ob/Gyn writing project 
+
+At P:Education noticeboard#OBGYN bootcamp project, there's a very promising student project that will edit pages in that area. I'm going to point the instructor here, so that she or her students can let editors in this project know what pages will be involved. --ser:Tryptofish|Tryptofish (ser talk:Tryptofish|talk) 23:33, 25 March 2014 (UTC)
+thanks Tryptofish.  The course will be convening next week, and I expect to have  students identify what topics they are interested in at that time. I will look forward to guidance from the community! Happy Tuesday!ser:Celesteroyce|Celesteroyce (ser talk:Celesteroyce|talk) 03:08, 26 March 2014 (UTC)
+
+ ikipedia talk:Articles for creation/Local Skin Memory 
+
+Dear editors:  Here's another of those abandoned Afc submissions.  Is this a notable topic, or should it be deleted as a stale draft?  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 11:58, 25 March 2014 (UTC)
+I think this one may be worthwhile turning into start class. The last reference is from Nature Immunology and is a good reference (I think).  Seems like a worthwhile topic. Unless someone else has an interest in immunology/dermatology I'll volunteer to get it to start class, assuming there is not a similiar (differently named) page and this is not just someone trying to promote a neologisms ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 12:34, 25 March 2014 (UTC)
+Disregard previous.  The topic is already covered in llergic_contact_dermatitis#Memory_Response although the [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3662044/ last reference] would be a good addition.  I'll add it in if not already listed. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 12:36, 25 March 2014 (UTC)
+Thanks for your help.  If there's no other useful content to be transferred besides the reference, I guess we can let this one go.  If any text is transferred, we can always change this into a redirect.  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 19:03, 25 March 2014 (UTC)
+The info is already convered in the article imo. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 21:55, 25 March 2014 (UTC)
+It's gone! —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 03:20, 26 March 2014 (UTC)
+
+ Scope 
+
+Are (deadly) poisonous mushrooms within the scope of WP:MED? The tag was recently added to the talk of manita phalloides with the rationale &quot;WikiProj med has a toxicology taskforce&quot;. If this project agrees, I could add this tag to all species on ist of deadly fungi. ser:Sasata|Sasata (ser talk:Sasata|talk) 14:55, 22 March 2014 (UTC)
+Since that'd make them biotoxins by def., I think it merits low importance med article ratings. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 16:46, 23 March 2014 (UTC)
+Ottawa has already spread this discussion over many message boards. The last discussion occured at ttps://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Council#A_WikiProject_is_a_group_of_people and the relevent guidelines is at ttps://en.wikipedia.org/wiki/Wikipedia:MEDA#Is_WPMED_the_correct_WikiProject_to_support_this_article.3F. Since the actual toxin is identified within the article and covered by the tox task force I think we should let the fungi task force take ownership of the actual deadly fungi. ser:Mrfrobinson|Mrfrobinson (ser talk:Mrfrobinson|talk) 20:52, 23 March 2014 (UTC) 12:31, 26 March 2014 (UTC)
+
+Editor review requested for Wikipedia Education Program
+
+user:Salubrious Toxin
+The P:Wikipedia Education Program has an oversight system in which the only people who can make course pages for classes are those who have done a tutorial and have had their Wikipedia editing experience checked by two other Wikipedians. There is a user who has done the tutorial but has so little editing experience that it is difficult for others to judge. Because what he has done is related to medicine, I thought that it would be better for me to ask here at the medicine board than on the education board for someone to give a second review of him. I met him in person as a first review, and in my opinion he knows enough about Wikipedia to be responsive to any concerns which arise. He wants to start a Wikipedia club at his medical school and I would like to support him in this. If he had the userright then he would start a course page and begin advertising for an in-person meetup for an editathon at his school, and have his classmates register for the editathon through this course page.
+*His contributions so far are at pecial:Contributions/Salubrious_Toxin
+*His request to get instructor rights and some more explanation of this is at ikipedia:Education_noticeboard#Campus_Ambassador_application:_Salubrious_Toxin
+If anyone has comments, please share them at his request on the education noticeboard. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 14:47, 23 March 2014 (UTC)
+Yes a Wikipedia club at a medical school would be excellent. There was one in Quebec but it fizzled out shortly after being started. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:43, 24 March 2014 (UTC)
+Looking at these edits [https://en.wikipedia.org/w/index.php?title=Cerebral_infarction&amp;diff=598930682&amp;oldid=596091665] why was he added a bunch of 1980s primary sources as references to Wikipedia? ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 05:36, 24 March 2014 (UTC)
+|Salubrious Toxin Your work is being evaluated. Can you comment? ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 11:54, 24 March 2014 (UTC)
+|Jmh649 When I first made these edits, I thought I was supposed to use primary sources instead of secondary sources. Sorry! ser talk:Bluerasberry explained this to me at our meeting. Thank you for posting the editing guides on my talk page. — Preceding ikipedia:Signatures|unsigned comment added by ser:Salubrious Toxin|Salubrious Toxin (ser talk:Salubrious Toxin|talk • pecial:Contributions/Salubrious Toxin|contribs) 11:40, 25 March 2014‎
+esolved
+I granted this user &quot;course instructor&quot; rights as noted on the education noticeboard. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 14:03, 26 March 2014 (UTC)
+
+user:Celesteroyce
+Hello everyone. I have spent more than an hour talking with an instructor at a nearby medical school about her wish to have her OBGYN class contribute to Wikipedia. I plan to organize an in-person workshop with them and support them otherwise in their engagement with Wikipedia.
+
+This instructor has no prior Wikipedia experience nor do the students, and for that reason, it would be difficult for the people coordinating the Education program to evaluate their stated plans and say whether they should have the userright to set up a course page. Could I ask for someone here to review what she has proposed to do as written ikipedia:Education_noticeboard#OBGYN_bootcamp_project|in OBGYN bootcamp project on the noticeboard and give a comment there about the circumstances under which the instructor for this class can have a userright to have a course page? Thanks to anyone who can review this. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 15:32, 24 March 2014 (UTC)
+esolved Thanks for comments. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 11:28, 25 March 2014 (UTC)
+
+ Medical Family Therapy 
+
+Was accepted through AFC, then nominated for deletion at AFD. See ikipedia:Articles for deletion/Medical Family Therapy. Looks notable, but needs more independent sources per JzG's remarks at the AFD. Here's a few I found: http://www.unl.edu/gradstudies/prospective/programs/Cert_MedicalFamilyTherapy https://www.spu.edu/depts/spfc/mdft/ http://www.ecu.edu/che/cdfr/medft/ Participation is welcome.ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 19:53, 26 March 2014 (UTC)
+
+ AfC submission - 25/03 
+
+ikipedia talk:Articles for creation/Tactile Induced Analgesia|Tactile Induced Analgesia. ser:FoCuSandLeArN|FoCuSandLeArN (ser talk:FoCuSandLeArN|talk) 18:44, 25 March 2014 (UTC)
+Can any of us review and discuss this article or do you need to be an admin?  ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 21:57, 25 March 2014 (UTC)
+ Any competent editor can: and I'd encourage you to do so. You never really understand a topic until you try to teach it. --ser:RexxS|RexxS (ser talk:RexxS|talk) 22:35, 25 March 2014 (UTC)
+I'd suggest that you go here https://en.wikipedia.org/w/index.php?title=Special:Preferences and enable the gadget with the description: &quot;ikipedia:WikiProject Articles for creation/Helper script|Yet Another AFC Helper Script: easily review Articles for creation submissions, Files for Upload, redirect and category requests&quot;ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 23:09, 25 March 2014 (UTC)
+Thx. Will do tomorrow unless someone else hits it.  ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 00:45, 26 March 2014 (UTC)
+Two questions to experience reviewers - I think it's a great article but all original research.  Do I make a note to add non-primary and move on or do I need to dig up secondary sources before approving.  Also, the headings are non-standard (e.g. not MEDMOS) but it's a physiology article.  I haven't found any headings guidelines for physiology (although anatomy applies as well).  What do you normally recommend to the authors? ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 12:53, 26 March 2014 (UTC)
+Original research = not published in any source.  If it's supported by primary sources, then it's not OR.  That happens a lot when research scientists and grad students write articles, because they think the rules for peer-reviewed journals apply (and journals usually prohibit citations of secondary sources).  
+Don't worry about the section headings.  AFC is about first drafts, not about getting everything right.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 15:47, 26 March 2014 (UTC)
+Thx. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 19:36, 26 March 2014 (UTC)
+utdent this is complete ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 03:14, 27 March 2014 (UTC)
+
+ Dr. Gabor Racz.... 
+
+I want to write a bio for Dr. Gabor Racz who is an expert in the treatment of complex regional pain syndromes (CRPS), and was hoping to get some input.
+I checked Google Scholar and got the following results:
+*Citations - 2474.00	
+*h-index - 28.00		
+*g-index    49.00	
+*e-index    35.00		
+*per co-authorship	
+*Citations - 901.00	
+*h-index       17.00	
+*g-index       27.00	
+*e-index       18.00	
+I look forward to your responses.  ser:Atsme|Atsme ser talk:Atsme|☯ talk 11:07, 27 March 2014 (UTC)
+H-index of 28? Sounds like P:PROF#C1|a notable scientist to me. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 11:20, 27 March 2014 (UTC)
+
+ Paper advertisements 
+
+At London Wikimania 2014 the organizers are offering to make paper advertisements for people who request them. WikiProject Medicine [https://wikimania2014.wikimedia.org/wiki/Booklets should propose something, right]? I am not sure how these could be distributed but it would be nice to have a digital proof made for anyone to print themselves. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 15:45, 27 March 2014 (UTC)
+
+ Assessing articles 
+
+Hi everyone,
+
+I've got ser:Kephir/gadgets/rater set up to handle task forces for us now.  If you want to rate articles, and especially if you would like to tag already-rated (but possibly out of date?) articles for task forces, then please consider installing it.  
+
+When you install it and go to any article, you'll get a new tab called &quot;Rater&quot; (near the history tab).  Click that and you'll see the existing tags.  You can add WPMED (type &quot;Medicine&quot; into the box on the bottom left) if it's not there.  Click the [+] by WPMED's entry to see the task forces.  Click and task force's name to list it (e.g., click &quot;Society&quot; for people, schools, and orgs).  Optionally, use the pop-up to set a priority for the task force (if it doesn't match the main rating—e.g., all people are &quot;Low&quot; for the main rating but may be anything for ara|society-imp).  Click 'Save' and you're done.  It's that quick and easy.
+
+Also, Category:Unassessed medicine articles is up over 100 articles again, if anyone has a case of editcountitis going.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 21:33, 27 March 2014 (UTC)
+
+ Project page for conducting good article reviews on medical articles 
+
+* ikipedia:WikiProject Medicine/Good article review
+
+Started the above page to try and standardize the GA review process more for medical articles, and perhaps encourage participation. Feel free to comment on, or change the page. Kind regards, ser:Lesion|Lesion (ser talk:Lesion|talk) 14:24, 23 March 2014 (UTC)
+
+Specialized criteria for medical GA's?
+
+|WhatamIdoing thanks for having a look. I was thinking that a biomedical type article should be assessed more closely against MEDMOS and MEDRS rather than the existing GA criteria. Also, some aspects of the general guidelines are not relevent (at least that I can see, e.g. &quot;writing about fiction&quot;). 
+
+If this is the kind of thing people would find useful, then OK keep it, otherwise I don't see a great deal of use in another page which duplicates info available elsewhere. Thoughts?  ser:Lesion|Lesion (ser talk:Lesion|talk) 17:31, 23 March 2014 (UTC)
+
+GA is community-wide, so we can't make a medicine-only version.  
+We could try to get the community-wide criteria changed; however, I don't think that's necessary, because a good deal of what's in MEDMOS actually falls under the first GA criteria (&quot;A good article is well-written&quot;) and third (&quot;It addresses the main aspects of the topic&quot;).  I think a page to describe special issues or the best way to understand the existing criteria would be just fine.  The important point is not to look like we are setting up &quot;new&quot; or &quot;different&quot; criteria.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 20:08, 23 March 2014 (UTC)
+ Oddly enough, GA#2b specifically mentions ikipedia:Scientific citation guidelines for science-based articles, so there's a precedent for encouraging GA nominators to follow MEDMOS and MEDRS for medical articles. I wouldn't encourage reviewers to take a tough line, but GA#2b requires the article to use reliable sources, which is linked to ikipedia:Identifying reliable sources. That has a section P:RS#Medical claims|Medical claims stating q|&quot;It is vital that the biomedical information in all types of articles be based on reliable, third-party, published sources and accurately reflect current medical knowledge&quot; so I guess we could justify a desire to meet MEDRS if pushed on the point.
+ This is an interesting idea. How exactly, at least according to Lesion, are the MEDRS and MEDMOS criteria different from the GA criteria as they currently exist? Also, is it more of a problem that medical articles listed as GAs actually shouldn't be, or the other way around? ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 23:57, 23 March 2014 (UTC)
+ We hold all medical articles to a very high standard of sourcing, principally because medicine tends to have a lot of very high quality sources and there's no reason not to insist on the best sources, and partially because there's a moral imperative to get it right for the reader who may decide to take what's written here as authoritative medical advice (no matter how many disclaimers we make). From that point-of-view it seems silly not to ask medical GANs to meet the same standards we ask of medical articles that are not GAs. Conventionally, GAs are not required to be perfect, so there's a reluctance to set the bar too high; personally I don't think we do any favours to GANs that fall short of MEDRS, although I'm not so worried about MEDMOS. --ser:RexxS|RexxS (ser talk:RexxS|talk) 00:24, 24 March 2014 (UTC)
+utdentThey would not be hugely different, as pointed out by WAID and RexxS above. Most changes would be little, e.g.:
+1b mention MEDMOS. Remove the link to writing about fiction,
+2b making this about MEDRS specifically instead of RS
+...And that's about all the changes I would suggest. Mostly it is making a general guideline more useful for people working on a particular type of article, not changing the spirit of the main criteria. There was a discussion here a few months ago about potentially making WPMED-specific criteria. Let me search the archives to link to that discussion. ser:Lesion|Lesion (ser talk:Lesion|talk) 00:35, 24 March 2014 (UTC)
+Here is that conversation: ikipedia_talk:WikiProject_Medicine/Archive_44#Monetary_awards. The stuff I said about turning on the article feedback is now impossible because feedback is no more. |Looie496, |Jmh649. ser:Lesion|Lesion (ser talk:Lesion|talk) 00:42, 24 March 2014 (UTC)
+A good idea, but it does seem to duplicate most of what is on the GA page. I certainly think that two user groups could deal with some more detailed information about biomedical articles: (1) reviewers, detailing what is/is not a reliable source and how to deal with issues of readability, technical prose and comprehensiveness; (2) users who are not associated with this project and nominate medical articles without proper preparation, a short page outlining MEDMOS and MEDRS; or a template that can be used when quick-failing a review could be very useful. --ser:LT910001|LT910001 (ser talk:LT910001|talk) 02:34, 24 March 2014 (UTC)
+You can't remove fiction.  GA is community-wide.  You cannot make a medicine-specific/all-other-subjects-excluding version and still pretend that it's the same thing as the community-wide GA.  If you make a version that excludes fiction or other non-medical content, then it stops being Good articles.  You would need a new name and a separate process, and you would need to remember that the existence of this new &quot;Medical Special Good articles&quot; would not prevent someone from applying for and receiving normal old Good article status.
+You could, if you thought it was important (I don't), try to convince the community that the community-wide GA criteria need to explicitly mention MEDMOS.  Unless and until that is actually mentioned, though, reviewers are actually forbidden (read footnote #2) from requiring compliance with it (or any of dozens of other Manual of Style pages).
+You don't need to mention MEDRS directly, or to go through SCG (which IMO is a mess).  GA requires all material to be verifiable (even if not sourced) and for five specific types of material to have inline citations supported by a reliable source.  MEDRS is the community-wide definition of what constitutes a reliable source for biomedical (NB:  note social, cultural, historical, biographical, financial, commercial, etc.) material.  You can therefore consider it to be already included, even though not named. ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:05, 24 March 2014 (UTC)
+Proposed removing the link to &quot;writing about fiction&quot; since it would not be relevant to medical articles (that I can foresee anyway). I understand what you are saying, that GA cannot be changed to make &quot;special medical GA status&quot;, but I believe that medical articles are already assessed against specialized GA criteria, i.e. against MEDRS and MEDMOS ... especially if a WPMED regular editor carries out the review. This would be just making it slightly more &quot;official&quot;. 
+Will wait for more discussion on this, I was expecting some controversy ... happy to see what the community wants and I will follow it. 
+P.S. I don't know what SCG is? ser:Lesion|Lesion (ser talk:Lesion|talk) 16:32, 24 March 2014 (UTC)
+ SCG = ikipedia:Scientific citation guidelines mentioned in the Good Article Criteria. HTH, --ser:RexxS|RexxS (ser talk:RexxS|talk) 17:59, 24 March 2014 (UTC)
+Fair enough. There is also the concern that if one Wikiproject fragments their concerns, what is to stop other Wikiprojects from doing the same thing? One alternative may be to have a &quot;GA preparation checklist&quot; page (on this wikiproject) specific for medical articles. This would address your concerns whilst maintaining the centralised GA process. --ser:LT910001|LT910001 (ser talk:LT910001|talk) 05:38, 26 March 2014 (UTC)
+utdentI don't think a GA reviewer will follow it as they are unlikely to have the time/inclincation to look thru project specific guidelines.  In my limited experience (n=3 attempts) I've found the GA good for structure but it does little to encourage discussions on content.  Both are needed to make the articles readable imo but, personally, I enjoy the challenges &amp; discussions from other medproject people about content. ser:Ian Furst|Ian Furst (ser talk:Ian Furst|talk) 10:59, 26 March 2014 (UTC)
+This seems related to the discussion: P:Advice pages.  I don't know if anyone else has seen this, but it appears that we really can't tell GA reviewers to check for compliance with this Wikiproject's standards.  At least that is how I interpret that page. ser:Zellfaze|Zell Faze (ser talk:Zellfaze|talk) 16:03, 26 March 2014 (UTC)
+ I can understand and agree with the sentiment that any medical article claiming to be a good article should adhere to MEDRS for biomedical content. But I'll ask, it this currently a problem? Have there been medical articles that have progressed to good article nomination, that have passed good article criteria, but that have failed badly in meeting MEDRS sourcing and citation requirements? I'd hate for a lot of effort to go into solving a problem that doesn't exist in practice. --ser:Mark viking|Mark viking (ser talk:Mark viking|talk) 16:50, 26 March 2014 (UTC)
+|LT910001, user Blue Rasberry found that WikiProject Military history already have their own class A criteria. It would not be a precedent therefore if simple WPMED criteria for class A were concocted, as has been suggested before. Articles would pass both class A and GA, probably at the same time. This would not necessitate messing with the wording of the encyclopedia-wide GA criteria. ser:Lesion|Lesion (ser talk:Lesion|talk) 11:44, 27 March 2014 (UTC)
+
+|Ian Furst, there is a short statement in which the nominator states why they have nominated this article for GA. In this section, a link to that page could be placed, then a non-WPMED reviewer would be more likely to see it. ser:Lesion|Lesion (ser talk:Lesion|talk) 11:44, 27 March 2014 (UTC)
+
+|Zellfaze, yes, that is what several people have been saying. Probably can't change the GA criteria since they are standardized across the encyclopedia. ser:Lesion|Lesion (ser talk:Lesion|talk) 11:44, 27 March 2014 (UTC)
+
+|Mark viking, I have only made 3 GA nominations, and even in that small number the thoroughness of the review was very variable. There are some reviewers who (rightly imo) will want to check every single source, run the text through a program which checks for plagiarism, and carefully considers the wording of every single sentence. These are definitely good articles. Other reviewers are not familiar with MEDRS and the MEDMOS and do not appear to check references against them. Here is one recent example that me and Ian nominated: [https://en.wikipedia.org/wiki/Talk:Toothache/GA1], and I am certain that many others who have nominated GA may corroborate this variation in the standard of the review. ser:Lesion|Lesion (ser talk:Lesion|talk) 11:45, 27 March 2014 (UTC)
+
+Ping to |Jmh649 who has much experience with GA. ser:Lesion|Lesion (ser talk:Lesion|talk) 11:44, 27 March 2014 (UTC)
+So yes agree that the quality / thoroughness of reviews at GA are variable. I have nominated articles that have just passed GA review for re-review when they miss the mark by a long way. We simply need to make sure that those from this community pick up medical GANs when they appear. While I think most of us here agree that following WP:MEDRS and WP:MEDMOS are requirements. Other reviewers may not be aware of these guidelines. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 13:34, 27 March 2014 (UTC)
+Would support an A-class listing for WP-MED. We seem to have quite a large active mass, so articles should not have to wait more than a couple of months to be reviewed. --ser:LT910001|LT910001 (ser talk:LT910001|talk) 03:05, 28 March 2014 (UTC)
+
+ Medical FA dates 
+
+Except for a select few that had an unusual, but consistent standard, I just fixed/established a consistent dating standard in every medical FA above low importance (either MDY or DMY, depending on which was more prevalent).  There were maybe about 5 out of 50 that actually had a consistent format. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 05:45, 24 March 2014 (UTC)
+The switching back and forth between date formats is a pain. Can we just not go with one date format from all the ref making tools? ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 07:51, 24 March 2014 (UTC)
+The tool I used consistently applies DMY or MDY date formats using any date type, even malformed ones (e.g., it removed non-breaking spaces between a day and month, then corrected the date format). So basically, if there's consensus for establishing a consistent medical FA date format, it can be done very easily.  The tool seems to be coded very well. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 08:51, 24 March 2014 (UTC)
+Link to script: &quot;date formats per P:MOSNUM by P:MOSNUMscript&quot;
+
+Question for WP:MED editors
+ighlight|If you didnt miss this ugly blob of red text, then I want your 2¢. $200 works too. |1|Red Does anyone have any legitimate concerns with me following through on Doc James' idea with making all the MED FA's use consistent date formats?  It would be DMY if so, since most of our FAs have all their dates in that format as of last night. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 15:58, 24 March 2014 (UTC)
+
+You weren't around for the P:MOSDATE war a few years ago, right?  This may be a perfectly good idea, but my impulse would be to avoid it, and, if I couldn't avoid it, to make sure that all the ArbCom restrictions had lapsed before doing anything.  ser:Casliber|Cas was on ArbCom then and might remember where the pages are.  Also, I'd maintain a strict P:0RR stance.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:14, 24 March 2014 (UTC)
+Beyond a desire to cause a pointless conflict or article ownership, I have no clue why anyone would oppose this change.  Since last night, I received 2 messages from 2 editors, both of whom mentioned the policy and nothing else.  Besides being obvious, that's not a reason not to do it.Our policies make ositive statements, whereas I'm asking for everyone to provide ormative statements. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 16:23, 24 March 2014 (UTC)
+*No, what you are doing is reasonable and has my support. However, since you are making an argument based on a tool, I would like to share with you my comments on citation tools. ikipedia:WikiProject Medicine/Unwarranted variation in citation output from tools. I wish that tools were more mindfully designed and presented so that variations like this could only be intentional and not accidental. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 16:40, 24 March 2014 (UTC)
+I am happy to adopt a consistent format and agree with D/M/Y. I recall the debate - it was more about what happened afterwards. If you can show that all efforts have been made to get consensus we should be ok. ser:Casliber|Cas Liber (ser talk:Casliber|talk · pecial:Contributions/Casliber|contribs) 18:58, 24 March 2014 (UTC)
+Sounds good. |Bluerasberry, I think you raised a good point, so I went and checked around 500-600 citations on the pages which had a lot of date changes (I only applied a change if there were a nontrivial number of inconsistencies).  Specifically, out of the refs on lzheimer's disease, ajor depressive disorder, anagement of multiple sclerosis, [https://en.wikipedia.org/w/index.php?title=Major_depressive_disorder&amp;diff=prev&amp;oldid=601078402 this invalid date] was the only thing that didn't convert.  It performs fairly well because it's not a citation script (i.e., it doesn't pull data); it just finds/replaces strings.  I've been checking to see that it doesn't convert dates outside of references before committing the edit because of that. In any event, it seems to work with very high accuracy based upon the sample I checked. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 20:05, 24 March 2014 (UTC)
+Start a RfC, you will have my support. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 11:01, 25 March 2014 (UTC)
+
+RFC - Standardizing the medical FA date formats 
+
+Does anyone have any legitimate concerns with me following through on Doc James' idea with making all the MED FA's use consistent date formats? ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 15:58, 24 March 2014 (UTC)
+
+Does &quot;your plan would (very probably) violate P:DATERET&quot; count as &quot;any legitimate concern&quot;?  Seriously, there have been wars over making all articles use The Right Style™ (so that FA #1 matches FA #2, etc.) in the past, so I think it's a good idea to tread lightly and with discussions at each affected article, exactly the way the guidelines tell you to do.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 00:24, 26 March 2014 (UTC)
+Just to make sure I understand your assertion, you're suggesting that I start the same thread on ~50 article talk pages, then monitor them all for responses? ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 01:46, 26 March 2014 (UTC)
+ Project-wide consensus seems to exist for P:STRONGNAT:
+* Articles on topics with strong ties to a particular English-speaking country should generally use the more common date format for that nation. For the United States, this is month before day; for most others, it is day before month.
+ That means, for example that if you wanted to make the dates in bortion in the United States consistent, I'm pretty certain you'd have to use MDY. However, if it became a Featured Article, your proposal would suggest we change all of them to DMY. I think that counts as a legitimate concern. I don't care, personally, but I know that a lot of editors will care and I think you ought to be aware of some of the obvious pitfalls. --ser:RexxS|RexxS (ser talk:RexxS|talk) 01:35, 26 March 2014 (UTC)
+I think that's a valid point RexxS. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 01:41, 26 March 2014 (UTC)
+Seppi, basically, yes.  It would reduce drama, and this is a drama-prone area.  
+It sounds like a lot of work, but it's not too bad, and it's faster than spending a day over at ANI with someone who's upset about it.  Write a generic message, make a list, paste the same message on each page, then go back in about a week (that's why you made the list ;-) and see if anyone objected during the intervening time.  If not, post a generic message that &quot;since nobody objected&quot; or &quot;since editors here seem to agree with this plan&quot; you're moving ahead (or &quot;since someone objected&quot; that you're not).  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 02:05, 26 March 2014 (UTC)
+*Fair enough, I'll cancel the RFC and do that when I have the time/energy. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 03:31, 26 March 2014 (UTC)
+Oppose standardised format. I do not see a convincing reason why editors should have to confirm to one or other date style if they so choose. This is a solution looking for a problem. I would support unifying the format used by automated tools however, as it would be very frustrating if some templates and tools gave one format, and others didn't.--ser:LT910001|LT910001 (ser talk:LT910001|talk) 02:11, 26 March 2014 (UTC)
+I think this is a reasonable alternative to my proposal and also support it. ser:Seppi333|Seppi333 (ser Talk:Seppi333|Insert 2¢ | pecial:WhatLinksHere/User:Seppi333/Maintenance|Maintained) 02:27, 26 March 2014 (UTC)
+Yes the most important first step is to get all the citation generating tools to give one format for references. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 12:40, 26 March 2014 (UTC)
+
+ OS:DATEFORMAT lists several acceptable date format styles. I see no reason why medical featured articles should use a different guideline. If you want to push your guideline through, you should involve the wider community, not just WikiProject Medicine. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 11:57, 28 March 2014 (UTC)
+
+ ikipedia talk:Articles for creation/Maudsley Prescribing Guidelines 
+
+Dear medical experts:  This article has been waiting for quite a while at Afc for a review.  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 13:46, 28 March 2014 (UTC)
+esolved
+|Anne Delong Thanks for coming here, Anne. I checked the references, cleaned it up, and published it. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 14:34, 28 March 2014 (UTC)
+
+ Wikimania 2014 London health presentations 
+
+Hello. At m2014:Main_Page|London Wikimania the following presentations are proposed to discuss health topics.
+
+Wikimania 2014 London presentation proposals
+*m2014:Submissions/Wikipedia and Medicine
+*m2014:Submissions/Perspectives in Medicine on Wikipedia
+*m2014:Submissions/Wikipedia and Underpriviledged Community
+*m2014:Submissions/Informed Health
+*m2014:Submissions/Reform of citation structure for all Wikimedia projects
+
+Comments are welcome at any of these proposals. I myself am sort-of volunteering for two panels that I proposed myself, the &quot;perspectives in medicine&quot; panel and the &quot;reform of citation&quot; panel. While I would present, more than wanting to present I wish other people would present. Especially for the medicine panel, if anyone where is attending Wikimania in London this summer, please feel encouraged to sign on as a presenter.
+
+James is giving the &quot;Wikipedia and Medicine&quot; talk which would be great but while we have an audience, there really is room for several medical presentations at this conference. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 16:38, 28 March 2014 (UTC)
+
+ Category:Medical ethics and Medical ethicists 
+
+Category:Medical ethics  and Category:Medical ethicists have been nominated for possible deletion, merging, or renaming. If you would like to participate in the discussion, you are invited to add your comments at ikipedia:Categories for discussion/Log/2014 March 28#Category:Medical ethics|the category's entry on the ikipedia:Categories for discussion|Categories for discussion page. ser:Meclee|Meclee (ser talk:Meclee|talk) 18:05, 28 March 2014 (UTC)
+
+ AfC submission - 28/03 
+
+On the public health side of things...but well. raft:Inequity by disease. ser:FoCuSandLeArN|FoCuSandLeArN (ser talk:FoCuSandLeArN|talk) 18:43, 28 March 2014 (UTC)
+
+ Eating pulses &amp; chronic disease 
+
+Editor |32cllou is adding similar material[http://en.wikipedia.org/w/index.php?title=Pulse_%28legume%29&amp;diff=601552457&amp;oldid=601549527][http://en.wikipedia.org/w/index.php?title=Healthy_diet&amp;diff=prev&amp;oldid=601553222][http://en.wikipedia.org/w/index.php?title=Diet_and_cancer&amp;diff=prev&amp;oldid=601538608] to articles based on 
+*ite journal|title=Non-Nutritive Bioactive Compounds in Pulses and Their Impact on Human Health: An Overview|journal=Food and Nutrition Sciences|date=Dec 2012|pages=1664–1672|doi=10.4236/fns.2012.312218|url=https://www.academia.edu/4438952|accessdate=24 March 2014 |last1=Singh |first1=Jagdish |last2=Basu |first2=Partha Sarathi |volume=03 |issue=12 |doi-access=free 
+I'm not sure this source is strong enough to support these additions - would appreciate another view. ser:Alexbrn|Alexbrn ser talk:Alexbrn|talk|pecial:Contributions/Alexbrn|contribs|ser:Alexbrn#Conflict_of_interest_declaration|COI 06:34, 28 March 2014 (UTC)
+Yes agree. This source is not pubmed indexed. There are better sources which directly contradict these claims. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 14:52, 28 March 2014 (UTC)
+You can use this review instead (in addition)ttp://www.ncbi.nlm.nih.gov/pubmed/17044765ser:32cllou|32cllou (ser talk:32cllou|talk) 23:16, 28 March 2014 (UTC)
+Which is not about pulses. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:24, 29 March 2014 (UTC)
+
+ Jimbo Wales on adequate sources for articles on medical treatments 
+
+There is a lot of blog coverage of a change.org petition calling on Wikipedia to adjust its editorial policies to allow in more article text about &quot;holistic approaches to healing.&quot; Jimbo Wales [http://www.change.org/petitions/jimmy-wales-founder-of-wikipedia-create-and-enforce-new-policies-that-allow-for-true-scientific-discourse-about-holistic-approaches-to-healing/responses/11054 responded], &quot;Wikipedia's policies around this kind of thing are exactly spot-on and correct. If you can get your work published in respectable scientific journals - that is to say, if you can produce evidence through replicable scientific experiments, then Wikipedia will cover it appropriately.&quot; See the [http://scienceblogs.com/insolence/2014/03/25/an-excellent-response-to-complaints-about-medical-topics-on-wikipedia/ Respectful Insolence] blog by a medical doctor, the [http://skeptools.wordpress.com/2014/03/25/wikipedia-jimmy-wales-responds-change-org-alt-med-alternative-medicine-cam/ Skeptical Software Tools] blog, and other blogs for more details. I've seen on another WikiProject talk page that the Wikipedia Signpost will be reporting about this controversy. -- ser:WeijiBaikeBianji|WeijiBaikeBianji (ser talk:WeijiBaikeBianji|talk, ser:WeijiBaikeBianji/Editing|how I edit) 19:11, 27 March 2014 (UTC)
+Thanks. Good to hear. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 02:39, 28 March 2014 (UTC)
+ Hmm, a petition from the president of the &quot;Association for Comprehensive Energy Psychology&quot;. There should be a way to oppose these petitions. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 11:41, 28 March 2014 (UTC)
+ By the way, which articles are being debated? Is &quot;nergy medicine&quot; one of them? Any others? ser:Axl|Axl ¤ ser talk:Axl|[Talk] 12:13, 28 March 2014 (UTC)
+
+I understand the &quot;inclusiveness&quot; directive, but I would emphasize the caveat: &quot;...if you can produce evidence through replicable scientific experiments&quot; (emphasis mine).  Like most physicians, I have no objection to holistic approaches that can demonstrate replicable evidence of efficacy.  But those that can't need to be weeded out expeditiously. ser:DoctorJoeE|DoctorJoeE pecial:Contributions/DoctorJoeE|review transgressions/ser talk:DoctorJoeE|talk to me! 12:23, 28 March 2014 (UTC)
+|Axl, according to the petition from these energy medicine people, &quot;nergy Psychology, nergy Medicine, cupuncture, and other forms of complementary/alternative medicine (CAM)&quot;. ser:Lesion|Lesion (ser talk:Lesion|talk) 12:29, 28 March 2014 (UTC)
+ Thanks, Lesion. I had a look at &quot;Energy medicine&quot;. Unsurprisingly, there are significant problems with the referencing. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 12:54, 28 March 2014 (UTC)
+Jimbo was spot on with his response.  Its surprising to me how many pseudo-science types I talk to who think that we are in the pockets of big-pharma here.  For the record, they definitely don't pay me to edit Wikipedia (nor any of you I assume). Fantastic read. How often do you guys run into people trying to POV push in this Wikiproject? ser:Zellfaze|Zell Faze (ser talk:Zellfaze|talk) 14:23, 28 March 2014 (UTC)
+It appears to be the article on cupuncture. People attempting to push fringe stuff using poor quality sources is fairly common. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 14:58, 28 March 2014 (UTC)
+
+Heh, apparently ClueBot is secretly a pharmaceutical industry censor and purveyor of disinformation on wikipedia [http://www.ageofautism.com/2014/03/internet-bullies-wikipedia-admits-it-has-a-problem.html]. ser:Lesion|Lesion 01:34, 29 March 2014 (UTC)
+
+I'm familiar with ge of Autism|that blog, though I never really bother reading it anymore. It's pure misinformation directed at parents desperate for someone to blame for their kids' autism and who are more easily influenced by emotion and argumentum ad populum than science. Nice to know they're on the same &quot;Wikipedia is run by the scientific establishment&quot; page as AGW deniers. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 01:51, 29 March 2014 (UTC)
+
+ ikipedia talk:Articles for creation/Tibial Nerve Stimulation 
+
+...and here's another Afc submission that may be of interest to this project.  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 13:49, 28 March 2014 (UTC)
+Seems like ercutaneous tibial nerve stimulation|we already have a page about almost exactly the same thing. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 13:53, 28 March 2014 (UTC)
+
+Thanks for spotting that.  I have declined the article.  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 04:13, 29 March 2014 (UTC)
+
+ Nursing and nursing journals 
+
+Hi, is nursing considered a subfield of medicine or is it a field that runs parallel to it? I am asking because of this ikipedia:Categories for discussion/Log/2014 March 16#Category:Gastrointestinal nursing journals|CFD discussion, where it was decided to merge a couple of nursing journals into a medical journal category. Up till now, nursing journals are categorized in a categorization tree that basically runs parallel to the medical journals category and both |Medical journals and |Nursing journals are categorized as subcategories of |Healthcare journals. Should we maintain this scheme (and ask for a -partial- reversal of the before-mentioned CFD) or should we merge both category trees (implying that, e.g., |Oncology nursing journals will be merged into |Oncology journals? The current situation (where all specialty nursing journals are kept separately from specialty medical journals, except for the gastrointestinal ones) is rather undesirable, I feel. I'd appreciate any input from knowledgeable editors here and am cross-posting to the Nursing and Academic Journals wikiprojects. Thanks. --ser:Randykitty|Randykitty (ser talk:Randykitty|talk) 11:20, 27 March 2014 (UTC)
+It's a separate, parallel field. It has different educational requirements, separate licensure and a different process for entry to practice. I can understand the need to keep things simple, but I think it's more accurate to keep medical and nursing journals separate. ser:EricEnfermero|EricEnfermero ser talk:EricEnfermero|HOWDY! 12:08, 27 March 2014 (UTC)
+I can't say that I find &quot;different educational requirements, separate licensure and a different process for entry to practice&quot; convincing arguments. The same goes for eneral physicians, odiatrists, and ardiac surgeons... --ser:Randykitty|Randykitty (ser talk:Randykitty|talk) 12:15, 27 March 2014 (UTC)
+Here's where I would disagree: The groups that you mention generally undertake an undergrad four-year education followed by doctoral study and additional postgraduate residency training; two of the three are licensed by the same boards; and almost all members of those three groups undergo hospital credentialing processes. Nurses go through almost none of that and have a completely different role in health delivery most of the time. I appreciate you seeking comments though; nurses seem to be pretty underrepresented on Wikipedia and I think it means something just to be heard. I think we can agree that - whatever is decided - it's not ideal to have one specialty (gastrointestinal journals) handled differently than the rest. ser:EricEnfermero|EricEnfermero ser talk:EricEnfermero|HOWDY! 12:41, 27 March 2014 (UTC)
+Nursing is considered a healthcare field. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 13:26, 27 March 2014 (UTC)
+
+Nursing is a healthcare field, but is separate from medicine, at least academically. For instance at UCSF, a medical school, the School of Nursing is separate and parallel with the School of Medicine. While we are at it, pharmacy should be considered separate from the others, as well as the llied health professions. See, for instance, ealth care provider#Practitioners and professionals. Putting dentistry journals under the medical journals is probably wrong, too. --ser:Mark viking|Mark viking (ser talk:Mark viking|talk) 13:40, 27 March 2014 (UTC)
+*comment The category system is not intended to delineate crisp differentiation between fields; its purpose is navigation. As an example this [http://tools.wmflabs.org/catscan2/quick_intersection.php?lang=en&amp;project=wikipedia&amp;cats=Nursing%0D%0AMedicine&amp;ns=0&amp;depth=5&amp;max=30000&amp;start=0&amp;format=html&amp;redirects=&amp;callback=&amp;norun query] which only goes 5 levels deep shows 5600 articles which are categorized in both the l|Nursing tree and the l|Medicine tree, so we aren't violating some rigid separation wall by doing so again. Ultimately, I think we can have both - a separate tree of nursing journals, but also categorize the nursing journals underneath the medicine tree, since the medicine tree has more generic names - e.g. |Oncology journals as parent of |Oncology nursing journals - why would we want to prevent readers from discovering that there is a whole tree of nursing journals devoted to the subject of Oncology? If you want to try to be *really* fair, you could have l|Oncology journals as the parent, and then siblings of l|Oncology medical journals and l|Oncology nursing journals and l|Oncology public health journals but frankly I think it's a bit exaggerated. As for that CFD, the reason it was deleted is smallcat - if you don't have enough to justify a category - and usually 2 isn't enough - the cat is deleted. So, I don't see any need to reverse that CFD either.--ser:Obiwankenobi|Obi-Wan Kenobi (ser talk:Obiwankenobi|talk) 16:07, 27 March 2014 (UTC)
+*I wouldn't propose to reverse the CfD completely, just the decision to merge to the medical journals cat. But I like your proposal of categorizing the nursing specialty journal cats under the medical specialty journal cats, and for smaller cats just include them in the medical journal cat as now happened with the gastrointestinal nursing journals. --ser:Randykitty|Randykitty (ser talk:Randykitty|talk) 16:48, 27 March 2014 (UTC)
+*Based on this discussion I agree that Nursing journals should be kept in a separate category - although I have no problem if it is a separate category within the category of medicine. Otherwise, I think it is burdening one category too much when combining medicine and nursing journals. --- ser:Steve Quinn|Steve Quinn (ser talk:Steve Quinn|talk) 06:38, 29 March 2014 (UTC)
+
+ Sending a mass message 
+
+The first quarter of 2014 has come and gone, and it's time for P:ANATOMY's quarterly newsletter to be sent out. Would any administrators here be so kind as to help me send a mass message? A ikipedia:WikiProject Anatomy/Quaterly updates/Mailing list|mailing list and ikipedia:WikiProject Anatomy/Quarterly updates/2|template to be mailed exist (although I'd like to mail a transclusion rather than the full text if possible). --ser:LT910001|LT910001 (ser talk:LT910001|talk) 23:51, 29 March 2014 (UTC)
+
+I believe that everything is supposed to be subst'd on talk pages.  You don't need an admin; you can request the T:Mass message senders right for yourself.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:15, 30 March 2014 (UTC)
+Thanks, have done. --ser:LT910001|LT910001 (ser talk:LT910001|talk) 19:28, 30 March 2014 (UTC)
+
+Products under development
+
+I've started an AfD at ikipedia:Articles for deletion/Prostate Rectum Spacers with the comment&quot;I'm not sure how we should cover such projects in development, and I've posted at the Medicine Wikiproject. . My own tentative view is that we should cover them only if there is visible interest from more general interest publications&quot;. Opinions welcome. ser:DGG| DGG (ser talk:DGG| talk ) 18:22, 30 March 2014 (UTC)
+I think the point to remember is that P:PROMOTION covers medical devices, procedures and compounds just like it covers mundane ones. ser:Stuartyeates|Stuartyeates (ser talk:Stuartyeates|talk) 23:17, 30 March 2014 (UTC)
+
+ Neuropathies 
+
+I've been looking at enjamin Oluwakayode Osuntokun, onzo, ropical ataxic neuropathy, taxic polyneuropathy, and assava. It seems the area is in need of some attention. Could someone with some relevant expertise please have a peek? ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 21:39, 27 March 2014 (UTC)
+
+I've been working on the neuropathies, so I'll take a look later today. --ser:Anthonyhcole|Anthonyhcole (ser talk:Anthonyhcole|talk · pecial:Contributions/Anthonyhcole|contribs · pecial:EmailUser/Anthonyhcole|email)  01:53, 28 March 2014 (UTC)
+ Thank you.  Ch 10 of [http://www.uib.no/cih/en/resources/neurology-in-africa this] pp. 246-9 looks useful. ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 06:45, 28 March 2014 (UTC)
+ Still reading. --ser:Anthonyhcole|Anthonyhcole (ser talk:Anthonyhcole|talk · pecial:Contributions/Anthonyhcole|contribs · pecial:EmailUser/Anthonyhcole|email)  01:05, 31 March 2014 (UTC)
+
+ ikipedia talk:Articles for creation/Wolfgang Michel-Zaitsu 
+
+Dear medical experts:  I can't tell if this is a notable professor or not.  Should the old Afc submission be saved and improved?  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 11:21, 29 March 2014 (UTC)
+Google scholar does not show any highly-cited papers, so probably not. Unless of course, there's coverage of him in another language (i.e. German or Japanese), which I'm not seeing, not reading those languages. ser:Stuartyeates|Stuartyeates (ser talk:Stuartyeates|talk) 00:24, 30 March 2014 (UTC)
+I have been reading a lot of articles about professors, and I was surprised to find that many very well known professors don't even have a Google Scholar profile.  Apparently this is common among some professors who were tenured before its use became common, and those who decide to list their work in other places.  I also found that the citation level varies a lot from one subject area to another, depending on if it's customary to write journal papers, publish whole books, go on lecture/conference tours, etc.  His title of &quot;Professor Emeritas&quot; tells me that he is likely mostly retired. Anyway, thanks for taking the time to look at this.  Maybe I'll ask at Wikiproject Germany, and if I don't get a positive answer there, I'll let the draft go to G13 oblivion.  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 02:50, 30 March 2014 (UTC)
+ Google scholar is not the only possible test. A widely held book (I use 1000 libraries on worldcat, but that's worse that google scholar for English-centricism) will also work, as will any of the normal biography tests. ser:Stuartyeates|Stuartyeates (ser talk:Stuartyeates|talk) 02:53, 30 March 2014 (UTC)
+This is history of medicine not medicine, and MEDRES standards do not apply.  Google Scholar is particularly useless for people in the humanities, and using the number of books in a library needs to be considered by subject--essentially no scholarly books reach 1000.)  But the only way of judging notability we have is to hold a discussion at AfD The general practice at AfC is to accept any article likely to pass afd -- some people define likely at 50%; I use 60%, and if I've done any work on it, aim much higher. Considering the very extensive German article, and the very high notability standards of the German WP, and their much greater competence than the enWP in dealing with the academic humanities, including those studying East Asia. I've accepted the article. We can deal with further improvements (or challenges) later, as with all articles. ser:DGG| DGG (ser talk:DGG| talk ) 20:01, 30 March 2014 (UTC)
+Thanks, DGG. —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 01:12, 31 March 2014 (UTC)
+
+ German acupuncture trials 
+
+* ite journal |pmid= 24024341 |year= 2013 |last1= He |first1= W. |last2= Tong |first2= Y. |last3= Zhao |first3= Y. |last4= Zhang |first4= L. |last5= Ben |first5= H. |last6= Qin |first6= Q.|last7= Huang |first7= F. |last8= Rong |first8= P. |display-authors= 4 |title= Review of controlled clinical trials on acupuncture versus sham acupuncture in Germany |volume= 33 |issue= 3 |pages= 403–7 |journal= Journal of Traditional Chinese Medicine|doi= 10.1016/s0254-6272(13)60187-9 
+
+The originally discussion was at alk:German acupuncture trials/Archive 1#Insurance companies in Germany have stopped reimbursement for acupuncture treatment. Editors agreed the source was reliable. There was P:CON to use it for the German acupuncture trials article. But now editors claim the 2013 review is unreliable. The current discussion is at alk:German acupuncture trials#Proposal. I think the source is [https://en.wikipedia.org/w/index.php?title=German_acupuncture_trials&amp;diff=601691917&amp;oldid=601589183 reliable for the claim]. ser:QuackGuru|QuackGuru (ser talk:QuackGuru|talk) 18:48, 28 March 2014 (UTC)
+
+It looks like the archives to the GAT page are formatted wrong. Shouldn't the titles have /Archive # at the end instead of the number by itself? ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 23:50, 28 March 2014 (UTC)
+Article is pubmed indexed. Would strongly recommend a RfC content to bring more opinions to the matter. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 01:14, 29 March 2014 (UTC)
+
+Here's another source that may be useful to those who, unlike me, know a lot about this topic. [http://www.ncbi.nlm.nih.gov/pubmed/18803496] ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 02:20, 29 March 2014 (UTC)
+
+Now [https://en.wikipedia.org/w/index.php?title=German_acupuncture_trials&amp;curid=33545263&amp;diff=601867277&amp;oldid=601864593 even more text is being deleted from the article for non-medical claims]. ser:QuackGuru|QuackGuru (ser talk:QuackGuru|talk) 20:54, 29 March 2014 (UTC)
+Do we not have any other sources that regurgitate the same info...if its not fringe as indicated by a reversal  then there should be many other  publications taking about this right - its old now 2006?  Journal of traditional Chinese medicine will be subject to reliability concerns here by many. Is there other sources saying/implying  &quot;Germany may not be standardized and may not be suitable for acupuncture clinical trial research.&quot; As this is what is being implied by mentioning failures in the process in the article. -- ser:Moxy|Moxy (ser talk:Moxy|talk) 22:22, 29 March 2014 (UTC)
+no we don't have other sources, especially for the claim that because of GERAC, some insurers stopped covering acupuncture.  QG really wants that statement in the article. But there is no other source for it.. which in any non-tendentious mind, would make one think it is not true, coming from a source that fails P:FRIND. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 23:17, 29 March 2014 (UTC)
+The part for coverage was not offered for headache or migraine I found another source. The part for some insurers stopped covering acupuncture I can't find another source yet. ser:QuackGuru|QuackGuru (ser talk:QuackGuru|talk) 02:13, 30 March 2014 (UTC)
+
+gang there is serious forum-shopping going on here.  This source and a similar one were carefully discussed at Talk:Gerac and one of them on Talk:MEDRS, an length and calmly, as part of a review of sources by ser:QTxVi4bEMRbrNqOorWBV|jps. Alexbrn, Second Quantization participated too.    Careful, measured discussion during which five editors participated from across the board on this issue.  QG did not participate.   We decided to exclude these two sources for everything.  After the dust settled, GQ re-introduced them both to the article.  When I objected, he edit-warred and then put notices at the FRINGE board and here.  This is the epitome of IDHT FORUMSHOPPING.  Ugly stuff. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 23:10, 29 March 2014 (UTC)
+We decided to exclude these two sources for everything? Nope. Not all editors wanted to delete the journal.[https://en.wikipedia.org/w/index.php?title=Talk%3AGerman_acupuncture_trials&amp;diff=583627689&amp;oldid=583615895][https://en.wikipedia.org/w/index.php?title=Talk%3AGerman_acupuncture_trials&amp;diff=596949304&amp;oldid=596943801][https://en.wikipedia.org/w/index.php?title=Talk%3AGerman_acupuncture_trials&amp;diff=596951081&amp;oldid=596949865] Another editor restored the part about [https://en.wikipedia.org/w/index.php?title=German_acupuncture_trials&amp;diff=598438236&amp;oldid=598437355 this]. If you read the talk page and look at the [https://en.wikipedia.org/w/index.php?title=German_acupuncture_trials&amp;diff=601864593&amp;oldid=601859186 edit history] some editors wanted to use the journal. The recent edit was misleading because the claims are [https://en.wikipedia.org/w/index.php?title=German_acupuncture_trials&amp;diff=601867277&amp;oldid=601864593 not fringe claims].  ser:QuackGuru|QuackGuru (ser talk:QuackGuru|talk) 02:02, 30 March 2014 (UTC)
+more IDHT.  Something said once and not verified anywhere else, appearing in journal that fails P:FRIND, is not coming into Wikipedia.  I cannot believe that a quack-fighter like you is taking such a stance, so strongly, that quacks everywhere can use against the encyclopedia.  your argument is way, way out of bounds. ser:Jytdog|Jytdog (ser talk:Jytdog|talk) 05:10, 30 March 2014 (UTC)
+So this is a medical or insurance claim were the source is disputed right? To put this simply  if other reliable published sources do not include the information that you have found at only one place, then that information is—by definition—not important enough to include or is a  fringe claim. -- ser:Moxy|Moxy (ser talk:Moxy|talk) 05:16, 30 March 2014 (UTC)
+ I've seen it discussed in both [http://www.jcm.co.uk/product/catalog/product/view/6737/reflections-on-the-german-acupuncture-studies/ Journal of Chinese Medicine] and [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3155101/ Journal of Alternative and Complementary Medicine], but it's obvious what the problem is - only the journals specifically related to acupuncture would be concerned about whether German health insurance companies paid out for acupuncture or not. It would not have even dented the consciousness of mainstream journals - why would it? So my advice to QG is to leave it be: there won't be anything that we'd want to use as sources, and without best-quality sources, it's not worth expending energy on. There is still lots for you to do without having to get into arguments. There is so much that could be improved in the cupuncture article (like &quot;A 2012 review said this... A 2013 review said that... that needs P:ASF|to be asserted as simple fact). --ser:RexxS|RexxS (ser talk:RexxS|talk) 22:42, 30 March 2014 (UTC)
+I improved on my previous edits for both German acupuncture trials and [https://en.wikipedia.org/w/index.php?title=Acupuncture&amp;curid=1537&amp;diff=602058810&amp;oldid=602058535 acupuncture]. As for acupuncture and asserting the facts, different sources say different things. I wrote the text the same way I did for hiropractic#Effectiveness. ser:QuackGuru|QuackGuru (ser talk:QuackGuru|talk) 04:45, 31 March 2014 (UTC)
+
+ ffects of pornography‎ article 
+
+The rticle|Effects of pornography article could use significant help from this WikiProject, and so can the Effects section of the ornography article, which I mentioned in the edit summary before [https://en.wikipedia.org/w/index.php?title=Pornography&amp;diff=601975793&amp;oldid=601974827 this latest edit there.] I might have mentioned the Effects of pornography‎ article at this WikiProject before (will need to check the archives to be certain), but I've had it on my P:Watchlist since 2012 (temporarily took it off my WP:Watchlist) and I've mainly seen POV editing there about pornography's effect on health and crime, with few improvements going on there. I'm not sure how active the research is on the effects of pornography‎ with regard to health or crime, but, judging by the sources used in that article, one could conclude that the research is not very active on the topic or at least that there are not many reviews coming out on it. So, per ikipedia:MEDRS#Use up-to-date evidence, this may be an area where P:Primary sources are the rule instead of the exception or are at least not as discouraged as they usually are with regard to health topics. ser:Tgeorgescu|Tgeorgescu and ser:Drbogdan|Drbogdan are the latest editors of that article and Drbogdan added some more references to the lead (though, per P:CITELEAD, references don't necessarily need to be in the lead). I'm not sure why the &quot;Some studies support the contention that the viewing of pornographic material may increase rates of sexual crimes&quot; part of a sentence was left uncited, since that is supported lower in the article. Anyway, if any WP:MED editors can help with that article, it would of course be a benefit to readers and Wikipedia. ser:Flyer22|Flyer22 (ser talk:Flyer22|talk) 18:09, 30 March 2014 (UTC)
+
+The references listed at http://wol.jw.org/en/wol/d/r1/lp-e/1200274559 include links to related information, some of which may provide sources acceptable for this WikiProject.
+—ser:Wavelength|Wavelength (ser talk:Wavelength|talk) 18:50, 30 March 2014 (UTC)
+
+I'm really not convinced that the Watchtower Online Library counts as a P:MEDRS|reliable source about medical issues under Wikipedia's policies. -- ser:The Anome|The Anome (ser talk:The Anome|talk) 19:09, 30 March 2014 (UTC)
+
+I understand that, but it can be a ikt:lead#Noun 2|lead (sense 17) to sources which possibly do count as reliable sources.
+—ser:Wavelength|Wavelength (ser talk:Wavelength|talk) 19:24, 30 March 2014 (UTC)
+
+Yes, but what are these reliable sources supposed to be? Google is, in your sense, a lead to reliable sources but we don't cite &quot;Google&quot; as a source, we cite the source itself. -- ser:The Anome|The Anome (ser talk:The Anome|talk) 19:30, 30 March 2014 (UTC)
+
+I agree that we cite the source itself.  That is what I intended in my first reply.  Someone who understands P:MEDRS may wish to look for those sources in the information.
+—ser:Wavelength|Wavelength (ser talk:Wavelength|talk) 19:40, 30 March 2014 (UTC)
+
+The Watchtower has an ax to grind against pornography, e.g. they are not even aware that the Bible contains pornography so they do not ask themselves how could a book containing porn be against porn. The idea that is as addictive as crack cocaine is P:FRINGE/PS. I did not see any reliable sources mentioned at [http://wol.jw.org/en/wol/d/r1/lp-e/2013562#h=43:0-50:0]. ser:Tgeorgescu|Tgeorgescu (ser talk:Tgeorgescu|talk) 20:28, 30 March 2014 (UTC)
+
+Wavelength, you're very welcome to search for and add cited information that's based on peer-reviewed research (for non-medical effects), and P:MEDRS (for medical effects). Everything else must be viewed as just an opinion, to be added either to the ornography article itself, or something like eligious views on pornography, in a way that accords with the P:NPOV and P:N|notability policies. -- ser:The Anome|The Anome (ser talk:The Anome|talk) 21:25, 30 March 2014 (UTC)
+Wikipedia does not limit sources to &quot;peer-reviewed research&quot;.  Non-peer-reviewed and non-research sources are also acceptable.  We need &quot;reliable&quot; sources.  There's a simplified checklist for what constitutes &quot;reliable&quot; at P:NOTGOODSOURCE.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 03:54, 31 March 2014 (UTC)
+FWIW - several possible starting places to search for relevant P:MEDRS *may* be at the following: [http://www.porn-report.com/ USA Porn Report], [http://aic.gov.au/media_library/publications/proceedings/14/kutchinsky.pdf US/DK/GE/SW Porn Report], [http://books.google.com/books?id=Opv9nz2M5c0C&amp;pg=PA997&amp;lpg=PA997&amp;dq=Studies+on+Pornography+and+Sex+Crimes+in+Denmark+by+Berl+Kutchinsky&amp;source=bl&amp;ots=c-yMvKeW5F&amp;sig=_oTQqa8DUCp-fFN0xR89ebfDOcs&amp;hl=en&amp;sa=X&amp;ei=3Js4U_uZHoWpqgHEo4C4DQ&amp;ved=0CDkQ6AEwAg#v=onepage&amp;q=Studies%20on%20Pornography%20and%20Sex%20Crimes%20in%20Denmark%20by%20Berl%20Kutchinsky&amp;f=false DK Porn Studies (numerous refs)], ttorney General's Commission on Pornography, ommittee on Obscenity and Film Censorship and resident's Commission on Obscenity and Pornography - hope the above helps in some way - in any case - Enjoy! :) ser:Drbogdan|Drbogdan (ser talk:Drbogdan|talk) 21:44, 30 March 2014 (UTC)
+
+There are 175 web pages listed at http://www.dmoz.org/search?q=pornography.
+—ser:Wavelength|Wavelength (ser talk:Wavelength|talk) 02:19, 31 March 2014 (UTC)
+
+Yes, and a Google search will find even more, but now you have to do the legwork to determine which are reliable sources and which not, and furthermore, which meet the P:RS, P:V and P:N criteria, and, in the case of anything making a medical claim, P:MEDRS as well. Can I suggest [http://scholar.google.co.uk/scholar?hl=en&amp;q=pornography&amp;btnG=&amp;as_sdt=1%2C5&amp;as_sdtp= this Google Scholar search] instead, as a starting point for your research? -- ser:The Anome|The Anome (ser talk:The Anome|talk) 12:21, 31 March 2014 (UTC)
+
+ ipedema 
+
+Dear medicine experts, could you please take a look at this article? Since it was created in 2005, it has had only two references (one of which is dead), but it makes a number of questionable statements, such as an 11% incidence, a claim that &quot;in recent years growing awareness of lipedema has come from internet sources&quot;, and various other completely unsupported statements about specific details. There is a recent comment in the alk:Lipedema|talk page asserting that the article is a subtle promotion of cosmetic surgery, which may make sense, as it states that &quot;lipedemic fat generally cannot be lost through diet and exercise&quot;. It doesn't help that the article is extremely vague as to the causes of the condition; it first states that lipedema can be inherited while stating that the cause is unknown in a different section, but it seems to me that accumulating fatty tissue is different from the swelling of fatty tissue, which is what dema implies ([http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309375/ this article] calls lipedema a &quot;rare disease&quot; characterised by hyperplasia of individual fat cells). Of course, I'm in no way an expert, and I may just be mistaken, so any comment would be appreciated. Thanks! -ser:Anagogist|Anagogist (ser talk:Anagogist|talk) 16:43, 31 March 2014 (UTC)
+
+There are fewer than 100 papers at PubMed on this subject.  MID|17540658 (on associated hair loss) claims to be (the only) free, full-text review.  Perhaps that would be a good place to start?  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 16:49, 31 March 2014 (UTC)
+
+ Music therapy 
+
+Seems there's some promotional shit buried here and there on usic therapy|this page--or at least the single sentence about autism. Would like it if you (other) regular contributors could take a look. And don't get me started on the use of Huffington Post as a source--eesh. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 04:36, 1 April 2014 (UTC)
+There is definately a source problem in this article. It's using primary sources to claim effects on Schizophrenia and Depression. Also non-compliant with P:MEDMOS ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 09:26, 1 April 2014 (UTC)
+
+ Medical questions at the Reference Desks 
+
+Some people here will want to have a look at ikipedia:VPP#Claim_that_talk_page_guidelines_override_reference_desk_ones.  The question is whether, in the event that a person posts a request for medical advice at the P:RD|Reference Desks, it's okay to remove the question, or whether P:TPG|talk page guidelines prohibit you from doing so.  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 18:39, 31 March 2014 (UTC)
+ The reference desk/medical advice issue has been going on for years. The reference desk editors are a law unto themselves. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 09:29, 1 April 2014 (UTC)
+
+ abapentin: significant removal of info 
+
+I'm not sure if this is legitimate trimming or not but I think it could use a second look as it's pretty extensive:
+* https://en.wikipedia.org/w/index.php?title=Gabapentin&amp;curid=482534&amp;action=history
+Cheers, Jake ser:Ocaasi|Ocaasi ser talk:Ocaasi|t |pecial:Contributions/Ocaasi| c 01:56, 1 April 2014 (UTC)
+ The &quot;Withdrawal&quot; and &quot;Legal action&quot; subsections have been completely deleted. The &quot;Withdrawal&quot; subsection was based mainly on primary sources. Formerly 98 [https://en.wikipedia.org/w/index.php?title=Gabapentin&amp;diff=602201820&amp;oldid=602199382 deleted] the text with that reason. He indicates that he searched for secondary sources but could not find them. I find it surprising that there are no secondary sources to support this information.
+
+ The &quot;Legal action&quot; section looked quite reasonable. Formerly 98 [https://en.wikipedia.org/w/index.php?title=Gabapentin&amp;diff=602202372&amp;oldid=602201820 deleted] the text with the claim that the references were primary sources. However [http://www.ncbi.nlm.nih.gov/pubmed/16908919 this source] looks okay. ser:Axl|Axl ¤ ser talk:Axl|[Talk] 09:56, 1 April 2014 (UTC)
+
+ AfC submission - 30/03 
+
+Is there anything salvageable here? ikipedia talk:Articles for creation/Delta Ratio. Thanks, ser:FoCuSandLeArN|FoCuSandLeArN (ser talk:FoCuSandLeArN|talk) 01:01, 31 March 2014 (UTC)
+
+It is a concept that is relevant in etabolic acidosis and nion gap and is probably notable. The editor should be encouraged to use secondary sources and expand those articles in the first instance. The page elta ratio can then be turned into a redirect. ser:Jfdwolff|JFW | ser_talk:Jfdwolff|T@lk 12:34, 1 April 2014 (UTC)
+
+ AfC submission - 01/04 
+
+ikipedia talk:Articles for creation/Sugiura Procedure. Not an April Fools' joke! ser:FoCuSandLeArN|FoCuSandLeArN (ser talk:FoCuSandLeArN|talk) 14:45, 1 April 2014 (UTC)
+
+ onal NePhRO scoring system 
+
+Is this topic notable or is this just another case of self-promotion (the original creator used a username that matched one of the authors in one of the references)?  ser:davidwr|davidwr/(ser_talk:davidwr|talk)/(pecial:Contributions/Davidwr|contribs) 03:09, 31 March 2014 (UTC)
+
+I have nominated the article for deletion here: ikipedia:Articles for deletion/Zonal NePhRO scoring system. Many thanks for posting this notification. ser:Lesion|Lesion 17:00, 1 April 2014 (UTC)
+
+ ikipedia talk:Articles for creation/Max Wintermark 
+
+Dear medical experts:  Is this old Afc submission about a notable professor?  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 17:52, 1 April 2014 (UTC)
+
+GS h-index of 47 says yes. [http://scholar.google.com/scholar?q=author%3A%22M+Wintermark%22&amp;hl=en&amp;as_sdt=0%2C1] ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 18:03, 1 April 2014 (UTC)
+
+Question for ser:Jinkinson|Jinkinson: What does &quot;h-index of 47&quot; mean? I'm curious. Thanks. ser:Softlavender|Softlavender (ser talk:Softlavender|talk) 18:44, 1 April 2014 (UTC)
+
+The term -index refers to a number # such that the scientist has published at least # papers each of which has been cited at least # times. For more info see Wikipedia's page on the topic. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 18:46, 1 April 2014 (UTC)
+
+Ah, OK thanks v much. And how did you determine or find his h-index for that GS search, if you don't mind explaining? I couldn't determine that from the Wiki article or footnote. ser:Softlavender|Softlavender (ser talk:Softlavender|talk) 18:58, 1 April 2014 (UTC)
+
+I have [https://www.mat.unical.it/ianni/wiki/ScholarHIndexCalculator this] installed. ser:Jinkinson|Jinkinson ser talk:Jinkinson|talk to me 19:15, 1 April 2014 (UTC)
+
+OK thanks very much, Jinkinson! :) ser:Softlavender|Softlavender (ser talk:Softlavender|talk) 19:35, 1 April 2014 (UTC)
+
+Well, I added some citations, since it's a biography.  I'm sure someone with medical expertise could have done better, but is it suitable as a stub in mainspace now? —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 19:44, 1 April 2014 (UTC)
+
+ -Acetylpsilocin  
+
+-Acetylpsilocin (4-AcO-DMT) is a research chemical purported to be a prodrug of silocin, which the article makes clear.  My concern is that, as an RC, secondary sources are notably lacking on the subject, and I'm wondering if we're overstepping MEDRS by reporting the theoretical mechanism of action when no actual studies has taken place.  It's within the realm of possibility that 4-AcO-DMT is active itself but this too has not been confirmed.  Ugh, I also just noticed that bluelight.ru forums (an illicit drug form) is being used as a source, so it's probably worse than I thought.  Has the topic of research chemicals and how to treat them in WP undergone any protracted discussion here? ser:Noformation|Noformation ser talk:Noformation|Talk 00:54, 2 April 2014 (UTC)
+This discussion has not occurred as far as I am aware. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 17:03, 2 April 2014 (UTC)
+
+ ikipedia talk:Articles for creation/Injection of Biomaterial, Alginate, into Ischemic Tissue Post Myocardial Infarction to Limit Left Ventricular Remodeling and Improve Function 
+
+Dear medical experts: Here's an Afc submission that may be of interest to this project.  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 13:57, 31 March 2014 (UTC)
+I haven't looked at it, but that sounds much too narrow a subject to justify an entire article.  It should probably be no more than a single (short) paragraph under anagement of heart failure or some similar subject.
+Along those lines, does anyone know why eart disease#Management contain only a single sentence?!  ser:WhatamIdoing|WhatamIdoing (ser talk:WhatamIdoing|talk) 15:51, 31 March 2014 (UTC)
+*Same problem encountered here: ikipedia talk:Articles for creation/Colchicine Treatment of Post-Pericardiotomy Syndrome. Would you agree with my comments? ser:FoCuSandLeArN|FoCuSandLeArN (ser talk:FoCuSandLeArN|talk) 00:40, 1 April 2014 (UTC)
+Yes same problem. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 17:10, 2 April 2014 (UTC)
+
+ Citation of Wikiversity articles as sources in medical articles. 
+
+See here: [https://en.wikiversity.org/wiki/Category:Articles_used_as_reference_in_Wikipedia]. It appears that having instituted some sort of 'peer review' process, it is now being claimed that Wikiversity meets P:RS and/or P:MEDRS. ser:AndyTheGrump|AndyTheGrump (ser talk:AndyTheGrump|talk) 19:29, 30 March 2014 (UTC)
+
+Incidentally, it should probably be noted that all articles so far cited from Wikiversity have been written by the same author: ser:Mikael Häggström. ser:AndyTheGrump|AndyTheGrump (ser talk:AndyTheGrump|talk) 19:53, 30 March 2014 (UTC)
+
+Looking at the archives for this talk page, I found this thread [https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Medicine/Archive_45#Peer_review_of_medical_research_now_offered_for_free_in_Wikiversity] which discussed the proposed Wikiversity 'peer review' process - though I can see nothing whatsoever in it to indicate that there was any consensus to accept such material as WP:MEDRS-compliant. ser:AndyTheGrump|AndyTheGrump (ser talk:AndyTheGrump|talk) 19:59, 30 March 2014 (UTC)
+
+As given in ikipedia:Wikiversity#Using_a_Wikiversity_page_as_reference_in_Wikipedia, it has been established that &quot;Wikiversity content is generally not ikipedia:Identifying reliable sources|identified as a reliable source in Wikipedia. Therefore, usage of Wikiversity as a reference in Wikipedia is generally not advisable.&quot;. Yet, I still think such usage is possible, as can be judged on a case-by-case basis. ser:Mikael Häggström|Mikael Häggström (ser talk:Mikael Häggström|talk) 20:09, 30 March 2014 (UTC)
+
+Perhaps you could then explain why the 'Wikiversity:Peer review' page [https://en.wikiversity.org/wiki/Wikiversity:Peer_review] which was written almost entirely by you expressly claims that &quot;A major reason of having a work peer reviewed in Wikiversity is the possibility to summarize it in Wikipedia, or having additional quality assurance of existing Wikipedia entries, citing the Wikiversity page as the source&quot;. It is up to Wikipedia, not Wikiversity, to decide whether sources meet our standards - and it seems entirely irresponsible to suggest otherwise. ser:AndyTheGrump|AndyTheGrump (ser talk:AndyTheGrump|talk) 20:27, 30 March 2014 (UTC)
+Andy, the page you cited (a category page on Wikiversity) does not appear to make any claim that Wikiversity meets RS/MEDRS. ser:Lesion|Lesion 21:10, 30 March 2014 (UTC)
+Not directly, no. But the implication is there on [https://en.wikiversity.org/wiki/Wikiversity:Peer_review] - and the person responsible for writing it has chosen to cite his own Wikiversity articles on Wikipedia. WP:COI seems relevant here... ser:AndyTheGrump|AndyTheGrump (ser talk:AndyTheGrump|talk) 21:18, 30 March 2014 (UTC)
+Where are they cited on Wikipedia? Also I personally would not say that the second cited page (Peer review) expressly states that Wikiversity meets RS/MEDRS. It says a possibility, which to my reading implies that this could be the case in the future, or indeed a case by case basis (as pretty much any other source on Wikipedia)... as stated above. Might be an idea to tweak this wording for more clarity. ser:Lesion|Lesion 21:24, 30 March 2014 (UTC)
+If you look at the articles in the Wikiversity category, they each contain a template saying &quot;This article is used as a reference in Wikipedia in the following articles:&quot; ser:AndyTheGrump|AndyTheGrump (ser talk:AndyTheGrump|talk) 21:48, 30 March 2014 (UTC)
+OK I see now. E.g. [https://en.wikiversity.org/wiki/Allogeneic_component_to_overcome_rejection_in_interspecific_pregnancy Allogeneic component to overcome rejection in interspecific pregnancy] is used on nterspecific pregnancy and mmunosurgery. Perhaps we should try to reach a consensus about this, ping to posters on original thread |TenOfAllTrades, |Bluerasberry, |WhatamIdoing. To continue the discussion, I would suggest on the positive side of these sources, that they appear to be secondary sources, with in-line citation to reputable sounding sources. On the negative side, assume this journal is not MEDLINE indexed. ser:Lesion|Lesion 22:16, 30 March 2014 (UTC)
+It is not MEDLINE indexed, but I'm working on having such issues fixed. The ikiversity:Wikiversity Journal of Medicine|Wikiversity Journal of Medicine just got nternational Standard Serial Number|ISSN registered last week, and I'm currently working on assigning igital Object Identifier|doi codes for each article, so there is still a lot of work to do.ser:Mikael Häggström|Mikael Häggström (ser talk:Mikael Häggström|talk) 04:27, 31 March 2014 (UTC)
+*I support this project as a pilot. I would not suggest dismissing all papers in a given journal even if that journal is from a Wikimedia project, because most journals publish dubious papers which ought not be cited even if on their face they seem to have gone through process. If someone questions a source then I think the best response would be to just treat it like any other source which someone claims is dubious. There are no great plans to scale up the Wikimedia publication of academic sources, and for that reason, I see no reason for a special response to this even though comments on the proposal are welcome as for any Wikimedia proposal. I like having an original publishing proposal in place as a concept of how this can be done. For a more developed similar proposal, check out cholarpedia. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 00:06, 31 March 2014 (UTC)
+I'm grateful that this project is given a chance. I have great hopes that the increased transparency in the peer review process will result in more reliability than many other journals out there. ser:Mikael Häggström|Mikael Häggström (ser talk:Mikael Häggström|talk) 04:27, 31 March 2014 (UTC)
+The key discussion is taking place at P:RSN as that is where this issue can be decided. Not here. ser:Dougweller|Dougweller (ser talk:Dougweller|talk) 09:30, 31 March 2014 (UTC)
+Thanks for that |Dougweller. Here is the link, ikipedia:RSN#Citation_of_Wikiversity_articles_as_sources_in_articles.. ser:Lesion|Lesion 12:19, 31 March 2014 (UTC)
+And thanks for the link |Lesion but it needed a full stop/period at the end - which is unusual for a section heading. ser:Dougweller|Dougweller (ser talk:Dougweller|talk) 12:41, 31 March 2014 (UTC)
+Yes I could see this as eventually being a suitable source of possible references but would need to see the bar of pubmed indexing reached first. Also it is too young to have a reputation for reliability. ser:Jmh649|Doc James (ser talk:Jmh649|talk · pecial:Contributions/Jmh649|contribs · pecial:EmailUser/Jmh649|email) (if I write on your page reply on mine) 17:21, 2 April 2014 (UTC)
+
+ eta:Grants:IEG/Medicine Translation Project Community Organizing|Medical translation Individual Engagement Grant 
+
+I'd like to ask you all to take a look at a Wikimedia IEG grant a few of us here at Wikiproject MED are behind.
+You may already have heard of the translation of medical articles that is being done (if not please take a look at ikipedia:WikiProject Medicine/Translation Task Force). The goal of the grant I've applied for is to get some traction so as to have the translation and integration process going smoothly.
+We've come far at ikipedia:WikiProject Medicine/Translation task force/RTT, but to get further there is need of some form of organization, preferably by someone who can devote significant time to the task.
+
+I'm very hopefull that I can provide real benefit with this grant, as there are so many articles on Wikipedia that could help people all over the world.
+It's even more important when you take into account drives such as ikipedia Zero, which gives readers who might not have access to anything else access to Wikipedia.
+
+Please take a look at the grant page: eta:Grants:IEG/Medicine Translation Project Community Organizing|Medicine Translation Project Community Organizing, and add a comment or give your ideas on how we can best benefit other Wikipedia communities.
+Thanks, -- ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 21:15, 2 April 2014 (UTC)
+
+ New editor on water fluoridation 
+
+A new editor has been active on ater fluoridation, ater fluoridation controversy and luoridation by country; would appreciate more eyes and comments on the talk page. Thanks. ser:Yobol|Yobol (ser talk:Yobol|talk) 21:28, 2 April 2014 (UTC)
+
+ P:Student assignment: aginismus,  ervical cancer and a few other vaginal-related articles 
+
+I saw [https://en.wikipedia.org/w/index.php?title=Talk:Vaginismus&amp;diff=602527156&amp;oldid=564389888 this], and decided to let this WikiProject know that a class will be working on the Vaginismus, Cervical cancer and a few other vaginal-related articles; more information is here: ducation Program:Harvard University/Obgyn bootcamp (April 2014). ser:Flyer22|Flyer22 (ser talk:Flyer22|talk) 05:15, 3 April 2014 (UTC)
+Looks promising. Considering the name of the course I'd think those taking it were medical students, or maybe even interns, probably with a rather good understanding of the materials. If we're proactive and get into contact with the instructor to make sure P:MEDMOS and P:MEDRS are followed this could be really good. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 08:18, 3 April 2014 (UTC)
+I sent a short mail. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 08:38, 3 April 2014 (UTC)
+Found this ikipedia:Education_noticeboard/Archive7#OBGYN_bootcamp_project, which I had missed. ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 08:43, 3 April 2014 (UTC)
+|CFCF and |Flyer22 I will be presenting to this class in person next week. Some of the students have already registered for the class and I think we all would appreciate any comments anyone has once they have developed their articles. They seem enthusiastic. Thanks for noticing. ser:Bluerasberry| Blue Rasberry ser talk:Bluerasberry|(talk) 14:49, 3 April 2014 (UTC)
+
+ New user edits at epression (mood) 
+
+A new user ser:Naimanadeem|Naimanadeem has made several edits to this article today, using a few primary sources to reference his/her edits. I am at a loss whether these are considered acceptable under P:MEDRS, but lean towards suggesting they be replaced by better secondary sources.
+The reason why I am hesitant is because we make the distinction between ajor depressive disorder and epression (mood), something which not all sources do in the same way, and some of the primary sources target depression in general and not specifically major depressive disorder.
+Thoughts?
+ --  ser:CFCF|CFCF (ser talk:CFCF|talk · pecial:Contributions/CFCF|contribs · pecial:EmailUser/CFCF|email) 08:11, 3 April 2014 (UTC)
+Yes, it is a bit of a headache that some medical articles use &quot;depression&quot; as an abbreviation for &quot;major depression&quot; and thus &quot;major depressive disorder&quot;. Many of the edits look reasonable and the statements look like they should be able to be supported by secondary sources, although there's one or two that mightn't be. Best would be to look for review articles and see what can be replaced. ser:Casliber|Cas Liber (ser talk:Casliber|talk · pecial:Contributions/Casliber|contribs) 18:53, 3 April 2014 (UTC)
+
+ Help needed at alk:Seahorse#Medicine? 
+
+This is a discussion about whether to use the term medicine for the use of seahorses in Chinese traditional culture. Advice would be very welcome to the participants (I haven't commented yet). ser:Dougweller|Dougweller (ser talk:Dougweller|talk) 19:14, 3 April 2014 (UTC)
+
+ ikipedia talk:Articles for creation/Meningioangiomatosis 
+
+Dear medical experts:  Is this a notable topic, and should the old Afc submission be kept and improved instead of being deleted as a stale draft?  —ser:Anne Delong|Anne Delong (ser talk:Anne Delong|talk) 14:05, 3 April 2014 (UTC)
+I did some citation cleanup, wikilinks, etc but it still needs inlining of citations. For a short stub with only a few refs, that should not really be a showstopper. ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 16:58, 3 April 2014 (UTC)
+While doing the above, I noted that there's no target article for poradic disease as distinct from amilial diseaseand  ereditary disease, both of which redirect to enetic disorder. Any thoughts on whether they need distinct articles, or is another redirect to the one catch-all sufficient? ser:LeadSongDog|LeadSongDog ser talk:LeadSongDog#top|come howl! 19:43, 3 April 2014 (UTC)</segment>
+	</text>
+</file>

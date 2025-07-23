@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2023-04-14T18:44:56Z" sourceCorpus="MEDRS" filename="48474745" title="Identifying_reliable_sources_(medicine)_Talk_Archive_18" url="https://en.wikipedia.org/wiki/Wikipedia_Talk:Identifying_reliable_sources_(medicine)/Archive_18">
+	<text>
+		<segment id="id48474745">Add image to WP:MEDASSESS 
+
+Wonder what peoples feeling are about adding this type of illustration to the MEDASSESS section It shows some different ways to balance evidence I've recently had the feeling that many new editors are having trouble understanding why we use one article over the other, and this would perhaps make it easier to explain why we chose secondary over primary sources
+
+
+
+Please give your thoughts, and I can also prepare more of these images for different pyramids as well
+Best, -- User:CFCF|CFCF User talk:CFCF|🍌 (Special:EmailUser/CFCF|email) 09:20, 3 September 2015 (UTC)
+very clear and informative, I think MEDRS would benefit from this/ posted talk/Med--User:Ozzie10aaaa|Ozzie10aaaa (User talk:Ozzie10aaaa|talk) 20:09, 3 September 2015 (UTC)
+Interesting The pyramids differ on some important points about ranking sourcing Let's use both, say where they are from, explain that conflicting advice is the norm, and also look for other differing views Something that stands out to me is the idea that &quot;clinical practice guidelines&quot; are more authoritative than systematic reviews Obviously these become outdated as compared to the latest systemic reviews, and sometimes they are not even evidence based, but I really like that one of the pyramids shows this as the highest authority because in many ways, CPGs are Thanks for making more than one
+I wonder if we could have one that is &quot;WikiProject Medicine's Ranking of Priority&quot;, and dictate to the world how information ought to be evaluated We use different terms and emphasis User:Bluerasberry| Blue Rasberry User talk:Bluerasberry|(talk) 18:04, 4 September 2015 (UTC)
+Our &quot;ranking&quot; depends upon multiple factors  The &quot;pyramid&quot; would look a lot like the table at WP:CANVAS:  several unrelated criteria, and being &quot;strong&quot; on Criteria #1 might not outweigh being &quot;weak&quot; on Criteria #2  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 18:43, 4 September 2015 (UTC)
+I added references in the captions to the images, but I don't really know how to best explain their differences and rationales I also like the pyramid at http://libraryncuedu/dw/index/298 which makes a distinction between meta-analysis and systematic reviews Unfortunately it has too many steps, so I'd have to make a new image for those
+As response to  – what different criteria do you propose for such a table I surmise you mean something like this:
+
+
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;&quot;
+|-
+| width=17% |  
+| width=17% | 
+| width= 5% |  
+| width=17% | 
+| width= 5% |  
+| width=17% | 
+| width= 5% |  
+| width=17% | 
+|-
+| style=&quot;background:#efe;&quot; | Higher quality
+| style=&quot;background:#efe;&quot; |
+| style=&quot;background:#efe;&quot; | 
+| style=&quot;background:#efe;&quot; |
+| style=&quot;background:#efe;&quot; | 
+| style=&quot;background:#efe;&quot; |
+| style=&quot;background:#efe;&quot; | 
+| style=&quot;background:#efe;&quot; |
+|-
+| style=&quot;background:#ffe;&quot; |
+| style=&quot;background:#ffe; font-size:15pt; padding-bottom:6px&quot; | ↕
+| style=&quot;background:#ffe;&quot; |
+| style=&quot;background:#ffe; font-size:15pt; padding-bottom:6px&quot; | ↕
+| style=&quot;background:#ffe;&quot; |
+| style=&quot;background:#ffe; font-size:15pt; padding-bottom:6px&quot; | ↕
+| style=&quot;background:#ffe;&quot; |
+| style=&quot;background:#ffe; font-size:15pt; padding-bottom:6px&quot; | ↕
+|-
+| style=&quot;background:#fee;&quot; | Lower quality
+| style=&quot;background:#fee;&quot; |
+| style=&quot;background:#fee;&quot; | 
+| style=&quot;background:#fee;&quot; |
+| style=&quot;background:#fee;&quot; | 
+| style=&quot;background:#fee;&quot; |
+| style=&quot;background:#fee;&quot; | 
+| style=&quot;background:#fee;&quot; |
+|-
+|
+|
+|  
+|
+|  
+|
+|  
+|
+|}
+
+-- User:CFCF|CFCF User talk:CFCF|🍌 (Special:EmailUser/CFCF|email) 23:52, 5 September 2015 (UTC)
+Sorry for messing up on the formatting on adding a comment to this section, but I noticed that Medical textbooks are missing from the pyramid I use texts all the time Best Regards,
+  User:Bfpage|Bfpage |User talk:Bfpage|leave a message  00:06, 23 September 2015 (UTC)
+Yes, User:CFCF|CFCF, that's exactly the table I have in mind  A comprehensive list of criteria is too  long to be useful, but some of the major ones are primary vs secondary, newer vs older, independent vs conflicted, and better evidence vs weaker evidence  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 04:14, 23 September 2015 (UTC)
+
+
+
+
+WP:MEDASSESS and hierarchies of evidence
+In a recent Wikipedia_talk:WikiProject_Medicine#More_on_levels_of_evidence_at_WP:MEDRS|WikiProject Medicine discussion, I noted that WP:MEDASSESS largely follows an evidence-based medicine approach, but that there are many valid critiques of the EBM movement (examples given in that discussion) I note http://wwwtrialsjournalcom/content/pdf/s13063-015-0917-5pdf Pearce et al (2015) says:
+
+&quot;the notion of ‘hierarchies’ of evidence within evidence-based medicine is no longer prevalent in the literature, being replaced by more nuanced typologies of evidence demonstrating how different research methods are appropriate for answering different types of research question 72, 73&quot;
+
+72 OCEBM Levels of Evidence Working Group The Oxford Levels of Evidence 2 Oxford: Oxford Centre for Evidence-Based Medicine; 2011
+73 Howick J, Chalmers I, Glasziou P, Greenhalgh T, Heneghan C, Liberati A, et al Explanation of the 2011 Oxford Centre for Evidence-Based Medicine (OCEBM) Levels of Evidence (Background Document) Oxford: Oxford Centre
+for Evidence-Based Medicine; 2011
+
+Perhaps we are a bit behind the times now in following a &quot;pyramid&quot; hierarchy and should work on some alternative text
+
+http://wwwbiomedcentralcom/series/ExtendingEBM Here has the set of papers, all open access, that includes Pearce et al, a series edited by Trish Greenhalgh User:Bondegezou|Bondegezou (User talk:Bondegezou|talk) 16:32, 14 September 2015 (UTC)
+
+Yes, we need to address this  I've been thinking about it for a long time—not because there's something &quot;wrong&quot; with the evidence hierarchies, but because they're only useful for some kinds of information  You will never see a systematic review of randomized controlled studies on what the current name of body part is  It'd be silly  And yet we have editors who believe that this is the be-all and end-all of all sources, and that it's better to cite a systematic review that mentions something like that in passing than to cite a more authoritative source, eg, a reputable anatomy textbook
+But I think it's going to take a lot of re-writing, and I've got limited time for it  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 04:20, 23 September 2015 (UTC)
+I'll try to find time, but the issue in the case you've linked is not that EBM is weak, but that it does not apply to all fields User:CFCF|CFCFUser talk:CFCF| 💌 Special:EmailUser/CFCF|📧 07:07, 23 September 2015 (UTC)
+
+Writing for Wikipedia on scientific topics is not &quot;doing&quot; peer reviewed science, more especially it is not authoring reviews It is, or should be, non-credible mostly-pseudonymous editors reporting on where the existing consensus of scientists lies This is the underlying reason that we cannot use our own individual assessment of primary sources, even the experts among us The result is that we cannot simply adopt a ranking hierarchy intended for use by experts: we must have published sources behind our application of wp:WEIGHT, as inconvenient as that may be when we all know the primary source is rightUser:LeadSongDog|LeadSongDog User talk:LeadSongDog#top|come howl! 13:06, 23 September 2015 (UTC)
+One of the (multiple) problems that we create with mindless application of a &quot;no primary sources!&quot; rule is that we exclude interesting information as a result  Primary sources need to be given due weight, which doesn't always mean excluding them  For very rare diseases, due weight might even mean emphasizing them—because the options are sometimes scholarly primaries or non-scholarly secondaries, and the &quot;scholarly&quot; part can matter more than the &quot;secondary&quot; part We need to stop painting ourselves into a corner by declaring a subject notable because independent secondary sources exist, and then refusing to permit any sources at all to be used:  all the academic sources get rejected on the grounds that they're primary or too old, and all the secondary and recent sources get rejected on the grounds that they aren't peer-reviewed
+Also, encyclopedia articles aren't just summaries of current mainstream scientific consensus  They should also include (largely scholarly, largely mainstream) views from multiple disciplines, such as:
+ history (why does the word cancer come from crabs?),
+ law (where is this drug legal?),
+ business (how much money did they make selling this?),
+ economics (what would happen to the global economy if depression disappeared?),
+ sociology (why does this affect wealthy countries more than poor ones?),
+ religion (can this surgery be done bloodlessly?),
+ culture (why do people bring you dinner if your child has cancer, but not if he has autism?),
+ practical life (can a heart attack make you too weak to lift a pot of coffee?),
+and other subjects  None of that is science, and all of it belongs in a medicine-related encyclopedia articles  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 16:08, 23 September 2015 (UTC)
+MEDRS has exceptions for all those (including primary sources for rare diseases)–so I don't see the issue hereAs I understand it the problem is that misinformed editors are mass-tagging for example 6 year old studies as unreliable While that is a major issue, it isn't an issue with the current rulesAs for notability I don't understand, would you care to clarify? User:CFCF|CFCFUser talk:CFCF| 💌 Special:EmailUser/CFCF|📧 22:05, 23 September 2015 (UTC)
+User:CFCF|On notability:  Notability, in the form of the WP:GNG, basically requires the existence of two or more secondary sources  MEDRS, however, &quot;requires&quot; (in the minds of our most zealous defenders of the wiki) the exclusive use of scholarly secondary sources for WP:Verification  This means that it is possible to have an article about, eg, an experimental drug, that is WP:Notable (because multiple non-scholarly secondary sources exist) but which produces endless disputes about the lack of &quot;MEDRS-compliant&quot; sources (because zero scholarly secondary sources exist)  We are handling this poorly  User:WhatamIdoing|WhatamIdoing (User talk:WhatamIdoing|talk) 17:57, 6 October 2015 (UTC)
+
+ Dance and health 
+
+please review the article and its sources before it was ugly but recently I noticed that it became a target of student assignment of IMO a nonmedical person, with consequences i did some surgery on it, but i cannot reasonably judge the essence of remains - üser:Altenmann user talk:Altenmann|&gt;t 04:25, 1 November 2015 (UTC)
+I think the first sentence needs a source User:QuackGuru|QuackGuru (User talk:QuackGuru|talk) 20:34, 2 November 2015 (UTC)</segment>
+	</text>
+</file>
