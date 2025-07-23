@@ -30,12 +30,12 @@ First, make sure you have `pip3` installed.
 
 Open a terminal and run the following commands.
 ```bash
-$ python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade pip
 ```
 
 Then, run the following command to install the package.
 ```bash
-$ pip3 install "https://github.com/manojmanikandan7/WikiXmlParser/releases/latest/download/wiki_xml_parser-0.0.2-py3-none-any.whl"
+pip3 install "https://github.com/manojmanikandan7/WikiXmlParser/releases/latest/download/wiki_xml_parser-0.0.2-py3-none-any.whl"
 ```
 
 ## Usage
@@ -58,7 +58,7 @@ The CLI can be accessed through the command `wiki_parse`.
 
 Run the following for more information on the command
 ```bash
-$ wiki_parse --help
+wiki_parse --help
 ```
 ```
  Usage: wiki_parse [OPTIONS] INPUT_FILE_NAME OUTPUT_DIR CORPUS_NAME                                                                                                                                                              
