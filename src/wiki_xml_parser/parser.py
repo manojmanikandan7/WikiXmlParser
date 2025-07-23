@@ -129,7 +129,7 @@ class XmlParser:
         attrs = self.get_attrs(page, corpus_name)
         file = ET.Element("file", attrs)
         text = ET.SubElement(file, "text")
-        segment = ET.SubElement(text, "segment", { "id" : f"id{attrs["filename"]}"})
+        segment = ET.SubElement(text, "segment", { "id" : f"id{attrs['filename']}"})
         segment.text = self.clean_text(page.find("default:revision", self.ns).find("default:text", self.ns).text)
         return attrs["title"], file
 
