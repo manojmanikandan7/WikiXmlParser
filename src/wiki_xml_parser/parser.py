@@ -1,13 +1,15 @@
 """
 The module for parser functions for Wikipedia-exported xml files
 """
-
+import time
 import xml.etree.ElementTree as ET
+from pathlib import Path
 from xml.dom.minidom import parseString, getDOMImplementation
 from bs4 import BeautifulSoup
 import html
-from os import PathLike
 import re
+from rich.progress import track
+
 
 class XmlParser:
     """
@@ -17,7 +19,7 @@ class XmlParser:
         self.ns = {"default": "http://www.mediawiki.org/xml/export-0.11/"}
 
     @staticmethod
-    def parse_xml(file: PathLike[str]) -> ET.ElementTree:
+    def parse_xml(file: Path) -> ET.ElementTree:
         """
         Parse the input XML file and return an `xml.etree.ElementTree.ElementTree` representation of it.
         :param file:
@@ -40,25 +42,27 @@ class XmlParser:
         # Removing the "Wikipedia_Talk:" prefix
         title_parts = title.split(":")
 
-        if title_parts[0] == "Wikipedia talk":
-            talk = "Wikipedia_Talk:"
-            title = title_parts[-1]
-            corpus_type = "Talk"
-        else:
-            talk = ""
-            title = title_parts[-1]
-            corpus_type = "Article"
-
+        title = title_parts[-1]
         title_splits = re.sub(r"\s", "_", title).split("/")
+
+        if "talk" in title_parts[0].lower():
+            corpus_type = "Talk"
+            sub = "_Talk"
+            pre = title_parts[0] + ":"
+        else:
+            corpus_type = "Article"
+            sub = ""
+            pre = ""
+
 
         # In this case, the page is not an archive
         if len(title_splits) < 2:
-            xml_title = title_splits[0]
-            url = "https://en.wikipedia.org/wiki/" + talk + title_splits[0]
+            xml_title = title_splits[0] + sub
+            url = "https://en.wikipedia.org/wiki/" + pre + title_splits[0]
         else:
             title_name, archive = title_splits
-            xml_title = f"{title_name}_Talk_{archive}"
-            url = "https://en.wikipedia.org/wiki/" + talk + title_name + '/' + archive
+            xml_title = f"{title_name}{sub}_{archive}"
+            url = "https://en.wikipedia.org/wiki/" + pre + title_name + '/' + archive
 
 
 
@@ -72,6 +76,7 @@ class XmlParser:
         """
         ## Text cleaning pipeline ##
         # TODO: Elaborated steps
+
         # Removing all infoboxes
         no_infoboxes = re.sub(r"(?s){{(#invoke:)?Infobox.*?\n.*?\n}}", "", txt)
 
@@ -133,7 +138,7 @@ class XmlParser:
         segment.text = self.clean_text(page.find("default:revision", self.ns).find("default:text", self.ns).text)
         return attrs["title"], file
 
-    def parse_corpus(self, input_file: PathLike[str], output_dir: PathLike[str], corpus_name: str):
+    def parse_corpus(self, input_file: Path, output_dir: Path, corpus_name: str):
         """
 
         :param input_file:
@@ -144,7 +149,7 @@ class XmlParser:
 
         pages = tree.findall("default:page", self.ns)
 
-        for page in pages:
+        for page in track(pages, "Processing..."):
 
             title, file = self.build_tree(page, corpus_name)
 
@@ -160,5 +165,10 @@ class XmlParser:
 
             xml_text = dom_doc.toprettyxml(encoding="utf-8", standalone=False)
 
-            with open(output_dir/(title+".xml"), 'wb') as f:
+            output_dir.mkdir(parents=True, exist_ok=True)
+
+            file_name = output_dir/(title+".xml")
+            with open(file_name, 'wb') as f:
                 f.write(xml_text)
+            print(f"Processed {title}: Saved as {file_name}")
+            time.sleep(0.2)
