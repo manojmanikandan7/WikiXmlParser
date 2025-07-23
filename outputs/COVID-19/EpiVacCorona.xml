@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-05-06T15:09:22Z" sourceCorpus="COVID-19" filename="66561327" title="EpiVacCorona" url="https://en.wikipedia.org/wiki/EpiVacCorona">
+	<text>
+		<segment id="id66561327">EpiVacCorona () is a peptide-based vaccine against COVID-19 developed by the Russian VECTOR Center of Virology. The lack of protective effectiveness of EpiVacCorona, which is still in use in Russia, has been reported in scientific literature and in the media. The vaccine consists of three chemically synthesized peptides (short fragments of a viral spike protein) that are conjugated to a large carrier protein. This protein is a fusion product of a viral nucleocapsid protein and a bacterial MBP protein. A phase III clinical trial to show whether or not the vaccine can protect people against COVID-19 was launched in November 2020 with more than three thousand participants. The conclusions and results of the trial have not been made public.
+
+Some experts in the field have expressed concerns about the selection of peptides for use as vaccine antigens. In addition, there are also serious concerns about the vaccine immunogenicity data, which have fueled independent civic research efforts and criticism by some experts. Current Time TV reported that &quot;EpiVacCorona's reputation declined when vaccine trial participants sent an open letter to the Ministry of Health to flag 18 cases of COVID-19 infection among their group after vaccination with EpiVacCorona, and a lack of virus antibodies&quot;.
+
+ Pharmacology 
+thumb|Origin of EpiVacCorona antigenes
+According to the developers' publications, vaccine antigens are three peptides of the spike protein and a chimeric protein consisting of two parts (viral nucleocapsid protein and bacterial maltose-binding protein). In addition, the polyhistidine-tag - a short peptide that is introduced into a vaccine composition to purify a chimeric protein from a bacterial lysate - is also a vaccine antigen against which antibodies can form in those who have received the vaccine. A person vaccinated with EpiVacCorona can develop antibodies not only to the peptides of the spike protein, but also to other antigens present in the vaccine. According to Anna Popova, head of the Federal Service for Supervision of Consumer Rights Protection and Human Welfare, it takes 42 days for those vaccinated with EpiVacCorona to develop immunity.
+
+The vaccine includes three chemically synthesized short fragments of the viral spike protein - peptides, which, according to the developers of EpiVacCorona represent the protein regions containing B-cell epitopes that should be recognized by the human immune system.
+
+These peptides are represented by following amino acid sequences:
+
+1) CRLFRKSNLKPFERDISTEIYQAGS, 2) CKEIDRLNEVAKNLNESLIDLQE, 3) CKNLNESLIDLQELGKYEQYIK.
+
+In the vaccine all peptides are conjugated to a carrier protein, which is an expression product of the chimeric gene. This chimeric gene was created by fusion of two genes originating from different organisms, namely a gene encoding a viral nucleocapsid protein and a gene encoding a bacterial maltose-binding protein (MBP). The fusion chimeric gene expressed in Escherichia coli. The sequence of the chimeric protein is available from the patent.[https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUPAT&amp;DocNumber=2743595&amp;TypeFile=html] The genetic construct of the chimeric gene also includes a short genetic fragment encoding a polyhistidine-tag, which is used to purify the chimeric protein from E. coli lysate. After the purification, the protein is conjugated with three peptides in a way that only one variant of the peptide molecule is attached to each protein molecule. As a result, three types of conjugated molecules are created: chimeric protein with attached peptide number 1, the same protein with peptide number 2, and finally the same protein with peptide number 3. All three types of conjugated molecules are included in the vaccine.
+thumb|EpiVacCorona: antigens origin and composition
+
+ History 
+ Clinical trials 
+thumb|Immunogenic peptide screening in rabbits for EpiVacCorona design
+
+ Preclinical studies 
+The primary screening of peptides for the search for the most immunogenic ones was carried out in animals. The level of antibodies that was triggered by each tested peptide after administration to rabbits was measured. In the test, hemocyanin protein was used as a carrier protein for the studied peptides. Further, on six species of animals (mice, rats, rabbits, African green monkeys, rhesus monkeys, guinea pigs), the vaccine was shown to be harmless in terms of such parameters as general toxicity, allergic properties, and mutagenic activity. In four species of animals (hamsters, ferrets, African green monkeys, rhesus monkeys), specific activity was shown: immunogenicity and protective properties against SARS-CoV-2. The main results of preclinical studies are published in the &quot;Bulletin of the Russian Academy of Medical Sciences&quot;.
+
+ Clinical studies 
+The studies development timeline was reported in Russian media in January 2021. There are currently two clinical trials of EpiVacCorona registered in the ClinicalTrials.gov database.
+
+ Phase I-II 
+The trial &quot;Study of the Safety, Reactogenicity and Immunogenicity of &quot;EpiVacCorona&quot; Vaccine for the Prevention of COVID-19 (EpiVacCorona)&quot; was registered in clinical trial database with ClinicalTrials.gov identifier: NCT04780035. Another trial with the same title was registered  with ClinicalTrials.gov Identifier: NCT04527575. Results of the trial that included data on 86 participants were published in Russian Journal of Infection and Immunity, indicating preliminary evidence of safety and an immune response. The publication reports preliminary results of the first two phases of clinical trials of the vaccine in volunteers, of which 14 people aged 18-30 years participated in the first phase, and 86 volunteers aged 18-60 years in the second phase. It is claimed that antibodies were formed in 100% of the volunteers, and the vaccine is also claimed to be safe. These claims were challenged by independent studies.
+
+ Phase III 
+The third phase of a clinical trial, which should show whether the vaccine is able to protect people from COVID-19 or not, was launched in November 2020 with more than three thousand participants planned. It is expected to be completed in September 2021. In the clinical trials database the phase III trial entitled &quot;Study of the Tolerability, Safety, Immunogenicity and Preventive Efficacy of the EpiVacCorona Vaccine for the Prevention of COVID-19&quot; was registered only in March 2021 with ClinicalTrials.gov Identifier: NCT04780035. Phase 3-4 trial was registered in Russia at 18.11.2020 with 4991 participants planned. Clinical trial results have not been made public,  fueling controversy.
+
+ Study of vaccine effectiveness outside clinical trials 
+Retrospective cohort study of the effectiveness of two Russian vaccines against the SARS-CoV-2 Delta variant in Moscow (June–July 2021) proved that EpiVacCorona, unlike Sputnik V, is an ineffective vaccine and therefore cannot protect against COVID-19.
+
+ Authorization 
+infobox|image=Graph:Map|scale=50|defaultValue=gainsboro
+|TM=blueviolet|TR=turquoise
+|RU=dodgerblue
+|BY=dodgerblue
+|NZ=turquoise
+|KH=dodgerblue
+|VE=dodgerblue
+|MY=turquoise
+
+|caption=
+
+
+
+
+
+
+EpiVacCorona has received emergency authorization in a form of government registration in October 2020.
+
+In Russia phase III clinical study is called post-registration study. Therefore, government registration of the vaccine means permission to perform phase III clinical research and public vaccination outside of clinical trials as well. Since December 2020, the vaccine has been released for public vaccination in Russia.
+
+As of March 2021, Turkmenistan is the only foreign state to register EpiVacCorona with full authorization.
+
+Russia's Chief Health Officer Anna Popova said: &quot;In December 2020 the EpiVacCorona documents were presented to the World Health Organization, and we are expecting a decision from WHO.&quot; However, Deutsche Welle reports &quot;As of March 1, the WHO had yet to receive an Expression of Interest (EOI) from EpiVacCorona's developers, &quot;VECTOR,&quot; to enable WHO experts to evaluate their vaccine.&quot;
+
+ Society and culture 
+ Economics 
+The Deputy Director-General of the World Health Organization (WHO) Dr. Soumya Swaminathan during news conference in Geneva that took place in October 2020, told: &quot;We will only be able to have a position on a vaccine when we see results of the phase III clinical trials.&quot;  The interim results of the Phase III study are expected to be announced in late 2021 or early 2022.[https://www.interfax.ru/russia/780327] Therefore, the protective efficacy of the vaccine is currently unknown (July 2021). According to the center's director Rinat Maksyutov, many government and non-government organizations want to test or be involved in the production of the vaccine. Venezuela has reached a deal to purchase doses of  the vaccine, as well as manufacture it locally. Venezuela announces an agreement to acquire 10 million doses of the Russian EpiVacCorona vaccine. Vice President Delcy Rodriguez provided this information on June 4, 2021.  Turkmenistan expects to receive EpiVacCorona, as the vaccine has already been approved for use in that country. Among the countries that approved the vaccine also listed Cambodia. List of COVID-19 vaccine authorizations EpiVacCorona include Turkmenistan that fully approved the vaccine, Belarus, Cambodia, Russia, Venezuela had emergency authorization, and Malaysia, New Zealand as well as Turkey are allowing tourists vaccinated with EpiVacCorona to enter their countries.
+
+ Intellectual property 
+The following patents of the Russian Federation for invention have been published, which protect the EpiVacCorona vaccine:
+
+&quot;[https://new.fips.ru/registers-doc-view/fips_servlet?DB=RUPAT&amp;DocNumber=2738081&amp;TypeFile=html Peptide immunogens and vaccine composition against coronavirus infection COVID-19 using peptide immunogens&quot; (No. 2738081)]. There are 7 peptides in patented vaccine compositions.
+
+&quot;[https://new.fips.ru/registers-doc-view/fips_servlet?DB=RUPAT&amp;DocNumber=2743593&amp;TypeFile=html Peptide immunogens and vaccine composition against coronavirus infection COVID-19 using peptide immunogens&quot; (No. 2743593)]. The patented vaccine composition contains 2 peptides.
+
+&quot;[https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUPAT&amp;DocNumber=2743594&amp;TypeFile=html Peptide immunogens used as a component of a vaccine composition against coronavirus infection COVID-19&quot; (No. 2743594)]. The patented vaccine composition contains 3 peptides.
+
+&quot;[https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUPAT&amp;DocNumber=2743595&amp;TypeFile=html Vaccine composition against coronavirus infection COVID-19&quot; (No. 2743595)]. The patented vaccine composition contains 3 peptides.
+
+In all of these patents, the carrier protein is referred to as a chimeric fusion protein with an amino acid sequence derived from two parts, a bacterial maltose binding protein and a viral nucleocapsid protein.
+
+ Controversies 
+
+ Lack of effectiveness 
+Statistical analysis of COVID-19 cases collected in Russia showed that those immunized with EpiVacCorona are not protected against death or severe form COVID-19.
+
+ Independent study of clinical trial participants 
+
+At the start of the Phase III, trial participants and those vaccinated outside the trial began to form a community through the Telegram messenger network. On January 18, 2021, the members of the community turned to the Ministry of Health of the Russian Federation with an open letter, in which they stated that the production of antibodies after vaccination among them is much lower than declared by vaccine developers.  Study participants claimed that antibodies were not found in more than 50% of those who documented their participation in the study, although only 25% of the participants should have had a placebo according to the study design. The trial participants also claimed that negative results were obtained using the a special ELISA test developed and recommended by VECTOR for EpiVacCorona detection.
+
+More questions about the quality and protectiveness of antibodies induced by EpiVacCorona arose along with the first results of a special antibody VECTOR's test, when, with a positive special test, negative results of all other commercially available tests were obtained: LIAISON SARS-CoV-2 S1 / S2 IgG - DiaSorin, IgM / IgG - Mindray, SARS-CoV-2 IgG - Abbott Architect, Anti-SARS-CoV-2 ELISA (IgG) - Euroimmun, Access SARS-CoV-2 IgG (RBD) - Beckman Coulter, &quot;SARS-CoV-2-IgG-ELISA -BEST &quot;-&quot; Vector-Best &quot;,&quot; Anti-RBD IgG &quot;- Gamaleya Research Center.  Clinical trial participants conducted their own antibody mini-study that was performed in independent Russian laboratory. The study participants asked Dr. Alexander Chepurnov, the former head of the infectious diseases department at VECTOR, who now works at another medical institute, to check neutralizing antibodies presence in their serum samples. They also sent to Dr. Chepurnov control serum samples from former COVID-19 patients or people vaccinated with another Russian vaccine, Sputnik V, which is known to trigger the production of neutralizing antibodies. All serum samples were blinded before antibody tests. On 23 March 2021, the participants reported the results of their mini-study in an open letter to the Ministry of Health of the Russian Federation. According to the letter, even with the help of the VECTOR antibody detection system, antibodies were detected only in 70-75% of those vaccinated with EpiVacCorona. However, the level of antibodies was very low. Moreover, according to the letter, virus-neutralizing antibodies were not detected in the independent research Dr. Alexander Chepurnov laboratory at all.  The trial participants asked Ministry of Health in their open letter to perform independent study for the verification of their findings. In addition, the letter reports 18 cases of COVID-19 cases as of March 22, 2021 among those who received the vaccine and became ill (sometimes severe) three weeks or later after the second dose of EpiVacCorona. April 20, 2021 the study participants got a reply, with refusal of performing any additional verification antibody tests or investigation of severe COVID-19 cases among vaccinated individuals. The reply include the following text: &quot;Considering that the listed immunobiological preparations (vaccines) for the prevention of COVID-19 are registered in the prescribed manner, their effectiveness and safety have been confirmed.&quot;
+
+ Vaccine criticism by independent experts 
+Some independent experts criticized the vaccine design and clinical data presentation in the publication. The experts are saying that peptide selection is &quot;crucial&quot; for the innovative peptide approach, which VECTOR uses for EpiVacCorona design. However, some researchers are not convinced that the viral spike protein peptides selected for the vaccine are actually &quot;visible&quot; by human immune system.  They stated that these peptides do not overlap with peptides that have been shown in several publications to contain human linear B cell epitopes in spike protein of SARS-CoV-2.  Moreover, the study was criticized for the lack of positive control of convalescent plasma samples in reports related to neutralizing antibody titers in vaccinated individuals. The same study was also criticized for presence of detectable antibodies in negative controls samples that were not discussed by authors. Conventional commercially available antibody detection systems cannot reveal post vaccination antibodies after EpiVacCorona.  Therefore, vaccine developers have designed their own detection test system, and they were criticized for not revealing antigens in this system. Thus, some researchers have suggested that this test system may detect antibodies to certain vaccine antigens not associated with the SARS-CoV-2 virus, such as maltose binding protein (MBP), which is part of the vaccine carrier chimeric protein. In addition, vaccine developers have been criticized for aggressively advertising their vaccine efficacy prior to the completion of phase III clinical trial.  The most substantial criticism came from Dr. Konstantin Chumakov, who currently serves as the associate director for Research at the FDA Office of Vaccines Research and Review. Dr. Chumakov said: &quot;I would not be in a hurry to call this peptide formulation a vaccine yet, because its effectiveness has not yet been proven...For the introduction of such a vaccine, the level of evidence must be much higher, and therefore the developers of EpiVacCorona, before launching their vaccine on the market, had to conduct clinical trials and prove that their vaccine actually protects against the disease. However, such tests were not carried out, which is absolutely unacceptable.&quot;
+
+ Conflict of interest 
+The vaccine design was protected by several already issued patents (see section above). In each patent one of its co-authors is a namesake of  Anna Popova, head of the Federal Service for Supervision of Consumer Rights Protection and Human Welfare. This patent authorship represents an issue as far as Popova is a head of the Russian agency that is charged with overseeing vaccine safety and efficacy. As a co-author of these patents, she might have an interest in promoting the vaccine despite its shortcomings.
+
+ See also 
+* List of Russian drugs
+
+ References 
+
+
+ External links 
+* [https://www.youtube.com/watch?v=5K4oShbUMPU Margarita Romanenko's Lecture about Russian Covid-vaccines]
+* [https://meduza.io/feature/2021/03/22/zhiteley-rossii-nachali-privivat-epivakkoronoy-meduza-zadala-glavnye-voprosy-ob-etoy-vaktsine-ee-razrabotchiku-i-proizvoditelyu Meduza - Interview with EpiVacCorona developers, 23 March 2021]
+* [https://www.iimmun.ru/iimm/article/view/1699/1188 Infection and Immunity - Study of the safety, reactogenicity and immunogenecity of the &quot;EpiVacCorona&quot; vaccine (PHASE I–II)]
+
+
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

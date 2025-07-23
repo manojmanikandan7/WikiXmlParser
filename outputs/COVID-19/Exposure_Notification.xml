@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2024-09-12T20:06:27Z" sourceCorpus="COVID-19" filename="63676221" title="Exposure_Notification" url="https://en.wikipedia.org/wiki/Exposure_Notification">
+	<text>
+		<segment id="id63676221">Infobox protocol
+|name=Exposure Notification
+|caption=
+|standard=
+|developer=
+|introdate=
+|industry=Digital contact tracing
+|hardware=Android &amp; iOS smartphones
+|range=~
+|website=|image=Exposure_Notifications.png
+
+The (Google/Apple) Exposure Notification System (GAEN) and Exposure Notifications or the Exposure Notifications System (ENS) by Google. It was originally announced as the Privacy-Preserving Contact Tracing Project. is a framework and protocol specification developed by Apple Inc. and Google to facilitate digital contact tracing during the COVID-19 pandemic. When used by health authorities, it augments more traditional contact tracing techniques by automatically logging close approaches among notification system users using Android or iOS smartphones. Exposure Notification is a decentralized reporting protocol built on a combination of Bluetooth Low Energy technology and privacy-preserving cryptography. It is an opt-in feature within COVID-19 apps developed and published by authorized health authorities. Unveiled on April 10, 2020, it was made available on iOS on May 20, 2020 as part of the iOS 13.5 update and on December 14, 2020 as part of the iOS 12.5 update for older iPhones. On Android, it was added to devices via a Google Play Services update, supporting all versions since Android Marshmallow.
+
+The Apple/Google protocol is similar to the Decentralized Privacy-Preserving Proximity Tracing (DP-3T) protocol created by the European DP-3T consortium and the Temporary Contact Number (TCN) protocol by Covid Watch, but is implemented at the operating system level, which allows for more efficient operation as a background process. Since May 2020, a variant of the DP-3T protocol is supported by the Exposure Notification Interface. Other protocols are constrained in operation because they are not privileged over normal apps. This leads to issues, particularly on iOS devices where digital contact tracing apps running in the background experience significantly degraded performance. The joint approach is also designed to maintain interoperability between Android and iOS devices, which constitute nearly all of the market.
+
+The ACLU stated the approach &quot;appears to mitigate the worst privacy and centralization risks, but there is still room for improvement&quot;. In late April, Google and Apple shifted the emphasis of the naming of the system, describing it as an &quot;exposure notification service&quot;, rather than &quot;contact tracing&quot; system.
+
+ Technical specification 
+Digital contact tracing protocols typically have two major responsibilities: encounter logging and infection reporting. Exposure Notification only involves encounter logging which is a decentralized architecture. The majority of infection reporting is centralized in individual app implementations.
+
+To handle encounter logging, the system uses Bluetooth Low Energy to send tracking messages to nearby devices running the protocol to discover encounters with other people. The tracking messages contain unique identifiers that are encrypted with a secret daily key held by the sending device. These identifiers change every 15–20 minutes as well as Bluetooth MAC address in order to prevent tracking of clients by malicious third parties through observing static identifiers over time.
+
+The sender's daily encryption keys are generated using a random number generator. Devices record received messages, retaining them locally for 14 days. If a user tests positive for infection, the last 14 days of their daily encryption keys can be uploaded to a central server, where it is then broadcast to all devices on the network. The method through which daily encryption keys are transmitted to the central server and broadcast is defined by individual app developers. The Google-developed reference implementation calls for a health official to request a one-time verification code (VC) from a verification server, which the user enters into the encounter logging app. This causes the app to obtain a cryptographically signed certificate, which is used to authorize the submission of keys to the central reporting server.
+
+The received keys are then provided to the protocol, where each client individually searches for matches in their local encounter history. If a match meeting certain risk parameters is found, the app notifies the user of potential exposure to the infection. Google and Apple intend to use the received signal strength (RSSI) of the beacon messages as a source to infer proximity. RSSI and other signal metadata will also be encrypted to resist deanonymization attacks.
+
+ Version 1.0 
+To generate encounter identifiers, first a persistent 32-byte private Tracing Key (tk) is generated by a client. From this a 16 byte Daily Tracing Key is derived using the algorithm dtk_i = HKDF(tk, NULL, \text{'CT-DTK'}||D_i, 16), where HKDF(\text{Key, Salt, Data, OutputLength}) is a HKDF function using SHA-256, and D_i is the day number for the 24-hour window the broadcast is in starting from Unix Epoch Time. These generated keys are later sent to the central reporting server should a user become infected.
+
+From the daily tracing key a 16-byte temporary Rolling Proximity Identifier is generated every 10 minutes with the algorithm RPI_{i,j} = \text{Truncate}(HMAC(dtk_i, \text{'CT-RPI'}||TIN_j),16), where HMAC(\text{Key, Data}) is a HMAC function using SHA-256, and TIN_j is the time interval number, representing a unique index for every 10 minute period in a 24-hour day. The Truncate function returns the first 16 bytes of the HMAC value. When two clients come within proximity of each other they exchange and locally store the current RPI_{i,j} as the encounter identifier.
+
+Once a registered health authority has confirmed the infection of a user, the user's Daily Tracing Key for the past 14 days is uploaded to the central reporting server. Clients then download this report and individually recalculate every Rolling Proximity Identifier used in the report period, matching it against the user's local encounter log. If a matching entry is found, then contact has been established and the app presents a notification to the user warning them of potential infection.
+
+ Version 1.1 
+Unlike version 1.0 of the protocol, version 1.1 does not use a persistent tracing key, rather every day a new random 16-byte Temporary Exposure Key (tek_i) is generated.  This is analogous to the daily tracing key from version 1.0. Here i denotes the  time is discretized in 10 minute intervals starting from Unix Epoch Time. From this two 128-bit keys are calculated, the Rolling Proximity Identifier Key (RPIK_i) and the Associated Encrypted Metadata Key (AEMK_i).   RPIK_i is calculated with the algorithm  RPIK_i = HKDF(tek_i, NULL, \text{'EN-RPIK'},16), and  AEMK_i using the algorithmAEMK_i = HKDF(tek_i, NULL, \text{'EN-AEMK'},16).
+
+From these values a temporary Rolling Proximity Identifier (RPI_{i,j}) is generated every time the BLE MAC address changes, roughly every 15–20 minutes. The following algorithm is used: RPI_{i,j} = AES128(RPIK_i, \text{'EN-RPI'} || \mathtt{0x000000000000} || ENIN_j), where AES128(\text{Key, Data}) is an AES cryptography function with a 128-bit key, the data is one 16-byte block,  j denotes the Unix Epoch Time at the moment the roll occurs, and  ENIN_j is the corresponding 10-minute interval number. Next, additional Associated Encrypted Metadata is encrypted. What the metadata represents is not specified, likely to allow the later expansion of the protocol. The following algorithm is used: \text{Associated Encrypted Metadata}_{i,j} = AES128\_CTR(AEMK_i, RPI_{i,j}, \text{Metadata}), where AES128\_CTR(\text{Key, IV, Data}) denotes AES encryption with a 128-bit key in CTR mode. The Rolling Proximity Identifier and the Associated Encrypted Metadata are then combined and broadcast using BLE. Clients exchange and log these payloads.
+
+Once a registered health authority has confirmed the infection of a user, the user's Temporary Exposure Keys tek_i and their respective interval numbers i for the past 14 days are uploaded to the central reporting server. Clients then download this report and individually recalculate every Rolling Proximity Identifier starting from interval number  i, matching it against the user's local encounter log. If a matching entry is found, then contact has been established and the app presents a notification to the user warning them of potential infection.
+
+ Version 1.2 
+Version 1.2 of the protocol is identical to version 1.1, only introducing minor terminology changes.
+
+ Privacy 
+Preservation of privacy was referred to as a major component of the protocol; it is designed so that no personally identifiable information can be obtained about the user or their device. Apps implementing Exposure Notification are only allowed to collect personal information from users on a voluntary basis. Consent must be obtained by the user to enable the system or publicize a positive result through the system, and apps using the system are prohibited from collecting location data. As an additional measure, the companies stated that it would sunset the protocol by-region once they determine that it is &quot;no longer needed&quot;.
+
+The Electronic Frontier Foundation showed concerns the protocol was vulnerable to &quot;linkage attacks&quot;, where sufficiently capable third parties who had recorded beacon traffic may retroactively be able to turn this information into tracking information, for only areas in which they had already recorded beacons, for a limited time segment and for only users who have disclosed their COVID-19 status, once a device's set of daily encryption keys have been revealed.
+
+On April 16, the European Union started the process of assessing the proposed system for compatibility with privacy and data protection laws, including the General Data Protection Regulation (GDPR). On April 17, 2020, the UK's Information Commissioner's Office, a supervisory authority for data protection, published an opinion analyzing both Exposure Notification and the Decentralized Privacy-Preserving Proximity Tracing protocol, stating that the systems are &quot;aligned with the principles of data protection by design and by default&quot; (as mandated by the GDPR).
+
+ Deployment 
+Exposure Notification is compatible with Android devices supporting Bluetooth Low Energy and running Android 6.0 &quot;Marshmallow&quot; and newer with Google Mobile Services. It is serviced via updates to Google Play Services, ensuring compatibility with the majority of Android devices released outside of Mainland China, and not requiring it to be integrated into Android firmware updates (which would hinder deployment by relying on individual OEMs). It is not compatible with devices that do not have GMS, such as Huawei devices released since May 2019.  On iOS, EN is serviced via operating system updates. It was first introduced as part of iOS 13.5 on May 20, 2020. In December 2020, Apple released iOS 12.5, which backported EN support to iPhone models that cannot be upgraded to iOS 13, including iPhone 6 and older.
+
+Exposure Notification apps may only be released by public health authorities. To discourage fragmentation, each country will typically be restricted to one app, although Apple and Google stated that they would accommodate regionalized approaches if a country elects to do so. Apple and Google released reference implementations for apps utilizing the system, which can be used as a base.
+
+On September 1, 2020, the consortium announced &quot;Exposure Notifications Express&quot; (EN Express), a system designed to ease adoption of the protocol by health authorities by removing the need to develop an app themselves. Under this system, a health authority provides parameters specific to their implementation (such as thresholds, branding, messaging, and key servers), which is then processed to generate the required functionality. On Android, this data is used to generate an app, and a configuration profile that can also be deployed to users via Google Play Services without a dedicated app. On iOS, the functionality is integrated directly at the system level on iOS 13.7 and newer without a dedicated app.
+
+The last information update on the “Exposure Notification  Systems” partnership was a year end review issued by Google in December 2020: &quot;we plan to keep you updated here with new information again next year&quot;. Nothing has however been issued on the one year anniversary of the launch of the “Exposure Notification Interface” API in spite of important changes on the pandemic front such as vaccination, variants, digital health passports, app adoption challenges as well as growing interest for tracking QR codes (and notifying from that basis) on a mostly airborne transmitted virus. The Frequently Asked Questions (FAQ) published document has not been revised since May 2020. Basic support remains provided through the apps store released by authorized public health agencies, including enforcement of the personal privacy protection framework as demonstrated on the UK NHS challenge in support of their contact tracers.
+
+In June 2021, Google faced allegations that it had automatically downloaded Massachusetts' &quot;MassNotify&quot; app to Android devices without user consent. Google clarified that it had not actually downloaded the app to user devices, and that Google Play Services was being used to deploy an EN Express configuration profile that would allow it to be enabled via the Google Settings app without needing to download a separate app.
+
+ Adoption 
+
+As of May 21, at least 22 countries had received access to the protocol. Switzerland and Austria were among the first to back the protocol. On April 26, after initially backing PEPP-PT, Germany announced it would back Exposure Notification, followed shortly after by Ireland  and Italy. Despite already adopting the centralised BlueTrace protocol, Australia's Department of Health and Digital Transformation Agency were investigating whether the protocol could be implemented to overcome limitations of its COVIDSafe app. On May 25, Switzerland became the first country to launch an app leveraging the protocol, SwissCovid, beginning with a small pilot group.
+
+In England, the National Health Service (NHS) trialed both an in-house app on a centralized platform developed by its NHSX division, and a second app using Exposure Notification. On June 18, the NHS announced that it would focus on using Exposure Notification to complement manual contact tracing, citing tests on the Isle of Wight showing that it had better cross-device compatibility (and would also be compatible with other European approaches), but that its distance calculations were not as reliable as the centralized version of the app, an issue which was later rectified. Later, it was stated that the app would be supplemented by QR codes at venues. A study of the impact of Exposure Notification in England and Wales estimated that it averted 8,700 (95% confidence interval 4,700–13,500) deaths out of the 32,500 recorded from its introduction on 24 September 2020 to 31 December 2020.
+
+Canada launched its COVID Alert app, co-developed in partnership with BlackBerry Limited and Shopify, on July 31 in Ontario. As of February 2022, only around 57,000 positive cases had been reported via the app, leading some critics to dismiss it as a failure.
+
+In May 2020, Covid Watch launched the first calibration and beta testing pilot of the GAEN APIs in the United States at the University of Arizona. In Aug 2020, the app launched publicly for a phased roll-out in the state of Arizona.
+
+The U.S. Association of Public Health Laboratories (APHL) stated in July 2020 that it was working with Apple, Google, and Microsoft on a national reporting server for use with the protocol, which it stated would ease adoption and interoperability between states.
+
+In August 2020, Google stated that at least 20 U.S. states had expressed interest in using the protocol. In Alabama, the Alabama Department of Public Health, University of Alabama at Birmingham, and the University of Alabama System deployed the &quot;GuideSafe&quot; app for university students returning to campus, which includes Exposure Notification features. On August 5, the Virginia Department of Health released its &quot;COVIDWise&quot; app — making it the first U.S. state to release an Exposure Notification-based app for the general public. North Dakota and Wyoming released an EN app known as &quot;Care19 Alert&quot;, developed by ProudCrowd and using the APHL server (the app is a spin-off from an existing location logging application it had developed, based on one it had developed primarily for use by students travelling to attend college football away games).
+
+Maryland, Nevada, Virginia, and Washington, D.C. have announced plans to use EN Express. In September, Delaware, New Jersey, New York, and Pennsylvania all adopted &quot;COVID Alert&quot; apps developed by NearForm, which are based on its COVID Tracker Ireland app. Later that month, the Norwegian Institute of Public Health announced that it would lead development of an Exposure Notification-based app for the country, which replaces a centralized app that had ceased operations in June 2020 after the Norwegian Data Protection Authority ruled that it violated privacy laws.
+
+In Nov 2020, Bermuda launched the Wehealth Bermuda app developed by Wehealth, a Public Benefit Corporation, which was based on the Covid Watch app released in Arizona.
+
+
+ Alternatives 
+Some countries, such as France, have pursued centralized approaches to digital contact tracing, in order to maintain records of personal information that can be used to assist in investigating cases.  The French government asked Apple in April 2020 to allow apps to perform Bluetooth operations in the background, which would allow the government to create its own system independent of Exposure Notification.
+
+On August 9, the Canadian province of Alberta announced plans to migrate to the EN-based COVID Alert from its BlueTrace-based ABTraceTogether app. This did not occur, and on November 6 Premier of Alberta Jason Kenney announced that the province would not do so, arguing that ABTraceTogether was &quot;from our view, simply a better and more effective public health tool&quot;, and that they would be required to phase out ABTraceTogether if they did switch. British Columbia has also declined to adopt COVID Alert, with provincial health officer Bonnie Henry stating that COVID Alert was too &quot;non-specific&quot;.
+
+Australia's officials have stated its COVIDSafe, which is based on Singapore's BlueTrace, will not be shifting from manual intervention.
+
+In the United States, states such as California and Massachusetts declined to use the technology, opting for manual contact tracing. California later reversed course and adopted the system in December 2020.
+
+Chinese vendor Huawei (which cannot include Google software on its current Android products due to U.S. sanctions) added a OS-level DP-3T API known as &quot;Contact Shield&quot; to its Huawei Mobile Services stack in June 2020, which the company states is intended to be interoperable with Exposure Notification.
+
+ Notes 
+
+
+ References 
+
+
+ External links 
+* [https://www.google.com/covid19/exposurenotifications/ Official website] (Google)
+* [https://developer.apple.com/exposure-notification/ Official website] (Apple)
+* [https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/ Announcement] (Apple)
+* [https://blog.google/documents/57/Overview_of_COVID-19_Contact_Tracing_Using_BLE.pdf Overview presentation] (Google)
+* [https://www.apple.com/covid19/contacttracing/ Technical specifications] (Apple)
+* [https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ExposureNotification-FAQv1.0.pdf Exposure Notification: Frequently Asked Questions]  (Apple/Google)
+
+
+
+
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

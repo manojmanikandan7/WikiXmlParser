@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-05-29T22:16:00Z" sourceCorpus="COVID-19" filename="21861922" title="Subunit_vaccine" url="https://en.wikipedia.org/wiki/Subunit_vaccine">
+	<text>
+		<segment id="id21861922">A subunit vaccine is a vaccine that contains purified parts of the pathogen that are antigenic, or necessary to elicit a protective immune response. Subunit vaccine can be made from dissembled viral particles in cell culture or recombinant DNA expression, in which case it is a recombinant subunit vaccine.
+
+A &quot;subunit&quot; vaccine doesn't contain the whole pathogen, unlike live attenuated or inactivated vaccine, but contains only the antigenic parts such as proteins, polysaccharides or peptides. Because the vaccine doesn't contain &quot;live&quot; components of the pathogen, there is no risk of introducing the disease, and is safer and more stable than vaccines containing whole pathogens.
+Other advantages include being well-established technology and being suitable for immunocompromised individuals. Disadvantages include being relatively complex to manufacture compared to some vaccines, possibly requiring adjuvants and booster shots, and requiring time to examine which antigenic combinations may work best.
+
+The first recombinant subunit vaccine was produced in the mid-1980s to protect people from Hepatitis B. Other recombinant subunit vaccines licensed include Engerix-B (hepatitis B), Gardasil 9 (Human Papillomavirus), Flublok (influenza), Shingrix (Herpes zoster) and Nuvaxovid (Coronavirus disease 2019).
+
+After injection, antigens trigger the production of antigen-specific antibodies, which are responsible for recognising and neutralising foreign substances. Basic components of recombinant subunit vaccines include recombinant subunits, adjuvants and carriers. Additionally, recombinant subunit vaccines are popular candidates for the development of vaccines against infectious diseases (e.g. tuberculosis, dengue).
+
+Recombinant subunit vaccines are considered to be safe for injection. The chances of adverse effects vary depending on the specific type of vaccine being administered. Minor side effects include injection site pain, fever, and fatigue, and serious adverse effects consist of anaphylaxis and potentially fatal allergic reaction. The contraindications are also vaccine-specific; they are generally not recommended for people with the previous history of anaphylaxis to any component of the vaccines. Advice from medical professionals should be sought before receiving any vaccination.
+
+ Discovery 
+The first certified subunit vaccine by clinical trials on humans is the hepatitis B vaccine, containing the surface antigens of the hepatitis B virus itself from infected patients and adjusted by newly developed technology aiming to enhance the vaccine safety and eliminate possible contamination through individuals plasma.
+
+ Mechanism 
+Subunit vaccines contain fragments of the pathogen, such as protein or polysaccharide, whose combinations are carefully selected to induce a strong and effective immune response. Because the immune system interacts with the pathogen in a limited way, the risk of side effects is minimal.
+An effective vaccine would elicit the immune response to the antigens and form immunological memory that allows quick recognition of the pathogens and quick response to future infections.
+
+A drawback is that the specific antigens used in a subunit vaccine may lack pathogen-associated molecular patterns which are common to a class of pathogen. These molecular structures may be used by immune cells for danger recognition, so without them, the immune response may be weaker.  Another drawback is that the antigens do not infect cells, so the immune response to the subunit vaccines may only be antibody-mediated, not cell-mediated, and as a result, is weaker than those elicited by other types of vaccines.
+To increase immune response, adjuvants may be used with the subunit vaccines, or booster doses may be required.
+
+ Types 
+
+
+ Protein subunit 
+
+
+A protein subunit is a polypeptide chain or protein molecule that assembles (or &quot;coassembles&quot;) with other protein molecules to form a protein complex. Large assemblies of proteins such as viruses often use a small number of types of protein subunits as building blocks.  A key step in creating a recombinant protein vaccine is the identification and isolation of a protein subunit from the pathogen which is likely to trigger a strong and effective immune response, without including the parts of the virus or bacterium that enable the pathogen to reproduce.  Parts of the protein shell or capsid of a virus are often suitable.  The goal is for the protein subunit to prime the immune system response by mimicking the appearance but not the action of the pathogen. Another protein-based approach involves self‐assembly of multiple protein subunits into a virus-like particle (VLP) or nanoparticle. The purpose of increasing the vaccine's surface similarity to a whole virus particle (but not its ability to spread) is to trigger a stronger immune response.
+
+Protein subunit vaccines are generally made through protein production, manipulating the gene expression of an organism so that it expresses large amounts of a recombinant gene. A variety of approaches can be used for development depending on the vaccine involved. Yeast, baculovirus, or mammalian cell cultures can be used to produce large amounts of proteins in vitro.
+
+Protein-based vaccines are being used for hepatitis B and for human papillomavirus (HPV).  The approach is being used to try to develop vaccines for difficult-to-vaccinate-against viruses such as ebolavirus and HIV. Protein-based vaccines for COVID-19 tend to target either its spike protein or its receptor binding domain. As of 2021, the most researched vaccine platform for COVID-19 worldwide was reported to be recombinant protein subunit vaccines.
+
+ Polysaccharide subunit 
+
+
+Vi capsular polysaccharide vaccine (ViCPS) against typhoid caused by the Typhi serotype of Salmonella enterica. Instead of being a protein, the Vi antigen is a bacterial capsule polysacchide, made up of a long sugar chain linked to a lipid. Capsular vaccines like ViCPS tend to be weak at eliciting immune responses in children. Making a conjugate vaccine by linking the polysacchide with a toxoid increases the efficacy.
+
+ Conjugate vaccine 
+
+
+
+A conjugate vaccine is a type of vaccine which combines a weak antigen with a strong antigen as a carrier so that the immune system has a stronger response to the weak antigen.
+
+ Peptide subunit 
+A peptide-based subunit vaccine employs a peptide instead of a full protein. Peptide-based subunit vaccine mostly used due to many reasons,such as, it is easy and affordable for massive production. Adding to that, its greatest stability, purity and exposed composition. Three steps occur leading to creation of peptide subunit vaccine;
+
+# Epitope recognition
+# Epitope optimization
+# Peptide immunity improvement
+
+ Features 
+When compared with conventional attenuated vaccines and inactivated vaccines, recombinant subunit vaccines have the following special characteristics:
+* They contain clearly identified compositions which greatly reduces the possibility of presence of undesired materials within the vaccine.
+* Their pathogenicities are minimized as only fragments of the pathogen are present in the vaccine which cannot invade and multiply within the human body.
+* They have better safety profiles and are suitable to be administered to immunocompromised patients.
+* They are suitable for mass production due to the use of recombinant technologies.
+* They have high stability so they can withstand environmental changes and are more convenient to be used in community settings.
+
+However, there are also some drawbacks regarding recombinant subunit vaccines:
+* Addition of adjuvants is necessary during manufacturing to increase the efficacy of these vaccines.
+* Patients will have to receive booster doses to maintain long-term immunity. 
+* Selection of appropriate cell lines for the cultivation of subunits is time-consuming because microbial proteins can be incompatible to certain expression systems.
+
+ Pharmacology 
+thumb|313x313px|Simplified overview of the processes involved in the primary immune response
+Vaccination is a potent way to protect individuals against infectious diseases.
+
+Active immunity can be acquired artificially by vaccination as a result of the body's own defense mechanism being triggered by the exposure of a small, controlled amount of pathogenic substances to produce its own antibodies and memory cells without being infected by the real pathogen.
+
+The processes involved in primary immune response are as follows:
+
+# Pre-exposure to the antigens present in vaccines elicits a primary response. After injection, antigens will be ingested by antigen-presenting cells (APCs), such as dendritic cells and macrophages, via phagocytosis.
+# The APCs will travel to lymph nodes, where immature B cells and T cells are present.
+# Following antigen processes by APCs, antigens will bind to either MHC class I receptors or MHC class II receptors on the cell surface of the cells based on their compositional and structural features to form complexes.
+# Antigen presentation occurs, in which T cell receptors attach to the antigen-MHC complexes, initiating clonal expansion and differentiation, and hence the conversion of naive T cells to cytotoxic T cells (CD8+) or helper T cells (CD4+).
+# Cytotoxic CD8+ cells can directly destroy the infected cells containing the antigens that were presented to them by the APCs by releasing lytic molecules, while helper CD4+ cells are responsible for the secretion of cytokines that activates B cells and cytotoxic T cells.
+# B cells can undergo activation in the absence of T cells via the B cell receptor signalling pathway.
+# After dendritic cells capture the immunogen present in the vaccine, they can present the substances to naive B cells, causing the proliferation of plasma cells for antibody production. Isotype switching can take place during B cell development for the formation of different antibodies, including IgG, IgE and IgA.
+# Memory B cells and T cells are formed post-infection. The antigens are memorised by these cells so that subsequent exposure to the same type of antigens will stimulate a secondary response, in which a higher concentration of antibodies specific for the antigens are reproduced rapidly and efficiently in a short time for the elimination of the pathogen.
+
+Under specific circumstances, low doses of vaccines are given initially, followed by additional doses named booster doses. Boosters can effectively maintain the level of memory cells in the human body, hence extending a person's immunity.
+
+ Manufacturing 
+The manufacturing process of recombinant subunit vaccines are as follows:
+
+# Identification of immunogenic subunit
+# Subunit expression and synthesis
+# Extraction and purification
+# Addition of adjuvants or incorporation to vectors
+# Formulation and delivery.
+
+ Identification of immunogenic subunit 
+Candidate subunits will be selected primarily by their immunogenicity. To be immunogenic, they should be of foreign nature and of sufficient complexity for the reaction between different components of the immune system and the candidates to occur. Candidates are also selected based on size, nature of function (e.g. signalling) and cellular location (e.g. transmembrane).
+
+ Subunit expression and synthesis 
+Upon identifying the target subunit and its encoding gene, the gene will be isolated and transferred to a second, non-pathogenic organism, and cultured for mass production. The process is also known as heterologous expression.
+
+A suitable expression system is selected based on the requirement of post-translational modifications, costs, ease of product extraction and production efficiency. Commonly used systems for both licensed and developing recombinant subunit vaccines include bacteria, yeast, mammalian cells, insect cells.
+
+ Bacterial cells 
+thumb|Escherichia coli
+Bacterial cells are widely used for cloning processes, genetic modification and small-scale productions. Escherichia coli (E. Coli) is widely utilised due to its highly explored genetics, widely available genetic tools for gene expression, accurate profiling and its ability to grow in inexpensive media at high cell densities.
+
+E. Coli is mostly appropriate for structurally simple proteins owing to its inability to carry out post-translational modifications, lack of protein secretary system and the potential for producing inclusion bodies that require additional solubilisation. Regarding application, E.Coli is being utilised as the expression system of the dengue vaccine.
+
+ Yeast 
+Yeast matches bacterial cells' cost-effectiveness, efficiency and technical feasibility. Moreover, yeast secretes soluble proteins and has the ability to perform post-translational modifications similar to mammalian cells.
+thumb|Saccharomyces cerevisiae colonies on yeast extract glucose chloramphenicol agar (YGC).
+Notably, yeast incorporates more mannose molecules during N-glycosylation when compared with other eukaryotes, which may trigger cellular conformational stress responses. Such responses may result in failure in reaching native protein conformation, implying potential reduction of serum half-life and immunogenicity. Regarding application, both the hepatitis B virus surface antigen (HBsAg) and the virus-like particles (VLPs) of the major capsid protein L1 of human papillomavirus type 6, 11, 16, 18 are produced by Saccharomyces cerevisiae.
+
+ Mammalian cells 
+Mammalian cells are well known for their ability to perform therapeutically essential post-translational modifications and express properly folded, glycosylated and functionally active proteins. However, efficacy of mammalian cells may be limited by epigenetic gene silencing and aggresome formation (recombinant protein aggregation). For mammalian cells, synthesised proteins were reported to be secreted into chemically defined media, potentially simplifying protein extraction and purification.
+
+The most prominent example under this class is Chinese Hamster Ovary (CHO) cells utilised for the synthesis of recombinant varicella zoster virus surface glycoprotein (gE) antigen for SHINGRIX. CHO cells are recognised for rapid growth and their ability to offer process versatility. They can also be cultured in suspension-adapted culture in protein-free medium, hence reducing risk of prion-induced contamination.
+
+ Baculovirus (insect) cells 
+thumb|Schematic representation of baculovirus structure and infection cycle.
+The baculovirus-insect cell expression system has the ability to express a variety of recombinant proteins at high levels and provide significant eukaryotic protein processing capabilities, including phosphorylation, glycosylation, myristoylation and palmitoylation. Similar to mammalian cells, proteins expressed are mostly soluble, accurately folded, and biologically active. However, it has slower growth rate and requires higher cost of growth medium than bacteria and yeast, and confers toxicological risks. A notable feature is the existence of elements of control that allow for the expression of secreted and membrane-bound proteins in Baculovirus-insect cells.
+
+Licensed recombinant subunit vaccines that utilises baculovirus-insect cells include Cervarix (papillomavirus C-terminal truncated major capsid protein L1 types 16 and 18) and Flublok Quadrivalent (hemagglutinin (HA) proteins from four strains of influenza viruses).
+
+ Extraction and purification 
+Throughout history, extraction and purification methods have evolved from standard chromatographic methods to the utilisation of affinity tags. However, the final extraction and purification process undertaken highly depends on the chosen expression system. Please refer to subunit expression and synthesis for more insights.
+
+ Addition of adjuvants 
+Adjuvants are materials added to improve immunogenicity of recombinant subunit vaccines.
+
+Adjuvants increase the magnitude of adaptive response to the vaccine and guide the activation of the most effective forms of immunity for each specific pathogen (e.g. increasing generation of T cell memory). Addition of adjuvants may confer benefits including dose sparing and stabilisation of final vaccine formulation.
+
+Appropriate adjuvants are chosen based on safety, tolerance, compatibility of antigen and manufacturing considerations. Commonly used adjuvants for recombinant subunit vaccines are Alum adjuvants (e.g. aluminium hydroxide), Emulsions (e.g. MF59) and Liposomes combined with immunostimulatory molecules (e.g. AS01B).
+
+ Formulation and delivery 
+Delivery systems are primarily divided into polymer-based delivery systems (microspheres and liposomes) and live delivery systems (gram-positive bacteria, gram-negative bacteria and viruses)
+
+ Polymer-based delivery systems 
+Vaccine antigens are often encapsulated within microspheres or liposomes. Common microspheres made using Poly-lactic acid (PLA) and poly-lactic-co-glycolic acid (PLGA) allow for controlled antigen release by degrading in vivo while liposomes including multilamellar or unilamellar vesicles allow for prolonged release.
+
+Polymer-based delivery systems confer advantages such as increased resistance to degradation in GI tract, controlled antigen release, raised particle uptake by immune cells and enhanced ability to induce cytotoxic T cell responses. An example of licensed recombinant vaccine utilising liposomal delivery is Shringrix.
+
+ Live delivery systems 
+Live delivery systems, also known as vectors, are cells modified with ligands or antigens to improve the immunogenicity of recombinant subunits via altering antigen presentation, biodistribution and trafficking. Subunits may either be inserted within the carrier or genetically engineered to be expressed on the surface of the vectors for efficient presentation to the mucosal immune system.
+
+ Advantages and disadvantages 
+
+ Advantages 
+* Cannot revert to virulence meaning they cannot cause the disease they aim to protect against
+* Safe for immunocompromised patients
+* Can withstand changes in conditions (e.g. temperature, light exposure, humidity)
+
+ Disadvantages 
+* Reduced immunogenicity compared to attenuated vaccines
+** Require adjuvants to improve immunogenicity
+** Often require multiple doses (&quot;booster&quot; doses) to provide long-term immunity
+* Can be difficult to isolate the specific antigen(s) which will invoke the necessary immune response
+* It is not easy to supervise conjugation chemistry which leads to noncontinuous variation
+
+ Adverse effects and contraindications 
+Recombinant subunit vaccines are safe for administration. However, mild local reactions, including induration and swelling of the injection site, along with fever, fatigue and headache may be encountered after vaccination. Occurrence of severe hypersensitivity reactions and anaphylaxis is rare, but can possibly lead to deaths of individuals. Adverse effects can vary among populations depending on their physical health condition, age, gender and genetic predisposition.
+
+Recombinant subunit vaccines are contraindicated to people who have experienced allergic reactions and anaphylaxis to antigens or other components of the vaccines previously. Furthermore, precautions should be taken when administering vaccines to people who are in diseased state and during pregnancy, in which their injections should be delayed until their conditions become stable and after childbirth respectively.
+
+ Licensed vaccines 
+
+ Hepatitis B 
+thumb|Engerix B (Hepatitis B) vaccine
+ENGERIX-B (produced by GSK) and RECOMBIVAX HB (produced by merck) are two recombinant subunit vaccines licensed for the protection against hepatitis B. Both contain HBsAg harvested and purified from Saccharomyces cerevisiae and are formulated as a suspension of the antigen adjuvanted with alum.
+
+Antibody concentration ≥10mIU/mL against HBsAg are recognized as conferring protection against hepatitis B infection.
+
+It has been shown that primary 3-dose vaccination of healthy individuals is associated with ≥90% seroprotection rates for ENGERIX-B, despite decreasing with older age. Lower seroprotection rates are also associated with presence of underlying chronic diseases and immunodeficiency. Yet, GSK HepB still has a clinically acceptable safety profile in all studied populations.
+
+ Human Papillomavirus (HPV) 
+thumb|Gardasil vaccine and box
+Cervarix, GARDASIL and GARDASIL9 are three recombinant subunit vaccines licensed for the protection against HPV infection. They differ in the strains which they protect the patients from as Cervarix confers protection against type 16 and 18, Gardasil confers protection against type 6, 11, 16 and 18, and Gardasil 9 confers protection against type 6, 11, 16, 18, 31, 33, 45, 52, 58 respectively.  The vaccines contain purified VLP of the major capsid L1 protein produced by recombinant Saccharomyces cerevisiae.
+
+It has been shown in a 2014 systematic quantitative review that the bivalent HPV vaccine (Cervarix) is associated with pain (OR 3.29; 95% CI: 3.00–3.60), swelling (OR 3.14; 95% CI: 2.79–3.53) and redness (OR 2.41; 95% CI: 2.17–2.68) being the most frequently reported adverse effects. For Gardasil, the most frequently reported events were pain (OR 2.88; 95% CI: 2.42–3.43) and swelling (OR 2.65; 95% CI: 2.0–3.44).
+
+Gardasil was discontinued in the U.S. on May 8, 2017, after the introduction of Gardasil 9 and Cervarix was also voluntarily withdrawn in the U.S. on August 8, 2016.
+
+ Influenza 
+Flublok Quadrivalent is a licensed recombinant subunit vaccine for active immunisation against influenza. It contains HA proteins of four strains of influenza virus purified and extracted using the Baculovirus-insect expression system. The four viral strains are standardised annually according to United States Public Health Services (USPHS) requirements.
+
+Flublok Quadrivalent has a comparable safety profile to traditional trivalent and quadrivalent vaccine equivalents. Flublok is also associated with less local reactions (RR = 0.94, 95% CI 0.90–0.98, three RCTs, FEM, I2 = 0%, low‐ certainty evidence) and higher risk of chills (RR = 1.33, 95% CI 1.03–1.72, three RCTs, FEM, I2 = 14%, low‐certainty evidence).
+
+ Herpes Zoster 
+SHINGRIX is a licensed recombinant subunit vaccine for protection against Herpes Zoster, whose risk of developing increases with decline of varicella zoster virus (VZV) specific immunity. The vaccine contains VZV gE antigen component extracted from CHO cells, which is to be reconstituted with adjuvant suspension AS01B.
+
+Systematic reviews and meta-analyses have been conducted on the efficacy, effectiveness and safety of SHINGRIX in immunocompromised 18–49 year old patients and healthy adults aged 50 and over. These studies reported humoral and cell-mediated immunity rate ranged between 65.4 and 96.2% and 50.0–93.0% while efficacy in patients (18–49 yo) with haematological malignancies was estimated at 87.2% (95%CI, 44.3–98.6%) up to 13 months post-vaccination with an acceptable safety profile.
+
+ COVID-19 
+NUVAXOVID is a recombinant subunit vaccine licensed for the prevention of SARS-CoV-2 infection. Market authorization was issued on 20 December 2021. The vaccine contains the SARS-CoV-2 spike protein produced using the baculovirus expression system, which is eventually adjuvanted with the Matrix M adjuvant.
+
+ History 
+While the practice of immunisation can be traced back to the 12th century, in which ancient Chinese at that time employed the technique of variolation to confer immunity to smallpox infection, the modern era of vaccination has a short history of around 200 years. It began with the invention of a vaccine by Edward Jenner in 1798 to eradicate smallpox by injecting relatively weaker cowpox virus into the human body.
+
+The middle of the 20th century marked the golden age of vaccine science. Rapid technological advancements during this period of time enabled scientists to cultivate cell culture under controlled environments in laboratories, subsequently giving rise to the production of vaccines against poliomyelitis, measles and various communicable diseases. Conjugated vaccines were also developed using immunologic markers including capsular polysaccharide and proteins. Creation of products targeting common illnesses successfully lowered infection-related mortality and reduced public healthcare burden.
+
+Emergence of genetic engineering techniques revolutionised the creation of vaccines. By the end of the 20th century, researchers had the ability to create recombinant vaccines apart from traditional whole-cell vaccine, for instance Hepatitis B vaccine, which uses the viral antigens to initiate immune responses.
+
+As the manufacturing methods continue to evolve, vaccines with more complex constitutions will inevitably be generated in the future to extend their therapeutic applications to both infectious and non-infectious diseases, in order to safeguard the health of more people.
+
+ Future directions 
+Recombinant subunit vaccines are used in development for tuberculosis, dengue fever, soil-transmitted helminths, feline leukaemia and COVID-19.
+
+Subunit vaccines are not only considered effective for SARS-COV-2, but also as candidates for evolving immunizations against malaria, tetanus, salmonella enterica, and other diseases.
+
+ COVID-19 
+Research has been conducted to explore the possibility of developing a heterologous SARS-CoV receptor-binding domain (RBD) recombinant protein as a human vaccine against COVID-19. The theory is supported by evidence that convalescent serum from SARS-CoV patients have the ability to neutralise SARS-CoV-2 (corresponding virus for COVID-19) and that amino acid similarity between SARS-CoV and SARS-CoV-2 spike and RBD protein is high (82%).
+
+ References 
+
+
+
+
+ 
+
+</segment>
+	</text>
+</file>

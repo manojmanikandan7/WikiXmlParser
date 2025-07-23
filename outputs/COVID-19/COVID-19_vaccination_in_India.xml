@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-07-10T03:40:48Z" sourceCorpus="COVID-19" filename="66402396" title="COVID-19_vaccination_in_India" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_India">
+	<text>
+		<segment id="id66402396">Monthly graph of cumulative doses administered across the country
+
+Graph:Chart
+ | width=600
+ | height=250
+ | xAxisTitle=Month
+ | yAxisTitle=Vaccination
+ | legend=Legend
+ | type=area
+ | x=Jan-2021,Feb-2021,Mar-2021,Apr-2021,May-2021,Jun-2021,Jul-2021,Aug-2021,Sep-2021,Oct-2021,Nov-2021,Dec-2021,Jan-2022,Feb-2022,Mar-2022,Apr-2022,May-2022,Jun-2022,Jul-2022,Aug-2022,Sep-2022,Oct-2022,Nov-2022,Dec-2022,Jan-2023,Feb-2023,Mar-2023
+ | y1=3758843,11845075,55783201,125376952,167191085,271410023,359820313,497002083,648949043,733542729,789054196,845640601,943027714,965733580,988846975,1003162202,1011329919,1016506282,1021327183,1024516127,1026371105,1026856716,1027045950,1027200953,1027325954,1027373895,1027375680
+ | y2=0,2456191,9334695,26621155,43258810,57748116,101698166,147797142,237476249,329088622,448000946,603224821,709926447,790556254,831238996,858800580,888628256,914479703,932775394,942327191,948371253,950090439,950765492,951207411,951695297,951881903,951886607
+ | y1Title= Partially vaccinated (1st dose)
+ | y2Title= Fully vaccinated (2nd dose) 
+ | xAxisAngle = -45
+ | interpolate=monotone
+ | colors=#80add8e6, #402af820
+ | yGrid=true
+ | yType=number
+
+
+Graph of daily doses administered across the country
+
+Graph of daily doses administered. Last updated: March 4, 2023
+
+
+
+Graph:Chart
+ | width=8000 | height=260
+ | xAxisTitle=Date
+ | yAxisTitle=Vaccination
+ | legend=Legend
+ | type=stackedrect
+ | x=2021-01-15,2021-01-16,2021-01-17,2021-01-18,2021-01-19,2021-01-20,2021-01-21,2021-01-22,2021-01-23,2021-01-24,2021-01-25,2021-01-26,2021-01-27,2021-01-28,2021-01-29,2021-01-30,2021-01-31,2021-02-01,2021-02-02,2021-02-03,2021-02-04,2021-02-05,2021-02-06,2021-02-07,2021-02-08,2021-02-09,2021-02-10,2021-02-11,2021-02-12,2021-02-13,2021-02-15,2021-02-16,2021-02-17,2021-02-18,2021-02-19,2021-02-20,2021-02-21,2021-02-22,2021-02-23,2021-02-24,2021-02-25,2021-02-26,2021-02-27,2021-02-28,2021-03-01,2021-03-02,2021-03-03,2021-03-04,2021-03-05,2021-03-06,2021-03-07,2021-03-08,2021-03-09,2021-03-10,2021-03-11,2021-03-12,2021-03-13,2021-03-14,2021-03-15,2021-03-16,2021-03-17,2021-03-18,2021-03-19,2021-03-20,2021-03-21,2021-03-22,2021-03-23,2021-03-24,2021-03-25,2021-03-26,2021-03-27,2021-03-28,2021-03-29,2021-03-30,2021-03-31,2021-04-01,2021-04-02,2021-04-03,2021-04-04,2021-04-05,2021-04-06,2021-04-07,2021-04-08,2021-04-09,2021-04-10,2021-04-11,2021-04-12,2021-04-13,2021-04-14,2021-04-15,2021-04-16,2021-04-17,2021-04-18,2021-04-19,2021-04-21,2021-04-22,2021-04-25,2021-04-26,2021-04-27,2021-04-28,2021-04-29,2021-04-30,2021-05-01,2021-05-02,2021-05-03,2021-05-04,2021-05-05,2021-05-06,2021-05-07,2021-05-08,2021-05-09,2021-05-10,2021-05-11,2021-05-12,2021-05-13,2021-05-14,2021-05-15,2021-05-16,2021-05-17,2021-05-18,2021-05-19,2021-05-20,2021-05-22,2021-05-23,2021-05-24,2021-05-25,2021-05-26,2021-05-27,2021-05-28,2021-05-29,2021-05-30,2021-05-31,2021-06-01,2021-06-02,2021-06-03,2021-06-04,2021-06-05,2021-06-06,2021-06-07,2021-06-08,2021-06-09,2021-06-10,2021-06-11,2021-06-12,2021-06-13,2021-06-14,2021-06-15,2021-06-16,2021-06-17,2021-06-18,2021-06-19,2021-06-20,2021-06-21,2021-06-22,2021-06-23,2021-06-24,2021-06-25,2021-06-26,2021-06-27,2021-06-28,2021-06-29,2021-06-30,2021-07-01,2021-07-02,2021-07-03,2021-07-04,2021-07-05,2021-07-06,2021-07-07,2021-07-08,2021-07-10,2021-07-11,2021-07-12,2021-07-13,2021-07-14,2021-07-15,2021-07-16,2021-07-17,2021-07-19,2021-07-20,2021-07-21,2021-07-22,2021-07-23,2021-07-24,2021-07-25,2021-07-26,2021-07-27,2021-07-28,2021-07-29,2021-07-30,2021-08-01,2021-08-03,2021-08-04,2021-08-05,2021-08-06,2021-08-07,2021-08-08,2021-08-09,2021-08-10,2021-08-11,2021-08-13,2021-08-14,2021-08-16,2021-08-17,2021-08-18,2021-08-19,2021-08-20,2021-08-21,2021-08-22,2021-08-23,2021-08-24,2021-08-25,2021-08-26,2021-08-27,2021-08-28,2021-08-29,2021-08-30,2021-08-31,2021-09-01,2021-09-02,2021-09-03,2021-09-04,2021-09-05,2021-09-06,2021-09-07,2021-09-08,2021-09-09,2021-09-10,2021-09-11,2021-09-12,2021-09-13,2021-09-14,2021-09-15,2021-09-16,2021-09-17,2021-09-18,2021-09-19,2021-09-20,2021-09-21,2021-09-22,2021-09-23,2021-09-24,2021-09-25,2021-09-26,2021-09-27,2021-09-28,2021-09-29,2021-09-30,2021-10-01,2021-10-02,2021-10-03,2021-10-04,2021-10-05,2021-10-06,2021-10-07,2021-10-08,2021-10-09,2021-10-10,2021-10-11,2021-10-12,2021-10-13,2021-10-14,2021-10-15,2021-10-16,2021-10-17,2021-10-18,2021-10-19,2021-10-20,2021-10-21,2021-10-22,2021-10-23,2021-10-24,2021-10-25,2021-10-26,2021-10-27,2021-10-28,2021-10-29,2021-10-30,2021-10-31,2021-11-01,2021-11-02,2021-11-03,2021-11-04,2021-11-05,2021-11-06,2021-11-07,2021-11-08,2021-11-09,2021-11-10,2021-11-11,2021-11-12,2021-11-13,2021-11-14,2021-11-15,2021-11-16,2021-11-17,2021-11-18,2021-11-19,2021-11-20,2021-11-21,2021-11-22,2021-11-23,2021-11-24,2021-11-25,2021-11-26,2021-11-27,2021-11-28,2021-11-29,2021-11-30,2021-12-01,2021-12-02,2021-12-03,2021-12-04,2021-12-05,2021-12-06,2021-12-07,2021-12-08,2021-12-09,2021-12-10,2021-12-11,2021-12-12,2021-12-13,2021-12-14,2021-12-15,2021-12-16,2021-12-17,2021-12-18,2021-12-19,2021-12-20,2021-12-21,2021-12-22,2021-12-23,2021-12-24,2021-12-25,2021-12-26,2021-12-27,2021-12-28,2021-12-29,2021-12-30,2021-12-31,2022-01-01,2022-01-02,2022-01-03,2022-01-04,2022-01-05,2022-01-06,2022-01-07,2022-01-08,2022-01-09,2022-01-10,2022-01-11,2022-01-12,2022-01-13,2022-01-14,2022-01-15,2022-01-16,2022-01-17,2022-01-18,2022-01-19,2022-01-20,2022-01-21,2022-01-22,2022-01-23,2022-01-24,2022-01-25,2022-01-26,2022-01-27,2022-01-28,2022-01-29,2022-01-30,2022-01-31,2022-02-01,2022-02-02,2022-02-03,2022-02-04,2022-02-05,2022-02-06,2022-02-07,2022-02-08,2022-02-09,2022-02-10,2022-02-11,2022-02-12,2022-02-13,2022-02-14,2022-02-15,2022-02-16,2022-02-17,2022-02-18,2022-02-19,2022-02-20,2022-02-21,2022-02-22,2022-02-23,2022-02-24,2022-02-25,2022-02-26,2022-02-27,2022-02-28,2022-03-01,2022-03-02,2022-03-03,2022-03-04,2022-03-05,2022-03-06,2022-03-07,2022-03-08,2022-03-09,2022-03-10,2022-03-11,2022-03-12,2022-03-13,2022-03-14,2022-03-15,2022-03-16,2022-03-17,2022-03-18,2022-03-19,2022-03-20,2022-03-21,2022-03-22,2022-03-23,2022-03-24,2022-03-25,2022-03-26,2022-03-27,2022-03-28,2022-03-29,2022-03-30,2022-03-31,2022-04-01,2022-04-04,2022-04-05,2022-04-06,2022-04-07,2022-04-08,2022-04-09,2022-04-10,2022-04-11,2022-04-12,2022-04-13,2022-04-14,2022-04-15,2022-04-18,2022-04-19,2022-04-20,2022-04-21,2022-04-22,2022-04-24,2022-04-25,2022-04-26,2022-04-27,2022-04-28,2022-04-29,2022-04-30,2022-05-01,2022-05-02,2022-05-03,2022-05-04,2022-05-05,2022-05-06,2022-05-07,2022-05-08,2022-05-09,2022-05-10,2022-05-11,2022-05-12,2022-05-13,2022-05-14,2022-05-15,2022-05-16,2022-05-17,2022-05-18,2022-05-19,2022-05-20,2022-05-21,2022-05-22,2022-05-23,2022-05-24,2022-05-25,2022-05-26,2022-05-27,2022-05-28,2022-05-29,2022-05-30,2022-05-31,2022-06-01,2022-06-02,2022-06-03,2022-06-04,2022-06-05,2022-06-06,2022-06-07,2022-06-08,2022-06-09,2022-06-10,2022-06-11,2022-06-12,2022-06-13,2022-06-14,2022-06-15,2022-06-16,2022-06-17,2022-06-18,2022-06-19,2022-06-20,2022-06-21,2022-06-22,2022-06-23,2022-06-24,2022-06-25,2022-06-26,2022-06-27,2022-06-28,2022-06-29,2022-06-30,2022-07-01,2022-07-02,2022-07-03,2022-07-04,2022-07-05,2022-07-06,2022-07-07,2022-07-08,2022-07-10,2022-07-11,2022-07-12,2022-07-13,2022-07-14,2022-07-15,2022-07-18,2022-07-19,2022-07-20,2022-07-21,2022-07-22,2022-07-23,2022-07-24,2022-07-25,2022-07-26,2022-07-27,2022-07-28,2022-07-29,2022-07-30,2022-07-31,2022-08-01,2022-08-02,2022-08-04,2022-08-05,2022-08-06,2022-08-07,2022-08-08,2022-08-09,2022-08-10,2022-08-11,2022-08-12,2022-08-13,2022-08-14,2022-08-15,2022-08-16,2022-08-17,2022-08-18,2022-08-19,2022-08-20,2022-08-21,2022-08-22,2022-08-23,2022-08-24,2022-08-25,2022-08-26,2022-08-27,2022-08-28,2022-08-29,2022-08-30,2022-08-31,2022-09-01,2022-09-02,2022-09-03,2022-09-04,2022-09-05,2022-09-06,2022-09-07,2022-09-08,2022-09-09,2022-09-10,2022-09-11,2022-09-12,2022-09-13,2022-09-14,2022-09-15,2022-09-16,2022-09-17,2022-09-18,2022-09-19,2022-09-20,2022-09-21,2022-09-22,2022-09-23,2022-09-24,2022-09-25,2022-09-26,2022-09-27,2022-09-28,2022-09-29,2022-09-30,2022-10-01,2022-10-02,2022-10-03,2022-10-04,2022-10-05,2022-10-06,2022-10-07,2022-10-08,2022-10-09,2022-10-10,2022-10-11,2022-10-12,2022-10-14,2022-10-15,2022-10-16,2022-10-17,2022-10-18,2022-10-19,2022-10-20,2022-10-21,2022-10-22,2022-10-23,2022-10-24,2022-10-25,2022-10-26,2022-10-27,2022-10-28,2022-10-29,2022-10-30,2022-11-01,2022-11-02,2022-11-03,2022-11-04,2022-11-05,2022-11-06,2022-11-07,2022-11-08,2022-11-09,2022-11-10,2022-11-11,2022-11-12,2022-11-13,2022-11-14,2022-11-15,2022-11-16,2022-11-17,2022-11-18,2022-11-19,2022-11-20,2022-11-21,2022-11-22,2022-11-23,2022-11-24,2022-11-25,2022-11-26,2022-11-27,2022-11-28,2022-11-29,2022-11-30,2022-12-01,2022-12-02,2022-12-03,2022-12-04,2022-12-05,2022-12-06,2022-12-07,2022-12-08,2022-12-09,2022-12-10,2022-12-11,2022-12-12,2022-12-13,2022-12-14,2022-12-15,2022-12-16,2022-12-17,2022-12-18,2022-12-19,2022-12-20,2022-12-21,2022-12-22,2022-12-23,2022-12-24,2022-12-25,2022-12-26,2022-12-27,2022-12-28,2022-12-29,2022-12-30,2022-12-31,2023-01-01,2023-01-02,2023-01-03,2023-01-04,2023-01-05,2023-01-06,2023-01-07,2023-01-08,2023-01-09,2023-01-10,2023-01-11,2023-01-12,2023-01-13,2023-01-14,2023-01-15,2023-01-16,2023-01-17,2023-01-18,2023-01-19,2023-01-20,2023-01-21,2023-01-22,2023-01-23,2023-01-24,2023-01-25,2023-01-26,2023-01-27,2023-01-28,2023-01-29,2023-01-30,2023-01-31,2023-02-01,2023-02-02,2023-02-03,2023-02-04,2023-02-05,2023-02-06,2023-02-07,2023-02-08,2023-02-09,2023-02-10,2023-02-11,2023-02-12,2023-02-13,2023-02-14,2023-02-15,2023-02-16,2023-02-17,2023-02-18,2023-02-19,2023-02-20,2023-02-21,2023-02-22,2023-02-23,2023-02-24,2023-02-25,2023-02-26,2023-02-27,2023-02-28,2023-03-01,2023-03-02,
+ | y1=0,191181,33120,229748,220786,131649,237050,347058,191609,33303,408305,5671,326499,572074,571974,244307,14509,191313,188762,310634,509893,457404,358473,37040,446646,352553,405553,487896,462637,77139,373867,222349,203639,536950,311409,271383,160148,184021,277205,299122,321309,346669,235812,56406,411262,650434,832350,1057714,1199848,1171620,59600,1715380,1060944,1030254,401360,1639663,1232131,144750,2627099,1782553,1738750,1825443,2415800,2283157,449115,3056851,2100799,2114586,2154934,2425146,2014818,218798,551164,1777637,1794166,3365597,3932791,2657881,2939368,3598471,3659706,2826012,3693495,3307330,3122109,2701439,3455639,2258875,2877285,2170056,2059229,2022592,940694,2287411,2014180,1910908,4210739,2091244,1377035,1274892,1273729,1565044,952018,375181,992524,931244,1102722,1328249,1235937,1071655,488194,1337337,1365332,1247900,1282345,773872,1270650,632223,1325883,1179982,1063406,1291046,2594964,813572,2268317,1209874,2678262,2593965,1821956,3553142,1439309,1593072,2394095,2281644,2430093,4876031,1799154,2303602,2225875,2862315,2858486,3103616,3089657,2239640,2917542,2998211,2259925,2611979,4110239,2989804,3950266,3048024,8203530,5841374,3134333,5931674,5707713,6893275,2663131,2629455,4632233,1232022,4283058,645930,5892354,2223901,2296492,2030799,2402200,7494156,4492585,847354,2593929,4774758,2141963,2586687,2549037,3228536,4499021,2323429,1543000,3685939,2874665,3567879,1415012,4713442,2807912,3221210,3595468,3679574,8174273,10096011,3035678,4504775,4410510,4336591,1289442,4490464,3438031,3384241,9865786,5729286,6106371,4773202,4243617,3417453,4986155,2190685,2893973,1020721,4673045,6460721,4789283,7928444,7453586,4640950,4923588,3924888,12666048,5959837,4039886,1348015,4303492,2542932,8141709,7458431,7232228,2270062,6019845,4352704,6709383,1615655,5193953,5985845,3263125,11100063,5001493,4356448,5797296,3299395,5549124,6113546,2251933,2027125,7701510,2542765,3447382,3655730,3795154,4212102,2788082,2522286,3811564,2897698,1888597,4296779,4083876,4253174,1839134,3349439,2281386,1166491,1281332,575975,1544248,1102560,3501378,5705937,3705798,2852557,1679543,3592177,767831,2704943,2275780,2208541,3566482,2612109,1730733,2037639,866207,2055375,855851,236238,774356,842260,1539500,1234226,1612863,1274981,2307238,2302145,1180613,1270585,2119881,2198918,2280679,1636999,3195562,1623177,2608531,2619157,2860722,1439479,4035094,524738,3572179,1707475,2698799,2572347,2901770,1755510,3461701,1671851,1476684,2510537,2350954,2386956,1301486,3944006,1320252,1199310,3056350,1581743,905385,2080152,1837282,951123,900274,1922654,621352,1501826,1472083,2340951,215553,1023876,1777309,2219977,905343,2419808,1335170,689535,4905665,5217549,6677905,6622289,8536349,1305651,5273368,3255737,6392220,2858224,4328361,1048141,3918584,2380694,2166091,15777,6491695,3027610,3412936,2633157,1838313,388276,2246613,1862280,826058,1812178,1538644,2110035,2272008,1721706,1509707,1082045,1376277,1591526,904202,50639,1414463,1578955,56435,2050316,683896,985165,429270,1139815,489757,930354,671536,589681,333307,350547,550167,324324,462830,513864,517670,195140,202272,189883,201991,383042,301720,343645,125528,181543,264873,220993,207511,299842,140153,144066,190185,169232,183695,726874,515099,543724,360945,1380741,1530766,2624234,2273113,1198687,2252177,502938,860503,786860,2174722,1834110,673053,1517247,732547,958990,697536,550043,666003,297829,346955,810477,373800,463345,103507,792807,564084,175616,403047,484393,893334,186075,559685,525457,465152,720065,354180,464285,162382,303893,147952,317597,374564,396934,380282,286347,310012,311057,330098,327728,341147,258827,89720,214677,290075,264768,309614,300889,222748,91274,230772,222300,237113,267336,260048,190110,66755,196413,323634,39676,169251,170249,145455,64040,191252,226939,205686,221205,208933,177325,146098,193962,174743,189676,198357,195252,128425,53475,162594,154936,187012,195639,210291,148719,65193,241521,191551,195274,175633,141133,114867,37919,160927,142043,170528,223709,323604,143722,132954,213854,194515,215290,279952,108886,159128,178730,237501,186270,154055,109217,153484,154171,181886,224821,170304,131798,38025,134823,268770,202185,163183,148562,140253,130120,67149,102302,92074,96540,99156,44454,21398,89962,117201,123882,55400,106355,97116,97211,106038,107069,136266,103519,98123,48761,88809,64238,59316,98812,83634,73476,66362,58916,68762,91230,84366,68210,61419,61675,72751,67576,87339,79149,65498,50138,43259,46498,46432,52700,55877,47311,46981,33686,34838,36911,47235,64621,36159,20612,5640,13777,7918,4052,16734,22769,16672,6160,23240,37052,40081,27999,19195,6903,24246,23328,30398,30561,21187,10386,2637,1319,4625,7216,8818,10014,5913,7780,6912,9021,11119,9640,6718,2602,9354,6008,8440,9070,6453,5016,2022,6430,5940,8194,6291,5986,6921,2429,8522,7496,5700,5123,6377,3569,840,7181,2080,4103,4409,3957,3700,936,3887,4367,4355,4403,3830,3320,1576,4074,6190,5207,5941,4333,2969,1326,4816,4759,5264,5999,7549,7377,2815,8666,9135,9050,8362,8328,3933,849,3654,3668,3901,3882,3929,3398,1265,4026,3580,4005,3741,2765,1410,570,2542,3476,4581,5235,5763,6580,1688,5939,6093,6316,1385,5700,5833,9660,5634,5561,4031,3988,3696,2846,1312,3366,3126,2948,2598,1252,686,230,914,904,959,1039,834,398,265,1128,1030,959,1091,869,730,242,939,947,838,
+ | y2=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7668,90450,118221,125777,122816,292010,116998,86702,154900,206093,160119,379105,343224,249795,2313,141608,116179,162949,331741,292353,253020,7066,304343,298229,286851,78549,413874,287821,24879,412295,334551,339969,371119,307775,257292,13042,371745,245893,189837,203797,180187,145191,41855,31755,163362,269377,305645,332366,267475,186144,407292,306842,295187,442094,433568,397878,231979,548881,387618,436375,560215,654903,662357,289282,989136,502812,1197595,2219826,1248530,977251,899267,941651,1164291,676200,210005,878101,737372,1077764,1344116,1350460,1232202,322817,1456713,1398393,935034,1033924,510695,627473,74247,240315,194416,155592,185239,360648,63171,178154,131194,240574,183586,141680,369009,136861,191700,291748,260784,236125,387353,164222,166299,223732,327962,317090,321782,331682,245185,324807,331737,285077,408555,534111,395886,602106,330263,823813,700140,380549,752015,899788,1286581,525897,763711,1368102,502204,1300452,284215,2736442,854059,1554455,1047350,1360917,3426303,2548779,472561,1521216,1455531,1500593,1416589,1803075,2007300,2415665,1302625,835696,1879940,1590566,1700724,630125,2002952,1436352,1328388,1732029,1805151,2530887,2966920,1020047,1480525,1271504,1464292,564825,1345045,1142225,1206254,2653098,1927101,567377,1227076,1387582,1026740,1623601,969671,1512031,446685,1819229,2731013,1678690,3220872,2870653,2082135,1794172,1568726,4111643,2238874,1839422,742019,2467052,1395118,3073132,3423975,3127201,934430,3294396,2496460,3297050,813845,3442693,4005081,2783084,7527206,3762084,3097372,3806450,2162316,4392740,4300434,2250949,1607922,5280860,1927780,3000422,3077097,2983538,3588184,2363121,2402570,3237357,2500003,1758311,3749129,3730275,3852740,1929129,3082095,2283332,1291213,1520064,946720,2114306,1507482,4656935,4580044,2099459,3888817,2012225,5038242,1114268,3995187,3442551,3681582,5683620,4168689,2411185,2985339,1198110,3285400,1192051,450062,1609498,2122548,3554252,2677876,4045369,3694240,6340486,5454892,2528470,2821469,4586842,5119576,5499500,3171671,6893887,2749045,5177618,5484677,6961297,3319934,8194345,1210227,7129476,3589830,5864337,5889687,7447465,4106107,8616516,3285462,3477821,5733619,5561905,5982505,2829063,11175154,2584726,2867027,7769512,4612190,3100505,6795523,5853284,2420250,2894052,6375829,1907255,5669185,4863198,7084270,534259,2691640,5845346,6906090,2616313,7728117,3869210,1826897,3034271,2586550,3195789,3164770,5064540,1109853,4424499,2764059,5852587,2952709,4516193,1291354,4635942,2497849,2602607,151381,8786162,4301942,5187087,4327043,3068585,665489,4031533,3511701,1764697,3705100,3147301,4142961,4520965,4147221,3898401,3048516,3747771,4107260,1656884,94602,5590384,4357712,286023,7027606,2296339,3296041,1265024,4783868,1943503,4033882,3118557,2753963,1521517,1906931,3007739,1745004,2660873,2950562,3041361,1158648,1183615,1247480,1308588,2665847,2218934,2307746,836237,1217322,1869928,1658279,1623536,2351706,996023,1122674,1520782,1404666,1563837,1197229,657226,644504,522495,1006033,916264,1377012,1276098,697868,1596120,523876,726314,618577,1616819,1392722,585245,1878962,804538,1075659,751275,642523,851826,490280,547787,1157271,541229,858832,259265,1847450,1374492,487083,1116482,1267432,2402996,555219,1621245,1492480,1526109,2247328,1178576,1556788,552628,1055143,510937,1121585,1304339,1311265,1262965,996628,1136670,1131507,1141634,1070700,1133275,906644,357704,826995,1013293,1045542,1082847,1064277,896721,612553,945806,918926,982129,1009990,999654,754032,281082,843417,1404463,183961,850952,841928,684166,318182,915329,1080823,1070147,1088538,1053239,1003591,853465,1024220,970552,1001099,1048727,1007457,730156,297775,892383,861427,975387,938643,999045,677768,345955,1054857,840398,836814,711024,601659,481056,195777,635899,597968,714564,844079,1243576,620831,547110,944922,1890375,778290,977897,370108,491280,573359,750876,540789,494189,408815,346079,528967,580976,663192,425298,336736,112346,348000,820983,567468,433656,458989,443185,346221,189905,319051,280747,285232,312932,158269,87641,280779,367069,323991,182462,362704,371584,304015,292806,328050,425558,280254,260240,163771,249788,194101,174229,300925,236309,255556,284476,184733,196149,281603,299942,190853,238500,272886,202865,187360,254697,249311,189182,181560,170456,131688,129413,159937,177501,136964,159502,128885,113719,124410,179580,250871,146565,74543,24932,43093,31960,19531,71340,77415,65184,22896,70542,130328,154499,84422,65427,21299,74713,77378,103071,103911,66358,36540,6398,5480,19191,29378,35093,34042,23657,27835,27290,34691,37035,34155,27107,7011,30141,20838,33291,33395,28462,16203,6791,32462,25516,27814,26118,21992,17520,3835,20646,19238,21172,20088,21232,12536,3676,28600,8363,16793,14752,13910,12096,3111,13726,12022,14337,15667,16334,10911,4298,15612,16670,16269,16880,13609,14013,2622,15860,17465,20115,20255,19958,16439,5029,16366,17794,18234,15564,15208,8598,1227,8244,9488,9659,9614,10476,9750,2394,11628,10208,12012,11209,9743,4772,1474,10161,12872,20979,20604,26242,28517,7224,25646,29683,27734,6610,29285,30119,51032,30682,26802,15504,16777,15460,12473,4774,14191,14268,14086,10734,5360,2394,856,2551,2442,2504,2646,3047,1221,671,2571,2391,2959,2567,2531,2012,604,2210,2241,2463,
+ | y1Title=Partially Vaccinated
+ | y2Title=Fully Vaccinated
+ | colors=#f1c40f, #27ae60
+ | xAxisAngle = -90
+ | yGrid=true
+ | yType=number
+
+
+
+Vaccine administration by Gender
+
+Vaccinations in India by Gender as of March 4, 2023
+
+Graph:Chart
+ | width=100
+ | height=100
+ | type=pie
+ | innerRadius=40
+ | legend=Gender
+ | x=Male,Female,Others
+ | y1=1006086799, 967431679, 480887
+
+
+
+
+
+Vaccine administration by vaccine brand
+
+Vaccinations in India by Vaccine Brand as of March 4, 2023 
+Graph:Chart
+| width=100
+| height=100
+| type=pie
+| innerRadius=40
+| legend=Brand
+| x=Covishield, Covaxin, Sputnik V, Corbevax, Covovax
+| y1=1749357213, 363774435, 1232692, 73804121, 33326
+
+
+
+
+
+Vaccine administration by age group
+
+Vaccinations in India by Age Group as of March 4, 2023 
+Graph:Chart
+| width=100
+| height=100
+| type=pie
+| innerRadius=40
+| legend=Age Group
+| x=12-14, 15-17, 18-44, 45-60, 60+
+| y1=73825081, 115942821, 1130838083, 419783374, 302346969
+
+
+
+
+
+ States by Vaccine Coverage 
+
+)
+Graph:Chart
+ | width=1000 | height=300
+ | xAxisTitle=State/UT
+ | yAxisTitle= Million(s)
+ | legend=Leading States in vaccination
+ | type=stackedrect
+ | x=Uttar Pradesh, Maharashtra, Gujarat, Madhya Pradesh, Rajasthan, Karnataka, West Bengal, Bihar, Tamil Nadu, Andhra Pradesh, Kerala, Odisha, Assam, Telangana, Haryana
+ | y1= 74.5, 49.9, 38.5, 42.1, 37.7, 35.5, 34.3, 37.9, 31.9, 24.4, 22.8, 19.5, 16.7, 14.4, 14.1
+ | y2= 15.2, 18.9, 14.4, 10.0, 12.9, 12.6, 13.7, 8.18, 8.27, 10.9, 9.05, 6.54, 3.86, 5.50, 5.03
+ | y1Title=First Dose
+ | y2Title=Second Dose
+ | colors= #aef359,#3ded97
+
+
+ Number of Vaccination Centres 
+Quote box
+| title = Sites conducting vaccination in India50px25px
+| quote =  Government — 1,10,000   Private  — 2,700
+| align = center
+| width = 100
+| author = Source: CoWin Dashboard
+
+Citizens above the age of 12 can book appointments through the COWIN platform or can do a Walk-In registration on site.
+All vaccine centres have registration desks, vaccine booths and observation rooms.
+Vaccine certificates can be downloaded digitally through the COWIN platform, or citizens can ask for a hard copy from vaccination centres.
+All government run vaccination centers provide free of cost vaccines, private centers do charge.
+
+ Background and timeline 
+thumb|A vaccination centre in Delhi.
+thumb|400x400px|India's COVID-19 vaccination deployment until 3 June
+
+ First Phase, initial approvals, launch of vaccination programme 
+In September 2020, India's Health minister Harsh Vardhan stated that the country planned to approve and begin distribution of a vaccine by the first quarter of 2021. The first recipients were to be 30 million health workers directly dealing with COVID patients.
+
+Multiple image
+| image1 = Covishield (2021) K (cropped).jpg
+| image2 = Bharat Biotech Covaxin Bangalore BESTpedia.jpg
+| direction = vertical
+| caption1 = A vial of Covishield, the Indian-manufactured version of the AstraZeneca vaccine.
+| caption2 = A vial of Covaxin
+
+thumb|Vaccination drive for COVID prevention in Bhopal, India
+On 1 January 2021, the Drug Controller General of India (DCGI) approved emergency use of the Oxford–AstraZeneca vaccine (local trade name &quot;Covishield&quot;).  On 2 January, the DCGI also granted an interim emergency use authorisation to BBV152 (trade name &quot;Covaxin&quot;), a domestic vaccine developed by Bharat Biotech in association with the Indian Council of Medical Research and National Institute of Virology. This approval was met with some concern, as the vaccine had not then completed phase 3 clinical trials. Due to this status, those receiving Covaxin were required to sign a consent form, while some states chose to relegate Covaxin to a &quot;buffer stock&quot; and primarily distribute Covishield. thumb|COVID-19 vaccination roll out in AIIMS, New Delhi, India on 16 January 2021
+India began its vaccination programme on 16 January 2021, operating 3,006 vaccination centres on the onset. Each vaccination centre will offer either Covishield or Covaxin, but not both. 165,714 people were vaccinated on the first day of availability. Difficulties in uploading beneficiary lists at some sites caused delays. In the first three days, 631,417 people were vaccinated. Of these, 0.18% reported side-effects and nine people (0.002%) were admitted to hospitals for observation and treatment. Within those first days, there were concerns about low turnout, due to a combination of vaccine safety concerns, technical problems with the software used, and misinformation.
+
+The first phase of the rollout involved health workers and frontline workers, including police, paramilitary forces, sanitation workers, and disaster management volunteers. By 1 March, only 14 million healthcare and frontline workers had been vaccinated, falling short of the original goal of 30 million.
+
+ Second phase 
+The next phase of the vaccine rollout covered all residents over the age of 60, residents between the ages of 45 and 60 with one or more qualifying comorbidities, and any health care or frontline worker that did not receive a dose during phase 1. Online registration began on 1 March via the Aarogya Setu app and Co-WIN (&quot;Winning over COVID-19&quot;) website. Amid the beginnings of a major second wave of infections in the country,  vaccine exports were suspended in March 2021, and the government ordered 110 million Covishield doses from SII. The company aims to produce 100 million doses per month, but by May 2021 its production capacity was only 60–70 million doses. Following the conclusion of its trial, the DCGI issued a standard emergency use authorisation to Covaxin on 11 March 2021.
+
+From 1 April, eligibility was extended to all residents over the age of 45. On 8 April, Prime Minister Narendra Modi called for a four-day Teeka Utsav (&quot;Vaccine Festival&quot;) from 11 to 14 April, with a goal to increase the pace of the program by vaccinating as many eligible residents as possible. By the end of the Utsav, India had reached a total of over 111 million vaccine doses to-date.
+
+ Third phase, Sputnik V approval 
+On 12 April, the DCGI approved Russia's Sputnik V vaccine for emergency use in India. A phase 3 trial was conducted in the country in September 2020, which showed 91.6% efficacy. The local distributor Dr. Reddy's Laboratories stated that it planned to have the vaccine in India by late May 2021.
+
+On 19 April, it was announced that the next phase of the vaccination programme would begin on 1 May, extending eligibility to all residents over the age of 18. Under phase 3, individual stakeholders were also given more flexibility in how they conduct the vaccination programme. As part of this plan, only half of the vaccines procured by the Central Drugs Laboratory from manufacturers would be distributed by the central government. This supply would go to government-run clinics and be offered free-of-charge to residents 45 and over and priority workers and siphoned off to states based on factors such as the number of active cases and how quickly they are administering vaccines. The remainder would be offered to individual states and purchased on the open market (including private hospitals), which would be able to serve residents over the age of 18.
+
+Registration for the next phase began on 28 April; a single-day record of nearly 13.3 million people registered. Due to supply issues, several states, including Delhi, Gujarat and Madhya Pradesh announced that they would delay their wider rollouts of vaccines to later in the month.
+
+The initial shipment of 150,000 Sputnik V doses arrived on 1 May, and began to be administered on 14 May. An estimated 156 million doses is expected between August and December; initially, doses will be sourced from Russia, but domestic production is expected to begin by August 2021.
+
+On 13 May, the DCGI approved phase 2 and phase 3 trials of Covaxin on children 2–18. On 14 May, health officials projected that based on the anticipated approval of additional vaccine options, it could receive at least 2.17 billion more vaccine doses from August to December 2021. On 25 May, India exceeded 200 million vaccine doses administered in total. On 3 June, the Ministry of Health and Family Welfare pre-ordered 300 million doses of a potential fourth vaccine, Corbevax, which is undergoing phase 3 clinical trials.
+
+On 23 May, the union government allowed walk-in registrations for vaccination throughout the country; a health worker at the vaccination centre would register the recipient in the Co-win vaccination database. The government claimed in an affidavit to the Supreme Court that as of June 23 about 78 per cent of vaccines had been administered via walk-in registration.
+
+ Return to centralised procurement 
+On 31 May, an affidavit was issued in the Supreme Court of India requesting a review of the central government's vaccine distribution strategy, suggesting that the decision to only offer doses at no charge to priority workers and residents over the age of 45 was &quot;prima facie arbitrary and irrational&quot;.
+
+On 7 June, Prime Minister Modi announced that India would migrate back to centralised procurement of vaccines by 21 June. In an address, Modi stated that multiple chief ministers had requested that the central government reconsider its new distribution strategy and reinstate the system it had used before May. As before, the centre will procure up to 75% of the country's vaccine supplies from manufacturers in bulk and distribute them to states at no additional charge. Vaccines would now be offered at no charge for those in the 18–44 age group. Private hospitals will still be responsible for the remaining 25% of procurement, but fees for appointments are now capped at .
+
+On 21 June, the day these changes took effect, approximately  doses were administered—India's largest single-day total until that point. The states of Madhya Pradesh and Karnataka had the highest local totals.  Member of Parliament, Rajya Sabha P. Chidambaram accused Bharatiya Janata Party of having &quot;hoarded&quot; vaccine doses in the days leading up to 21 June in order to encourage larger numbers; seven states controlled by the BJP were among the top ten states to have administered vaccine doses that day, few of these states had below-average vaccination numbers in the days leading up to 21 June (such as Madhya Pradesh, which went from 692 doses on 20 June to  the next day, and numbers had dropped significantly in the state the next day).
+
+On 23 June, India surpassed over 300 million vaccine doses administered in total. On 28 June, India overtook the United States in total vaccine doses administered. On 29 June, the DCGI approved the Moderna vaccine (which is being imported by Cipla) for emergency use. Vinod Kumar Paul stated that the Pfizer vaccine was also likely to be approved soon.
+
+ 500 million mark, Johnson &amp; Johnson Covid-19 vaccine approval and record 
+
+On 6 August 2021, India crossed the 500 million doses milestone within 6 months from the onset of the vaccination program.
+
+On 7 August 2021, the Drug Controller General of India (DCGI) approved emergency use of the Johnson and Johnson single-dose vaccine. On 16 Aug 2021, India administered around 8.81 million doses of COVID-19 vaccines, achieving the highest single-day record and overtaking its own previous record of 8.61 million doses, by 16 August the cumulative  doses had surpassed the 550 million mark.
+
+ ZyCoV-D approval for ages 12 &amp; above and single day vaccination records 
+
+On 20 August 2021, India granted emergency authorization to Zydus Cadila's vaccine ZyCoV-D, the world's first DNA plasmid-based COVID-19 vaccine, for patients 12 and older.
+
+India granted emergency use approval to the world's first DNA based COVID-19 vaccine,  manufactured by for adults and children aged 12 years and above. The vaccine is administered using a needle-free applicator. The government announced on 30 September 2021 that the ZyCoV-D vaccine will be a three dose vaccine and it will be included in the Covid vaccination programme of India.
+
+Since August 10, 2021, foreign nationals residing in India can now receive the COVID-19 vaccine by registering themselves on the Cowin platform; like other eligible beneficiaries, the foreign nationals can book a slot via the portal and use their passport as a document to verify their identity for the registration process.
+
+By 26 August 2021, 50% of the adult population in India were inoculated with at least one dose of the approved vaccines, which included 99% coverage among healthcare workers and 100% front-line workers for the first dose.
+
+On 27 August 2021, India crossed the milestone of administering more than 10 million (1 crore) doses of COVID-19 vaccine in a single day, setting a new world record. Uttar Pradesh topped the list with 2.8 million doses, followed by Karnataka with 1 million doses and Maharashtra at third with 0.98 million doses.
+
+On 29 August 2021, Himachal Pradesh became the first state to complete administering first doses of COVID-19 vaccines to 100% of the population. On 31 August, India again set another single-day vaccination record by inoculating around 12 million (1.2 Crore) doses in 24 hours.
+
+By September 2021, all adult people in Sikkim, Dadra and Nagar Haveli, Himachal Pradesh, Goa, Ladakh, and Lakshadweep have received at least one dose of Covid vaccine as the cumulative jabs administered in the country crossed 75 crores. Many city corporations, talukas, gram panchayats and districts had also administered the first dose of COVID-19 vaccination to 100 per cent of their adult population.
+
+
+As many as 25 million people were vaccinated on Narendra Modi's birthday on 17 September 2021. This is the highest single-day vaccination tally so far in the whole world. There are allegations that a lot of pressure could have been put on officials to increase and twist to record vaccination numbers on the Prime Minister's birthday as some people who had not received their Covid shots somehow seem to have been issued vaccination certificates including those who are deceased.
+
+On 27 September, India administered over 1 crore vaccine doses for the fifth time, and total vaccination coverage crossed 86 crore (860 million). On 2 October, this increased to 960 million.
+
+ Booster doses and pediatric vaccines 
+By September 2021, several companies had received approval to begin clinical trials on COVID-19 vaccines for children. Discussions were also emerging over whether India would utilize vaccine booster doses, with the government having maintained that they were studying their applicability, and that they were focused on their goal to administer a primary series of vaccine doses to all adults. On 21 October 2021, India crossed the one billion mark for administered doses.
+
+On 26 December 2021, Prime Minister Modi announced that vaccine eligibility would be extended to youth 15 to 18 years of age from 3 January 2022 (with online registration opened on 1 January 2022); this age group would exclusively receive Covaxin. It was also announced that booster doses would become available from 10 January 2022, beginning with frontline workers, and residents over the age of 60 with comorbidities. Within this cohort, doses would be prioritized to those who had received their second dose at least nine months prior.
+
+On 14 March 2022, Union health minister Mansukh Mandaviya announced that vaccine eligibility would be extended to children 12–14, and that this group would exclusively receive Corbevax. Booster eligibility was also extended to all adults 60 and older. On 8 April 2022, the Ministry of Health and Family Welfare announced that all adults 18 and over would become eligible for booster doses beginning 10 April, and that they would be available via private vaccination centres.
+
+In May 2022, the Supreme Court of India ruled that COVID-19 vaccine mandates were unconstitutional, citing the &quot;emerging scientific opinion&quot; that COVID-19 vaccines did not reduce the risk of transmission by those who are vaccinated.
+
+ Vaccine development and distribution 
+thumb|250px|Prime Minister Narendra Modi visiting the Serum Institute of India on 28 November 2020.As of early May 2020, there were over 30 vaccine candidates in development in India, many of which were already in pre-clinical trials.
+
+The Pune-based Serum Institute of India (SII) is the world's largest vaccine maker. This existing capacity enabled India to be a major participant in the COVAX programme to distribute vaccines to developing countries. In February 2020, SII had begun animal trials of vaccine candidates. SII announced in April 2020 that it would apply for clinical trials from the Drug Controller General of India (DCGI) in April 2020. SII president Adar Poonawalla said that a vaccine would be delivered within a year, but projected an efficacy between 70 and 80%.
+
+In August 2020, SII received approvals for phase 2 and phase 3 trials of its version of a vaccine being developed by AstraZeneca and the University of Oxford's Vaccitech. SII joined GAVI in a partnership with the Bill &amp; Melinda Gates Foundation to produce 100 million doses of vaccine for developing countries. The SII planned to manufacture 1.5 and 2.5 billion doses of the AstraZeneca vaccine per-year under the trade name &quot;Covishield&quot;. By its approval in January 2021, the company had stockpiled 50 million doses, but well short of its own target of 400 million. The government ordered 21 million doses to be delivered by February, but the company said no indication of any further orders were given. The company began to export the remaining stocks instead.
+
+Hyderabad-based Bharat Biotech, in collaboration with U.S.-based FluGen, expected to begin the first clinical trials of a nasal vaccine by late-2020. The Indian Council of Medical Research partnered with Bharat Biotech in May 2020 to develop a COVID vaccine entirely within India. In June 2020, it received DCGI approval to begin phase 1 and phase 2 trials on its vaccine, BBV152 (trade name &quot;Covaxin&quot;). In September 2020, it was reported that in pre-clinical trials on animals, Covaxin was able to build immunity. In July 2021, Bharat Biotech reported the vaccine to be  effective against asymptomatic cases,  effective against symptomatic cases,  effective against severe COVID-19 infection, and  effective against the Delta variant. On 20 April 2021, Bharat Biotech announced that it had expanded its production capabilities for Covaxin to 700 million doses per-year.
+
+Cadila Healthcare began vaccine development in March 2020, including a viral vector vaccine and a DNA plasmid vaccine.  In mid-July 2020, Cadila held early human trials of its vaccine candidate ZyCoV-D, and received approval for phase 3 trials in January 2021. It began large-scale production in April 2021, with Cadila expecting to receive emergency authorisation between May and June 2021. On 1 July 2021, Cadila Healthcare reported the efficacy to be 66.6% against symptomatic COVID-19 and 100% against moderate or severe disease in its interim analysis of its phase 3 trial data.
+
+In September 2020, Dr. Reddy's partnered with the Russian Direct Investment Fund (RDIF) to conduct phase 3 trials of the Sputnik V vaccine in India, and to distribute the vaccine there once approved.  In April 2021, RDIF CEO Kirill Dmitriev told NDTV that they had &quot;five great manufacturers in India&quot; who would be producing the vaccine, and felt that the country could become Sputnik V's &quot;production hub&quot; for use and export. Dr. Reddy's is also working with the RDIF on approval of &quot;Sputnik Light&quot;—a regiment of Sputnik V consisting only of the first dose.
+
+In April 2021, phase 3 clinical trials were approved for another vaccine, Corbevax, a protein subunit that is being developed by BioE, the Baylor College of Medicine, and Dynavax Technologies.
+
+On 2 June 2021, the DCGI removed the requirement that India-specific clinical trials (bridging trials) be held for vaccine candidates developed outside of India, provided that they are already approved by a recognised international public health agency such as the World Health Organization (WHO), European Medicines Agency (EMA), US Food and Drug Administration (FDA), UK Medicines and Healthcare products Regulatory Agency (MHRA), or Japan's Pharmaceuticals and Medical Devices Agency. These changes were intended to help expedite the availability of vaccines already in use in other countries.
+
+In mid-July, it was reported that approval of the Moderna and Pfizer vaccines, as well as a shipment of vaccines donated by the United States (which includes the AstraZeneca, Janssen, Moderna, and Pfizer vaccines), had faced delays due to requests from their manufacturers for indemnity clauses from Indian authorities, which would relieve them from legal liability for adverse reactions.
+
+On 21 September 2021, the Indian Government said that it will not purchase the Pfizer-BioNTech and Moderna vaccines as domestic output of more affordable and easier-to-store vaccines has jumped.
+
+In the Quad summit, Prime Minister Narendra Modi announced that India would make 8 million doses of J&amp;J vaccine available by the end of October under the Quad vaccine partnership. It will be manufactured in India by the Biological E. This would be ready by the end of October, compatible with our decision to resume vaccine export.
+
+On 6 February 2022, DCGI approved Sputnik Light Covid vaccine for emergency use in India.
+
+ Vaccine deployment strategies 
+Optimizing vaccination deployment for India includes tailoring of strategies to the demographic and epidemiologic situation by modeling vaccination scenarios, explore measures to reach children at risk and co-optimizing vaccination strategy for societal and individual benefit in parallel.
+
+ Vaccine on order 
+
+
+
+In September 2021, India's government announced that it would not buy COVID-19 shots from Pfizer (PFE.N)/BioNTech (22UAy.DE) and Moderna (MRNA.O), mainly because the domestic output of more affordable and easier-to-store vaccines of Serum Institute of India, Bharat Biotech &amp; Cadila Healthcare has jumped.
+India will make 8 million doses of the Johnson and Johnson vaccine available by the end of October under the Quad vaccine partnership.
+
+ Vaccines in trial stage 
+
+
+
+ Global distribution of India-manufactured vaccines 
+
+Vaccine Maitri (English: Vaccine Friendship) is a humanitarian initiative undertaken by the Indian government to provide COVID-19 vaccines to countries around the world. The government started providing vaccines from 20 January 2021. As of 6March 2022, India had delivered around 16.3 cror doses of vaccines to 96 countries. Of these, 1.43 cror doses were gifted to 46 countries by the Government of India. The remaining 10.71 cror were supplied by the vaccine producer under its commercial and, 4.15 cror doses were supplied throw COVAX obligations. In late March 2021, the Government of India temporarily froze exports of the Covishield, citing India's own COVID crisis and the domestic need for these vaccines.
+The Health Minister of India, Mr. Mansukh Mandaviya announced in September that India will resume the export of vaccines from October to the rest of the world.
+[[File:Oxford AstraZeneca COVID-19 vaccine (Indian version) 2021 L.jpeg|thumb|250px|]]
+thumb|Countries that received doses of the Indian-made  Covaxin as of 6March 2021
+200,000 doses of COVID-19 vaccines were gifted by India to the UN peacekeepers on 27 March to be distributed to all peacekeeping missions.
+
+ Vaccines 
+
+India has two approved COVID-19 vaccines: Covishield and Covaxin. Both of them were exported and used in foreign grants by the Government of India.
+
+ Covishield 
+
+
+200px|thumb|A vial of Covishield, the Indian-manufactured version of the AstraZeneca vaccine.
+
+On 1 January 2021, the Drug Controller General of India, approved the emergency or conditional use of Covishield. Covishield is developed by the University of Oxford and its spin-out company, Vaccitech.
+
+ Covaxin 
+
+
+200px|thumb|A vial of Covaxin, India's first indigenous COVID-19 vaccine by Bharat Biotech
+
+On 2 January 2021, Covaxin India's first COVID-19 vaccine, developed by Bharat Biotech in association with the Indian Council of Medical Research and National Institute of Virology received approval from the Drug Controller General of India for its emergency or conditional usage.
+
+ Vaccine supply 
+
+India kicked off international shipment of the vaccines on 20 January 2021, only four days after starting its own vaccination program. Bhutan and Maldives were the first countries to receive vaccines as a grant by India. This was quickly followed by shipments to Nepal, Bangladesh, Myanmar and Seychelles. By mid-March 2021, India was also supplying vaccines on a commercial basis to countries including Canada, the UK, and Saudi Arabia.
+
+As of 21 February 2022, India had exported total 16,29,63,500 doses including 1,42,67,000 vaccine provided as grant to more than 96 nations and, UN Peacekeepers and UN Health workers.
+
+The Serum Institute of India was selected as a key supplier of cost-effective COVID-19 vaccines to the COVAX initiative, 19.8 million doses of Covishield vaccines were supplied by India to various countries through the initiative.
+In May, when COVAX was already short 140 million doses, the Serum Institute announced that it expected to maintain its suspension of vaccine deliveries to COVAX through the end of 2021 due to the second wave of COVID-19 in India and the US ban on export of key raw materials.
+
+ International reaction 
+
+ International organizations 
+* IMF: IMF chief economist Gita Gopinath lauded India for playing a key role during the crisis by dispatching vaccines to many countries. She said &quot;I also want to mention that India really stands out in terms of its vaccine policy. If you look at where exactly is one manufacturing hub for vaccines in the worldthat will be India.&quot;
+
+ Countries 
+
+*  of the OACPS has thanked Indian efforts in delivering vaccines to developing and least developed countries.
+*   Prime minister Khadga Prasad Oli thanked India stating; &quot;We got an early chance to administer the Covid-19 vaccine. For this, I thank our neighbouring nation India, its government, the people, and especially Prime Minister Narendra Modi. They sent 10 lakh doses of vaccines to us as a grant within a week of the roll-out in India.&quot;
+*  on behalf of CARICOM thanked India for providing vaccine supplies to them.
+*  Prime Minister Mia Amor Mottley thanked Prime Minister Narendra Modi for the supply of &quot;Made in India&quot; COVID-19 vaccines. She tweeted, &quot;PM Modi made it possible for more than 40,000 persons in Barbados and tens of thousands elsewhere, to receive their 1st dose of COVISHIELD via Vaccine Maitri before receiving his. A genuine demonstration of generosity. Thank you and we wish you continued good health.&quot;
+*  Prime Minister Gaston Browne had thanked Prime Minister of India Narendra Modi &quot;for demonstrating an act of benevolence, kindness and empathy&quot;, for sending vaccines to Caribbean countries.
+*  Afghanistan's ambassador to India Farid Mamundzay said &quot;Thank you, India for providing Afghan people lifesaving gift on the first day of 2022!&quot;
+
+ Leaders who received vaccines provided by India 
+*  – Heng Samrin, Say Chhum
+*  – KP Sharma Oli
+
+ Gallery 
+
+
+
+Vaccination rollout statistics by State or UT
+
+
+
+As of March 4, 2023, populations above the age of 12 are only eligible for vaccination.
+The percentage of population inoculated shown in the table above is according to the 2021 projected population of India with all age groups.
+According to the government, based on the projected mid-year count for 2021, the country's total population aged 12 years and above is approximately 108 crore. Around 94.61% of the 12+ population of the country have received at least one dose of the COVID-19 vaccine since the vaccination drive began.
+In addition to this, 87.81% of the eligible population has been fully vaccinated.
+
+ Vaccine acceptance in India 
+Over 80% of the population of India have a positive response for getting anti covid shots. India has one of the lowest vaccine hesitancy in the world.
+There was vaccine hesitancy in the initial months of 2021, especially in rural India and among poor and tribal populations. Constant government and public awareness drastically reduced vaccine hesitancy. Since May 2021, more than half of daily doses administered in India have been from rural parts. Vaccine centers in India have witnessed large number of people willing to get covid vaccine resulting in overcrowding and mismanagement. Many centers across India in months of April &amp; May reported severe shortage of covid vaccines due to large crowds turning up for vaccination. In cities like Mumbai, New Delhi, Bengaluru many people even after waiting for hours did not receive their covid vaccine due to shortage. Since July, vaccine supply has drastically increased thus India is vaccinating at a very fast pace.
+
+One study published on vaccine acceptance shows that 79.5% of people from Delhi want to take a COVID-19 vaccine. In another study which was published from West Bengal, a state in Eastern India, has shown that 77.27% of people want to take the COVID-19 vaccine. According to the finding from these two studies, it can be expected that over 75% of people want to get a COVID-19 vaccine.
+
+Uttar Pradesh achieved 100% first dose saturation in COVID-19 vaccination, with over 26 crore doses administered, highest in India. The entire eligible population received the first dose by Monday evening. Nearly 70% of the adult population was fully vaccinated. Health teams praised for administering over 7 crore doses in January.
+
+ Adverse events 
+Graph:Chart
+ | width = 700
+ | height = 150
+ | type = line
+ | legend= Total AEFI Reported in India
+ | xAxisTitle= Date
+ | yAxisTitle= Report(s) of AEFI
+ | x = 1 Sep ,2 Sep ,3 Sep ,4 Sep ,5 Sep ,6 Sep ,7 Sep ,8 Sep ,9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep
+ | y = 95,119,105,105,31,103,162,109,93,79,112,22,95,83,101,64,195,113,35
+
+
+Like many other vaccinations, COVID-19 vaccines also have a risk of causing side effects. According to India's Union Ministry of Health and Family Welfare, the most common side-effects include pain or swelling at the injection site, fever, irritability and headaches. The UK Government also lists fatigue, nausea and joint pain as common side-effects of the Oxford vaccine (known as Covishield in India). Medical experts maintain that vaccines used are safe and their benefits outweigh the risks. It is also important to note that adverse cases do not necessarily have a causal relationship with the vaccines.
+
+A total of 617 serious adverse events were reported until March 29. Of these, 180 cases resulted in death. The Immunisation Technical Support Unit at the federal health ministry examined 192,000 case reports, including 12,400 deaths. In more than half of the examined cases of death, the cause of death was found to be acute coronary syndrome. However, the documentation had been completed for only 3,500 cases.
+
+By 7 June, 26,000 adverse events had been reported following immunisation. Of this, 24,901 were minor, 412 were significant and 887 were serious. 488 deaths were also reported, including 301 men and 178 women (details of 9 deaths were not available). Both vaccines had an adverse reaction rate of about 0.01% and a fatality rate of around 0.0001% - 24,703 events and 457 deaths from 210 million Covishield doses, 1,497 events and 20 deaths following 25 million Covaxin doses. Maharashtra reported the most adverse events (4,521), followed by Kerala (4,074), Karnataka (2,650) and West Bengal (1,456).
+
+On 15 June, the government published a review of case reports that had occurred between 5 February and 31 March 2021, focusing on 31 cases and one death from anaphylaxis that were believed to have been attributed to the vaccine, out of nearly 60 million doses administered in the time period. Only three of these cases, and the single death of a 68-year-old patient, were determined to be &quot;vaccine-product related&quot;, with the remainder having been classified as coincidental, indeterminate, or unclassifiable. The report stated that &quot;mere reporting of deaths and hospitalisations as serious adverse events does not automatically imply that the events were caused due to vaccines. Only properly conducted investigations and causality assessments can help in understanding if any causal relationship exists between the event and the vaccine.&quot;
+
+ References 
+ Footnote references 
+
+
+ Web References 
+
+
+ Notes 
+
+
+ External links 
+* 
+* 
+* 
+* 
+* 
+
+
+
+
+
+
+India
+vaccination
+
+</segment>
+	</text>
+</file>

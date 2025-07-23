@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-07-13T02:06:48Z" sourceCorpus="COVID-19" filename="67445633" title="SARS-CoV-2_Delta_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant">
+	<text>
+		<segment id="id67445633">The Delta variant (B.1.617.2) was a variant of SARS-CoV-2, the virus that causes COVID-19. It was first detected in India on 5 October 2020. The Delta variant was named on 31 May 2021 and had spread to over 179 countries by 22 November 2021. The World Health Organization (WHO) indicated in June 2021 that the Delta variant was becoming the dominant strain globally.
+
+It has mutations in the gene encoding the SARS-CoV-2 spike protein causing the substitutions T478K, P681R and L452R, which are known to affect transmissibility of the virus as well as whether it can be neutralised by antibodies for previously circulating variants of the COVID-19 virus. In August 2021, Public Health England (PHE) reported secondary attack rate in household contacts of non-travel or unknown cases for Delta to be 10.8% vis-à-vis 10.2% for the Alpha variant; the case fatality rate for those 386,835 people with Delta is 0.3%, where 46% of the cases and 6% of the deaths are unvaccinated and below 50 years old. Immunity from previous recovery or COVID-19 vaccines are effective in preventing severe disease or hospitalisation from infection with the variant.
+
+On 7 May 2021, PHE changed their classification of lineage B.1.617.2 from a variant under investigation (VUI) to a variant of concern (VOC) based on an assessment of transmissibility being at least equivalent to B.1.1.7 (Alpha variant); the UK's SAGE using May data estimated a &quot;realistic&quot; possibility of being 50% more transmissible. On 11 May 2021, the WHO also classified this lineage VOC, and said that it showed evidence of higher transmissibility and reduced neutralisation. On 15 June 2021, the Centers for Disease Control and Prevention (CDC) declared Delta a variant of concern.
+
+The variant is thought to be partly responsible for India's deadly second wave of the pandemic beginning in February 2021. It later contributed to a third wave in Fiji, the United Kingdom and South Africa, and the WHO warned in July 2021 that it could have a similar effect elsewhere in Europe and Africa. By late July, it had also driven an increase in daily infections in parts of Asia, the United States, Australia, and New Zealand.
+
+ Classification 
+The Delta variant has mutations in the gene encoding the SARS-CoV-2 spike protein causing the substitutions D614G, T478K, P681R and L452R. It is identified as the 21A, 21I, and 21J clades under the Nextstrain phylogenetic classification system.
+
+ Names 
+The virus has also been referred to by the term &quot;Indian Variant&quot; as it was originally detected in India. However, the Delta variant is only one of three variants of the lineage B.1.617, all of which were first detected in India. At the end of May 2021, the WHO assigned the label Delta to lineage B.1.617.2 after introducing a new policy of using Greek letters for variants of concern and variants of interest.
+
+Other sublineages of B.1.617
+There are three sublineages of lineage B.1.617 categorised so far.
+
+B.1.617.1 (Kappa variant) was designated a Variant Under Investigation in April 2021 by Public Health England. Later in April 2021, two other variants B.1.617.2 and B.1.617.3 were designated as Variants Under Investigation. While B.1.617.3 shares the L452R and E484Q mutations found in B.1.617.1, B.1.617.2 lacks the E484Q mutation. B.1.617.2 has the T478K mutation, not found in B.1.617.1 and B.1.617.3. Simultaneously, the ECDC released a brief maintaining all three sublineages of B.1.617 as VOI, estimating that a &quot;greater understanding of the risks related to these B.1.617 lineages is needed before any modification of current measures can be considered&quot;.
+
+Mutations
+
+
+The Delta/ B.1.617.2 genome has at least 13 mutations which produce alterations in the amino-acid sequences of the proteins it encodes.
+
+The list of spike protein mutations is: 19R, (G142D), Δ156-157, R158G, L452R, T478K, D614G, P681R, D950N  according to GVN, or T19R, G142D, del 156–157, R158G, L452R, T478K, D614G, P681R according to Genscript  Four of them, all of which are in the virus's spike protein code, are of particular concern:
+* D614G. The substitution at position 614, an aspartic acid-to-glycine substitution, is shared with other highly transmissible variants like Alpha, Beta and Gamma.
+* T478K. The exchange at position 478 is a threonine-to-lysine substitution.
+* L452R. The substitution at position 452, a leucine-to-arginine substitution, confers stronger affinity of the spike protein for the ACE2 receptor and decreased recognition capability of the immune system.
+* P681R. The substitution at position 681, a proline-to-arginine substitution, which, according to William A. Haseltine, may boost cell-level infectivity of the variant &quot;by facilitating cleavage of the S precursor protein to the active S1/S2 configuration&quot;.
+
+The E484Q mutation is not present in the B.1.617.2 genome.
+
+Lineages
+As of August 2021, Delta variants have been subdivided in the Pango lineage designation system into variants from AY.1 to AY.28. However, there is no information on whether such classification correlates with biological characteristic changes of the virus. It is said that, as of August 2021, AY.4 to AY.11 are predominant in the UK, AY.12 in Israel, AY.2, AY.3, AY.13, AY.14, AY.25 in the US, AY.20 in the US and Mexico, AY.15 in Canada, AY.16 in Kenya, AY.17 in Ireland and Northern Ireland, AY.19 in South Africa, AY.21 in Italy and Switzerland, AY.22 in Portugal, AY.24 in Indonesia, and AY.23 in Indonesia, Singapore, Japan, and South Korea.
+
+&quot;Delta plus&quot; variant
+
+Delta with K417N originally corresponded to lineages AY.1 and AY.2, subsequently also lineage AY.3, and has been nicknamed &quot;Delta plus&quot; or &quot;Nepal variant&quot;. It has the K417N mutation, which is also present in the Beta variant. The exchange at position 417 is a lysine-to-asparagine substitution.
+
+As of mid-October 2021, the AY.3 variant accounted for a cumulative prevalence of approximately 5%  in the United States, and 2% worldwide. In mid-October the AY.4.2 Delta sublineage was expanding in England, and being monitored and assessed. It contains mutations A222V and Y145H in its spike protein, not considered of particular concern. It has been suggested that AY.4.2 might be 10-15% more transmissible than the original Delta variant. Mid-October 2021, AY.4.2 accounted for an estimated 10% of cases, and has led to an additional growth rate rising to about 1% (10% of 10%) per generational time of five days or so. This additional growth rate would grow with increasing prevalence. Without AY.4.2 and no other changes, the number of cases in the UK would have been about 10% lower. AY.4.2 grows about 15% faster per week. In the UK it was reclassified as a &quot;variant under investigation&quot; (but not &quot;of concern&quot;) in late October 2021. In Denmark, after a drop in AY.4.2 cases, a new fast surge was detected and monitored, but was not yet considered a cause of concern.
+
+Symptoms
+
+The most common symptoms may have changed from the most common symptoms previously associated with standard COVID-19. Infected people may mistake the symptoms for a bad cold and not realize they need to isolate. Common symptoms reported have been headaches, sore throat, a runny nose or a fever.
+
+Prevention
+
+
+
+WHO has not issued preventative measures against Delta specifically; non-pharmaceutical measures recommended to prevent wild type COVID-19 should still be effective.  These would include washing hands, wearing a mask, maintaining distance from others, avoiding touching the mouth, nose or eyes, avoiding crowded indoor spaces with poor ventilation especially where people are talking, going to get tested if one develops symptoms and isolating if one becomes sick.  Public Health authorities should continue to find infected individuals using testing, trace their contacts, and isolate those who have tested positive or been exposed.  Event organizers should assess the potential risks of any mass gathering and develop a plan to mitigate these risks.  See also Non-pharmaceutical intervention (epidemiology).
+
+The Indian Council of Medical Research (ICMR) found that convalescent sera of the COVID-19 cases and recipients of Bharat Biotech's BBV152 (Covaxin) were able to neutralise VUI B.1.617 although with a lower efficacy.
+
+Anurag Agrawal, the director of the Institute of Genomics and Integrative Biology (IGIB), said the study on the effectiveness of the available vaccines on lineage B.1.617 suggests that post-vaccination, the infections are milder.
+
+Anthony Fauci, the Chief Medical Advisor to the President of the United States, has also expressed his confidence regarding the preliminary results. In an interview on 28 April, he said: 
+
+Another study by the Centre for Cellular and Molecular Biology (CCMB) in Hyderabad found Covishield (Oxford–AstraZeneca) vaccinated sera offers protection against lineage B.1.617.
+
+A study conducted by Public Health England (PHE), found that compared to those who were unvaccinated those who were vaccinated with either the Pfizer-BioNTech or AstraZeneca-Oxford had 33% less instances of symptomatic disease caused by the variant after the first dose. Among those who were two weeks after the receiving their second dose of the Pfizer-BioNTech vaccine 88% less subjects had symptomatic disease from the Delta variant versus those that were unvaccinated. Among those who were two weeks after the receiving their second dose of the AstraZeneca-Oxford vaccine 60% less subjects had symptomatic disease from the Delta variant versus those that were unvaccinated.
+
+A study by a group of researchers from the Francis Crick Institute, published in The Lancet, shows that humans fully vaccinated with the Pfizer-BioNTech vaccine are likely to have more than five times lower levels of neutralizing antibodies against the Delta variant compared to the original COVID-19 strain.
+
+In June 2021, PHE announced it had conducted a study which found that after two shots, the Pfizer-BioNTech vaccine and the AstraZeneca vaccine are respectively 96% and 92% effective at preventing hospitalisation from the Delta variant.
+
+On July 3, researchers from the universities of Toronto and Ottawa in Ontario, Canada, released a preprint study suggesting that the Moderna vaccine may be effective against death or hospitalization from the Delta variant.
+
+In a study of the University of Sri Jayewardenepura in July 2021 found the Sinopharm BIBP vaccine caused seroconversion in 95% of individuals studied that had received both doses of the vaccine. The rate was higher in 20-39 age group (98.9%) but slightly lower in the over 60 age group (93.3%). Neutralising antibodies were present among 81.25% of the vaccinated individuals studied.
+
+On 29 June 2021, the director of the Gamaleya Institute, Denis Logunov, said that Sputnik V is about 90% effective against the Delta variant.
+
+On July 21, researchers from PHE published a study finding that the Pfizer vaccine was 93.7% effective against symptomatic disease from Delta after 2 doses, while the Astrazeneca vaccine was 67% effective.
+
+On August 2, several experts expressed concern that achieving herd immunity may not currently be possible because the Delta variant is transmitted among those immunized with current vaccines.
+
+On August 10, a study showed that the full vaccination coverage rate is correlated inversely to the SARS-CoV-2 delta variant mutation frequency in 16 countries (R-squared=0.878). Data strongly indicates that full vaccination against COVID-19 may slow down virus evolution.
+
+Treatment
+
+In vitro experiments suggest that bamlanivimab may not be effective against Delta on its own.  At high enough concentrations, casirivimab, etesevimab and imdevimab appear to still be effective.  A preprint study suggests that sotrovimab may also be effective against Delta.  Doctors in Singapore have been using supplemental oxygen, remdesivir and corticosteroids on more Delta patients than they did on previous variants.
+
+Epidemiology
+
+
+ Transmissibility 
+UK scientists have said that the Delta variant is between 40% and 60% more transmissible than the previously dominant Alpha variant, which was first identified in the UK (as the Kent variant). Given that Alpha is already 150% as transmissible as the original SARS-CoV-2 strain that emerged in late 2019 in Wuhan, and if Delta is 150% as transmissible as Alpha, then Delta may be 225% as transmissible as the original strain. BBC reported that R_0basic reproduction number, or the expected number of cases directly generated by one case in a population where all individuals are susceptible to infectionfor the first detected SARS-CoV-2 virus is 2.4–2.6, whereas Alpha's reproduction number is 4–5 and Delta's is 5–9. These basic reproduction numbers can be compared to MERS (0.29-0.80), seasonal influenza (1.2–1.4), Ebola (1.4–1.8), common cold (2–3), SARS (2–4), smallpox (3.5–6), and chickenpox (10–12). Due to Delta's high transmissibility even those that are vaccinated are vulnerable, albeit to a lesser extent.
+
+A study published online (not peer-reviewed) by Guangdong Provincial Center for Disease Control and Prevention may partly explain the increased transmissibility: people with infection caused by Delta had 1,000 times more copies of the virus in the respiratory tracts than those with infection caused by variants first identified in the beginning of the pandemic; and it took on average 4 days for people infected with Delta for the virus to be detectable compared to 6 days with initially identified variants.
+
+Surveillance data from the U.S., Germany and the Netherlands in June and July 2021 indicated the Delta variant was growing by about a factor of 4 every two weeks with respect to the Alpha variant.
+
+In India, the United Kingdom, Portugal, Russia, Mexico, Australia, Indonesia, South Africa, Germany, Luxembourg, the United States, the Netherlands, Denmark, France and probably many other countries, the Delta variant had become the dominant strain by July 2021. Depending on country, there is typically a lag from a few days to several weeks between cases and variant reporting.  As of July 20, 2021, this variant had spread to 124 countries, and WHO had indicated that it was becoming the dominant strain, if not one already.
+
+In the Netherlands, the virus was still able to propagate significantly in the population with over 93.4% of blood donors being tested positive for SARS-CoV-2 antibodies after week 28, 2021. Many people there are not fully vaccinated, so those antibodies would have been developed from exposure to the wild virus or from a vaccine. Similar high seroimmunity levels occur in the United Kingdom in blood donors and general surveillance.
+
+A preprint found that the viral load in the first positive test of infections with the variant was on average ~1000 times higher than with compared infections during 2020. Preliminary data from a study with 100,000 volunteers in the UK from May to July 2021, when Delta was spreading rapidly, indicates that vaccinated people who test positive for COVID-19, including asymptomatic cases, have a lower viral load in average. Data from the US, UK, and Singapore indicate that vaccinated people infected by Delta may have viral loads as high as unvaccinated infected people, but might remain infectious for a shorter period.
+
+ Infection age groups 
+Surveillance data from the Indian government's Integrated Disease Surveillance Programme (IDSP) shows that around 32% of patients, both hospitalised and outside hospitals, were aged below 30 in the second wave compared to 31% during the first wave, among people aged 30–40 the infection rate stayed at 21%. Hospitalisation in the 20–39 bracket increased to 25.5% from 23.7% while the 0–19 range increased to 5.8% from 4.2%. The data also showed a higher proportion of asymptomatic patients were admitted during the second wave, with more complaints of breathlessness.
+
+ Virulence 
+
+
+A few early studies suggest the Delta variant causes more severe illness than other strains. On 7 June 2021, researchers at the National Centre for Infectious Diseases in Singapore posted a paper suggesting that patients testing positive for Delta are more likely to develop pneumonia and/or require oxygen than patients with wild type or Alpha. On June 11, Public Health England released a report finding that there was &quot;significantly increased risk of hospitalization&quot; from Delta as compared with Alpha; the risk was approximately twice as high for those infected with the Delta variant. On June 14, researchers from Public Health Scotland found that the risk of hospitalization from Delta was roughly double that of from Alpha. On July 7, a preprint study from epidemiologists at the University of Toronto found that Delta had a 120% greater – or more than twice as large – risk of hospitalization, 287% greater risk of ICU admission and 137% greater risk of death compared to non-variant of concern strains of SARS-COV-2. However, on July 9, Public Health England reported that the Delta variant in England had a case fatality rate (CFR) of 0.2%, while the Alpha variant's case fatality rate was 1.9%, although the report warns that &quot;case fatality rates are not comparable across variants as they have peaked at different points in the pandemic, and so vary in background hospital pressure, vaccination availability and rates and case profiles, treatment options, and impact of reporting delay, among other factors.&quot; James McCreadie, a spokesperson for Public Health England, clarified &quot;It is too early to assess the case fatality ratio compared to other variants.&quot;
+
+A Canadian study released on 5 October 2021 revealed that the Delta variant caused a 108 percent rise in hospitalization, 235 percent increase in ICU admission, and a 133 percent surge in death compared to other variants. is more serious and resulted in an increased risk of death compared to previous variants, odds that are significantly decreased with immunization.
+
+Statistics
+The chance of detecting  a Delta case varies significantly, especially depending on a country's sequencing rate (less than 0.05% of all COVID-19 cases have been sequenced in the lowest-sequencing countries to around 50 percent in the highest).
+
+By 22 June 2021, more than 4,500 sequences of the variant had been detected in about 78 countries. Reported numbers of sequences in countries with detections are:
+
+
+History
+The first cases of the variant outside India were detected in late February 2021, including the United Kingdom on 22 February, the United States on 23 February and Singapore on 26 February.
+
+British scientists at Public Health England redesignated the B.1.617.2 variant on 7 May 2021 as &quot;variant of concern&quot; (VOC-21APR-02), after they flagged evidence in May 2021 that it spreads more quickly than the original version of the virus. Another reason was that they identified 48 clusters of B.1.617.2, some of which revealed a degree of community transmission. With cases from the Delta variant having risen quickly, British scientists considered the Delta variant having overtaken the Alpha variant as the dominant variant of SARS-CoV-2 in the UK in early June 2021. Researchers at Public Health England later found that over 90% of new cases in the UK in the early part of June 2021 were the Delta variant; they also cited evidence that the Delta variant was associated with an approximately 60% increased risk of household transmission compared to the Alpha variant.
+
+Canada's first confirmed case of the variant was identified in Quebec on 21 April 2021, and later the same day 39 cases of the variant were identified in British Columbia. Alberta reported a single case of the variant on 22 April 2021. Nova Scotia reported two Delta variant cases in June 2021.
+
+Fiji also confirmed its first case of the variant on 19 April 2021 in Lautoka, and has since then climbed up to 47,000 cases and counting. The variant has been identified as a super-spreader and has led to the lockdowns of five cities (Lautoka, Nadi, Suva, Lami and Nausori), an area which accounts for almost two-thirds of the country's population.
+
+On 29 April 2021, health officials from Finland's Ministry of Social Affairs and Health (STM) and the Finnish Institute for Health and Welfare (THL) reported that the variant had been detected in three samples dating back to March 2021.
+
+The Philippines confirmed its first two cases of the variant on 11 May 2021, despite the imposed travel ban of the country from the nations in the Indian subcontinent (except for Bhutan and Maldives). Both patients have no travel history from India for the past 14 days, but instead from Oman and UAE.
+
+North Macedonia confirmed its first case of the variant on 7 June 2021 after a person who was recovering from the virus in Iraq was transported to North Macedonia. In a laboratory test, the variant was detected in the person. On 22 June 2021, the country reported its second case of the Delta variant in a colleague of the first case who had also been in Iraq and who subsequently developed symptoms.
+
+The detection of B.1.617 was hampered in some countries by a lack of specialised kits for the variant and laboratories that can perform the genetic test. For example, as of 18 May, Pakistan had not reported any cases, but authorities noted that 15% of COVID-19 samples in the country were of an &quot;unknown variant&quot;; they could not say if it was B.1.617 because they were unable to test for it. Other countries had reported travellers arriving from Pakistan that were infected with B.1.617.
+
+In June 2021, scientist Vinod Scaria of India's Institute of Genomics and Integrative Biology highlighted the existence of the B.1.617.2.1 variant, also known as AY.1 or Delta plus, which has an additional K417N mutation compared to the Delta variant. B.1.617.2.1 was detected in Europe in March 2021, and has since been detected in Asia and America.
+
+On 23 June 2021, the European Centre for Disease Prevention and Control (ECDC) warned that the variant would represent 90% of all new cases in the European Union by the end of August.
+
+By 3 July 2021, Delta became dominant in the US.
+
+On 9 July 2021, Public Health England issued Technical Briefing 18 on SARS-CoV-2 variants, documenting 112 deaths among 45,136 UK cases of SARS-CoV-2 Delta variant with 28 days follow-up with a fatality rate of 0.2%. Briefing 16 notes that &quot;[M]ortality is a lagged indicator, which means that the number of cases who have completed 28 days of follow up is very low – therefore, it is too early to provide a formal assessment of the case fatality of Delta, stratified by age, compared to other variants.&quot;  Briefing 18 warns that &quot;Case fatality is not comparable across variants as they have peaked at different points in the pandemic, and so vary in background hospital pressure, vaccination availability and rates and case profiles, treatment options, and impact of reporting delay, among other factors.&quot;  The most concerning issue is the logistic growth rate of 0.93/week relative to Alpha. This means that per week, the number of Delta samples/cases is growing by a factor of exp (0.93)=2.5 with respect to the Alpha variant. This results, under the same infection prevention measures, in a much greater case load over time until a large fraction of people have been infected by it.
+
+Government responses
+
+After the rise in cases from the second wave, at least 20 countries imposed travel bans and restrictions on passengers from India in April and May. UK prime minister Boris Johnson cancelled his visit to India twice, while Japanese Prime Minister Yoshihide Suga postponed his April trip.
+
+In May 2021, residents of two tower blocks in Velbert, Germany, were quarantined after a woman in the building tested positive for the Delta variant.
+
+In May, Delhi Chief Minister Arvind Kejriwal said that a new coronavirus variant from Singapore was extremely dangerous for children and could result in a third wave in India.
+
+From 16 May to 13 June 2021, as well as 22 July 2021 to 10 August 2021; Singapore entered lockdowns, known as &quot;Phase 2 Heightened Alert&quot;, similar to 2020.
+
+On 14 June, the British prime minister Boris Johnson announced that the proposed end of all restrictions on 21 June in the United Kingdom was delayed for up to four weeks and vaccination roll-out was accelerated following concerns over the Delta variant, which accounted for the vast majority (90%) of new infections. UK scientists have said that the Delta variant is between 40% and 60% more transmissible than the previously dominant Alpha variant, which was first identified in the UK (as the Kent variant).
+
+On 23 June, the province of Ontario in Canada accelerated 2nd dose vaccine appointments for people living in Delta hot spots such as Toronto, Peel and Hamilton.
+
+On 25 June, Israel restored their mask mandate citing the threat of Delta.
+
+On 28 June, Sydney and Darwin went back into lockdown because of Delta outbreaks. South Africa banned indoor and outdoor gatherings apart from funerals, imposed a curfew, and banned the sale of alcohol.
+
+On 3 July, the islands of Bali and Java in Indonesia went into emergency lockdown.
+
+On 8 July, Japanese Prime Minister Yoshihide Suga announced that Tokyo would once again enter a state of emergency, and that most spectators would be barred from attending the Olympics set to start there on 23 July.
+
+On 9 July, Seoul, South Korea ramped up restrictions urging people to wear masks outdoors, and limiting the size of gatherings.
+
+On 12 July, French President Emmanuel Macron announced that all health care workers will need to be vaccinated by 15 September and that France will start using health passports to enter bars, cafés, restaurants and shopping centres from August.
+
+Los Angeles announced it will require masks indoors starting 17 July 2021.
+
+The United Kingdom lifted most COVID-19 restrictions on 19 July, despite a surge in cases as the Delta variant became dominant. The government cited the protection and wide coverage of the COVID-19 vaccination programme, although health experts expressed concern at the move.
+
+On 23 July, Vietnam extended its lockdown of Ho Chi Minh City to 1 August, and announced lockdown restrictions would be put in place in Hanoi, affecting a third of the country's population. The Delta variant had brought upon the country's largest outbreak to date, after mostly successful containment measures throughout 2020.
+
+On 17 August, New Zealand went into an alert level 4 lockdown, following a positive case being reported in Auckland. More cases soon followed in the Coromandel Peninsula. This was the first reported community transmission case in the country in 170 days (since February 2021).
+
+ Extinction 
+In October 2021, Dr Jenny Harries, chief executive of the UK Health and Security Agency stated that previous circulating variants such as Alpha had 'disappeared' and replaced by the Delta variant. In March 2022, the World Health Organization listed the Alpha, Beta and Gamma variants as previously circulating citing lack of any detected cases in the prior weeks and months, in part due to the dominance of the Delta variant and subsequent Omicron variant. However within a few months the Delta variant was listed as a previously circulated variant with countries such as Australia going 12 weeks without any detections of Delta.
+
+See also
+
+* Variants of SARS-CoV-2: Alpha, Beta, Gamma, Epsilon, Zeta, Eta, Theta, Iota, Kappa, Lambda, Mu, Omicron, Lineage B.1.617
+
+ Notes 
+
+
+ References 
+
+
+
+
+External links
+
+
+* [https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data#Variant11 Public Health England: Variants of concern or under investigation, B.1.617]
+
+
+
+
+S004
+
+</segment>
+	</text>
+</file>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-07-18T00:54:32Z" sourceCorpus="COVID-19" filename="66381394" title="SARS-CoV-2_Gamma_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Gamma_variant">
+	<text>
+		<segment id="id66381394">The Gamma variant (P.1) was one of the variants of SARS-CoV-2, the virus that causes COVID-19. This variant of SARS-CoV-2 has been named lineage P.1 and has 17 amino acid substitutions, ten of which in its spike protein, including these three designated to be of particular concern: N501Y, E484K and K417T. It was first detected by the National Institute of Infectious Diseases (NIID) of Japan, on 6 January 2021 in four people who had arrived in Tokyo having visited Amazonas, Brazil, four days earlier. It was subsequently declared to be in circulation in Brazil. Under the simplified naming scheme proposed by the World Health Organization, P.1 was labeled Gamma variant, and was considered a variant of concern until March 2022, when it was largely displaced by the delta and omicron variants.
+
+Gamma caused widespread infection in early 2021 in the city of Manaus, the capital of Amazonas, although the city had already experienced widespread infection in May 2020, with a study indicating high seroprevalence of antibodies for SARS-CoV-2. A research article published in Science Journal indicate that P.1 infected people have a greater chance of transmissibility and death than B.1.1.28 infected ones.
+
+The Gamma variant comprises the two distinct subvariants 28-AM-1 and 28-AM-2, which both carry the K417T, E484K, N501Y mutations, and which both developed independently of each other within the same Brazilian Amazonas region.
+
+Gamma is notably different from the Zeta variant (lineage P.2) which also circulated strongly in Brazil. In particular, Zeta only carries the E484K mutation and has neither of the other two mutations of concern, N501Y and K417T.
+
+Classification
+
+Initial reports claimed that both P.1 and P.2 were two separate and different descendants of the Brazilian lineage B.1.1.248. However, B.1.1.248 later lost its status as a distinct lineage and was reclassified to B.1.1.28. P.1 has also been called B.1.1.28.1, while P.2 has been B.1.1.28.2 or VUI-202101/01. Since only three sublevels are permitted in the PANGO Lineage system of nomenclature, hence the designation of B.1.1.28.1 to P.1 and B.1.1.28.2 to P.2.
+
+Following its detection, genome data for four samples of the new variant were shared to GISAID having been assigned the ID range: EPI_ISL_792680 to EPI_ISL_792683.
+
+ Mutations 
+
+
+Variants of SARS-CoV-2
+
+As well as having eight mutations (four of these synonymous genetic mutations) in its open reading frames (ORF1a and ORF1b) – one of which is a set of deletions – Gamma has 10 defining mutations in its spike protein, including N501Y and E484K. It also has two mutations – one an insertion – in its ORF8 gene and one in its N gene.
+
+
+
+Descendant and sublineages
+Coronavirus lineage B.1.1.28 has originated four known lineages classified as variant of interest (VOI) or variant of concern (VOC): lineages P.1, P.2, P.3 and P.4.
+
+Lineage P.2 (B.1.1.28.2, Zeta variant), first detected in October 2020 in the state of Rio de Janeiro, Brazil, only shares one mutation of concern with P.1, which is the E484K. The other P.2 mutations are without concern and rarely found for other variants. The five P.2-specific mutations are: E484K in S-gene, A119S in N-gene, 5’UTR C100U, plus L3468V and synC11824U in ORF1ab-gene. Other mutations commonly found in P.2 are: 3’UTR C29754U, F120F (synC28253U) in ORF8, M234I in the N-gene, plus L3930F and synA12964G in ORF1ab.
+
+Lineage P.3 (Theta variant) was first identified in the Philippines on 18 February 2021 when two mutations of concern were detected in Central Visayas.
+
+The remaining B.1.1.28 derivative virus is lineage P.4. Although researchers have not identified its precise origin, it was first sequenced in Itirapina, Brazil, and was already circulating in various municipalities in the state of São Paulo of the same country. It carries a mutation of concern in the spike protein called L452R which is also present in lineage B.1.617 (Delta and Kappa variants) detected in India, Epsilon variant (lineages B.1.427 and B.1.429) from California, United States. The branch of this lineage is P.4.1 (VUI-NP13L)—suspected to have arisen in Goiás, Brazil, around June–July 2020— also rapidly spread to the southeast of the country, where for example Taquara had its first genome sequence, and to the northeast of the nation. It was detected internationally, with reported cases in Japan, Netherlands and England. The P.4.1 has V1176F and D614G mutations in spike protein.
+
+ Prevention 
+
+
+ Statistics 
+
+
+History
+On 12 January 2021, the Brazil–United Kingdom CADDE Centre confirmed 13 local cases of lineage P.1 in Manaus, Amazonas state, the largest city of the Amazon rain forest. The new lineage was absent in 27 samples collected from March to November 2020 from Manaus, but it was identified for the same city in 42% (n=13/31) of the samples collected 15–23 December 2020, followed by 52.2% (n=35/67) during 15–31 December 2020 and 85.4% (n=41/48) during 1–9 January 2021. Most notably, the P.2 was rapidly outcompeted by P1 going from the second half of December to 1–9 January, where the lineage P.2 share for Manaus decreased from 25.4% to 6.3%.
+
+A study of 180 sequenced Brazilian samples collected in the state of Rio de Janeiro during 2020, identified emergence of the novel lineage P.2 of SARS-CoV-2 (originating from B.1.1.28). P.2 was first detected by genome sequencing in October 2020, but it was estimated to have emerged in early July 2020. As of December 2020, although having significantly increased in frequency throughout the state, it was still largely confined to the state capital Rio de Janeiro. In May 2020 the main lineages behind the COVID-19 positives were B.1.1.33 (70%) and B.1.1.28 (20%), whereas by September the main lineages were B.1.1.33 (50%) and B.1.1.28 (40%), with no detected presence of P.2, while during October and November P.2 was the most common lineage with a share close to 50% (according to the Pangolin tool). The study also found the E484K mutation as &quot;widely spread&quot; across all analysed P.2 samples (36 out of 38).
+
+Researchers at the Oswaldo Cruz Foundation published a preprint genomic epidemiology study of 250 collected genomes from different places in Amazonas and found that P.1 infections can produce nearly 10 times more viral load than in other COVID-19-infected persons involving lineages B.1.1.28 and B.1.195. The lineage also showed 2.2 times higher transmissibility with the same ability to infect both adults (18–59 years old) and older persons (60 years old and higher), suggesting P.1 and its sublineages are more successful at infecting younger humans with no gender differential.
+
+The Centre for Arbovirus Discovery, Diagnosis, Genomics and Epidemiology (CADDE) produced another journal article of samples collected in Manaus between November 2020 and January 2021. The study indicated lineage P.1 to be about  more transmissible and was shown to be capable of evading about  of inherited immunity from previous coronavirus diseases, leading to the possibility of reinfection. These increased statistics also had the same reflection in fatality, in that P.1 infections can be about  more lethal. As part of ongoing research, the variant's capacity to neutralise antibodies has been evaluated by scientists in a published preprint work demonstrating that 8 CoronaVac-immunised persons had a poor blood plasma response against lineage P.1. Since the study only had a small number of participants, it was not possible to establish any statistical conclusion as a larger number of vaccinated people would need to be studied. Scientists at MIT, Harvard and Cambridge, and hospitals physicians in Boston, corroborated that people fully vaccinated with Pfizer and Moderna vaccines have significantly decreased neutralisation with P.1—in a preprint work.
+
+ Extinction 
+In March 2022, the World Health Organization listed the Alpha, Beta and Gamma variants as previously circulating citing lack of any detected cases in the prior weeks and months.
+
+See also
+
+* Variants of SARS-CoV-2: Alpha, Beta, Delta, Epsilon, Zeta, Eta, Theta, Iota, Kappa, Lambda, Mu, Omicron
+
+Notes
+
+
+ References 
+
+
+External links
+* [https://cov-lineages.org/global_report.html PANGO lineages: New variant report -Report on global distribution of 3 variants including P.1, a descendent of B.1.1.28]
+* [https://www.cogconsortium.uk/wp-content/uploads/2021/01/Report-2_COG-UK_SARS-CoV-2-Mutations.pdf COG-UK Report on SARS-CoV-2 Spike mutations of interest in the UK]
+
+
+
+
+S003</segment>
+	</text>
+</file>

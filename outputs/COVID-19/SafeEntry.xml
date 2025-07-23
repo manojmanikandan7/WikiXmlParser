@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2024-10-15T03:12:11Z" sourceCorpus="COVID-19" filename="67657719" title="SafeEntry" url="https://en.wikipedia.org/wiki/SafeEntry">
+	<text>
+		<segment id="id67657719">thumb|right|SafeEntry logo
+
+SafeEntry was a national check-in system which enables the logging of visitors at various locations during the COVID-19 pandemic in Singapore, allowing health authorities to track and isolate confirmed clusters. It was used in tandem with TraceTogether, the national contact tracing platform in Singapore. The system was deactivated on 9 February 2023 after authorities determined there was no longer a need for the system.
+
+ History 
+During the first lockdown, SafeEntry was introduced after buildings restricted entrance accesses on 24 April 2020. Patrons had to scan the barcode on their National Registration Identity Card with it, officers were stationed to limit entry, the system was eventually rolled out to all locations where the public has access to, with the exception of private homes by 9 May 2020.
+
+On 22 April 2021, the Ministry of Health (MOH) and Smart Nation and Digital Government Group (SNDGG) announced that TraceTogether will be mandatory for checking in to various venues and events from 1 June onwards. This was subsequently brought forward to 17 May 2021 in a later announcement on 4 May, in response to a recent spike in community cases. Other methods of checking in – scanning the SafeEntry QR codes with a different QR mobile app, or using the SingPass app – will be discontinued, while the use of identification cards will be allowed only until 31 May 2021.
+
+Since 26 April 2022, the usage of the SafeEntry system was limited to large events with 500 participants, and nightlife entertainment establishments with dancing facilities as Singapore began to return to normalcy.
+
+On 9 February 2023, authorities announced that the system was no longer required. The SafeEntry app (as well as TraceTogether app) could be uninstalled from handphones as well. Authorities have also announced that the data collected through the system has been deleted from their servers.
+
+ Design 
+multiple image
+| total_width = 200
+| image1 = SafeEntry check-in system at a mall in Singapore.jpg
+| image2 = SafeEntry check-in system at a petrol kiosk in Singapore.jpg
+| footer = Two forms of the SafeEntry check-in system; left by token and app, right by QR code
+
+
+The check-in system allows a visitor to be logged into a centralised database, managed by the Singapore authorities, the locations they have visited, by the following means upon entry:
+
+# Scanning of the barcode on their National Registration Identity Card; or
+# Scanning a generated SafeEntry QR code, unique to each location, using either:
+## a generic barcode scanner app; or
+## SingPass mobile app; or
+## TraceTogether mobile app
+# Scanning of the barcode on TraceTogether token; or
+# Tapping the TraceTogether token against either a fixed TraceTogether-SafeEntry Gateway check-in device or mobile devices with TraceTogether (Business) mobile app in operation.
+
+The system also offers the ability to check out upon exiting a location through similar manner.
+
+Authorities will then retrieve the logged data from the database when there is a need to track potential close contacts of suspected or confirmed infected cases. A public portal was launched on 10 September 2020 to allow the public to check if they have been in close proximity with confirmed cases based on their SafeEntry records.
+
+ Notes 
+
+
+ References 
+
+
+
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

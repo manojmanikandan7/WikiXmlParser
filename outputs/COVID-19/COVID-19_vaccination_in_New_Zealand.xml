@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-06-14T10:03:40Z" sourceCorpus="COVID-19" filename="67067814" title="COVID-19_vaccination_in_New_Zealand" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_New_Zealand">
+	<text>
+		<segment id="id67067814">COVID-19 vaccination in New Zealand began on 20 February 2021, and will continue throughout the pandemic with the goal of vaccinating all willing New Zealanders aged 5 or older. Those aged 5 to 11 require a parent, caregiver or legal guardian accompany them to their appointment and provide consent for them to be vaccinated. As of 1 September, anyone in New Zealand, regardless of their immigration status, is eligible to be vaccinated.
+thumb|261px|First generation vaccine card
+thumb|261px|right|Second generation vaccine card
+
+
+thumb|261px|A photo of the New Zealand Governments vaccine campaign billboard
+
+Pie chart
+|caption = Vaccination rates in New Zealand as of 11:59pm 26 February 2022 for 12+.
+|label1 = Fully Vaccinated with boosters
+|value1 = 
+|label2 = Immunocompromised people who have received third shot
+|value2 = 
+|label3 = Fully vaccinated only
+|value3 = 
+|value4 = 
+|label4 = Only one dose
+|value5=|value6=|label5=Booked|label6=Unvaccinated/not booked
+
+Pie chart
+|caption = Vaccination rates in New Zealand as of 11:59pm 26 February 2022 for 5-11.
+|label1 = Fully vaccinated
+|value1 = 
+|value2 = 
+|label2 = Only one dose
+|value3=|value4=|label3=Booked|label4=Unvaccinated/not booked
+
+Vaccine tracker
+
+The Ministry of Health releases vaccine numbers almost daily. There are no planned vaccination statistics from 30 August onwards. The increased vaccination demand caused by the August 2021 outbreak means the plans collected earlier do not provide a good comparator to actual vaccination numbers. The following graphs are as of 11:59PM on 7 December 2021 NZDT.
+
+Daily vaccinations chart of New Zealand
+
+Graph:Chart
+|type = stackedrect
+|height=350
+|width=}
+|colors=#ffbe76, #e056fd, #badc58, #1e90ff
+|showValues=offset:1
+|linewidth=4
+|showSymbols=1
+|legend=
+|xAxisTitle=Date
+|xAxisAngle=-90
+|yType=number
+|yAxisMin=0
+|yGrid=true
+|yAxisMax =
+|y1Title=First dose
+|y2Title=Second dose (fully vaccinated)
+|yAxisTitle=Daily vaccinations
+ | x=14 Feb,18 Feb,19 Feb,20 Feb,21 Feb,22 Feb,23 Feb,24 Feb,25 Feb,26 Feb,27 Feb,28 Feb,1 Mar,2 Mar,3 Mar,4 Mar,5 Mar,6 Mar,7 Mar,8 Mar,9 Mar,10 Mar,11 Mar,12 Mar,13 Mar,14 Mar,15 Mar,16 Mar,17 Mar,18 Mar,19 Mar,20 Mar,21 Mar,22 Mar,23 Mar,24 Mar,25 Mar,26 Mar,27 Mar,28 Mar,29 Mar,30 Mar,31 Mar,1 Apr,2 Apr,3 Apr,4 Apr,5 Apr,6 Apr,7 Apr,8 Apr,9 Apr,10 Apr,11 Apr,12 Apr,13 Apr,14 Apr,15 Apr,16 Apr,17 Apr,18 Apr,19 Apr,20 Apr,21 Apr,22 Apr,23 Apr,24 Apr,25 Apr,26 Apr,27 Apr,28 Apr,29 Apr,30 Apr,1 May,2 May,3 May,4 May,5 May,6 May,7 May,8 May,9 May,10 May,11 May,12 May,13 May,14 May,15 May,16 May,17 May,18 May,19 May,20 May,21 May,22 May,23 May,24 May,25 May,26 May,27 May,28 May,29 May,30 May,31 May,1 Jun,2 Jun,3 Jun,4 Jun,5 Jun,6 Jun,7 Jun,8 Jun,9 Jun,10 Jun,11 Jun,12 Jun,13 Jun,14 Jun,15 Jun,16 Jun,17 Jun,18 Jun,19 Jun,20 Jun,21 Jun,22 Jun,23 Jun,24 Jun,25 Jun,26 Jun,27 Jun,28 Jun,29 Jun,30 Jun,1 Jul,2 Jul,3 Jul,4 Jul,5 Jul,6 Jul,7 Jul,8 Jul,9 Jul,10 Jul,11 Jul,12 Jul,13 Jul,14 Jul,15 Jul,16 Jul,17 Jul,18 Jul,19 Jul,20 Jul,21 Jul,22 Jul,23 Jul,24 Jul,25 Jul,26 Jul,27 Jul,28 Jul,29 Jul,30 Jul,31 Jul,1 Aug,2 Aug,3 Aug,4 Aug,5 Aug,6 Aug,7 Aug,8 Aug,9 Aug,10 Aug,11 Aug,12 Aug,13 Aug,14 Aug,15 Aug,16 Aug,17 Aug,18 Aug,19 Aug,20 Aug,21 Aug,22 Aug,23 Aug,24 Aug,25 Aug,26 Aug,27 Aug,28 Aug,29 Aug,30 Aug,31 Aug,1 Sep,2 Sep,3 Sep,4 Sep,5 Sep,6 Sep,7 Sep,8 Sep,9 Sep,10 Sep,11 Sep,12 Sep,13 Sep,14 Sep,15 Sep,16 Sep,17 Sep,18 Sep,19 Sep,20 Sep,21 Sep,22 Sep,23 Sep,24 Sep,25 Sep,26 Sep,27 Sep,28 Sep,29 Sep,30 Sep,1 Oct,2 Oct,3 Oct,4 Oct,5 Oct,6 Oct,7 Oct,8 Oct,9 Oct,10 Oct,11 Oct,12 Oct,13 Oct,14 Oct,15 Oct,16 Oct,17 Oct,18 Oct,19 Oct,20 Oct,21 Oct,22 Oct,23 Oct,24 Oct,25 Oct,26 Oct,27 Oct,28 Oct,29 Oct,30 Oct,31 Oct,1 Nov,2 Nov,3 Nov,4 Nov,5 Nov,6 Nov,7 Nov,8 Nov,9 Nov,10 Nov,11 Nov,12 Nov,13 Nov,14 Nov,15 Nov,16 Nov,17 Nov,18 Nov,19 Nov,20 Nov,21 Nov,22 Nov,23 Nov,24 Nov,25 Nov,26 Nov,27 Nov,28 Nov,29 Nov,30 Nov,1 Dec,2 Dec,3 Dec,4 Dec,5 Dec,6 Dec,7 Dec,8 Dec,9 Dec,10 Dec,11 Dec,12 Dec,13 Dec,14 Dec,15 Dec,16 Dec,17 Dec,18 Dec,19 Dec,20 Dec,21 Dec,22 Dec,23 Dec,24 Dec,25 Dec,26 Dec,27 Dec,28 Dec,29 Dec,30 Dec,31 Dec,1 Jan,2 Jan,3 Jan,4 Jan,5 Jan,6 Jan,7 Jan,8 Jan,9 Jan,10 Jan,11 Jan,12 Jan,13 Jan,14 Jan,15 Jan,16 Jan,17 Jan,18 Jan,19 Jan,20 Jan,21 Jan,22 Jan,23 Jan,24 Jan,25 Jan,26 Jan,27 Jan,28 Jan,29 Jan,30 Jan,1 Jan,2 Jan,3 Jan,4 Jan,5 Jan,6 Jan,7 Jan,8 Jan,9 Jan,10 Jan,11 Jan,12 Jan,13 Jan,14 Jan,15 Jan,16 Jan,17 Jan,18 Jan,19 Jan,20 Jan,21 Jan,22 Jan,23 Jan,24 Jan,25 Jan,26 Jan,27 Jan,28 Jan,29 Jan,30 Jan,31 Jan,1 Feb,2 Feb,3 Feb,4 Feb,5 Feb,6 Feb,7 Feb,8 Feb,9 Feb,10 Feb,11 Feb,12 Feb,13, Feb,14 Feb,15 Feb,16 Feb,17 Feb,18 Feb,19 Feb,20 Feb,21 Feb,22 Feb,23 Feb,24 Feb,25 Feb,26 Feb,27 Feb,28 Feb,1 Mar,2 Mar,3 Mar,4 Mar,5 Mar,6 Mar,7 Mar,8 Mar,9 Mar,10 Mar,11 Mar,12 Mar,13 Mar,14 Mar,15 Mar,16 Mar,17 Mar,18 Mar,19 Mar,20 Mar,21 Mar,22 Mar,23 Mar,24 Mar,25 Mar,26 Mar,27 Mar,28 Mar,29 Mar,30 Mar,31 Mar,1 Apr,2 Apr,3 Apr,4 Apr,5 Apr,6 Apr,7 Apr,8 Apr,9 Apr,10 Apr,11 Apr,12 Apr,13 Apr,14 Apr,15 Apr,16 Apr,17 Apr,18 Apr,19 Apr,20 Apr,21 Apr,22 Apr,23 Apr,24 Apr,25 Apr,26 Apr,27 Apr,28 Apr,29 Apr,30 Apr,1 May,2 May,3 May,4 May,5 May,6 May,7 May,8 May,9 May,10 May,11 May,12 May,13 May,14 May,15 May,16 May,17 May,18 May,19 May,20 May,21 May,22 May,23 May,24 May,25 May,26 May,27 May,28 May,29 May,30 May,31 May,1 Jun,2 Jun,3 Jun,4 Jun,5 Jun,6 Jun,7 Jun
+ | y1=1,1,1,29,65,69,447,357,813,1100,1604,1339,885,1408,1483,1981,1632,1279,603,511,1073,1424,1315,1334,1043,751,577,1614,1928,1644,1594,1692,554,943,1036,1589,1970,1822,3377,1160,685,3808,4165,5453,5202,1725,1413,761,922,3520,5124,6466,5423,3268,2480,6044,6811,6632,6891,6867,3893,1480,5095,6097,6756,6540,8148,3275,1472,1389,6800,7303,7526,8374,3490,1624,6251,8344,9209,9201,10133,4402,1733,6884,9224,9522,9778,8957,3418,2414,7295,9273,9058,8727,8263,4407,2265,7230,9842,10958,9869,10825,5942,3322,8901,12018,12560,14135,12097,6199,3534,3937,13101,7108,13938,11977,7448,4404,10354,13079,14400,12982,11354,7378,3962,9068,11443,13111,11438,10019,8353,3592,9927,10932,12938,13106,9769,7384,3490,7778,9586,11282,12712,11083,9325,4394,9540,12068,13418,12863,11939,9456,5655,13154,18756,20806,19835,19763,17113,9051,20555,27611,29426,28236,31521,29518,17980,25703,30303,32559,29268,30390,27932,15871,26898,31118,32047,32505,31406,30425,18287,30369,35857,411,21590,38815,38396,28494,46790,59414,63440,67917,67408,56877,37106,54928,59339,63601,65253,61966,56145,27041,45330,50024,48861,46552,44190,39052,20674,34540,39760,40027,37291,33385,29336,14312,24802,27799,24558,21262,19164,19530,8281,12741,13621,14058,14172,12404,12936,7132,15000,17756,19094,19868,18749,18458,9102,15337,17678,15869,15211,14113,39703,6286,10065,10517,10522,10163,11516,11896,5373,3529,10915,10918,12834,11113,10802,4900,7205,7593,6763,6633,6450,7435,3287,5170,5920,6084,6399,6388,7222,4670,7796,6690,6226,6701,6817,6051,3110,4812,6575,6621,6430,5746,6430,3713,6253,7572,7938,8709,7450,5680,2738,4619,4415,3817,3395,2896,2771,1190,2422,2497,2442,2447,2055,1756,786,1864,1752,1576,1404,708,5,99,199,275,1137,958,666,55,134,363,404,1297,1365,1287,752,460,1401,1506,1448,1421,1461,929,563,15750,14315,13339,12988,13531,10791,6933,15687,16628,15472,14448,14137,9886,4618,6542,9887,6858,5406,5334,5374,1995,1683,3042,2778,2755,3165,4823,1520,2055,2391,2365,2302,2858,3719,1349,1752,1947,1932,2192,2755,3249,1353,1843,1838,1808,1497,1534,2300,750,877,877,921,907,852,1205,408,587,713,790,664,650,772,331,382,404,427,320,336,459,146,178,208,280,267,178,301,117,131,182,190,165,161,236,62,116,128,109,170,11,71,17,9,135,147,123,130,111,55,22,181,150,178,168,134,51,64,89,77,60,88,134,21,57,53,83,67,67,129,35,82,86,63,88,67,100,33,56,114,77,152,92,186,25,55,85,96,88,112,77,13,17,84
+ | y2=0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6,6,14,267,233,365,474,773,716,646,1218,1107,1586,1534,1291,873,491,1129,1503,1347,1253,295,335,196,291,1442,2149,1766,1934,692,1081,1726,1628,1524,1843,2636,1158,592,2037,2987,3431,3882,3547,1382,909,863,3212,3673,4958,5034,1992,1921,4490,5303,5559,5832,6758,2856,1616,5121,5901,5772,6017,7118,2818,1808,3759,5519,6402,6753,7301,3567,1544,5775,7484,7768,7032,9871,4296,1884,5568,7926,8421,9032,8357,3351,1683,1373,8759,4320,9476,9590,4496,2907,7564,9159,10033,10312,9468,4911,3347,8450,11290,11895,13001,11721,6287,3444,6459,10048,9960,9858,10318,5331,2926,7970,11336,11876,11900,10524,6488,3243,8103,10491,11448,10915,9922,7082,3075,9190,11928,13188,12523,11318,7738,4932,9983,11383,12178,11996,10652,9082,4678,9443,12545,12939,13034,11711,8900,4637,11661,15966,16943,16558,15667,13336,7408,16065,20439,102,8783,20231,15910,9102,19582,23689,26519,25533,24746,22418,11490,23786,27515,27730,25347,25926,22603,12029,21841,23488,18595,15640,21207,23343,13478,20998,22907,23246,24186,27728,24653,12608,25962,26625,25598,28582,31842,32349,16632,28314,31299,27169,32445,35530,37491,20071,41264,46437,51719,63101,67630,63844,33279,54406,55817,53538,53161,55832,91756,23507,32897,32550,32867,31490,33548,30841,13745,7206,31407,28482,32459,32090,32114,15375,20408,21496,20581,19675,21673,26617,11040,16296,16498,16088,16664,16853,20046,10020,13756,14509,14310,14165,15865,15625,6789,10557,12503,12147,11887,12300,14551,8089,11954,14454,14358,16766,17453,14066,6761,10714,10205,9430,9253,9286,8524,4263,6898,7901,8217,8348,7635,6665,3372,6304,7293,7314,7171,4478,52,741,1562,1915,6644,4920,3540,357,625,1316,1414,4626,4105,3951,2362,1386,4002,3837,3852,3599,3350,1952,1089,2489,2330,2470,2328,2185,1432,860,1897,2200,2337,2340,2231,1301,711,1150,2262,2042,1839,1795,1108,520,560,1906,1665,1631,1630,1335,545,1364,1562,1502,1411,1520,1259,650,1105,1378,1314,1295,1463,1234,619,962,1095,1150,976,975,1127,516,923,1240,1133,1056,1172,1332,751,4023,4473,4643,4803,6101,7999,3325,4047,4444,4598,4305,5659,7342,2845,3111,3086,2657,2845,3018,4023,1543,1399,1430,1483,1414,1758,2430,927,976,928,954,1329,64,627,70,175,1222,1195,1039,1153,1053,488,152,1251,1252,1122,1243,1199,356,367,369,358,354,502,729,119,250,265,357,318,340,598,223,223,230,269,240,307,461,182,239,194,204,263,303,692,137,231,209,236,289,500,461,133,70,321
+|y3=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,1,1,2,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,3,0,1,0,1,1,1,1,1,1,1,1,1,0,0,2,0,0,0,1,1,3,2,2,1,1,0,1,3,4,2,0,1,3,0,0,3,3,2,2,1,0,3,5,7,8,8,0,4,4,5,3,3,1,1,1,3,6,2,4,4,3,2,2,3,8,4,3,4,3,4,2,4,3,4,13,1,5,4,8,23,42,24,6,4,102,136,238,254,119,17,232,307,362,428,433,149,38,349,478,522,532,436,188,42,473,505,542,570,549,166,48,444,514,578,577,651,210,81,633,592,632,627,632,190,62,414,519,559,573,542,169,65,522,607,603,627,681,172,66,500,619,618,464,161,1,2,17,29,215,216,124,8,7,22,20,193,229,215,75,24,234,267,215,223,233,110,41,167,193,220,200,186,75,49,172,252,241,198,215,87,32,95,155,145,154,114,39,13,11,103,97,99,97,34,50,53,92,91,72,64,31,11,42,119,46,57,60,23,7,36,61,29,45,27,21,1,27,43,37,27,41,10,6,21,27,22,29,25,6,4,18,24,18,18,24,2,1,17,22,26,22,19,7,2,24,24,15,21,24,7,2,20,26,32,30,1,1,1,0,22,19,24,29,4,2,0,24,19,25,23,11,0,17,15,24,23,27,6,2,25,23,27,38,41,11,3,29,27,32,33,40,12,0,35,24,36,36,39,5,0,25,38,54,40,36,2,1,2,33|y3Title=Third primary doses|y4=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,0,1,0,2,0,2,4,0,0,0,1,1,0,1,1,2,0,2,0,5,0,0,2,1,2,1,5,1,0,5,4,2,0,5,0,0,2,4,1,4,1,2,0,4,3,7,7,7,3,1,3,1,5,5,7,19,1,4,5,4,13,12,7,5,4,21,7,11,11,4,1,4,10,8,14,5,6,4,7,11,9,32,18,9,10,13,26,29,20,33,25,118,185,163,267,300,4531,4507,2258,23016,19227,17287,13989,13957,7325,2421,9549,9234,9460,8645,8408,4771,2004,8983,9639,9696,10159,11216,6972,3018,11874,12292,13670,12421,8216,51,913,2359,2919,15996,17355,13372,1016,2223,4500,5320,41667,44084,45111,21918,10789,48415,46756,42619,42158,41280,22357,9661,37517,39430,36841,38353,42766,28408,21292,57137,57387,51508,47388,46683,30299,13400,22630,38739,36546,46437,67327,49205,24999,18704,60835,56833,50834,57618,50154,20829,47750,46420,40815,36177,39632,33450,15460,27849,25683,24829,25738,31444,28961,13744,23572,19126,18177,15383,16410,14735,5776,10567,9323,9101,7943,8671,7723,3224,6011,5510,6058,5398,5609,5218,2252,3797,4009,3749,3031,3394,2933,1103,2209,2361,2141,2258,2152,1980,869,1750,1641,1723,2283,2275,2101,860,1646,1717,1701,2185,72,828,119,237,1816,1637,1547,1674,1209,583,182,1751,1609,1603,1654,1440,461,1213,1121,1108,1138,1194,1277,350,1035,1080,1157,1027,1112,1045,439,1008,944,896,884,876,874,300,822,835,919,805,996,1246,339,878,830,859,890,1001,754,317,166,955|y4Title=Boosters
+
+Cumulative vaccinations in New Zealand
+
+Graph:Chart
+|width=}
+| height=200
+| linewidth = 2
+| showSymbols = 1
+| y1Title=Production plan
+| xAxisFontSize = 1
+| yAxisFontSize = 1
+| y2Title = Actual
+| legend = Cumulative vaccinations
+| colors=#ffbe76, #e056fd
+| xAxisTitle=Date
+| yAxisTitle=Cumulative vaccinations
+| xAxisAngle=-90
+| type=line
+| x=21 Feb,28 Feb,07 Mar,14 Mar,21 Mar,28 Mar,04 Apr,11 Apr,18 Apr,25 Apr,02 May,09 May,16 May,23 May,30 May,06 Jun,13 Jun,20 Jun,27 Jun,04 Jul,11 Jul,18 Jul,25 Jul,01 Aug,08 Aug,15 Aug,22 Aug,29 Aug,05 Sep,12 Sep,19 Sep,26 Sep,03 Oct,10 Oct,17 Oct,24 Oct,31 Oct,07 Nov,14 Nov,21 Nov,28 Nov,05 Dec,12 Dec,19 Dec,26 Dec,02 Jan,09 Jan,16 Jan,23 Jan,30 Jan,06 Feb,13 Feb,20 Feb,27 Feb,06 Mar,13 Mar,20 Mar,27 Mar,03 Apr,10 Apr,17 Apr,24 Apr,01 May,08 May,15 May,22 May,29 May,05 Jun
+ | y1=0,4491,14420,21715,35595,56290,84595,117992,164107,216158,273749,338813,414824,493606,581932,680290,793013,909422,1033848,1161952,1289999,1425371,1633071,1887555,2164231,2451622,2754616,3056599
+ | y2=167,6712,15611,23154,36597,56338,84923,121481,171207,226765,284924,366611,451363,535499,637597,751384,854221,982525,1115637,1238083,1367582,1503559,1692855,1947657,2212900,2513132,2797703,3350651,3903877,4336172,4721196,5054216,5353637,5838997,6351283,6629435,6874508,7063364,7220325,7361852,7499479,7742221,7881911,8008313,8110876,8189719,8388974,8673953,9021391,9430283,9768993,10114329,10400754,10602944,10734714,10805111,10881175,10939010,10974907,10999625,11013574,11029412,11045673,11056519,11066424,11074810,11083681,11091991
+|y3=65520,141570,207090,271440,325260,396630,450450,528840,607230,685620,685620,746460,807300,868140,928980,1055790,1103760,1252900,1302040,1351180,1502110,1682290,2032290,2411370,2769390,3157830,3602430,3985020,4630860,5228730,5729490,6150690,6577740,6800430,7101120,7801560,9396270,9396270,9648990,9956142,10096110,10252170,10292490,10818990,10978290,10978290,11622690,11806440,12144690,12334290,12475890,12713490,12905430,13379940,14264340,15480340,15480340,15480340,15557560,15557560,15639580,15994540,16187590,16264810,16290550,16419250,16495300,16495300|y3Title=Stock received
+
+Percentage of eligible population fully vaccinated by ethnicity
+Graph:Chart
+ | width=}
+ | height=200
+ | xGrid=
+ | yGrid=
+ | xAxisTitle= Date
+ | yAxisTitle= Percentage of eligible population fully vaccinated
+ | legend=Pan-ethnic Groupings
+ | type=line
+ |xAxisAngle=-90
+ | x=27 Apr 21,5 May 21,12 May 21,19 May 21,26 May 21,2 Jun 21,9 Jun 21,16 Jun 21,23 Jun 21,30 Jun 21,7 Jul 21,14 Jul 21,21 Jul 21,28 Jul 21,4 Aug 21,11 Aug 21,18 Aug 21,25 Aug 21,1 Sep 21,8 Sep 21,15 Sep 21,22 Sep 21,29 Sep 21,6 Oct 21,13 Oct 21,20 Oct 21
+ | y1=1.07,1.47,2.03,2.6,3.25,4.09,4.83,5.79,6.91,7.99,8.99,10.08,11.16,12.53,13.75,15.03,16.72,16.82,19.02,21.16,23.05,25.55,28.67,32.67,39.34,45.82
+ | y1Title= Maori
+ | y2=1.59,2.28,3.01,3.65,4.43,5.39,6.42,7.76,9.17,10.65,12.04,13.49,14.99,16.6,18.29,20.11,22.39,22.71,25.86,28.6,31.56,35.46,39.86,45.58,52.73,60.35
+ | y2Title= Pasifika
+ |
+y3=1.97,2.92,4.08,5.18,6.39,7.63,8.75,9.88,11.13,12.53,13.81,15.45,17.2,19,20.87,23.02,25.66,26.93,31.45,36.36,41,47.35,54.25,62.04,70.72,81.63
+ | y3Title= Asian
+ | y4=1.45,2.12,2.92,3.74,4.71,5.85,6.91,8.14,9.65,11.36,12.91,14.57,16.22,18.07,19.9,21.97,24.83,26.33,30.42,34.34,37.54,41.19,45.62,51.17,60.85,69.13
+ | y4Title= Pakeha/MELAA/Other
+ |colors=#ffbe76, #e056fd, #badc58, #1e90ff
+
+Planned vs received vs actual vaccination numbers
+Graph:Chart
+ | width=}
+ | height=200
+ | xGrid=
+ | yGrid=
+ | xAxisTitle=
+ | yAxisTitle=
+ | legend=Legend
+ | type=line
+ |xAxisAngle=-90
+ | x=21 Feb 21,28 Feb 21,7 Mar 21,14 Mar 21,21 Mar 21,28 Mar 21,4 Apr 21,11 Apr 21,18 Apr 21,25 Apr 21,2 May 21,9 May 21,16 May 21,23 May 21,30 May 21,6 Jun 21,13 Jun 21,20 Jun 21,27 Jun 21,4 Jul 21,11 Jul 21,18 Jul 21,25 Jul 21,1 Aug 21,8 Aug 21,15 Aug 21,22 Aug 21,29 Aug 21,5 Sep 21,12 Sep 21,19 Sep 21,26 Sep 21,3 Oct 21,10 Oct 21,17 Oct 21
+ | y1=0,4491,14420,21715,35595,56290,84595,117992,164107,216158,273749,338813,414824,493606,581932,680290,793013,909422,1033848,1161952,1289999,1425371,1633071,1887555,2164231,2451622,2754616,3056599
+ | y1Title= Cumulative vaccinations planned
+ | y2=163,6717,15626,23162,36607,56323,84881,121415,171082,226598,284732,366328,451000,535073,637023,750705,853433,981654,1114684,1237012,1366436,1502424,1691605,1946186,2211232,2511256,2795343,3347427,3899621,4331170,4715319,5047129,5319381,5833354,6345557
+ | y2Title= Cumulative vaccinations administered
+ | y3=65520,141570,207090,271440,325260,396630,450450,528840,607230,685620,685620,746460,807300,868140,928980,1055790,1103760,1252900,1302040,1351180,1502110,1682290,2032290,2411370,2769390,3157830,3602430,3985020,4630860,5228730,5729490,6150690,6577740,6800430,7101120
+ | y3Title= Cumulative stock received
+|colors=#ffbe76, #e056fd, #badc58
+
+
+Vaccine approval
+The New Zealand Government's primary vaccine, and booster vaccines, is the Pfizer–BioNTech COVID-19 vaccine (and for children, Pfizer pediatric). The Novavax COVID-19 vaccine is also approved for ages 12 and over (primary dose), or 18 and over (for a booster). The AstraZeneca COVID-19 vaccine was available for anyone aged 18 years and older from November 2021 until September 2022.
+
+Currently, four vaccines have been approved by Government Regulator Medsafe; Pfizer–BioNTech, Novavax, Janssen, and Oxford–AstraZeneca. They are approved under section 23 of the Medicines Act, with conditions.
+
+Vaccine status
+
+
+Vaccines in trial stage
+
+
+Vaccine roll out plan
+
+The following reasons for overseas travel are eligible to be considered for an early vaccine:
+* access critical medical care that is not available in New Zealand for yourself or your dependent
+* to visit an immediate family member who is dying
+* to provide critical care and protection for a dependent e.g., your child.
+* to protect the safety and security of New Zealand's right to govern itself
+* for Government-approved humanitarian efforts as part of New Zealand's commitments to foreign aid, international disaster responses, or supporting Pacific and Realm countries' recovery from the COVID-19 pandemic
+* to participate in major international events where travel is necessary to represent New Zealand
+* for nationally significant trade negotiations.
+
+History
+Unofficial initiatives
+In late August 2020, Stuff reported that several businessmen and former politicians (including former National MP Ross Meurant and former National Party and ACT party leader Don Brash) had sought to import Russia's insufficiently tested Gam-COVID-Vac (also known as Sputnik V) vaccine into New Zealand. They had established a company called Covax-NZR Limited and filed paperwork through the Russian Embassy to establish supply and distribution arrangements to import the vaccine. Ross Meurant is the only director and shareholder of the company. University of Auckland vaccinologist Helen Petousis-Harris warned that using untested vaccines could hurt global efforts to develop safe and effective vaccines against COVID-19.
+
+On 17 August 2021, the French biotech company Valneva began trialing their COVID-19 vaccine in coordination with Pharma Sols. The company is looking for 300 adults in New Zealand who are over the age of 56 years, have not contracted COVID-19 or received a COVID-19 vaccine. The New Zealand clinical trial will take place at eight Pacific Research Network sites across the country. According to the New Zealand trial's lead coordinating investigator and Southern Clinical Trials Christchurch director Dr. Simon Carson, New Zealand was chosen due to the country's lower case numbers and slower vaccine rate.
+
+Official procurement efforts
+On 12 October 2020, the New Zealand Government signed an agreement with Pfizer and BioNTech to buy 1.5 million doses of the Pfizer-BioNTech COVID-19 vaccine, which is enough for 750,000 people. The COVID-19 Vaccine Strategy Task Force also entered into negotiations with other pharmaceutical companies to provide vaccines. In addition, the Government established a fund of $66.3 million to support a COVID-19 immunisation programme as soon as the vaccine is ready.
+
+On 17 December, Prime Minister Jacinda Ardern announced that the New Zealand Government had purchased two more vaccines for New Zealand, the Cook Islands, Niue, Tokelau and its Pacific partners Samoa, Tonga, and Tuvalu from the pharmaceutical companies AstraZeneca and Novavax. The Government had purchased 7.6 million doses (enough for 3.8 million people) from AstraZeneca and 10.72 million doses (enough for 5.36 million people) from Novavax. Both vaccines require two doses to be administered. Both vaccines will be free for New Zealanders. The Government had already purchased 750,000 courses from Pfizer/BioNTech and 5 million from Janssen Pharmaceutica.
+
+On 3 February 2021, Ardern provisionally approved the Pfizer-BioNTech COVID-19 vaccine for use in New Zealand. The initial batches of the vaccine are scheduled to arrive in late March 2021, with frontline workers and the vulnerable given priority. By 10 February, the Government had formally authorised the Pfizer-BioNTech COVID-19 vaccine for use in New Zealand. The vaccine will be limited to people aged 16 years and over. By 8 March, the New Zealand Government had secured an additional 8.5 million doses of the Pfizer-BioNTech COVID-19 vaccine
+
+On 4 November, the US pharmaceutical company Novavax applied for provisional approval from Medsafe to use its COVID-19 vaccine in New Zealand.
+
+On 10 November, the Government announced that the Oxford–AstraZeneca COVID-19 vaccine would be made available from late November 2021 for a small number of people aged 18 or over who are medically unable to get the Pfizer vaccine.
+
+Booster shots
+In early August 2021, Director-General of Health Ashley Bloomfield confirmed that the Ministry of Health was negotiating with pharmaceutical company Pfizer about acquiring booster vaccines to counter possible waning immunity.
+
+Following the August 2021 Delta outbreak, the opposition National Party COVID-19 spokesperson Chris Bishop called on the Government to purchase Pfizer booster shots urgently. This call clashed with the World Health Organizations' advice that there was insufficient evidence they were needed and that wealthy countries buying up vaccine stocks would make it harder for poorer countries to acquire their first doses. On 25 August 2021, a National Party social media post claiming that excess vaccine stocks are not boosters was criticised for inaccuracy by the scientists Helen Petousis-Harris and Alison Campbell.
+
+Vaccine diplomacy
+On 16 April 2021, Jacinda Ardern announced that New Zealand would donate 1.6 million COVID-19 vaccine doses through an international vaccine sharing programme. This quantity will be enough to vaccinate 800,000 people, many of whom will be health workers and vulnerable people in the Pacific Islands. During the announcement, Ardern also advocated a &quot;team of 7.8 billion,&quot; based on the Government's &quot;team of 5 million&quot; rhetoric.
+
+On 9 September 2021, Prime Minister Ardern confirmed that New Zealand had purchased 250,000 extra doses of the Pfizer vaccine from Spain as part of a deal with Spanish Prime Minister Pedro Sánchez. The first shipment is due to arrive on 10 September.  In addition, Ardern confirmed that New Zealand would receive 1.8 million Pfizer doses throughout the month of September.
+
+
+On 12 September 2021, Ardern confirmed that New Zealand had purchased 500,000 Pfizer doses from Denmark as part of a deal with Danish Prime Minister Mette Frederiksen. The first shipment arrived in the middle of the following week.
+
+On 31 March 2022, the Fijian Government accepted an offer from New Zealand to supply 50,000 doses of the Pfizer pediatric vaccine to Fiji's COVID-19 vaccination efforts.
+
+Rollout efforts
+
+
+February 2021
+On 20 February, 100 nurses became the first people in New Zealand to receive the Pfizer–BioNTech COVID-19 vaccine. Healthcare workers, essential workers and those most at risk will be vaccinated in the second quarter of the year. The general population will be vaccinated in the second half of the year.
+
+March 2021
+On 1 March, 28 port workers at Tauranga received their first dose of the Pfizer-BioNTech COVID-19 vaccine.
+
+On 10 March, COVID-19 Response Minister Chris Hipkins announced the COVID-19 vaccine roll-out plan using the Pfizer-BioNTech COVID-19 vaccine.
+
+On 26 March, the Canterbury District Health Board was made to take its COVID-19 vaccination booking system offline after a security vulnerability was discovered by a member of the public that exposed details of 716 people who had registered to use the system. The person who found the vulnerability labelled the developer of the system incompetent. To date the booking system has not been brought back online.
+
+On 29 March, the Hawke's Bay District Health Board criticised the Health Ministry for flaws and delays in the COVID-19 vaccination rollout, claiming it had created a space for anti-vaxxers and conspiracy theories to take root.
+
+April 2021
+On 7 April, the Ministry of Health reported that the total number of vaccinations reached 90,286, of which 19,273 were second doses.
+
+On 12 April, Ardern confirmed that 86% of frontline workers have received at least one COVID vaccination; accounting for 3,472 out of 4,010 workers.
+
+On 14 April, the total number of vaccinations reached 135,585, of which 30,194 were second doses.
+
+On 15 April, COVID-19 Response Minister Hipkins confirmed that members of the public who were not on the priority list for COVID-19 vaccinations had been receiving jabs in order to prevent supplies from being wasted. Hipkins' response followed last-minute appeals by the Government to medical staff to get vaccinations before doses expire and anecdotal reports that &quot;walk-ins&quot; were being accepted at some clinics for the same reason.
+
+On 21 April, the total number of vaccinations reached 183,351, of which 42,771 were second doses.
+
+On 28 April, the total number of vaccinations reached 232,588, of which 60,024 were second doses.
+
+May 2021
+On 5 May, the total number of vaccinations reached 300,000 of which 217,603 are first doses and 87,297 are second doses. This exceeded the Government's overall targets by 3%.
+
+On 10 May, Stuff reported that general practice clinics in Auckland had begun vaccinating the general public, with Waiheke Medical Centre in Oneroa being recorded as the first such general practice to begin vaccinating patients.
+
+On 12 May, the total number of vaccinations reached 388,877, of which 120,090 were second doses.
+
+On 19 May, the total number of vaccinations reached 474,435, of which 152,933 are second doses.
+
+June 2021
+On 9 June 2021, COVID-19 Response Minister Chris Hipkins announced that New Zealand would receive 1 million doses of the Pfizer–BioNTech vaccine in July, bringing the total number to more than 1.9 million.
+
+On 21 June, Medsafe has granted provisional approval for the Pfizer/BioNTech COVID-19 vaccine to be given to 12 to 15-year-olds.
+
+July 2021
+On 7 July, Medsafe granted provisional approval for the single-dose Janssen COVID-19 vaccine to be used for persons aged 18 years and above.
+
+On 19 July, the Otago Daily Times reported that the University of Otago's School of Pharmacy was unable to fulfil a Ministry of Health request to train vaccinators since the Otago course required an independent coordinator to accredit it. The Health Ministry's immunisation manager Kath Blair confirmed that the Auckland-based Immunisation Advisory Centre was the sole vaccinator training course provider in the country. That same day, COVID-19 Response Minister Chris Hipkins confirmed that a shipment of more than 370,000 Pfizer vaccines had arrived in New Zealand, allowing the rollout to begin ramping up after slowing down over the past month.
+
+By 20 July, the Southern District Health Board had reported administering 100,000 doses across Otago and Southland, focusing on people aged 65 years and above and those with underlying health conditions and disabilities. On 19 July 2021, the Royal New Zealand Navy warship HMNZS Wellington delivered 120 vials of the Pfizer–BioNTech COVID-19 vaccine to Tokelau's Nukunonu atoll, which is sufficient to vaccinate 720 people.
+alt=people in line for mass vaccination event at Manukau Institute of Technology|thumb|New Zealand's first COVID-19 mass vaccination event held at Manukau Institute of Technology and Vodafone Events Centre in South Auckland on 30 July 2021
+On 30 July 2021, the first mass vaccination event in New Zealand began in South Auckland at Manukau Institute of Technology and Vodafone Events Centre with the goal of vaccinating at least 15,500 people over three days with the Pfizer/BioNTech vaccine in one of the highest risk areas in the country. Invitations were first sent to 12,500 students and staff at the institute, who were told they could book family members as well. However, after only around 3,000 booked to be vaccinated, Auckland's district health boards ended up sending 140,000 invitations to reach their target bookings. The event featured a dozen vaccinators trying to average one vaccination every 90 seconds to handle the volume of people.
+
+August 2021
+By 4 August, the total number of vaccinations in New Zealand had reached 2,021,024, of which 769,708 were second doses. That same day, The Ministry of Health redesigned the vaccination card. The vaccination card was simplified (removing the 'batch number' and 'time given' fields), making it faster for vaccinators to fill out. This will help make the vaccination process more efficient, particularly for high-volume settings like mass vaccination events. The card has a notch cut out so it can be easily identified, and the font size and colour contrast have been increased. These changes improve the accessibility of the card for the blind and low vision community.
+
+On 12 August, Ardern announced that the Government would speed up the vaccine rollout by allowing people of all eligible ages to book by 1 September 2021. By 12 August, 15.4% of the population had received one dose, 21.6% had been fully vaccinated, and 63% remained unvaccinated.
+
+Also on 12 August, Director-General of Health Dr Ashley Bloomfield said the standard time will become 6 weeks between the first and second doses of the vaccine. In a statement, Dr Bloomfield said &quot;Moving to a longer gap allows us to give a first dose to a larger number of people faster, which means providing more people with partial protection sooner. This is an important part of our being prepared for a possible outbreak of the more infectious Delta variant of the virus.&quot;
+
+On 15 August, the Government acknowledged that 828 (roughly 32%) of the country's 2,611 port workers had not been vaccinated. Within the Bay of Plenty District Health Board, 235 port workers had been fully vaccinated while 33 had received one dose and 249 had not been vaccinated.
+
+On 17 August, Ardern announced that vaccinations would be suspended for a period of 48 hours in response to the nationwide Alert Level 4 lockdown.
+
+On 19 August, Ardern announced cabinet has approved the vaccine for use in 12 to 15-year-olds. If parents are already booked, they can take their eligible children with them to be vaccinated. Due to a misunderstanding among staff, families were turned away by staff from a Rotorua vaccination site on 20 August. The Lakes District Health Board subsequently apologised for the misunderstanding. That same day, the Southern District Health Board (SDHB) confirmed that mass COVID-19 vaccination clinics would be opened in Dunedin and Invercargill. The SDHB also confirmed that it was in talks with a 100 local providers in the Southland and Otago regions to provide vaccination services. The Winton Pharmacy became the first rural pharmacy to offer vaccinations in Southland.
+
+On 20 August, the Ministry of Health expanded the vaccination priority group 2 to include &quot;frontline staff who interact with customers and transport and logistic services directly supporting the vaccination programme&quot; which includes Alert Level 4 services such as supermarkets, pharmacies, and petrol stations.
+
+On 21 August, Ardern announced that there had been a record number of vaccine bookings, with over 150,000 bookings on 20 August. That same day, 56,843 were vaccinated. There were also 1,700 vaccination sites including general practitioners and pharmacists.
+
+On 22 August, Chris Hipkins announced that over 1,000,000 New Zealanders had been fully vaccinated. 2.75 million doses have been administered so far and there are 1.5 million active bookings on the Book My Vaccine system.
+
+On 24 August, Deputy Prime Minister Grant Robertson announced that on 23 August New Zealand administered its most vaccines yet, over 63,000. That peak was exceeded the following day, with 80,000 vaccination doses delivered.
+
+On 26 August, a Papamoa mother reported that she was unable to vaccinate her two children, who were aged between 12 and 15 years, despite a Government announcement that said 12–15 year old's qualified for vaccination without needing to book. Bay of Plenty District Health Board incident controller Trevor Richardson later acknowledged that several vaccination centres were struggling to cope with record demand for vaccination services.
+
+On 27 August, the Māori iwi Ngāi Tahu's health provider Te Kaika announced that it would open a new mass vaccination centre at the Forsyth Barr Stadium in Dunedin in coordination with the Te Roopu Maori and the University of Otago Pacific Island Students' Association. Their aim is to vaccinate 6,000 students over a period of two days. That same day, the Pacific Trust Otago opened a vaccination centre aimed at the Pasifika community in Dunedin's Caversham suburb.
+
+On 29 August, the Bay of Plenty District Health Board drew media attention after Pasifika families in Tauranga were asked to bring passports to check if they were seasonal workers. Local health provider Sameli Tongatea likened the ordeal to the Dawn Raids of the 1970s which disproportionately targeted Pasifika overstayers. The Bay of Plenty DHB subsequently apologised for the hurt this had caused. The Government also clarified that both residents and non-residents were eligible for vaccination. That same day, 49,500 people had been vaccinated nationwide; setting a new national record. As of 29 August, 3.33 million doses had been administered; with 2.17 million receiving their first dose and 1.16 million receiving their second dose. Over 50 percent of the eligible population has received their first dose.
+
+September 2021
+Since 1 September 2021, anyone in New Zealand aged 12 and over (regardless of their immigration status) is eligible to be vaccinated. In addition, the Government confirmed that the gap between the first and second vaccines will be increased to six weeks.
+
+On 16 September, the Government rolled out a vaccination bus programme known as &quot;Shot Bro&quot; to help bring vaccines to communities with lower vaccination rates or difficulty accessing vaccination services. The first three buses have been loaned to the Northern Regional Health Coordination Centre. The Shot Bro programme is modelled after the Australian mobile &quot;Jabba the Bus&quot; vaccination bus programme and seeks to boost vaccination rates within the Māori and Pasifika communities, which have lower vacciantion rates. The &quot;Shot Bro&quot; programme also supplements Te Hau Ora Ō Ngāpuhi's mobile vaccination programme in the Northland town of Kaikohe.
+
+In response to low vaccination rates among the Pasifika community, Samoan community leaders in Auckland including Baderdrive Doctors senior general practitioner Dr Sirovai Fuata'i have launched drive-through vaccination events targeting South Auckland suburbs with significant Samoan populations including Māngere, Favona, Papatoetoe, Ōtara and Manurewa.
+
+October 2021
+thumb|Sign advertising &quot;walk-in&quot; vaccination clinic in Christchurch, in October 2021
+
+In response to the Waikato lockdown implemented on 3 October 2021, Prime Minister Ardern stated that lockdowns would continue unless vaccination rates increased nationally.
+
+On 7 October, over 7,000 Pasifika were vaccinated at the &quot;Rally your Village&quot; drive-through event.
+
+On 11 October, the Government announced that health and disability workers including general practitioners, nurses, and pharmacists will have to be fully vaccinated by 1 December 2021 while all teachers and early childhood workers will have to be fully vaccinated by 1 January 2022. Those who refuse to vaccinate may lose their jobs.
+
+On 12 October, Ardern and the Health Ministry announced that a televised &quot;Super Saturday&quot; &quot;vaxathon&quot; event would be held nationwide on 16 October to boost national vaccination rates. The vaxathon will be covered by several news media including Newshub, Māori Television, and Hahana's Facebook page. Former Prime Minister Sir John Key has expressed supported for the vaxathon, having first proposed the idea during a media interview with Newstalk ZB in August 2021.
+
+On 16 October (&quot;Super Saturday&quot;), the all-day nationwide vaccination telethon (&quot;vaxathon&quot;) was held, featuring celebrity guests and health professionals in a coordinated cross-platform broadcast on TVNZ 2, Three, Māori Television, CH200, and various online channels. The event resulted in record-breaking vaccination numbers, with over 100,000 doses being given out by 3 pm, with a target set of 150,000 doses. Super Saturday broke vaccination records, with 39,025 first doses and 90,977 second doses administered on the day, meaning 2.5% of the entire population of the country received a vaccine on the day. It was the biggest single day numbers for Māori, with 21,815 vaccinations given. Over half of the doses given to the Māori community were for first doses. The event was also widely successful for Tongan New Zealanders, as approximately 5% of the Tongan population in New Zealand received a vaccine on Super Saturday.
+
+On 23 October, the Government amended the vaccine order to recognise several international vaccines in addition to the Pfizer vaccine. This ruling allowed a group of grounded Air New Zealand pilots, who had gotten their vaccines overseas, to resume work.
+
+On 26 October, Ardern and Workplace Relations Minister Michael Wood announced a new vaccine mandate requiring all workers in hospitality businesses and certain services industries like gyms, barbers, and hairdressers to get vaccinated within four weeks or risk losing their jobs. This announcement was welcomed by Hospitality New Zealand chief executive Julie White and Restaurant Association chief executive Marisa Bidois, who also expressed concern about vaccine hesitancy leading to staff resigning and labour shortages. Retail NZ chief executive Greg Harford welcomed the vaccine mandate but stated that employers needed legal protection to counter the risk of legal action by vaccine hesitant employees.
+
+By 31 October, 75% of the eligible population had been fully vaccinated. 6.8 million vaccine doses have been delivered including 3.1 million second doses. 80% of Aucklanders (roughly 1.1 million people) have also received both COVID-19 does.
+
+November 2021
+
+
+On 3 November, COVID-19 Response Minister Chris Hipkins confirmed that the Government would create a &quot;central process&quot; for approving vaccine exemptions. Hipkins' announcement came amidst concerns by education and health professionals about the distribution and sale of bogus vaccine certificates by vaccine hesitant medical practitioners. Hipkins also clarified that selling or giving away vaccine certificates for free was illegal.
+
+By 4 November, 89% of eligible New Zealanders had received their first dose while 77% of the eligible population had been fully vaccinated.
+
+By 7 November, the Waitematā, Auckland, Counties Manukau, Capital and Coast, Canterbury and Southern district health boards had reached the 90% thresholds for first doses of the Pfizer COVID-19 vaccine.
+
+On 13 November, the Auckland District Health Board became the first district health board to surpass the 95% threshold for first doses of the Pfizer COVID-19 vaccine.
+
+On 16 November, Hipkins launched the Government's &quot;My Vaccine Pass,&quot; which can be used as a vaccine certificate for various public events, hospitality, community, sport and faith-based gatherings. That same day, Ardern confirmed that the Auckland boundary would open to vaccinated or tested people from 15 December.
+
+On 24 November, the New Zealand Parliament passed the COVID-19 Response (Vaccinations) Legislation Act 2021, which allows businesses to dismiss employees who refuse to be vaccinated against COVID-19.
+
+On 26 November, the Government extended the vaccine mandate to the New Zealand Police and New Zealand Defence Force. Personnel will be required to get vaccinated against COVID-19 by 17 January 2022.
+
+In November 2021, the Chinese Advisory Networking Group held a vaccination event at Christchurch's South City Shopping Centre,  targeting the city's Chinese communities. This vaccination effort featured a Chinese-speaking nurse and succeeded in vaccinating 90 people. This vaccination event received funding from the Ministry for Ethnic Communities' COVID-19 Vaccine Uptake fund. By 26 December 2021, over 99% of the Asian community in New Zealand had been fully vaccinated.
+
+December 2021
+On 1 December, Hipkins announced that the Government had plans to introduce the Pfizer-BioNTech vaccine for children aged 5 to 11 years from late January 2022. The regulatory agency Medsafe also confirmed that it was evaluating the safety of the vaccine for children within that age group. Cabinet ministers will need to authorise the vaccine once it has been approved by Medsafe.
+
+In early December, several local councils including the Dunedin City Council, Timaru District Council, Auckland Council, and Wellington City Council introduced policies requiring people to show vaccine passes in order to access council facilities including pools, libraries, venues, and offices. Other local councils including the Invercargill City Council, the Southland District Council, Gore District Council, and the Waitaki District Councils have stated they would allow people to access their facilities without requiring vaccine passes.
+
+On 21 December 2021, Hipkins announced that the interval between the second dose and the booster shot would be reduced from six months to four months; making 82% of vaccinated New Zealanders eligible for a booster by late February 2022. In addition, Hipkins announced that all eligible border and health workers would be required to receive a booster shot. Hipkins also confirmed that paediatric doses of the Pfizer vaccine would be rolled out to children between the ages of 5 and 11 years from 17 January 2022.
+
+January 2022
+On 17 January 2022, those aged 5+ are eligible for the Pfizer vaccine. They will receive a children's version of the Pfizer vaccine, with a lower dose and smaller volume. As part of the launch, On 17 January, 120,000 Pfizer doses were distributed at clinics.
+
+On 17 January, the Ministry of Health announced that 14,367 child (paediatric) vaccine first doses were administered to 5 to 11-year-olds throughout New Zealand.
+
+February 2022
+On 9 February, New Zealand National Party leader Christopher Luxon called on the Government to issue a clear timeline for ending vaccine mandates. In response, Prime Minister Ardern stated that vaccine certificates and mandates would only be maintained as long as there was a strong public health rationale. Similar sentiments were echoed by COVID-19 Response Minister Hipkins, who stated the mandates remained under constant review.
+
+On 25 February, Hipkins announced that unvaccinated children and teenagers would be allowed to participate in school sports and extracurricular activities under phase 3 of the country's Omicron response plan. He also clarified that the vaccine pass and vaccine requirement would not be required for those participating in school organised activities.
+
+March 2022
+On 1 March, Hipkins confirmed that the Cabinet had approved the Novavax COVID-19 vaccine for people aged 18 and above. The first doses are expected to arrive in the country later in the month.
+
+On 23 March, Ardern announced that the Government would end the vaccine mandates for education, Police and Defence Force staff and businesses requiring vaccine passes from 11:59pm on 4 April 2022. In addition, My Vaccine Pass requirements would also be eliminated from 11:59pm on 4 April. These changes are part of a wider overhaul of the country's COVID-19 Protection Framework's &quot;red setting&quot; requirements.
+
+By 29 March, 1,300 doses of the Novavax vaccine had been distributed over the past two weeks.
+
+May 2022
+On 24 May, The New Zealand Herald reported that the Government had allocated a total of NZ$473 million from the 2022 New Zealand budget for purchasing and rolling out a possible fourth dose of the COVID-19 vaccine. This figure included allocating NZ$284.3 million for implementing the COVID-19 immunisation strategy and allocating NZ$189.2m for purchasing more COVID-19 mRNA vaccines in 2022 and 2023.
+
+June 2022
+On 21 June, Parliament amended the Medicines Act 1981 to allow people deemed to be at risk of contracting COVID-19 to receive a second booster shot. The Government also indicated that it would confirm the groups of people eligible for a fourth dose of the Pfizer vaccine.
+
+On 28 June, COVID-19 Response Minister Dr. Ayesha Verrall announced that the vaccine mandate for Corrections and border workers would be lifted on 2 July 2022. By that time, 100% of Corrections personnel and 97% of active border workers had been fully vaccinated against COVID-19.
+
+September 2022
+On 12 September, Ardern announced that vaccine and testing requirements for all travellers entering the country would end at 11:59 pm on 12 September. In addition, the vaccine mandate for all health and disability workers will end at 11:59 pm on 26 September. Some employers may require employees to be vaccinated due to their health and safety legislative obligations.
+
+November 2022
+On 7 November, Radio New Zealand reported that the New Zealand population's immunity to COVID-19 had waned due to long gaps between boosters and past infections and new overseas COVID strains such as XBB and BQ.1. In response, several public health experts including epidemiologist Michael Baker, immunologist Anna Brooks, and vaccinologist Helen Petousis-Harris called for the reinstatement of mask mandates and government support for vaccine rollouts including the Bivalent vaccine.
+
+On 8 November, COVID-19 Response Minister Verrall admitted that the Government currently did not have plans to launch an annual COVID-19 vaccine booster but was consulting with experts.
+
+December 2022
+Following provisional approval by Medsafe, the Director-General of Health and government ministers authorised the use of the paediatric Pfizer COVID-19 vaccine on 16 December for children aged six months to four years at risk of severe disease if they contract COVID-19. The Health Ministry expects the vaccine to be available from February 2023.
+
+On 21 December, Medsafe provisionally approved the use of Pfizer's two bivalent Omicron BA.1, and BA.4/5 booster vaccines for people over the age of 12 years old who have received their first two COVID-19 vaccination doses.
+
+February 2023
+On 9 February, Medsafe approved a version of Pfizer's paedetric vaccine for children aged between 6 months and four years old.
+
+On 23 February, Health Minister Ayesha Verrall confirmed that a bivalent COVID-19 vaccine would be made available to people over the age of 30 years from 1 April 2023. This bivalent vaccine includes protection against the Omicron variant.
+
+April 2023
+On 1 April, people aged 30 and over who have not had a booster or positive COVID-19 test in the past six months became eligible for the Pfizer BA.4/5 bivalent vaccine, which targets the Omicron variant.
+
+On 2 April, Prime Minister Chris Hipkins and Health Minister Verrall took part in a flu and COVID-19 vaccination event to urge eligible people to get their vaccine jabs in the lead-up to the winter flu season.
+
+May 2023
+On 22 May, Immunisation Advisory Centre medical director Nikki Turner expressed concern about the lack of urgency around COVID-19 booster shots. By 12 May, Health Ministry data confirmed that 52.5% of eligible individuals (roughly 893,157 individuals) had received their second COVID-19 booster vaccine dose. In addition, 289,402 individuals had received their third booster dose.
+
+December 2023
+On 20 December, Medsafe approved a new updated Pfizer vaccine to deal with XBB.1.5. COVID-19 strain in an effort to reduce next year's winter load on hospitals.
+
+February 2024
+In early February, an article in the academic journal Vaccine entitled &quot;The impact of Covid-19 vaccination in Aotearoa New Zealand: A modelling study&quot; estimated that COVID-19 vaccination prevented between 4000 and 12,000 deaths in New Zealand during the Omicron phase of the COVID-19 pandemic. Co-author COVID-19 research Professor Michael Plank credited the Government's elimination strategy with reducing COVID-19 hospitalisation numbers by between 34,000 and 56,000 during that period.
+
+Public opinion
+Official surveys
+Beginning in September 2020, Horizon Research in association with the University of Auckland's School of Population Health conducted a series of public opinion surveys on adult New Zealanders' attitudes and sentiments towards COVID-19 vaccination. The first two surveys conducted between September and December 2020 found that 69% of the population would take a &quot;well-tested and approved&quot; COVID-19 vaccine while 24% were unlikely to take a vaccine and 16% were opposed to taking a vaccine. Support for vaccination was strongest in respondents aged 65 years and above while vaccine hesitancy was strongest among the Māori and Pacific Islander communities, parents with children in the household, and those of lower household incomes and education qualifications.
+
+In February 2021, a third public opinion survey found that 71.4% of the 1,317 respondents were willing to take a COVID-19 vaccine while 7.2% were unsure and 21.4% were unlikely to have a COVID-19 vaccine if offered to them. Major concerns identified in the survey including concerns about the long-term effects of vaccination and insufficient information. Those in the 65 years+ and 18–24 years age brackets were most receptive to taking a COVID-19 vaccine.
+
+In March 2021, a fourth public opinion survey found that 69% of respondents were willing to take a COVID-19 vaccine while 15% (an estimated 612,200 adults) would take the vaccine immediately if it was available. The number of people unlikely to take a vaccine remained at 9.4% while 20% of respondents (an estimated 798,000) were unlikely to take a COVID-19 vaccine if offered. The percentage of Māori and Pasifika who were unlikely to take a vaccine fell from a peak of 27% and 34% respectively in December 2020 to 18% and 9%. However, the percentage of those who will likely take a vaccine has not changed as significantly.
+
+In April 2021, a fifth public opinion survey found that 77% of  respondents were willing to take a COVID-19 vaccine. Those unlikely to take a vaccine had dropped to 12% while those that would &quot;definitely not&quot; take a vaccine had dropped to 7.8%. The number of Māori open to taking a vaccine had risen from 64% in March 2021 to 71% in April 2021. The number of Pacific Islanders open to taking a vaccine had risen from 59% to 79%. District health board regions where the likelihood of respondents to accept a vaccine is lower than the national average included Waikato, Lakes, Tairawhiti, Whanganui, Hutt, Wairarapa, West Coast and South Canterbury.
+
+In May 2021, a sixth public opinion survey found that 80% of respondents were willing to take a COVID-19 vaccine. Those unlikely to take a vaccine remained steady at 13% while those that would &quot;definitely not&quot; take a vaccine stayed at 7%. The number of Māori open to taking a vaccine had risen to 75% while the number of Pasifika willing to take a vaccine dropped slightly to 78%. The survey found that 77% of respondents believe that people in New Zealand could choose whether or not to get vaccinated. In addition, 72% of respondents believed that people who were vaccinated could still get COVID-19; an increase from 57% in April 2021.
+
+In June 2021, a seventh public opinion survey found that 72% of people who were not vaccinated were likely to get a vaccine, a decrease from 77% the previous month. 66% of Māori respondents and 55% of Pasifika respondents who were not vaccinated were likely to get a vaccine. Overall, 81% of respondents felt that it was important that everyone in New Zealand who was able to be vaccinated receive the vaccine.
+
+Unofficial surveys
+On 20 May 2020, a Stickybeak poll of 605 respondents conducted for The Spinoff found that 65% of respondents would aim to get vaccinated if a COVID-19 vaccine became available. By contrast, 20% said they were unsure while 16% said no.
+
+In February 2021, a follow-up The Spinoff public opinion poll found that 53% of respondents would take a medically approved COVID-19 vaccine, 25% were opposed to taking a COVID-19 vaccine, and 22% were unsure.
+
+In March 2021, a public opinion survey of 1,040 participants conducted by the Massey University communications lecturer Jagadish Thaker estimated that 36% of respondents were enthusiastic about taking COVID-19 vaccines, 28% were supportive of COVID-19 vaccines, 24% were hesitant about taking COVID-19 vaccines and that 12% were sceptical of COVID-19 Vaccines.
+
+In mid November 2021, a 1News–Colmar Brunton public opinion survey found that 74% of New Zealanders supported the Government's vaccine mandate for education, healthcare, port, border and prison workers. 20% opposed the vaccine mandate while 6% did not know. Segments most supportive of the vaccine mandate policy include Labour Party supporters (86%), people with an annual household income over $150,000 (85%) and people aged 55 and older (81%). People living in Waikato (at least 30%) were more likely to oppose the mandate.
+
+Support
+Several Christian leaders and denominations including Reverend Fitifiti Luatua of the Christchurch Samoan Congregational Christian Church, the Baptist Churches of New Zealand, the Anglican Church and the Catholic Church have supported COVID-19 vaccination efforts. The Anglican Missions Board organised a fundraiser campaign for vaccination campaigns in poorer countries, which had raised NZ$80,000 by 11 September. The Catholic Church also launched a &quot;Love Your Neighbour As Yourself&quot; campaign to combat misinformation about COVID-19 vaccines.
+
+Following the death of a member of the Māngere Samoan Assemblies of God on 6 October 2021, local denomination leaders including First lady Rebekah Toleafoa and church spokesperson Jerome Mika have called for members to vaccinate.
+
+By 7 November 2021, the entire 120-member congregation of Samoan Methodist Māngere Central church in Auckland had been vaccinated due to an awareness campaign promoted by the church's Reverend Suiva'aia Te'o with the help of the church's youth group leaders.
+
+On 13 December New Zealand Rugby, the national governing body for rugby union, announced that all players wishing to compete in teenage and community rugby in 2022 would have to be fully vaccinated. This ruling was endorsed by all 26 provincial rugby unions in the country.
+
+Opposition
+Several Christian fundamentalist leaders including Pastors Murray and Nancy Watkinson of Celebration Centre in Christchurch, Brian and Hannah Tamaki of Destiny Church, City Impact Church leader Peter Mortlock and conspiracy theorist Billy Te Kahika have criticised COVID-19 vaccination efforts, variably describing the vaccine as the mark of the beast, governmental overreach, and questioning its effectiveness.
+
+Despite the Tamakis' vocal opposition to vaccine mandates and lockdown policies, Destiny Church leased its carpark in Wiri, Auckland for the Whānau Ora Community Clinic's testing operations. The clinic, which has conducted tens of thousands of COVID-19 vaccinations at its Takanini mass vaccination centre, is owned by two prominent Destiny Church members Raewyn Bhana and George Ngatai.
+
+Issues and controversies
+ Adverse events 
+
+On 8 May 2021, the Health Ministry confirmed that two people who had received the Pfizer/BioNTech vaccine had died. These individuals are believed to be in their 80s. No direct link has been established between the vaccine and their deaths. The Centre for Adverse Reactions Monitoring and the national medicines regulator Medsafe are monitoring the investigation into their deaths.
+
+On 25 August 2021, the Health Ministry acknowledged that five individuals at the Highbrook vaccination in Auckland had received a saline solution instead of the Pfizer dose. In response, vaccinologist Helen Petousis-Harris, a member of the Government's COVID-19 immunisation implementation advisory group, attributed the incident to errors made during the process of preparing the Pfizer vaccine for use. National Party COVID-19 spokesperson Chris Bishop and ACT Party leader David Seymour demanded Government transparency over the saline error issue.
+
+On 28 August, the Health Ministry acknowledged that it was contacting 13 people in the Canterbury Region who had received a lower dose of the Pfizer vaccine earlier in the month.
+
+On 30 August, the COVID-19 Vaccine Independent Safety Monitoring Board and Health Ministry confirmed that a woman had died from myocarditis, a rare side effect of the Pfizer COVID-19 vaccine; marking the first recorded death in the country linked to the vaccine. The case has been referred to the Coroner to determine the cause of death.
+
+On 18 December, 1News and the Otago Daily Times reported that a 26-year old Dunedin man named Rory Nairn had died of vaccine-related myocarditis in November 2021 after receiving his first dose of the Pfizer COVID-19 vaccine. In late August and September 2022, a coroner's inquest into Nairn's death was heard at the Dunedin District Court. The inquest heard evidence from Nairn's pharmacist, vaccinator, the Health Ministry, Health New Zealand, and MedSafe. Despite a Health Ministry advisory in late August 2021 warning pharmacists and clinicians about the risk of myocarditis, Nairn's pharmacy, its owner, and vaccinator had failed to warn Nairn about the risk due to conflicting information from health authorities including the Health Ministry and Immunisation Advisory Centre. Pathologist Dr Noelyn Hung also testified that test results of Nairn's heart excluded drugs, a virus, bacteria or a rare fungal infection as causes of the myocarditis. On 20 May 2024, the Health and Disability Commissioner criticised a pharmacist for not providing enough information to Nairn before he had received the Pfizer COVID-19 vaccine.
+
+On 14 December 2022, the COVID-19 Vaccine Independent Safety Monitoring Board informed Health New Zealand (Te Whatu Ora) that a fourth death was possibly linked to the Pfizer COVID-19 vaccine (Comirnaty).
+
+Disinformation and misinformation
+The Government's COVID-19 vaccine rollout effort has encountered disinformation and misinformation by various groups and media including Claire Deeks' &quot;Voices for Freedom,&quot; the former Advance New Zealand party, and the alternative media company Full Courts Press's Real News magazine.  In March 2021, Voices for Freedom teamed up with Advance NZ to distribute copies of The Real News in letter boxes; raising NZ$10,000 to print and distribute copies of the magazine by May 2021. In addition, Voices for Freedom circulated 2 million flyers spreading disinformation about the Pfizer–BioNTech vaccine.
+
+In mid-June 2021, Secretary for Education Iona Holsted warned that schools were being targeted by anti-vaxxers. The Ministry of Education also expressed concern that school leaders were not addressing misinformation in school bulletins and that some principals were promoting vaccine hesitancy. In response, the Ministry urged educators to use &quot;appropriate sources&quot; for verified information.
+
+In August 2021, North &amp; South magazine contributor Emanuel Stoakes reported that some local Chinese language media particularly the Chinese Herald and the website SkyKiwi were promoting disinformation about the effectiveness of Western COVID-19 vaccines in favour of Chinese vaccines. East Auckland doctor David Wu identified the Chinese social media platform WeChat as key source of vaccine misinformation and pro-Beijing propaganda within the New Zealand Chinese community Political scientist Anne-Marie Brady urged the New Zealand Government to monitor Chinese language channels and provide Chinese-speaking New Zealanders with Chinese-language COVID-19 information to combat disinformation.
+
+By October 2021, several anti-vaccination activists including Billy Te Kahika's use of emotive language likening the Government's vaccine mandate and lockdown policies to the Holocaust were criticised as insensitive and hurtful to the Jewish community by several Jewish leaders including Holocaust Centre of NZ chair Deborah Hart, NZ Jewish Council spokesperson Juliet Moses, and Zionist Federation of New Zealand leader Rob Berg.
+
+In early November 2021, the University of Auckland's Te Pūnaha Matatini's Disinformation Project released a working paper examining COVID-19 misinformation and disinformation since the Delta outbreak began on 17 August 2021. The paper found that far right online communities in New Zealand and abroad were using various social media platforms including Telegram to spread disinformation about COVID-19 vaccines and lockdown policies through the use of memes, emotional testimonies, and Māori motifs and symbols. The paper also argued that anti-vaccine elements were reappropriating Māori motifs and symbols such as the hīkoi and United Tribes of New Zealand flag to promote vaccine hesitancy among the Māori population and to exploit racial tensions. The paper argued that far right elements were using COVID-19 vaccination as a Trojan horse for promoting far right ideologies in New Zealand on various issues including gun control, anti-Māori sentiment, homophobia, transphobia, conservative family values, misogyny, and immigration.
+
+In 2021, palliative nurse Amanda Turner was dismissed by the Wairarapa District Health Board for posting anti-vaccine information on Facebook. Turner unsuccessfully appealed to both the Employment Relations Authority and Employment Court in 2022 and 2023 respectively. In late January 2024, Turner filed a third appeal against her dismissal at the Court of Appeal. If her third appeal fails, Turner will be required to pay NZ$20,000 to cover some of the legal costs incurred by Te Whatu Ora (Health New Zealand), the successor to the Wairarapa District Health Board.
+
+In mid-December 2021, the Medical Council of New Zealand confirmed that it was investigating three doctors Dr. Peter Canaday, Dr. Emanuel Garcia, and Dr. Matthew Shelton for spreading anti-vaccination messages. The three doctors have also been suspended, which they have appealed to the District Court which is due to hear their cases next year. Canaday had spread misinformation about the Pfizer vaccine on online videos while Shelton had spread misinformation about the Pfizer vaccine's effects on broadcaster Peter Williams' Media Works show Magic Talk. In early April 2022, Canaday and Dr Shelton successfully appealed the Medical Council's decision to suspend their licenses for expressing anti-vaccine statements.  Judge Stephen Harrop ruled that the council had been wrong to suspend the pair before completing their investigations and stated that the council should have allowed them to sign voluntary undertakings restricting their public statements.  Shelton's lawyer Matthew Clelland QC and Canaday's lawyer Adam Holloway denied that their clients were anti-vaxxers.
+
+In December 2022, the Health and Disability Commissioner found that former Plimmerton general practitioner Dr Matt Shelton had breached standards by sending an unsolicited text message to 600 patients saying he did not support the COVID-19 vaccine and directing them to a website promoting COVID-19 disinformation.
+
+On 15 August 2023, Wellington District Court Judge K.D. Kelly reversed the Medical Council's suspension of general practitioner Dr. Allison Goodwin, who had posted anti-vaccination videos and signed an open letter challenging the Health Ministry's COVID vaccination policies. While Judge Kelly ruled that the Medical Council had failed to consider &quot;less draconian&quot; disciplinary options, she rejected Goodwin's submission that her views had been &quot;presented in a balanced way.&quot;
+
+In mid October 2023, the Health and Disability Commissioner (HDC) Morag McDowell upheld a complaint against &quot;Dr. B&quot; for sending anti-vaccination information about the COVID-19 vaccines to a female patient. McDowell found that the doctor had failed to comply with both the Code of Health and Disability Services Consumers's Rights and the Medical Council's guidance statement on health practitioners' professional responsibility when providing Covid-related information. Dr B apologised for not thoroughly checking documents which they had shared. McDowell ordered Doctor B to apologise to the woman, complete the HDC's online training modules on the Code and attend professional and communications training.
+
+Fraud
+On 11 December 2021, the Ministry of Health confirmed it was investigating a man who had been paid to be vaccinated against COVID-19 ten times in one day on behalf of other people. Vaccinologist and Associate Professor Helen Petousis-Harris described the man's behaviour as &quot;unbelievably selfish&quot; and cited it as an example of others taking advantage of someone who was short of money.
+
+Leaks
+In early December 2023, the public health service Te Whatu Ora (Health New Zealand) launched an investigation of an administrator who was accused of spreading COVID-19 misinformation using data obtained from the organisation. The male employee had developed a database for the vaccine rollout and quoted data from that work. According to Radio New Zealand, the employee had been interviewed on a conspiracy theory website. On 3 December, Te Whatu Ora lodged a police complaint against the employee over the vaccine rollout data breach. On 4 December, the employee was identified as Barry Young, who appeared at the Wellington District Court on the sole charge of accessing a computer system for dishonest purposes, which carries a maximum seven-year prison sentence. After being released on bail on 5 December, Young was interviewed by American conspiracy theorist Alex Jones on his website InfoWars.
+
+On 8 December, Te Whatu Ora enlisted the services of international cybersecurity and forensic experts to investigate the COVID-19 vaccine data leak. By mid February 2024, Health NZ acknowledged that at least 12,000 people had their personal information compromised.
+
+Legal challenges
+Opposition to vaccine mandates
+On 18 May 2021, Health Minister Andrew Little announced that the Government would amend Section 23 of the Medicines Act 1981 after High Court Judge Rebecca Ellis ruled in favour of the Ngai Kaitiaki Tuku Ihu Medical Action Society's contention that the Government's decision to approve the Pfizer–BioNTech COVID-19 vaccine exceeded the powers of the legislation. The Medical Action Society had argued that this action would have undermined public trust in the vaccine and wasted vaccine stock already in use in the country.
+
+In early September 2021, 12 New Zealand Defence Force personnel filed a judicial review in the High Court at Wellington challenging a directive from the Chief of Defence Force Air Marshal Kevin Short that servicemembers refusing vaccination would be discharged. Their barrister Christopher Griggs claimed the directive was unlawful and breached the group's right to refuse medical treatment under the New Zealand Bill of Rights Act 1990.
+
+In mid October 2021, ten of the 63 registered midwives employed by the Taranaki District Health Board indicated that they would quit their jobs rather than  be vaccinated against COVID-19. In response, COVID-19 Response Minister Hipkins defended the Government's vaccine mandate, stating that &quot;it's essential that people who work with children are vaccinated in order to keep them safe.&quot;
+
+On 8 November 2021, the New Zealand Doctors Speaking Out on Science (NZDSOS), New Zealand Teachers Speaking Out on Science (NZTSOS) and a group of midwives represented by lawyer Christopher Griggs sought a judicial review of the Government's COVID-19 vaccine mandate for education and health professionals. The plaintiffs challenged the ruling that education and health workers refusing to get vaccinated could lose their vocations, claiming it was an abuse of civil liberties and state power. On 12 November, Justice Matthew Palmer rejected the plaintiffs' argument that the Government's vaccine mandate violated the right to refuse medical treatment and declined to stop the mandate being enforced pending a further court hearing by the plaintiffs on November 22.
+
+On 18 January 2022, a group of parents represented by a group called the &quot;Hood&quot; challenged MedSafe's decision to roll out the Pfizer vaccine to children aged 5 to 11 years old. The plaintiffs' submission was heard by Justice Rachel Ellis at the Wellington High Court. While Ellis granted anonymity to the plaintiffs and their families, she declined their application for an immediate preliminary order to halt the rollout for children. At a subsequent High Court hearing, Justice Ellis declined to make an interim order to halt the rollout of vaccines for children, pending a full judicial review hearing.
+
+On 25 February 2022, High Court Justice Cooke ruled that the Government's vaccine mandate for the Police and Defence Force violated the right to refuse medical treatment under the New Zealand Bill of Rights Act 1990. He also criticised the vaccine mandate for not allowing other ways of keeping people safe such as remote work or regular COVID-19 testing. On 6 January, three unvaccinated staff members had sought a judicial review of the vaccine mandate, which affected 164 Police personnel and 115 Defence Force personnel. While ruling in favour of the plaintiffs, Cooke also clarified that vaccination has helped to reduce the risk of serious illness or death from COVID-19.
+
+On 8 April 2022, High Court justice Cooke rejected a judicial review by the groups &quot;New Zealand Doctors Speaking Out on Science&quot; and &quot;New Zealand Teachers Speaking Out on Science&quot; claiming that the Government's vaccine mandate for health and education workers breached the right to refuse medical treatment under the Bill of Rights Act 1990. Cooke ruled that the mandates were a &quot;demonstrably justified limit&quot; on the right to refuse medical treatment.
+
+On 28 June 2022, the Hood mounted a second effort to seek judicial review of the vaccine rollout for children aged between 5 and 11 years. Justice Rebecca Ellis had earlier denied the group's bid for an immediate halt of the vaccine rollout for children in February 2022. In his legal arguments, the group's lawyer David Jones QC had cited several anti-vaccination doctors including American doctor Robert W. Malone.
+
+On 19 September 2022, a group of unvaccinated caregivers represented by lawyer Matthew Hague sought a judicial review of the Government's vaccine mandate for health workers, claiming they had lost thousands of dollars in income. Though the Health Ministry had initially exempted home caregivers from the health workers' vaccine mandate, it subsequently extend the mandate to home caregivers. Disability advocate Jane Carrigan argued that the inclusion of home-based care givers in the vaccine mandate for health workers was unjust since the Health Ministry had denied them the same rights as other health workers for years. On 10 March 2023, High Court Judge Van Bohemen ruled that the decision by the-then COVID-19 Response Minister Chris Hipkins to extend the vaccine mandate to family carers was invalid. He also stated that the caregivers were entitled to compensation for lost income and urged Prime Minister Hipkins to apologise to them.
+
+In late March 2023, former tertiary student Tahi Ricks sought NZ$1 million in compensation from the polytechnic Ara Institute of Canterbury. Ara had required all students and staff to be fully vaccinated by 14 February 2022. Unvaccinated people, with the exception of individuals with Ministry of Health vaccine exemptions, were barred from entering Ara's campuses from that date. Ricks alleged that the vaccine mandate had disrupted his study plans and that Ara had denied him distance learning options. Ricks represented himself during the hearing at the Christchurch High Court. Ara was represented by lawyer Olly Peers, who defended Ara's vaccine requirement policy as part of the Government's COVID-19 Protection Framework.
+
+On 7 July 2023, the Employment Court ruled that a South Island port employee nicknamed &quot;GF&quot; had been unjustifiable dismissed by his employer for refusing to take a COVID-19 vaccine during the COVID-19 pandemic. The Court ruled that the employer, whose identity remains suppressed, had failed to engage with GF, comply with tikanga (Māori customary values) in terms of staff employment relationships, and meet its &quot;heightened obligations&quot; under the Public Service Act 2020.
+
+Vaccination disputes
+On 16 July, Judge Penelope Ginnen of the Pukekohe Family Court ruled in favour of a five-year-old boy's mother who wanted her son to receive the Pfizer vaccine. The child's father had opposed vaccination on the grounds that the risks outweighed the benefits of the vaccine. In justifying decision, Judge Ginnen said that she was satisfied the vaccine was safe, citing clinical trials which found that children receiving the Pfizer vaccine had received only mild symptoms such as a sore arm, headache, and fatigue.
+
+&quot;Baby W&quot; blood donations controversy
+In late November 2022, Te Whatu Ora—Health New Zealand sought legal guardianship of a baby boy (dubbed &quot;Baby W&quot;) in need of heart surgery after the boy's parents refused to allow blood from COVID-19 vaccinated people to be used in the operation. The court case was heard at the Auckland High Court on 30 November by Justice Layne Harvey. Per policy, the national blood bank New Zealand Blood Service does not separate vaccinated and unvaccinated donated blood. Health NZ was represented by Paul White while Baby W's parents were represented by anti-vaccination activist and lawyer Sue Grey. In addition, the parents were supported by former TVNZ broadcaster and anti-vaccination activist Liz Gunn. The initial hearing was picketed by 100 anti-vaccination protesters. Harvey scheduled an urgent hearing for 6 December 2022.
+
+On 7 December, Gault J of the Auckland High Court ruled on Te Whatu Ora, Health New Zealand, Te Toka Tumai v C and S. In his ruling, Gault J ruled that Baby W was to be under the guardianship of the court and two doctors would be appointed as agents of the court to provide consent for surgery, and thus the surgery would be held. On 8 December, Grey and Gunn initially confirmed that the parents would not be appealing the Judge's decision to hand over guardianship of Baby W to Health New Zealand, citing the urgent medical needs of the baby. Later that night, Police were dispatched to Starship Hospital to enforce the High Court's ruling after the parents attempted to prevent medical personnel from preparing Baby W for the heart surgery operation. Gault also issued an emergency order allowing the Police to use reasonable force to remove Baby W from his parents' custody and prevent them from obstructing surgical proceedings. In response to the planned operation, anti-vaccination protesters gathered outside the Auckland High Court, Starship Hospital, and Auckland City Hospital on 9 December. On 9 December, Grey confirmed that Baby W had undergone a successful heart surgery operation and was recovering well. On 10 December, Grey and the parents confirmed that they would continue challenging the Court's decision through the legal system.
+
+Māori vaccine rates
+2021 Māori vaccination access code controversy
+Following the Auckland August 2021 community outbreak, the Māori social services volunteer agency Whānau Waipareira launched a programme to boost Māori and Pasifika COVID-19 immunisation rates by giving them a priority access code at the Trusts Arena in West Auckland. Due to long-standing socio-economic disparities, Māori have recorded lower COVID-19 vaccination rates than other New Zealand ethnic groups, even when accounting for the Māori population being younger than the New Zealand average. As of 3 September 2021, only 19.5% of Māori aged 12 and over had been fully vaccinated, and 37.9% had received one dose.
+
+On 6 September 2021, ACT Party leader David Seymour drew media coverage when he released the Māori vaccination access code to his followers on Twitter. His actions were criticised for allegedly sabotaging a campaign to improve Māori vaccination access and stirring racial tensions. His critics included National Hauora Coalition Director Dr Rawiri Jansen, Whānau Waipareira CEO John Tamihere, Māori Party co-leader Debbie Ngarewa-Packer, and Green Party co-leader Marama Davidson. In response to criticism, Seymour refused to apologise and pushed back on the allegations, telling media that &quot;the virus doesn't discriminate on race, so neither should the roll out.&quot;
+
+Traffic light system
+Several Māori leaders and civil society organisations including Māori Party co-leaders Ngarewa-Packer and Rawiri Waititi, and the National Iwi Chairs Forum have criticised the Government's new &quot;traffic light&quot; system for lifting lockdown restrictions based on vaccination rates, claiming that it does not address the lower Māori vaccination rates.
+
+Māori vaccination information dispute
+On 26 October, the Whānau Ora Commissioning Agency (WOCA), which represents Māori providers in the North Island, challenged the Ministry of Health's refusal to hand over Māori vaccination information at the High Court in Wellington. The Health Ministry has only agreed to release the data of individuals who have registered with a Whānau Ora provider and other information that is anonymised. The Commission Agency responded that this level of information made it difficult to reach hard to reach communities and also claimed that the Ministry's refusal to share this information breached the Treaty of Waitangi. The Government countered that releasing the information would be a breach of privacy that could derail the Māori vaccination effort.
+
+By 31 October, 72% of Māori had received one COVID-19 vaccine dose while 53% had received both doses, compared with 88% and 75% respectively for the total eligible population.
+
+On 6 November 2021, the Ministry of Health declined to share Māori vaccination data with the Whanau Ora Commissioning Agency. The Agency had sought the contact details of all unvaccinated Māori living in the North Island so it could target areas with low vaccination rates. The Agency's chief executive Tamihere criticised the Health Ministry for obstructing its efforts to increase Māori vaccination rates. In response, Director-General of Health Bloomfield defended the Ministry's decision, stating that they had proposed an alternate way of sharing the personal health information of individual Māori with the Commissioning Agency. On 24 November, the Health Ministry agreed to release a portion of the data relating to Māori. This included information that showed that over 52,000 Māori living between Auckland and Waikato were unvaccinated. On 25 November, the Commissioning Agency filed a second challenge at court to obtain information of all eligible Maori who had not yet been vaccinated. Tamihere accused the Health Ministry of being unwilling to help Māori communities.
+
+On 19 November 2021, several members of the New Zealand Māori Council including Archdeacon Harvey Ruru and Tā Edward Durie filed an application for an urgent inquiry by the Waitangi Tribunal into Government's response to the COVID-19 pandemic in Māori. The plaintiffs argued that the Government's vaccination rollout policies and plans to ease lockdown restrictions made Māori more at risk of contracting COVID-19. On 21 December, the Waitangi Tribunal ruled that the Government's vaccination rollout breached the Treaty of Waitangi's principles of active protection and equity. The Tribunal criticised the Government's decision to prioritise those aged over 65 years during the vaccine rollout, finding that it failed to account for the youthful nature of the Māori population and its health vulnerabilities. The Tribunal also ruled that the Government's transition to the &quot;traffic light system&quot; failed to take into account the lower Māori vaccination rate and health needs. The Tribunal also found that Government had not adequately consulted with Māori health providers and leaders and determined that efforts to address Māori needs such as the &quot;Māori communities Covid-19 fund&quot; were inadequate. The Waitangi Tribunal recommended that the Government improve data collection, improve engagement with the Māori community, and provided better support for ongoing vaccination efforts, testing, contact tracing, and support for Māori infected with COVID-19.
+
+On 10 December 2021, Director-General of Health Bloomfield agreed to release more of the Health Ministry's data on unvaccinated Māori in the North Island following two judicial reviews. Bloomfield agreed to provide the Commissioning Agency and Whānau Tahi with information relating to all unvaccinated Māori in the Northland, Hawke's Bay, and Whanganui regions but with a reduced amount of information on those living in Wairarapa, the Lakes District Health Board and the Bay of Plenty as several of the iwi (tribes) in those areas opposed the release of the data to the Commissioning Agency, or were interested in a data-matching agreement with the Health Ministry. In response, Whānau Ora Commissioning Agency chief John Tamihere claimed that the release of the information data was &quot;too little, too late&quot; and accused the Health Ministry of obstruction.
+
+On 19 January 2022, Tamihere stated that the Whānau Ora Commissioning Agency was planning to pursue legal action against the Health Ministry to force the release of data on unvaccinated Māori children between the ages of five and 11 years old. Since the rollout of the Pfizer vaccine to children in that age group in mid January 2022, Whānau Ora has sought to boost Māori vaccination rates across different age groups. After failing to convince the Health Ministry to release the data on Māori children, Whānau Ora confirmed that it was exploring taking its case against the Health Ministry to the High Court, Waitangi Tribunal or the Human Rights Commission. In response, the Health Ministry's national immunisation programme director Astrid Koornneef stated that previous High Court rulings did not consider the sharing of personal contact information and vaccination status of children. She added that the Ministry would continue to consult Māori leaders, stakeholders, service providers (including Whānau Ora),  the Office of the Children's Commissioner (OCC) and the Privacy Commissioner about sharing children's personal data.
+
+Pasifika vaccination rates
+By 21 September 2021, Stuff reported that only 29% of the 80,000 eligible members of the Samoan community in Auckland had been vaccinated. According to figures released by the Northern Region Health Co-ordination Centre (NRHCC) on 12 September, 23,791 of Samoans living in the Auckland metropolitan area had been fully vaccinated and a further 21,342 had received their first dose of the Pfizer vaccine. More than 35,000 had not been vaccinated. In response, Samoan community leaders launched a drive-through campaign to increase vaccination rates within that community.
+
+By 31 October, 85% of Pacific Islanders had received at least one dose while 69% had received both doses.
+
+Quality issues
+On 7 March 2022, the Southern District Health Board acknowledged that 1,500 people who had received the Pfizer COVID-19 vaccine in the Queenstown Lakes and Central Otago between 1 December 2021 and 28 January 2022 may not be fully protected since their doses were stored at an incorrect temperature. The affected provider has ceased providing vaccination services while awaiting the results of an investigation. Queenstown Lakes District Mayor Jim Boult expressed disappointment with the vaccine storage issues and urged affected individuals to get a replacement dose.
+
+Rural vaccination rates
+On 13 October 2021, a University of Otago study found that COVID-19 vaccination rates in rural areas was lower than urban areas. The number of people who have had at least one vaccine does was 11% lower in rural areas and up to 19% lower in remote rural areas compared with urban centres. The study also found that the rural Māori rate for having one dose was 10% lower than urban Māori. The study also identified longer driving times within rural areas and lower access to vaccination services as factors affecting lower rural vaccination rates. Jamie McFadden, owner of plant nursery Hurunui Natives, also attributed the lower vaccination rater among farmers to work-related time constraints. To address low vaccination rates in the South Island's West Coast, a new mobile clinic was established to cater to whitebait fishermen and local farmers.
+
+Supply issues
+In late October 2021, a Stuff report identified inflexible bookings and miscommunication as factors in deterring people from getting vaccinated. The report also found that Māori were uncomfortable with the online booking system due to their reluctance to share information and preferred a walk-in system.
+
+In mid December 2022, Radio New Zealand reported that a batch of 592,000 Pfizer COVD-19 vaccine doses were set to expire by 31 January 2022, citing figures released by Te Whatu Ora (Health New Zealand). About 64,000 vaccines are given out each month. The Health Ministry has asked Pfizer about extending the expiry dates of some batches. Vaccinologist Helen Petousis-Harris attributed the stalled booster uptake to a combination of vaccination fatigue and increased infection rates which meant that infected people could not receive vaccine doses.
+
+On 28 March 2023, Te Whatu Ora confirmed that it had destroyed 870,000 stocks of expired Pfizer COVID-19 vaccine doses with another 570,000 doses scheduled to be destroyed on 31 March.
+
+Threats and violence
+On 31 October 2021, the Pasefika Family Health Group in Panmure, Auckland was vandalised following a successful community vaccination event. In addition, staff received online abuse and threats from anti-vaxxers.
+
+On 13 December 2021, a Dunedin nurse named Lauren Bransgrove was referred by the Nursing Council of New Zealand to a professional conduct committee after making violent threats on the social media app Telegram against COVID-19 vaccinators and medical professionals prior to the Government's planned vaccination of children between the ages of 5 and 11 years. Bransgrove had also participated in anti-lockdown protests organised by anti-vaccination group Voices for Freedom in Dunedin. Following media coverage, Bransgrove apologised for her post and promised not to harass vaccinators. In addition, the Medical Council of New Zealand, the Accident Compensation Corporation (ACC), Health Ministry, and Police confirmed that they were aware of her posts and conducting their own separate investigations. In January 2021, Radio New Zealand reported that Bransgrove had been removed from the Nursing Council's public register, preventing her from practising medicine. In addition, she was dismissed from her job as a clinical advisor at ACC.
+
+On 27 December 2021, the Police launched an investigation of Destiny Church leader Brian Tamaki after he threatened to blow up mobile vaccination clinics in opposition to the rollout of COVID-19 vaccines to children between the ages of 5 and 11. According to The New Zealand Herald, Tamaki had made this alleged threat during a sermon held on 26 December, which was uploaded on Destiny Church's website. At the time, Tamaki was on bail pending trial for staging several anti-lockdown protests in Auckland in defiance of COVID-19 public health orders.
+
+On 8 February the Te Kaika vaccination and testing centre in St Kilda, Dunedin was targeted by anti-vaccination vandals, who spray painted the containers and facilities with anti-vaccination messages. Te Kaika chief executive Albie Laurence estimated that the graffiti would cost the community health trust NZ$50,000 to clean up. The previous year, vandals had targeted the Te Taika vaccination and testing centre, causing NZ$16,000 in damages.
+
+Unvaccinated residents and permanent residents
+In mid April 2022, a group called &quot;The Forgotten of New Zealand&quot; threatened to take legal action against the Government over its ban on unvaccinated resident and permanent resident visa holders from entering the country. Due to the relaxation of border restrictions, unvaccinated New Zealand citizens were allowed to enter the country. The groups' lawyer Matthew Hague claimed there was no risk to changing the policy since all travellers entering New Zealand were tested and the high number of community cases. In response, epidemiologist Michael Baker expressed concerns that allowing more unvaccinated travellers to enter the country would increase the transmission of COVID-19 [how?]. COVID-19 Response Minister Chris Hipkins indicated that the country's COVID-19 border policies were being reviewed. Paul Hunt of the Human Rights Commission urged the Government to reconsider its ban on unvaccinated permanent residents from entering the country.
+
+In early May 2022, Hipkins announced that unvaccinated visa holders, permanent residents, and Australian citizens residing in New Zealand would be able to travel to and from the country without having to undergo Managed Isolation and Quarantine (MIQ). He cited the lower health risks of overseas transmission and New Zealand's high vaccination rate as the basis of the Government's relaxation of border entry restrictions.
+
+Vaccine hesitancy and anti-vaccine activism
+In early November 2021, several educational leaders expressed concerns about vaccine hesitancy among teachers and early childhood workers.  Secondary Principals Association president Vaughan Couillault and Principals Federation president Perry Rush estimated that there were 2,000 vaccine hesitant teachers within the secondary schools sector. Rush also reported that anti-vax medical personnel including osteopaths, homeopaths, general practitioners, physiotherapists, and midwives were issuing bogus vaccine exemption certificates to teaching staff. Te Rito Maioha Early Childhood New Zealand chief executive Kathy Wolfe said that her sector had only received a few queries about &quot;resisters.&quot;
+
+In response to staff presenting vaccine certificates, the Post Primary Principals Association president Melanie Webber sought clarification from the Government on how to deal with vaccine hesitant staff. The Royal New Zealand College of General Practitioners also warned members not to issue further vaccine certificates until the Health Ministry and Immunisation Advisory Centre addressed an &quot;apparent loophole&quot; in the rules that dealt with &quot;unspecified health issues.&quot; Under New Zealand law, any health practitioner registered under the Health Practitioners Competence Assurance Act 2003 including general practitioners, dentists, podiatrists and midwives can provide exemption certificates.
+
+In October 2021, the Medical Council of New Zealand (MCNZ) launched an investigation of Sophie Febery, a general practitioner at the Methven Medical Centre in Mid Canterbury  who had espoused anti-COVID-19 vaccination views and unsuccessfully attempted to import ivermectin. Febery had previously been barred from seeing patients face-to-face for refusing to get vaccinated and participated in an anti-vaccination rally organised by the Freedoms and Rights Coalition.
+
+On 3 November 2021, the Voices for Freedom activist group organised an event at Newbury School in Palmerston North for people seeking vaccine exemptions. However, the school and Ministry of Education subsequently declined to allow Voices for Freedom to use its facilities, prompting the cancellation of the event. Social media posts promoting the event claimed that &quot;registered practitioners&quot; were selling vaccine certificates for $10 for individuals and $20 for families. A similar vaccine exemption signing event had been held at a Seventh-day Adventist Church in Palmerston North on 1 November. In response to the events in Palmerston North, COVID-19 Response Minister Hipkins announced that the Government would be establishing a centralised system to approve vaccine exemptions and clarified that the practise of selling vaccine certificates or offering them for free was illegal.
+
+In early December 2021, it was reported that media broadcaster Newshub had recorded a Kaiapoi–based general practitioner named Dr Jonie Girouard illegally selling medical certificates as exemptions for COVID-19 vaccines. This is in breach of regulations that only allow the Ministry of Health to grant medical exemptions relating to COVID-19. The doctor was also recorded making anti-vaccination statements and admitted that she not been vaccinated for COVID-19, in breach of the vaccine mandate for health workers. In response the New Zealand Medical Association and Police confirmed that they were investigating Girouard with the assistance of the Ministry of Health for breaching the Crimes Act 1961 and the COVID-19 Public Health Response (Vaccinations) Order 2021.
+
+On 12 December, the Medical Council of New Zealand confirmed that they were investigating Girouard's husband Michael while the Health Ministry declined a &quot;Temporary Significant Service Disruption Exemption&quot; from Jonie following media coverage of their activities to enable her to treat patients in person without being vaccinated. The couple was criticised by both National MP Gerry Brownlee and Labour MP Duncan Webb, with the former calling for Dr Jonie to be suspended and the latter describing their actions as &quot;defying the science.&quot; On 10 January 2021, the Medical Council confirmed that Girouard was no longer registered as a general practitioner after she applied at her own request to be removed from the national register of doctors. On 20 November 2023, the Health and Disability Commissioner (HDC) decision ruled that Dr Girouard  was &quot;wholly irresponsible for not complying with healthcare standards during the Covid-19 pandemic.&quot;
+
+In late March 2022, about 100 people from the group &quot;Silent no More&quot; delivered a 12,000 strong petition to Parliament demanding recognition for New Zealanders who claimed that they had been injured by COVID-19 vaccines. The delegation was met by National Member of Parliament Chris Penk, who had been informed of the petition by a constituent.
+
+Vaccine mandates
+On 11 November 2021, Southern District Health Board member Ilka Beekhuis resigned after she used her title to oppose Countdown's vaccine mandate on employees and voted against a DHB motion calling for a commitment to at least 90% vaccination rates across communities.
+
+On 17 November, 1,309 unvaccinated employees of the country's 20 district health boards' 80,000–strong work force had been stood down for not meeting the Government's vaccine mandate. 463 of the stood-down employees are nurses while 723 others include senior medical officers, midwives and registered medical officers.
+
+In early August 2022,  Radio New Zealand reported that the College of Midwives chief executive Alison Eddy had written a letter to the Health Minister Andrew Little and the COVID-19 Response Minister Chris Hipkins in May 2022 urging them to reconsider lifting the ban on unvaccinated midwives in order to address the staffing shortage in the healthcare sector. In addition, other health leaders including Midwifery Employee Representation &amp; Advisory Service (MERAS) co-leader Caroline Conroy and University of Auckland vaccinologist Helen Petousis-Harris expressed support for reviewing the vaccine mandate requirement for healthcare workers. On 2 August, National Party COVID-19 spokesperson Chris Bishop called on the Government to lift its vaccine mandate requirement for nurses and health workers in order to address the staffing shortage in the healthcare sector.
+
+By 21 December 2022, The New Zealand Herald reported that 447 teachers in New Zealand had resigned or been dismissed for refusing to receive the COVID-19 vaccine in the period between November 2021 and 20 April 2022; citing figures released by the Ministry of Education under the Official Information Act.
+
+In February 2024, a study conducted by Auckland University of Technology, led by economics professor Gail Pacheco, found that vaccine mandates had a limited impact on increasing vaccine uptake among New Zealand's 171,486 health workers. While 90% of health workers had received two vaccines by the time the mandates were announced in October 2021, there was no sudden jump with vaccine coverage increasing at a steady rate until it reached 90 percent. Pacheco found that the mandates adversely affected unvaccinated health workers' employment prospects and pay, which declined 19% and 15% respectively during that period.
+
+In early April 2024, Radio New Zealand reported that 8,051 unvaccinated and partially vaccinated health workers were allowed to keep working between October 2021 and September 2022 because critical health services could not function without them. This figure included 3,935 care and support workers, 352 doctors, 992 admin workers, 788 allied health professionals and 1,984 nurses and midwives. Over five thousand were employed by district health boards while others were employed by clinics and home-health agencies.
+
+ See also 
+* COVID-19 pandemic in New Zealand
+* New Zealand government response to the COVID-19 pandemic
+
+ Notes 
+
+
+References
+
+
+ External links 
+* 
+* [https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data COVID-19: Vaccine data | Ministry of Health NZ], State sanctioned data on the vaccination roll out
+* [https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-vaccines COVID-19 vaccines | Ministry of Health NZ], Official Ministry of Health website for COVID-19 Vaccines
+
+
+
+
+New Zealand
+</segment>
+	</text>
+</file>

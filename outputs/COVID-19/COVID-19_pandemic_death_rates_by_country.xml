@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-01-23T11:57:48Z" sourceCorpus="COVID-19" filename="64584137" title="COVID-19_pandemic_death_rates_by_country" url="https://en.wikipedia.org/wiki/COVID-19_pandemic_death_rates_by_country">
+	<text>
+		<segment id="id64584137">This article contains the number of confirmed COVID-19 deaths per population as of  , by country. It also has cumulative death totals by country. For these numbers over time see the tables, graphs, and maps at COVID-19 pandemic deaths and COVID-19 pandemic by country and territory.
+
+This data is for entire populations, and does not reflect the differences in rates relative to different age groups. For example, in the United States as of 27 April 2021, the reported case fatality ratios were 0.015%, 0.15%, 2.3%, and 17% for the age groups 0–17, 18–49, 50–74, and 75 or over, respectively.
+
+__TOC__
+
+ Data reliability 
+Variation between testing programmes worldwide results in different ascertainment rates per country: not every SARS-CoV-2 infection, nor every COVID-19-related death, will be identified, while on the other hand some deaths may be wrongly attributed to COVID-19 (for example if all suspected COVID-19 deaths are counted as COVID-19 deaths, as Belgium was doing in September 2020, or when for several months after April 2020, England reported all deaths after a positive COVID-19 test &quot;in order to be sure not to underestimate the number of COVID-19 related deaths&quot;, while Scotland reported all deaths within 28 days of such a positive test). Therefore, the true numbers of infections and deaths will exceed the observed (confirmed) numbers everywhere, though the extent will vary by country. These statistics are therefore less suitable for between-country comparisons. As deaths are easier to identify than infections (which are regularly asymptomatic), the true case fatality rate (CFR) is likely lower than the observed CFR.
+
+Reports from Socialstyrelsen in Sweden indicates 20797 cases of Covid-19 deaths as of 2024-10-15 which differs from the table below.
+
+Causes of variation in true CFRs between countries, include variations in age and overall health of the population, medical care, and classification of deaths.
+
+Excess mortality statistics provide a more reliable estimate of all COVID-19-related mortality during the pandemic, though they include both &quot;direct COVID-19 and indirect, non-COVID-19 deaths&quot;. They compare overall mortality with that of previous years, and as such also include the potentially vast number of deaths among people with unconfirmed COVID-19. 
+
+Data from Russia illustrates how the true death rates from COVID-19 can be far higher than visible from confirmed COVID-19 deaths: in December 2020, based on overall excess mortality during the year, total COVID-19 deaths in Russia were estimated to be over 186,000,while confirmed COVID-19 deaths were at 56,271.
+
+For the Netherlands, based on overall excess mortality, an estimated 20,000 people died from COVID-19 in 2020, while only the death of 11,525 identified COVID-19 cases was registered. The official count of COVID-19 deaths as of December 2021 is slightly more than 5.4 million, according to World Health Organization's report in May 2022. WHO also said that the real numbers are far higher than the official tally because of unregistered deaths in countries without adequate reporting.
+
+ Table of total cases, deaths, and death rates by country 
+Note: Table is automatically updated daily. Data source is Our World in Data.
+
+
+
+ Map of death rates 
+Total confirmed COVID-19 deaths per million people by country:
+thumb|none|800px|See date at top of map.
+
+
+ See also 
+
+* List of epidemics
+* List of deaths due to COVID-19 – notable individual deaths
+* COVID-19 vaccine
+* Deployment of COVID-19 vaccines
+
+ Notes 
+
+
+ References 
+
+
+External links
+
+* [https://corona.epidy.com/ COVID-19 Risk Factors]
+
+
+
+
+Country</segment>
+	</text>
+</file>

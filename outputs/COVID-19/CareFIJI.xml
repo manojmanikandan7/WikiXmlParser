@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2023-11-11T19:10:17Z" sourceCorpus="COVID-19" filename="65983602" title="CareFIJI" url="https://en.wikipedia.org/wiki/CareFIJI">
+	<text>
+		<segment id="id65983602">| language = English
+| genre = Digital contact tracing
+| license = Open Source
+| website = 
+
+careFIJI is a mobile software application developed by the Government of Fiji to assist the Ministry of Health and Medical Services in combating the ongoing COVID-19 pandemic in Fiji. The mobile app is available on Google Play and the App Store.
+
+ History 
+The app was part of the second phase of Fiji's COVID-19 response to help the Ministry of Health in its contact tracing efforts. It was launched in June 2020 by Prime Minister Frank Bainimarama. Minister for Health Ifereimi Waqainabete said that the app would be important to contain any future spread of COVID-19. In light of the first community case confirmed on 19 April 2021, the Permanent Secretary for Health Dr James Fong has emphasized the use of the app. On 6 February 2022, the government announced that the app will not be required for contact tracing anymore.
+
+ Contact tracing 
+The app is based on the TraceTogether mobile application developed by the Singaporean Government. It uses bluetooth technology to track encounters between users and the data is anonymous and encrypted. The app is equipped with the QR check-in and check-out feature which allow individuals to scan QR codes in entry and exit of any business.
+
+ See also 
+* COVID-19 pandemic in Fiji
+* COVID-19 apps
+
+ References 
+
+
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

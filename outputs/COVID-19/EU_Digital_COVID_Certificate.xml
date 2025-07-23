@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-03-24T17:36:45Z" sourceCorpus="COVID-19" filename="68162842" title="EU_Digital_COVID_Certificate" url="https://en.wikipedia.org/wiki/EU_Digital_COVID_Certificate">
+	<text>
+		<segment id="id68162842">thumb|300px|EUDCC QR code displayed on a smartphone
+thumb|Sample EU Digital COVID Certificate issued by the Czech Republic
+
+The EU Digital COVID Certificate (EUDCC), best known in Italy as the Green Pass and in France as the Sanitary Pass or Health Pass (passe sanitaire), was a digital certificate that a person has been vaccinated against COVID-19, tested for infection with SARS-CoV-2, or recovered from COVID-19 created by the European Union (EU) and valid in all member states.
+
+The EU Digital COVID Certificate was created to facilitate travel within the European Union. It launched in July 2021, and is available to citizens of the EU, and also to travellers from outside of the region. By December 2022, the member states had issued more than 2 billion EU Digital COVID Certificates.
+
+With 51 non-EU countries and territories connected to the system in addition to the 27 member states, the EU Digital COVID Certificate is a global standard for COVID-19 certification.
+
+While in March 2022, 17 member states were still requiring travellers to be in the possession of an EU Digital COVID Certificate, this number dropped to 7 member states in May 2022, and eventually to 0 member states in August 2022. The EU Digital COVID Certificate system expired on 30 June 2023.
+
+Information in the certificate
+The EUDCC certifies that a person has either:
+* COVID-19 vaccination
+* received a negative COVID-19 test result
+* recovered from COVID-19
+
+Additionally, the certificate contains the full name and date of birth of the certificate holder. No other personal information is included.
+
+Each certificate only certifies one claim, so for each vaccination and each test a separate certificate is required.
+
+Implementation
+The EUDCC was a digitally-signed document. It was usually supplied in the form of a QR code, either contained in a PDF file, or as a printout. There are various mobile apps available to store and display the EUDCC (such as the Corona-Warn-App); alternatively, the EUDCC can be presented on paper.
+
+To check the validity of the EUDCC, special software was required which scans the QR code and verifies the digital signature, for example the mobile application CovPassCheck-App.
+
+Technically, the QR code contains a JSON document with the information payload. This JSON document is serialized using Concise Binary Object Representation (CBOR), and digitally signed according to CBOR Object Signing and Encryption (COSE). The resulting data is compressed with zlib and encoded into the final QR code.
+
+Non-EU countries
+columns-list|colwidth=20em|
+The EUDCC is also issued and recognized by 40 non-EU countries and territories:
+
+ Europe 
+
+* Albania
+* Andorra
+* Faroe Islands
+* Iceland
+* Liechtenstein
+* Moldova
+* Monaco
+* Montenegro
+* North Macedonia
+* Norway
+* San Marino
+* Serbia
+* Switzerland
+* Ukraine
+* United Kingdom and the Crown Dependencies (Jersey, Guernsey and the Isle of Man)
+* The Vatican City
+
+ Asia 
+* Armenia
+* Georgia
+* Hong Kong
+* Indonesia
+* Israel
+* Jordan
+* Lebanon
+* Malaysia
+* Singapore
+* Taiwan
+* Thailand
+* Turkey
+* United Arab Emirates
+* Vietnam
+
+ Africa 
+* Benin
+* Cabo Verde
+* Morocco
+* Seychelles
+* Togo
+* Tunisia
+
+ Americas 
+* Colombia
+* El Salvador
+* Panama
+* Uruguay
+* Brazil
+
+ Oceania 
+* New Zealand
+
+
+ References 
+
+
+
+
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

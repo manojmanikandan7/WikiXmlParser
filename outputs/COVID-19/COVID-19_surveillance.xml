@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-04-08T19:19:07Z" sourceCorpus="COVID-19" filename="63526358" title="COVID-19_surveillance" url="https://en.wikipedia.org/wiki/COVID-19_surveillance">
+	<text>
+		<segment id="id63526358">COVID-19 surveillance involves monitoring the spread of the coronavirus disease in order to establish the patterns of disease progression. The World Health Organization (WHO) recommends active surveillance, with focus of case finding, testing and contact tracing in all transmission scenarios. COVID-19 surveillance is expected to monitor epidemiological trends, rapidly detect new cases, and based on this information, provide epidemiological information to conduct risk assessment and guide disease preparedness.
+
+Syndromic surveillance
+
+Syndromic surveillance is done based on the symptoms of an individual who corresponds to COVID-19. As of March 2020, the WHO recommends the following case definitions:
+* Suspect case: &quot;a patient with acute respiratory illness (fever and at least one sign/symptom of respiratory disease, e.g. cough, shortness of breath), and a history of travel to or residence in a location reporting community transmission of COVID-19 disease during the 14 days prior to symptom onset&quot; OR &quot; a patient with any acute respiratory illness and having been in contact with a confirmed or probable COVID-19 case in the last 14 days prior to symptom onset&quot; OR &quot;a patient with severe acute respiratory illness (fever and at least one sign/symptom of respiratory disease, e.g. cough, shortness of breath; and requiring hospitalization) and in the absence of an alternative diagnosis that fully explains the clinical presentation&quot;
+* Probable case: &quot;a suspect case for whom testing for the COVID-19 virus is inconclusive&quot; OR &quot;a suspect case for whom testing could not be performed for any reason&quot;
+* Confirmed case: &quot;a person with laboratory confirmation of COVID-19 infection, irrespective of clinical signs and symptoms&quot;
+* Contact: &quot;a person who experienced any one of the following exposures during the 2days before and the 14days after the onset of symptoms of a probable or confirmed case
+# face-to-face contact with a probable or confirmed case within 1meter and for more than 15minutes
+# direct physical contact with a probable or confirmed case
+# direct care for a patient with probable or confirmed COVID-19 disease without using proper personal protective equipment
+# other situations as indicated by local risk assessments&quot;
+
+The WHO recommends reporting probable and confirmed cases of COVID-19 infection within 48 hours of identification. Countries should report on a case-by-case basis as far as possible but, in case of limitation in resources, aggregate weekly reporting is also possible. Some organizations have created crowdsourced apps for syndromic surveillance, where people can report their symptoms to help researchers map areas with concentration of COVID-19 symptoms.
+
+The Centre for Evidence-Based Medicine (CEBM) compared case definitions from WHO, the European Union's Centers for Disease Control (ECDC), the US Centers for Disease Control (CDC), China, Public Health England, and [https://snlg.iss.it/wp-content/uploads/2020/03/CircolareMinSal_DefinizioneCasoCOVID19.pdf Italy], and found that while the definition of suspected cases relies on clinical criteria, those are generally replaced by a single PCR test result when it comes to confirmatory diagnosis, and the  &quot;there is no guidance providing details on the specific RNA sequences required by testing, a threshold for the test result and the need for confirmatory testing.&quot; They note that currently &quot;any person meeting the laboratory criteria is a confirmed case&quot; although per the CDC's [https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section5.html Introduction to Epidemiology], a case definition should be &quot;a set of standard criteria for classifying whether a person has a certain disease, syndrome, or other health condition&quot;. They urge that PCR test positivity counts include &quot;a standardized threshold level of detection, and at a minimum, the recording of the presence or absence of symptoms.&quot;
+
+Virological surveillance
+
+
+
+Virological surveillance is done by using molecular tests for COVID-19. WHO has published resources for laboratories on how to perform testing for COVID-19. In the European Union, laboratory confirmed cases of COVID-19 are reported within 24 hours of identification. Several countries conduct virological surveillance on wastewater to test for the presence or prevalence of COVID-19 in the population residing in a wastewater catchment.
+
+Digital surveillance
+
+At least 24 countries have established digital surveillance of their citizens. The digital surveillance technologies include COVID-19 apps, location data and electronic tags. The Center For Disease Control and Prevention in USA tracks the travel information of individuals using airline passenger data.
+
+Tracking wristbands can take the place of smartphone apps for users who either do not own a smartphone, or who own a smartphone unable to support Bluetooth Low Energy functionality. In the UK, as of 2020 more than ten percent of smartphones lack this functionality. In addition, in South Korea, people found to be breaking quarantine are issued tracking wristbands designed to alert authorities if the band is removed. At least one jurisdiction in the U.S. has used existing ankle bracelet technology to enforce quarantine on patients found to be in violation.
+
+In Hong Kong, authorities are requiring a bracelet and an app for all travellers. A GPS app is used to track the locations of individuals in South Korea to ensure against quarantine breach, sending alerts to the user and to authorities if people leave designated areas. In Singapore, individuals have to report their locations with photographic proof. Thailand is using an app and SIM cards for all travelers to enforce their quarantine. India is planning to manufacture location and temperature-monitoring bands. Israel's internal security service, Shin Bet, had already tracked all Israeli phone-call metadata for decades prior to the outbreak, and in March 2020 was ordered by emergency decree to track and notify people exposed to the virus. The decree was replaced by legislation in June 2020. From June to December 2020, reportedly 950,000 people were flagged for quarantine by the surveillance, of whom 46,000 were infected.
+
+Human rights organizations have criticized some of these measures, asking the governments not to use the pandemic as a cover to introduce invasive digital surveillance.
+
+See also
+
+columns-list|
+* Transmission (medicine)
+* Mathematical modelling of infectious disease
+* Contact tracing
+* COVID-19 apps
+* Public health surveillance
+* Disease surveillance
+* Infection prevention and control
+* Pandemic prevention
+* Government by algorithm
+* Wastewater-based epidemiology
+
+
+References
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

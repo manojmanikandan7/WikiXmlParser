@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2023-11-11T13:41:34Z" sourceCorpus="COVID-19" filename="68472383" title="TousAntiCovid" url="https://en.wikipedia.org/wiki/TousAntiCovid">
+	<text>
+		<segment id="id68472383">TousAntiCovid (French for Everyone against Covid, and originally released as StopCovid) is a voluntary contact tracing app for monitoring the spread of the COVID-19 pandemic in France. It was first released on 2 June 2020 and is available on Android and iOS smartphones.
+
+ History 
+ Initial release 
+On 8 April 2020, the French government announced that it was working on a contact-tracing app, in co-operation with Inria. The app (as StopCovid) was initially released on 2 June 2020, relying on a centralised contact tracing system (known as ROBERT) instead of the contact tracing system created by Google and Apple. By 22 June, the app had been downloaded 1.8 million times; however, it was rather controversial, with many criticising the potential privacy issues surrounding the ROBERT system.
+
+ Re-release as TousAntiCovid 
+Due to the controversies surrounding StopCovid, on 23 October 2020, the French government announced that it would be rebranding the app as TousAntiCovid. In addition to the rebrand, the app would gain several new features, including the ability to see daily case numbers and a news feed. The app later gained more features, including the ability to show the user's vaccination status for check in at venues.
+
+ References 
+
+
+ External links 
+* [https://www.gouvernement.fr/info-coronavirus/tousanticovid Official website (in French)]
+* [https://faq.tousanticovid.gouv.fr/kb/fr/ TousAntiCovid support website (in French)]
+
+
+</segment>
+	</text>
+</file>

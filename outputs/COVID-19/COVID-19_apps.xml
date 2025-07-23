@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-07-21T06:07:32Z" sourceCorpus="COVID-19" filename="63536836" title="COVID-19_apps" url="https://en.wikipedia.org/wiki/COVID-19_apps">
+	<text>
+		<segment id="id63536836">COVID-19 apps include mobile-software applications for digital contact-tracing—i.e. the process of identifying persons (&quot;contacts&quot;) who may have been in contact with an infected individual—deployed during the COVID-19 pandemic.
+
+Numerous tracing applications have been developed or proposed, with official government support in some territories and jurisdictions. Several frameworks for building contact-tracing apps have been developed. Privacy concerns have been raised, especially about systems that are based on tracking the geographical location of app users.
+
+Less overtly intrusive alternatives include the co-option of Bluetooth signals to log a user's proximity to other cellphones. (Bluetooth technology has form in tracking cell-phones' locations.))
+On 10 April 2020, Google and Apple jointly announced that they would integrate functionality to support such Bluetooth-based apps directly into their Android and iOS operating systems. India's COVID-19 tracking app Aarogya Setu became the world's fastest growing application—beating Pokémon Go—with 50 million users in the first 13 days of its release.
+
+ Rationale 
+
+Contact tracing is an important tool in infectious disease control, but as the number of cases rises time constraints make it more challenging to effectively control transmission. Digital contact tracing, especially if widely deployed, may be more effective than traditional methods of contact tracing. In a March 2020 model by the University of Oxford Big Data Institute's Christophe Fraser's team, a coronavirus outbreak in a city of one million people is halted if 80% of all smartphone users take part in a tracking system; in the model, the elderly are still expected to self-isolate en masse, but individuals who are neither symptomatic nor elderly are exempt from isolation unless they receive an alert that they are at risk of carrying the disease. Some proponents advocate for legislation exempting certain COVID-19 apps from general privacy restrictions.
+
+Issues
+Uptake
+Ross Anderson, professor of security engineering at Cambridge University, listed a number of potential practical problems with app-based systems, including false positives and the potential lack of effectiveness if takeup of the app is limited to only a small fraction of the population. In Singapore, only one person in three had downloaded the TraceTogether app by the end of June 2020, despite legal requirements for most workers; the app was also underused, as it required users to keep it open at all times on iOS.
+
+A team at the University of Oxford simulated the effect of a contact tracing app on a city of 1 million. They estimated that if the app was used in conjunction with the shielding of over-70s, then 56% of the population would have to be using the app for it to suppress the virus. This would be equivalent to 80% of smartphone users in the United Kingdom. They found that the app could still slow the spread of the virus if fewer people downloaded it, with one infection being prevented for every one or two users.
+
+In August 2020, the American Civil Liberties Union (ACLU) argued that there were disparities in smartphone use between demographics and minority groups, and that &quot;even the most comprehensive, all-seeing contact tracing system is of little use without social and medical systems in place to help those who may have the virus — including access to medical care, testing, and support for those who are quarantined.&quot;
+
+ App store restrictions 
+Addressing concerns about the spread of misleading or harmful apps, Apple, Google and Amazon set limits on which types of organizations could add coronavirus-related apps to its App Store, limiting them to only &quot;official&quot; or otherwise reputable organizations.
+
+ Ethical principles of mass surveillance using COVID-19 contact tracing apps 
+The advent of COVID-19 contact tracing apps has led to concerns around privacy, the rights of app users, and governmental authority. The European Convention on Human Rights, the International Covenant on Civil and Political Rights (ICCPR) and the United Nations and the Siracusa Principles have outlined 4 principles to consider when looking at the ethical principles of mass surveillance with COVID-19 contact tracing apps. These are necessity, proportionality, scientific validity, and time boundedness.
+
+Necessity is defined as the idea that governments should only interfere with a person's rights when deemed essential for public health interests. The potential risks associated with infringements of personal privacy must be outweighed by the possibility of reducing significant harm to others. Potential benefits of contact-tracing apps that may be considered include allowing for blanket population-level quarantine measures to be lifted sooner and the minimization of people under quarantine. Hence, some contend that contact-tracing apps are justified as they may be less intrusive than blanket quarantine measures. Furthermore, the delay of an effective contact-tracing app with significant health and economic benefits may be considered unethical.
+
+Proportionality refers to the concept that a contact tracing app's potential negative impact on a person's rights should be justifiable by the severity of the health risks that are being addressed. Apps must use the most privacy-preserving options available to achieve their goals, and the selected option should not only be a logical option for achieving the goal but also an effective one.
+
+Scientific validity evaluates whether an app is effective, timely and accurate. Traditional manual contact-tracing procedures are not efficient enough for the COVID-19 pandemic, and do not consider asymptomatic transmission. Contact-tracing apps, on the other hand, can be effective COVID-19 contact-tracing tools that reduce R value to less than 1, leading to sustained epidemic suppression. However, for apps to be effective, there needs to be a minimum 56-60% uptake in the population. Apps should be continually modified to reflect current knowledge on the diseases being monitored. Some argue that contact-tracing apps should be considered societal experimental trials where results and adverse effects are evaluated according to the stringent guidelines of social experiments. Analyses should be conducted by independent research bodies and published for wide dissemination. Despite the current urgency of our pandemic situation, we should still adhere to the standard rigors of scientific evaluation.
+
+Time boundedness describe the need for establishing legal and technical sunset clauses so that they are only allowed to operate as long as necessary to address the pandemic situation. Apps should be withdrawn as soon as possible after the end of the pandemic. If the end of the pandemic cannot be predicted, the use of apps should be regularly reviewed and decisions about continued use should be made at each review. Collected data should only be retained by public health authorities for research purposes with clear stipulations on how long the data will be held for and who will be responsible for security, oversight, and ownership.
+
+ Privacy, discrimination and marginalisation concerns 
+The American Civil Liberties Union (ACLU) has published a set of principles for technology-assisted contact tracing and Amnesty International and over 100 other organizations issued a statement calling for limits on this kind of surveillance. The organisations declared eight conditions on governmental projects:
+# surveillance would have to be &quot;lawful, necessary and proportionate&quot;;
+# extensions of monitoring and surveillance would have to have sunset clauses;
+# the use of data would have to be limited to COVID-19 purposes;
+# data security and anonymity would have to be protected and shown to be protected based on evidence;
+# digital surveillance would have to address the risk of exacerbating discrimination and marginalisation;
+# any sharing of data with third parties would have to be defined in law;
+# there would have to be safeguards against abuse and the rights of citizens to respond to abuses;
+# &quot;meaningful participation&quot; by all &quot;relevant stakeholders&quot; would be required, including that of public health experts and marginalised groups.
+
+The German Chaos Computer Club (CCC) and Reporters Without Borders also issued checklists.
+
+The Exposure Notification service intends to address the problem of persistent surveillance by removing the tracing mechanism from their device operating systems once it is no longer needed.
+
+On 20 April 2020, it was reported that over 300 academics had signed a statement favouring decentralised proximity tracing applications over centralised models, given the difficulty in precluding centralised options being used &quot;to enable unwarranted discrimination and surveillance.&quot; In a centralised model, a central database records the ID codes of meetings between users. In a decentralised model, this information is recorded on individual phones, with the role of the central database being limited to identifying phones by their ID code when an alert needs to be sent.
+
+In Moscow use of the tracking app was made mandatory during the lockdowns in April 2020 when most Muscovites were mostly required to stay indoors. Vladimir Putin signed laws introducing criminal penalties, including up to seven years imprisonment, for quarantine violations that led to others being infected. Moscow also implemented government-issued QR codes that were made mandatory. It was not disclosed what information the codes contain, but they must be shown to police when requested. Opposition members were uncomfortable with the Russian government's introduction of COVID surveillance tools. In May 2020 Human Rights Watch reported that the authorities in Moscow had wrongly fined hundreds of Muscovites for breaching self-quarantine. The dubious behavioral interpretations recorded by the social monitoring tracking application led to the mistaken fining of hundreds of people in Moscow.
+
+Contact-tracing apps were deployed rapidly by governments and other organisations in spring and summer 2020. Initial releases were found to come with incongruent privacy policies, hidden built-in surveillance and location-tracing functions, and generally contained few cues about a proper specification and quality assurance process. Code quality in several apps was found to be poor, while hardly any of 28 apps surveyed in May and June 2020 managed to address all privacy principles laid forth in the EU's GDPR.
+
+Accuracy of proximity reports
+According to ZDNet, Bluetooth-based proximity detection carries a risk of over-reporting interactions and leading to &quot;a huge amount of false positives&quot;; hypothetically, a system could flag an interaction with &quot;(a) person waiting for the bus on the (opposite) side of the road&quot;. One problem is that using Bluetooth signal strength to infer distance can be unreliable; the range of a given Bluetooth device can vary due to the environment or the way the device is held. False positives could result in needless self-isolation, or could cause users to ignore warnings if the warnings are perceived as unreliable. GPS-based proximity detection can also be unreliable: according to the United States' GPS.gov, &quot;GPS-enabled smartphones are typically accurate to within a 4.9 meter (16 ft.) radius under open sky&quot;, with accuracy decreasing further in the presence of signal blockage. In contrast, social distancing guidelines are usually 2 m (6 ft).
+
+In the Google/Apple mechanism, a log entry is only added on the phone if Bluetooth proximity persists for five minutes (or possibly longer, depending on app configuration). Logs are retained for 14 days. Bluetooth tracking is prone to false negatives; for example, unlike time-stamped GPS matching, Bluetooth cannot detect that a user has entered a possibly-infected space that an infected person has just left.
+
+ General approaches 
+thumb|thumbtime=0:02|International Telecommunication Union
+
+ Centralized contact tracing 
+Some countries used network-based location tracking instead of apps, eliminating both the need to download an app and the ability to avoid tracking. Israel authorized its secret service (Shin Bet) to use its surveillance measures for network-based tracking. Network-based solutions that have access to raw location data have significant potential privacy problems. However, not all systems with central servers need to have access to personal location data; a number of privacy-preserving systems have been created that use central servers only for intercommunication (see section below).
+
+In South Korea, a non-app-based system was used to perform contact tracing. Instead of using a dedicated app, the system gathered tracking information from a variety of sources including mobile device tracking data and card transaction data, and combined these to generate notices via text messages to potentially-infected individuals. In addition to using this information to alert potential contacts, the government has also made the location information publicly available, something permitted because of far-reaching changes to information privacy laws after the MERS outbreak in that country. This information is available to the public via a number of apps and websites.
+
+Countries including Germany considered using both centralized and privacy-preserving systems. , the details had not yet been released.
+
+ Decentralized contact tracing 
+ Development 
+
+
+Privacy-preserving contact tracing is a well-established concept, with a substantial body of research literature dating back to at least 2013.
+
+On 17 March 2020 the CEN protocol developed by Covid Watch, later renamed the TCN Protocol, was first released.
+
+Covid Watch was the first organization to develop and open source an anonymous, decentralized Bluetooth digital contact tracing protocol, publishing their white paper on the subject in March 2020. The group was founded as a research collaboration between Stanford University and the University of Waterloo.
+
+On 1 April 2020, the CEN Protocol was presented at Stanford HAI's COVID-19 and AI virtual conference.
+
+As of 1 April 2020, a group of European researchers, including from the Fraunhofer Heinrich Hertz Institute and École Polytechnique Fédérale de Lausanne (EPFL), were under the umbrella of the Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT) project, developing a BLE-based app to serve this purpose that is designed to avoid the need for intrusive surveillance by the state. However, PEPP-PT is a co-ordination effort which contains both centralised and decentralised approaches.
+
+As of 7 April 2020, over a dozen expert groups were working on privacy-friendly solutions, such as using Bluetooth Low Energy (BLE) to log a user's proximity to other cellphones. Users then receive a message if they've been in close contact with someone who has tested positive for COVID-19.
+
+On 9 April 2020, the Singaporean government announced that it had open-sourced a reference implementation of the BlueTrace protocol, used by TraceTogether, its official government app. As of 23 March 2020, Mary-Louise McLaws, professor at the University of New South Wales' School of Public Health and Community Medicine in Australia, a technical adviser to the World Health Organization's Infection Prevention and Control Global Unit and a member of European, US and UK epidemiology and infection control bodies recommended the idea for wider adoption.
+
+On 17 April 2020, EPFL and the ETH Zurich pulled out of PEPP-PT, criticizing PEPP-PT for a lack of transparency and openness, and for not respecting personal privacy enough. Later it was reported that KU Leuven, the CISPA Helmholz Center for Information Security, the European Laboratory for Learning and Intelligent Systems and the Technical University of Denmark, also withdrew from the project. On 26 April 2020, Germany switched to decentralised approach to support solutions like DP-3T.
+
+Methods
+Decentralised protocols include Decentralized Privacy-Preserving Proximity Tracing (DP-PPT/DP-3T), The Coalition Network's Whisper Tracing Protocol, the global TCN Coalition's TCN (&quot;Temporary Contact Numbers&quot;) Protocol, and the MIT Media Lab's SafePaths. The goal of decentralization is to reduce the loss of privacy, by exchanging anonymous keys that do not include identifiable information.
+
+COCOVID is being developed as a common effort of several European companies and institutions. The Mobile Application, the Big Data and the Artificial Intelligence components will be available to any government. The COCOVID app is Open Source and the backend is based on a highly scalable solution that is already used by several of the largest financial institutions in Europe. COCOVID will support the coordination of tests at medical institutions, allowing users with a high infection risk to book a test slot directly from the app. This will reduce the effort and increase the efficiency of the medical test processes. COCOVID will use both location and Bluetooth contact data, allowing a high level of effectiveness. The solution is designed following the EU data privacy recommendations.
+The team working on the project includes persons from Orange, Ericsson, Proventa AG, Stratio, TH Köln and Charta digitale Vernetzung.
+
+ Apple / Google Exposure Notification protocol 
+
+On 10 April 2020, Google and Apple, the companies that control the Android and iOS mobile platforms, announced an initiative for contact tracing, which they stated would preserve privacy, based on a combination of Bluetooth Low Energy technology and privacy-preserving cryptography. They also published specifications of the core technologies used in the system. According to Apple and Google, the system is intended to be rolled out in three stages:
+* API specification and publication
+* rollout of tools to enable governments to create official privacy-preserving coronavirus tracing apps
+* integration of this functionality directly into iOS and Android
+
+Google and Apple plan to address the take-up and persistent surveillance problems by first distributing the system through operating system updates, and later removing it in the same way once the threat has passed.
+
+The ACLU stated the Google and Apple's approach &quot;appears to mitigate the worst privacy and centralization risks, but there is still room for improvement&quot;.
+
+By 20 April 2020, Google and Apple described the systems as &quot;Exposure Notification&quot; rather than &quot;contact tracing&quot;, stating the system should be &quot;in service of broader contact tracing efforts by public health authorities&quot;. The name change was received positively by journalists in Vox/Recode and Salon, who stated &quot;Exposure notification schemes like the Apple-Google system aren't true contact tracing systems because they don't allow public health authorities to identify people who have been exposed to infected individuals.&quot;
+
+ List of frameworks 
+
+
+
+ List of countries/territories with official contact tracing apps 
+;Australia
+COVIDSafe is a digital contact tracing app announced by the Australian Government on 14 April 2020 to help combat the ongoing COVID-19 pandemic. The app is based on the BlueTrace protocol developed by the Singaporean Government, and was first released on 26 April 2020. The efficacy of the app was questioned over its lifetime, ultimately identifying just 2 confirmed cases by the time it was decommissioned on 16 August 2022.
+
+;Austria
+Stopp Corona is the contact tracing app published by the Austrian red cross on behalf of the Federal Ministry of Health. The app is supported both on Android and IOS platforms. The source code was released on 24 April 2020 as open source on GitHub.
+
+;Azerbaijan
+e-Tabib is an official contact tracing and informational mobile app, prepared by Force Task under the Cabinet of Ministers of Azerbaijan. 'e-Tabib' is designed to be an application which will inform the users in real-time about the number of patients (both sick and recovered from COVID-19) in Azerbaijan. The app will provide daily updates on the status of COVID-19 from the Force Task under the Cabinet of Ministers of the Republic of Azerbaijan (or other applicable authorities designed in the Republic of Azerbaijan). 'e-Tabib' application was created with the assistance of &quot;The Association for the Management of Medical Territorial Units&quot; public entity (TƏBİB), which was established by the decree of the president of the Republic of Azerbaijan dated 20 December 2018.
+
+;Bahrain
+BeAware Bahrain is the official mobile app for Android and iOS, developed by The Information &amp; eGovernment Authority (iGA), in collaboration with the National Taskforce for Combating the Coronavirus (COVID-19). The application aims to mitigate the spread of COVID-19 by implementing contact tracing efforts to identify and keep track of all active cases and their contacts. It also uses location data of citizens to alert individuals in the event they approach an active case or a location an active case has visited, as well as track the movement of quarantine cases for a duration of 14 days. It also posts health recommendations and live data of global COVID-19 developments; iGA Chief Executive Mohammed Ali Al Qaed said: &quot;The application deploys a tamper-proof GPS Tracking Bracelet to share real time-tracking information with health workers. Health workers are notified when quarantine cases exit their pre-set area by 15 meters, in which case the team will respond by reminding individuals of the importance of following procedures to safeguard the well-being of citizens and residents.&quot;
+
+;Bangladesh
+People's Republic of Bangladesh Government announced &amp; launched a mobile app named Corona Tracer BD in May 2020 in Google Play Store.
+
+;Brazil
+The public ministry of RN launched &quot;Tô de Olho&quot;, a multipurpose app (including contact tracing, agglomeration denunciation, selective infectious testing), released in Rio Grande do Norte starting 4 April 2020. The &quot;Tô de Olho&quot; research paper has more details on platform's design.
+
+;Canada
+On 31 July 2020, the Canadian federal government launched their voluntary, &quot;private, and anonymous&quot; COVID-19 exposure notification app, called COVID Alert which was developed along with Shopify and BlackBerry as technology partners, and has both an iOS and an Android version. The federal COVID Alert exposure notification app is not a contact tracing app and does not have access to information such as user names, health information, addresses, smartphone contacts, or GPS location. The app uses Bluetooth technology to check and share a random list of codes from any nearby smartphones held by people who have tested positive. By mid-November, all the provinces except Alberta and British Columbia had access to the app. The Alberta government had launched their own app in May and in October said that the delay in signing on to the federal COVID Alert app, was to ensure all the existing 247,000 ABTraceTogether app accounts could be &quot;transitioned&quot; to the federal app. On 28 September 2021, the Citizen Lab published an analysis of COVID-19 data collection practices in Canada,  the United Kingdom, and the United States.
+
+;China
+The Chinese government, in conjunction with Alipay and WeChat, has deployed an app that allows citizens to check if they have been in contact with people that have COVID-19. It is in use across more than 200 Chinese cities.
+In China, within these apps pose three colors as a result of the risk they pose. For example, green is good and can go about normal activities. On the other hand, yellow indicates the user they have been in contact with someone who tested positive with the virus and should exercise precaution. Lastly, red indicates to the user they have the virus and should remain quarantined to not expose others. These tests and colors are shared with the local police. So every QR code is central to a city/district.
+;Colombia
+CoronApp is the mobile app for Android and iOS –and available for the Huawei AppGallery– developed by the Colombian government. The app, downloaded more than 12 million users (March 2021), is a free application, which does not consume data; it helps detect affected areas and nearby people with a positive diagnosis for COVID-19. CoronApp facilitates the real-time monitoring of data collected to the Emergency Operations Center of the Instituto Nacional de Salud (National Health Institute, INS). It incorporates technologies such as those developed by the Governments of Singapore and South Korea, as well as Apple. Privacy, the major concern with these applications from organizations around the world, has not been the exception for Colombia: Fundación Karisma points out some vulnerabilities of CoronApp.  Along with the criticisms, there were analysis that found strengths and weaknesses in it. As an additional benefit of the app, the Colombian Government financed 1 gigabyte per month and 100 minutes for users of prepaid lines that install it.
+
+;Croatia
+Stop COVID-19 is a mobile app for Android and iOS, developed by an agency of the Croatian government.
+
+;Czech Republic
+The government launched a Singapore-inspired tracing app called eRouška (eFacemask). The app was developed by the local IT community, released as open-source software and will be handed over to the government.
+
+;Denmark
+[https://smittestop.dk/ Smittestop]  is a digital contact tracing app developed by the Ministry of Health and the Elderly, the Danish Agency for Patient Safety, the National Board of Health, the Danish Serum Institute, the National Board of Digitization and Netcompany. It was released on 18 June 2020 to help combat the ongoing COVID-19 pandemic. The app uses Bluetooth technology to alert the user if they have been within one meter for more than fifteen minutes of a person who tested positive. Available on the Google Play store and Apple store.
+
+;Fiji
+The Fijian government launched the country's contact tracing app which is known as careFIJI. The app uses Bluetooth Low Energy Technology and is based on the BlueTrace protocol developed by the Singaporean Government.
+
+;Finland
+The Finnish app Koronavilkku launched on 31 August 2020 with Finnish and Swedish localizations. An English translation was released later on.
+
+;France
+The French National Assembly approved the release of &quot;StopCovid&quot; on 27 May 2020 to help combat the COVID-19 pandemic. StopCovid is a digital contact tracing app based on a bluetooth tracing protocol developed specially for the app. It was released on 2 June 2020. The app was later renamed TousAntiCovid. Updates have also included the addition of a &quot;News&quot; section with daily information about the state of the pandemic in France, as well as a &quot;Forms&quot; section to generate the travel declaration forms needed to go outside during the various lockdowns and curfews.
+
+;Germany
+The official app called &quot;Corona-Warn-App&quot; was made available for download on 16 June 2020 and presented in a press conference the same day. It was developed as open-source software jointly by Deutsche Telekom and SAP with scientific advice from the federal Robert Koch Institute and uses the Exposure Notification APIs from Google and Apple.
+
+;Greece
+The official platform in Greece against covid, called Covid Checker, is one of the first solution in Europe against COVID-19 pandemic that was approved and made available on 29 March 2020. Covid Checker is a mobile &amp; web solution designed to identify coronavirus symptoms and associated risk, provide reliable guidance, &amp; connect qualified patients with a doctor for further assistance. Covid Checker powered by Docandu was first released as a widget attached to the governmental websites such as the patt.gov.gr while few weeks later was released as an app in Google Playstore. It was developed jointly by DOCANDU, the Region of Attica  and the Medical Association of Athens.
+
+;Ghana
+The government launched &quot;GH COVID-19 Tracker App&quot;, an Android and IOS app equipped with location tracking technology to provide detailed information about people who have been at the same event, location, country or other defined locations in order to provide accurate information to health authorities overtime to know who to screen and provide needed assistance. The app was developed by the Ministry of Communication and Technology and Ministry of Health. , the app was awaiting approval by the Google Play Store and the Apple App Store.
+
+;Gibraltar
+The &quot;BEAT Covid Gibraltar&quot; App, based on the App from Ireland, was launched on 18 June with downloads of 15,000 by 8 August, from an estimated 20,000 phone users.
+
+;Hong Kong
+The government launched LeaveHomeSafe on 16 November 2020. It was initially not compulsory for people to use but starting from 18 February 2021, customers are required to scan the QR code with the app or register their contact details before entering some of the restaurants. However, the government refused to open the source code for peer-review by using an excuse of protecting the intellectual property of the program.
+
+;Hungary
+VírusRadar, an Android app, was launched on 13 May and an iOS version on 30 May 2020. The app uses Bluetooth technology to track unique, random application IDs within a proximity of 2 meters for more than 20 minutes in the previous 14 days. The system has been developed by Nextsense, based on the company's contact tracing technology. According to the developer, a version of the application integrating Google and Apple's API is currently under testing. The app is operated under the umbrella of the Ministry for Innovation and Technology of Hungary, operated by the Governmental Agency for IT Development and supported by Biztributor.
+
+;Iceland
+Rakning C-19 route tracking is a GPS logger app for Android and iOS, with a user interface and content from the national COVID-19 web page. When infection is confirmed the route data is used to support more traditional contact tracing. According to MIT Technology Review as of 11 May 2020 it had the largest national market penetration rate of contact trackers in the world, having been downloaded by 38% of Icelanders.
+
+;India
+The Aarogya Setu app is developed by the National Informatics Centre that comes under the Ministry of Electronics and Information Technology, Government of India. The app is available on Google Play Store and Apple's App Store for download.
+The MyGov app is developed by the National Informatics Centre that comes under the Ministry of Electronics and Information Technology, Government of India. The app is available on Google Play Store and Apple's App Store for download.
+
+;Ireland
+ The official COVID Tracker app was launched by the Irish government on 7 July 2020. Within two days of launch, the app had been downloaded by one million people. The Health Service Executive subsequently made the code behind the app available to other countries.
+
+;Israel
+On 22 March 2020 the Ministry of Health launched &quot;HaMagen&quot; (המגן,&quot;the shield&quot;), an iOS and Android contact tracing app. Hamagen tracks a user's whereabouts using standard location APIs and then compares them to known movements of those diagnosed with COVID-19, in order to check if their paths crossed within the previous 14 days. The Hamagen app was specifically designed with a privacy-first approach where information about locations and times is cross-referenced on the user's device, and not transmitted on to the cloud database.
+
+;Italy
+On 1 June 2020 the Ministry of Health launched the Italian Government's exposure notification solution, &quot;Immuni&quot;, an iOS and Android contact tracing app build on top of the Google/Apple API. The solution was realized by the Special Commissioner for the COVID-19 emergency (Presidency of the Council of Ministers), in collaboration with the Ministry of Health and the Ministry for Technological Innovation and Digitalization. It only uses public infrastructures located within the national borders. It is exclusively managed by the public company Sogei S.p.A. The source code has been developed for the Presidency of the Council of Ministers by Bending Spoons S.p.A., and it is released under a GNU Affero General Public License version 3.
+
+;Japan
+On 19 June 2020 the Ministry of Health, Labour and Welfare released . It is available on iOS 13.5 or above and Android 6 or above.
+
+;Jersey
+Jersey COVID Alert is the official contact tracing mobile app for Jersey that was released on 14 October 2020.
+
+;Jordan
+The AMAN App - Jordan app is developed for Jordan's Ministry of Health. AMAN is a privacy-conscious exposure detection App. The App was released on 21 May 2020 and is currently available on Google Play Store and App Store.
+
+;Latvia
+A consortium of IT companies and volunteers launched decentralized proximity tracing Apturi Covid application on 29 May 2020. It is Android and Apple compatible. The county's president and government ministers installed the application on their phones on the launch day. Application developers hoped to reach 400 000 users, approximately 20% of the country's population.
+
+;Malaysia
+The government launched MySejahtera on 16 April 2020, one of three tracing app that released alongside MyTrace and Gerak Malaysia. MySejahtera is a contact tracing app introduced by the National Security Council and the Ministry of Health on 16 April 2020 to retrieve updated information and statistics of the pandemic. MyTrace is a tracing app that utilizes Bluetooth to detect how long a user smartphone are in close proximity with other smartphone users with a similar app installed, and is currently available on Android. Gerak Malaysia is a tracing app which allows police and the Ministry of Health to track and analyze users movement, and register for permission to allow state border crossing.
+
+;Nepal
+Nepal Engineers Association Launched COVIRA app, developed by Science Hub on 22 June 2020. COVIRA has been developed on a multidisciplinary framework where several facctors are considered to provide the risk level. It can be used for individual risk assessment which can be assessed from all over the world, and regional risk are provided for Nepal in palika level. This is available on web application platform.
+
+;Netherlands
+The official contract tracing app by the Dutch government is called CoronaMelder.
+
+;New Zealand
+The Health Ministry launched the NZ COVID Tracer on 20 May, though some users reported being able to access the App on 19 May. The app is available on Apple's App Store and Google Play. NZ COVID Tracer allows users to scan their own QR codes at businesses, public buildings and other organisations to track where they have been for contract tracing purposes. Bluetooth Exposure Notification System was added in December 2020.
+
+;North Macedonia
+The government launched &quot;StopKorona!&quot; on 13 April 2020, becoming the first country in the Western Balkans to launch a COVID-19 tracing app. The Bluetooth-based app traces exposure with potentially infected persons and is designed to help healthcare authorities provide a fast response. The app was developed and donated by Skopje-based Software company Nextsense. To comply with laws on data protection, the app does not use the users' locations nor personal information. The users' mobile phone numbers are the only user-related data, stored on servers managed by the Ministry of Health.
+
+;Norway
+The Smittestopp app is developed by the Norwegian government, and uses Bluetooth and GPS signals. On 15 June 2020 the country halted the app over privacy concerns after the Norwegian Data Protection Authority said low infections could no longer justify the risk of privacy invasion by the end user. The app ceased collecting new data and plans to delete all data collected so far with any additional collections effectively paused indefinitely.
+
+;Philippines
+Staysafe is the official contact tracing app for the Philippines.
+
+;Portugal
+Stayaway COVID is the official contact tracing mobile app for Portugal.
+
+;Qatar
+Ehteraz application (app) has allowed Qatar citizens and residents to move with ease and responsibly in the country while helping the authorities prevent the spread of coronavirus (COVID-19). A Cabinet decision, which came into effect on 22 May, requires citizens and residents to mandatorily install and activate the mobile app on their smartphones when leaving the house for any reason. Since then, more and more entities in the country have made it compulsory for clients and visitors to show the green status on the Ehteraz app to be allowed entry into their premises. Apart from hypermarkets and other retail outlets, banks, as well as several commercial buildings and offices, in Qatar have put in place similar measures to help prevent the spread of COVID-19.
+
+;Saudi Arabia
+Tabaud is the official mobile app for Web, Android and iOS, developed by the National Health Information Center (NHIC). It allows users to track and trace via Apple/Google Exposure Notification API. More than 1,000,000 users have downloaded the app.
+
+;Scotland
+Protect Scotland is the official contact tracing app for Scotland. Scotland uses the Test and Protect method. Throughout the country they test people with symptoms, isolate people who were in close contact with positive testers, and limit exposure to as many people as possible.
+
+;Singapore
+An app called TraceTogether is being used. It uses a digital contact tracing protocol called BlueTrace, developed with an open source reference implementation called OpenTrace.
+
+;South Africa
+COVID AlertSA is a digital contact tracing app announced by the Government of South Africa on 8 August 2020 to help combat the ongoing COVID-19 pandemic.
+
+;Spain
+The official app called Radar COVID has been released by the Ministry of Economic Affairs and Digital Transformation for Android and iOS for a pilot test in La Gomera. The app is based on the DP-3T protocol and uses the Apple/Google API for contact tracing and it is expected to be rolled out to further Spanish regions in September. In its first year, it only notified 74.280 out of more of 4 million infections. Less than 20% of citizens had installed it. Bugs and battery exhaustion discouraged further usage.
+
+;Slovenia
+ZVem is a e-government platform for public health in the Republic of Slovenia. Citizens can access the web based platform and associated mobile app via SI-PASS, a secure authorization software developed for public platforms. Users of the service can make a doctor's appointment with few simple clicks. They can see their prescriptions and e-documents. During COVID-19 pandemic, e-documents were usable for the COVID-19 vaccination certificates. Health insurance information is available via the platform as well. The solution was developed by National Institute for Public Health and the Ministry for Health. And the  mobile application for protecting public health and lives, #OstaniZdrav (#StayHealthy), is a tool that informs you if you have been in contact with an infected person. With its use and the observance of recommendations, each person contributes their share to restricting the spread of the virus and the protection of our own health, the health of our loved ones and that of society as a whole.
+
+;Switzerland
+An app called SwissCovid which uses the DP-3T protocol and is built top of Apple/Google bluetooth API. Application is licensed under Mozilla Public License 2.0.
+
+;Taiwan
+Taiwan AILabs in conjunction with the Taiwan Centers for Disease Control on 12 March 2021 released the Taiwan Social Distancing app for Android and iOS.
+
+;Turkey
+Security was ensured by checking the HES codes received by the users at the entrances to closed areas. The HES codes of people who were in contact or became ill were processed as &quot;sick&quot; and kept in quarantine for 14 days. With this separate application, citizens could control the health status of people's immediate environment (mother, father, sibling). If someone with covid positive is too close to you, you can see this in the application and take precautions. It also counts how many people you have come into contact with who are covid positive.
+
+;United Kingdom
+thumb|left|A brief video, showing the Wales and England app in action, produced by the Welsh Government.
+The NHS COVID-19 contact tracing app for England and Wales was released on 24 September 2020. The NHS app uses Google/Apple exposure notification technology. (The NHS previously tried a centralised system rather than a decentralised approach). Scotland and Northern Ireland contact tracing apps were launched in the weeks prior to England &amp; Wales. To aid contract tracing, the NHS COVID-19 contact tracing app for England and Wales allows users to scan official NHS QR code posters at businesses, venues and transport hubs. To ensure data integrity, the QR code is constructed from a JSON Web Signature (JWS). On 28 September 2021, the Citizen Lab published an analysis of COVID-19 data collection practices in Canada,  the United Kingdom, and the United States.
+As of 27 April 2023 the NHS COVID-19 App was discontinued.
+
+
+ Countries considering deployment 
+
+ Centralized approaches 
+In the United Kingdom, Matthew Gould, chief executive of NHSX, the government body responsible for policy regarding technology in the NHS, said in late March 2020 that the organisation was looking seriously at an app that would alert people if they had recently been in contact with someone testing positive for the virus after scientists advising the government suggested it &quot;could play a critical role&quot; in limiting lockdowns. On 22 April, the government announced that alpha testing of a prototype of the app was in progress at RAF Leeming. Beta testing began on the Isle of Wight on 5 May for council staff and NHS workers before a wider rollout to all residents on 7 May. By 15 May, over 72,000 had downloaded the app, equivalent to more than half of the island's population.
+
+On 18 June, following reports that the app was only detecting 75% of contacts on Android devices and 4% of contacts on iPhones, the UK government announced that it would cease the development of its centralized system, and move to a decentralized system based on the Apple/Google Exposure Notification system. This was later scheduled for release in England and Wales on 24 September; by this date, the devolved administrations in Scotland and Northern Ireland had already released their own apps.
+
+ Decentralized approaches 
+Both Australia and New Zealand are considering apps based on Singapore's TraceTogether app and BlueTrace protocol as of April 2020.
+
+Many countries have announced the official development, trial or adoption of decentralized proximity tracing systems, where the matching of proximity encounters happens locally on individuals' devices, such as the Decentralized Privacy-Preserving Proximity Tracing (DP-3T) protocol or the Google-Apple Exposure Notification API. These include Austria, Switzerland, Estonia, Latvia, Canada, Italy, Germany, Finland, the Netherlands, Ireland and Denmark.
+
+In the United States, as of 10 June 2020, three states, Alabama, South Carolina, and North Dakota, have committed to using the Google-Apple Exposure Notification API. In May 2020, the U.S. state of Arizona began testing the Covid Watch app developed with the Apple/Google protocol. In August 2020, the app launched publicly for a phased roll-out in the state of Arizona. At least nineteen states have not yet decided, and at least seventeen other states stated there were no plans to use smartphone-based contact tracing.
+
+ Geofencing 
+Russia introduced a geofencing app, Social Monitoring, for patients diagnosed with COVID-19 living in Moscow, designed to ensure they do not leave home.
+
+ List of apps by country 
+
+
+Note: This table should list only apps that are either supported by citations from third-party reliable sources or are from or supported by independently notable organizations such as national governments, industrial collaborations, major universities, NGOs, or one of the framework collaborations listed above. MIT Technology Review also maintained a Google spreadsheet listing of contact tracing and exposure notification apps that are being used around the world.
+
+
+
+ See also 
+* General Data Protection Regulation (GDPR)
+* Government by algorithm
+*SM-COVID-19
+
+ References 
+
+reflist|refs=
+
+
+
+
+
+Further reading
+* 
+* 
+
+ External links 
+* 
+* 
+* 
+
+
+*
+apps
+
+
+
+*</segment>
+	</text>
+</file>

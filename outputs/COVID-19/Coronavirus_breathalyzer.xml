@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2024-12-30T10:12:03Z" sourceCorpus="COVID-19" filename="64415092" title="Coronavirus_breathalyzer" url="https://en.wikipedia.org/wiki/Coronavirus_breathalyzer">
+	<text>
+		<segment id="id64415092">A coronavirus breathalyzer is a diagnostic medical device enabling the user to test with 90% or greater accuracy the presence of severe acute respiratory syndrome coronavirus 2 in an exhaled breath.
+As of the first half of 2020, the idea of a practical coronavirus breathalyzer was concomitantly developed by unrelated research groups in Australia, Canada, Finland, Germany, Indonesia, Israel, Netherlands, Poland, Singapore, United Kingdom and USA.
+
+ Australia 
+In Australia, GreyScan CEO Samantha Ollerton and Prof. Michael Breadmore of the University of Tasmania are basing a coronavirus breathalyzer on existing technology that is used around the world to detect explosives. Another invention published from ABC News; produced by Colin Hickey and Examin Holdings, have released information on a new breathalyzer called the &quot;Queensland Breath test&quot; claiming its function has 98% efficiency, equipped with a replaceable plastic nozzle for reusability (February 2022). a statement in claim by Bruce Thompson, a professor at Swinburne University of Technology, Although this products is reliable, due to insufficient funding, the product is inaccessible.   
+
+ Canada 
+Canary Health Technologies, headquartered in Toronto with offices in Cleveland, Ohio, is developing a breathalyzer with disposable nanosensors using AI-powered cloud-based analysis. According to a press release, clinical trials began in India during November 2020. The stated goal is to develop an accurate, reasonably priced screening tool that can be used anywhere and deliver a result in less than a minute. The company postulates that analyzing volatile organic compounds in human breath could potentially detect diseases before the on-set of symptoms, earlier than currently available methods. Moreover, the cloud-based technology is designed to be used as a disease surveillance apparatus.
+
+ Finland 
+By the end of June 2020, Forum Virium Helsinki, in collaboration with Finnish software firm Deep Sensing Algorithms, funded by the Helsinki-Uusimaa Regional Council, announced that testing of their device had begun with a control group in Kazakhstan, with plans to expand to the Netherlands, the United States, South Africa, Brazil and Finland throughout the summer. The efficacy of the Forum Virium Helsinki / Deep Sensing Algorithms device hinges on its AI component. &quot;We are engaged in innovative cooperation with corporations to solve the coronavirus crisis, and we will help firms to use the city as a development platform. We are utilizing artificial intelligence and digitalization,&quot; said Forum Virium Helsinki CEO Mika Malin.
+
+ Germany 
+In March 2020, the Singaporean company RAM Global conducted research in Germany in hopes of developing a one-minute breathalyzer test for SARS-CoV-2 based on terahertz time-domain spectroscopy. The company attempted to develop a disposable test kit for direct detection of COVID-19 virion particles in breath, saliva and swab samples. On 31 March, RAM Global completed an initial clinical study on live patients at University Hospital Saarland. In April, the company pursued a small unknown sample study in which hospital doctors provided unknown samples in order to test accuracy in differentiating positive and negative samples.
+
+ Indonesia 
+
+Since April 2020, a team of researchers from Gadjah Mada University (UGM) has been developing an electronic nose called GeNose C19. The GeNose C19 can be used as a rapid, non-invasive screening tool in less than two minutes. A profiling test was carried out at the Bhayangkara Hospital and the Covid Bambanglipuro Special Field Hospital in Yogyakarta. GeNose C19 consists of gas sensors and an artificial intelligence-based pattern recognition system. The diagnostic test was carried out with the cooperation of nine multi-center hospitals.
+
+In the end of December 2020, GeNose C19 received a distribution permit from Indonesia's Health Ministry. Initially, 100 units will be released and each device will be able to perform 120 tests per day. The test is estimated to cost 15,000–25,000 Indonesian rupiah ($1–$1.8) and would take three minutes for the test and another two minutes to yield a result. Researchers hope to manufacture up to 1,000 GeNose C19 units, increasing the country's testing capabilities by 120 thousand subjects per day. Moreover, they aim to manufacture 10,000 units by February 2021.
+
+ Israel 
+In Israel, it is at the photonics lab of Gabby Sarusi, professor at Ben-Gurion University of the Negev, that research is underway as of midsummer 2020. Separately from Sarusi's project, in July 2020, it was reported that Israeli start-up Nanoscent in cooperation with Sheba Medical Center had devised a breathalyzer that Magen David Adom (MDA) is seeking to incorporate into existing drive-thru testing stations located throughout the country.
+
+Questionable intellectual property of Gabby Sarusi regarding this project is now under discussion in the court in Israel.
+
+ The Netherlands 
+A breath test with the SpiroNose device, made by the Dutch company Breathomix, has been developed and tested in collaboration with the Leiden University Medical Center (LUMC), Franciscus Gasthuis &amp; Vlietland and the GGD Amsterdam. The breath test has been validated as a pre-screening test for people who have no or mild symptoms of COVID-19. From April 2021, the device was operational in COVID-19 test drive-ins, conferences and events, i.e. Eurovision Song Contest 2021. Subjects must abstain from alcohol for eight hours prior to taking the breath test.
+
+The SpiroNose contains four sets of seven different sensors that can measure the mixture of volatile organic compounds (biomarkers) in the exhaled air. These VOCs provide a picture of a person's metabolism. This 'breath profile' is forwarded to an online analysis platform. Here the breath profile is compared with other breath profiles of people with and without a COVID-19 diagnosis and analysed by algorithms. Data-analysis involves advanced signal processing and statistics based on independent t-tests followed by linear discriminant and ROC analysis. The test result is known within minutes.
+
+The breath test has a sensitivity/specificity for SARS-CoV-2 infection of 100/78, &gt;99/84, 98/82% in validation, replication and asymptomatic cohorts of patients. The breath test reliably detects who is not infected. Such a subject will receive a test result immediately. Other subjects must promptly conduct a subsequent test, for example a PCR test or LAMP test. The test results can be viewed by the client and are not automatically interfaced to other databases, i.e. for public health surveillance, source and contact tracing, vaccination programs. In July 2021, the ministry stopped the tests with the SpiroNose because, according to the GGD, the device gives unusable results in some cases. Breathomix indicates that this is the result of the way in which the SpiroNose is deployed. The SpiroNose is and remains a reliable instrument for lung diseases.
+
+The analysis platform is developed conform the requirements of the standard ISO 27001 (Information Security) and NEN 7510 (Information Security in Health Care).
+A CE marking has been requested. In the meantime, the Dutch minister has granted a CE marking exemption on 25 January 2021.
+The device may also be used to detect other diseases, e.g., asthma, COPD, lung cancer, interstitial lung diseases (ILD).
+
+ Poland 
+alt=covid detector|thumb|COVID Detector, developed by ML System in Poland.
+In February 2021, the President of Poland, Andrzej Duda, announced that ML System S. A., headquartered in Zaczernie, Poland, had successfully developed a means of analyzing a patient's breath to test for the presence of coronavirus. According to an anonymous press release, test subjects exhale into a device in order to determine the presence of the coronavirus. The procedure, similar to that of a police breathalyzer, is said to take less than ten seconds. Independent clinical trials were begun in April 2021. In the first half of May 2021, a brief text concerning partial results was published by ML System, stating that independent clinical trials were successful with specificity (97,15%) and accuracy/sensitivity (86,86%), for CT (Cycle Threshold) assumed at 25, which is in line with the guidelines set out by the World Health Organization. Moreover, ML System in partnership with Rzeszów–Jasionka Airport published a statement indicating their intention to test the device at the airport. Similar plans exist between the manufacturer and the Warsaw Chopin Airport. Two large networks of laboratories in Poland, &quot;Diagnostyka&quot; and &quot;ALAB Laboratoria&quot;, have signed a letter of intent with ML System. In agreement with ALAB, the parties declared cooperation in the implementation of the product named &quot;COVID DETECTOR&quot; on the Polish, German and Ukrainian markets. In addition, the companies declared joint activities aimed at extending the diagnosis with the use of &quot;COVID Detector&quot; to include mutations of the SARS-CoV-2 virus, differentiate the stage of the disease and other pathogens, including tuberculosis. Cooperation with laboratories Diagnostyka, including detection of mutations of SARS-CoV-2 virus or other pathogens, also involves the diagnosis of cancer with the use of the device.
+
+ United Kingdom 
+In January 2021, Exhalation Technology Ltd (ETL) in Cambridge announced a clinical trial study for a cohort of up to 150 patients for its CoronaCheck breath test for COVID-19.
+
+ United States 
+In 2020, research teams at the University of California, Los Angeles, and Ohio State University received funding to investigate the potential of breath analysis for SARS-CoV-2 detection. These investigations included exploring technologies that might enable rapid diagnosis, potentially within 15 seconds, by analyzing specific volatile organic compounds present in exhaled breath. &quot;The goal in this research is to develop cheap, massively deployable, rapid diagnostic and sentinel systems for detecting respiratory illness and airborne viral threats,&quot; says Prof. Pirouz Kavehpour of UCLA Henry Samueli School of Engineering and Applied Science, whose research team received a one-year, $150,000 research grant from the National Science Foundation.
+
+In April 2022, the FDA authorized for emergency use the first COVID-19 diagnostic test using breath samples. &quot;The InspectIR COVID-19 Breathalyzer uses a technique called gas chromatography gas mass-spectrometry (GC-MS) to separate and identify chemical mixtures and rapidly detect five Volatile Organic Compounds (VOCs) associated with SARS-CoV-2 infection in exhaled breath,&quot; said the FDA.
+
+Researchers at the Washington University in St. Louis in 2023 reported developing a point-of-care COVID-19 test device using a sensor to directly detect the SARS-CoV-2 virus in exhaled breath. In early testing, the experimental breathalyzer design provided results with high accuracy in about a minute. It functions by collecting a breath sample and directing it towards an electrochemical biosensor coated with antibodies specific to the SARS-CoV-2 virus. If the virus is present, the sensor produces a signal, indicating a positive test. This approach directly detects the virus itself, unlike some breath tests that identify indirect markers of infection. In late 2023, the researchers announced they had been awarded a $3.6 million grant to investigate the possibility of adapting the device to include testing for other respiratory viruses, such as influenza, and to further develop and commercialize their breathalyzer technology.
+
+ References 
+
+
+ External links 
+* [https://www.finddx.org/covid-19/ COVID-19 Diagnostics &amp; testing of FIND]
+* [https://www.breathomix.com/spironose-2/ SpiroNose]
+
+
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

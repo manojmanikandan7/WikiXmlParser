@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-06-15T22:24:51Z" sourceCorpus="COVID-19" filename="67278542" title="Viral_vector_vaccine" url="https://en.wikipedia.org/wiki/Viral_vector_vaccine">
+	<text>
+		<segment id="id67278542">alt=COVID-19 Vaccine Vial Prop|thumb|COVID-19 vaccine vial prop
+A viral vector vaccine is a vaccine that uses a viral vector to deliver genetic material (DNA) that can be transcribed by the recipient's host cells as mRNA coding for a desired protein, or antigen, to elicit an immune response. , six viral vector vaccines, four COVID-19 vaccines and two Ebola vaccines, have been authorized for use in humans.
+
+ Understanding viral vectors 
+
+ History 
+The first viral vector was introduced in 1972 through genetic engineering of the SV40 virus. A recombinant viral vector was first used when a hepatitis B surface antigen gene was inserted into a vaccinia virus. Subsequently, other viruses including adenovirus, adeno-associated virus, retrovirus, cytomegalovirus, sendai virus, and lentiviruses have been designed into vaccine vectors. Vaccinia virus and adenovirus are the most commonly used viral vectors because of robust immune response it induces.
+
+The incorporation of several viruses in vaccination schemes has been investigated since the vaccinia virus was created in 1984 as a vaccine vector. Human clinical trials were conducted for viral vector vaccines against several infectious diseases including Zika virus, influenza viruses, respiratory syncytial virus, HIV, and malaria, before the vaccines that target SARS-CoV-2, which causes COVID-19.
+
+Two Ebola vaccines that used viral vector technology were used to combat Ebola outbreaks in West Africa (2013–2016), and in the Democratic Republic of the Congo (2018–2020).  The rVSV-ZEBOV vaccine was approved for medical use in the European Union in November 2019, and in December 2019 for the United States.  Zabdeno/Mvabea was approved for medical use in the European Union in July 2020.
+
+ Technology 
+Viral vector vaccines enable antigen expression within cells and induce a robust cytotoxic T cell response, unlike subunit vaccines which only confer humoral immunity. In order to transfer a nucleic acid coding for a specific protein to a cell, the vaccines employ a variant of a virus as its vector. This process helps to create immunity against the disease, which helps to protect people from contracting the infection. Viral vector vaccines do not cause infection with either the virus used as the vector or the source of the antigen. The genetic material it delivers does not integrate into a person's genome.
+
+The majority of viral vectors lack the required genes, making them unable to replicate. In order to be widely accepted and approved for medical use, the development of viral vector vaccines requires a high biological safety level. Consequently, non or low-pathogenic viruses are often selected.
+
+ Advantages 
+Viral vector vaccines have benefits over other forms of vaccinations depending on the virus which they produced thanks to their qualities of immunogenicity, immunogenic stability, and safety. Specific immunogenicity properties include highly efficient gene transduction, highly specific delivery of genes to target cells, and the ability to induce potent immune responses. The immunogenicity is further enhanced through intrinsic vector motifs that stimulate the innate immunity pathways, so the use of an adjuvant is unnecessary. Replicating vectors imitate natural infection, which stimulates the release of cytokines and co-stimulatory molecules that produce a strong adjuvant effect. The induction of innate immunity pathways is crucial to stimulating downstream pathways and adaptive immunity responses.
+
+Additionally, viral vectors can be produced in high quantities at relatively low costs, which enables use in low-income countries.
+
+ Viral vectors 
+ Adenovirus 
+
+Adenovirus vectors have the advantage of high transduction efficiency, transgene expression, and broad viral tropism, and can infect both dividing and non-dividing cells. A disadvantage is that many people have preexisting immunity to adenoviruses from previous exposure. The seroprevalence against Ad5 in the US population is as high as 40%–45%. Most Adenovirus vectors are replication-defective because of the deletion of the E1A and E1B viral gene region. Currently, overcoming the effects of adenovirus-specific neutralizing antibodies is being explored by vaccinologists. These studies include numerous strategies such as designing alternative Adenovirus serotypes, diversifying routes of immunization, and using prime-boost procedures. Human adenovirus serotype 5 is often used because it can be easily produced in high titers.
+
+As of April 2021, four adenovirus vector vaccines for COVID-19 have been authorized in at least one country:
+* The Oxford–AstraZeneca vaccine uses the modified chimpanzee adenovirus ChAdOx1.
+* Sputnik V uses human adenovirus serotype 26 for the first shot, and serotype 5 for the second.
+* The Janssen vaccine uses serotype 26.
+* Convidecia uses serotype 5.
+Zabdeno, the first dose of the Zabdeno/Mvabea Ebola vaccine, is derived from human adenovirus serotype 26, expressing the glycoprotein of the Ebola virus Mayinga variant. Both doses are non-replicating vectors and carry the genetic code of several Ebola virus proteins.
+
+ Safety 
+With the increasing prevalence of adenoviral vaccines, two vaccines, Ad26.COV2.S and ChadOx1-nCoV-19, have been linked to the rare clotting disorder, thrombosis with thrombocytopenia syndrome (TTS).
+
+ Vaccinia virus 
+The vaccinia virus is part of the poxvirus family. It is a large, complex, and enveloped virus that was previously used for the smallpox vaccine. The vaccinia virus's large size allows for a high potential for foreign gene insertion. Several vaccinia virus strains have been developed including replication-competent and replication-deficient strains.
+
+ Modified vaccinia Ankara 
+Modified vaccinia ankara (MVA) is a replication-deficient strain that has been safely used for a smallpox vaccine. The Ebola vaccine regimen approved by the European Commission was developed by Janssen Pharmaceutials and Bavarian Nordic, and utilizes MVA technology in its second vaccine dose of Mvabea (MVA-BN-Filo).
+
+ Vesicular stomatitis virus 
+Vesicular stomatitis virus (VSV) was introduced as a vaccine vector in the late 1990s. In most VSV vaccine vectors, attenuation provides safety against its virulence. VSV is an RNA virus and is part of the Rhabdoviridae family. The VSV genome encodes for nucleocapsid, phosphoprotein, matrix, glycoprotein, and an RNA-dependent RNA polymerase proteins.
+
+The rVSV-ZEBOV vaccine, known as Ervebo, was approved as a prophylactic Ebola vaccine for medical use by the FDA in 2019. The vaccine is a recombinant, replication-competent vaccine consisting of genetically engineered vesicular stomatitis virus. The gene for the natural VSV envelope glycoprotein is replaced with that from the Kikwit 1995 Zaire strain Ebola virus.
+
+ Routes of administration 
+Intramuscular injection is the commonly used route for vaccine administration. The introduction of alternate routes for immunization of viral vector vaccines can induce mucosal immunology at the site of administration, thereby limiting respiratory or gastrointestinal infections. Also, studies are being done on how these diverse routes can be used to overcome the effects of specific neutralizing antibodies limiting the use of these vaccines. These routes include intranasal, oral, intradermal, and aerosol vaccination.
+
+ References 
+
+
+ Further reading 
+
+* 
+
+
+
+
+
+ 
+</segment>
+	</text>
+</file>

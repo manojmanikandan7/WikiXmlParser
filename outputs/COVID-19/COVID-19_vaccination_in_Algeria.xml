@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-03-30T21:58:43Z" sourceCorpus="COVID-19" filename="67030150" title="COVID-19_vaccination_in_Algeria" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Algeria">
+	<text>
+		<segment id="id67030150">Daily vaccinations chart of Algeria
+
+Graph:Chart|type=stackedrect|yAxisMin=0|y1=0,30,75000|x= 29 January 2021, 30 January 2021,   19 February 2021, 6 June 2021
+|yAxisTitle=Daily vaccinations
+|y2Title=Vaccinated (2nd dose)
+|y1Title=Vaccinated (1st dose)
+|yAxisMax=
+|yGrid=true
+|yType=number|width=400|xAxisAngle=-90|xAxisTitle=Date|legend=|showSymbols=1|linewidth=1|showValues=|colors=palegreen, #FFC000|y2=0,30,75000,2500000
+
+References
+
+
+
+
+
+Algeria
+Vaccination
+Algeria</segment>
+	</text>
+</file>

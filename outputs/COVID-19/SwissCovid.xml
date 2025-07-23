@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2023-11-11T14:02:39Z" sourceCorpus="COVID-19" filename="64829266" title="SwissCovid" url="https://en.wikipedia.org/wiki/SwissCovid">
+	<text>
+		<segment id="id64829266">SwissCovid is a COVID-19 contact tracing app used for digital contact tracing in Switzerland. Use of the app is voluntary and based on a decentralized approach using Bluetooth Low Energy and Decentralized Privacy-Preserving Proximity Tracing (dp3t).
+
+Development
+The app was developed in collaboration with the FOPH by Federal Office for Information Technology, Systems and Communications FOITT, École polytechnique fédérale de Lausanne (EPFL) and the Swiss Federal Institute of Technology in Zurich (ETH) as well as other experts.
+
+Non-interoperability with applications in European countries
+There is an agreement between EU countries to make applications compatible. However, there is no legal basis for the SwissCovid application to be part of this portal even though technically speaking it is ready, according to Sang-Ill Kim, head of the digital transformation department of the Federal Office of Public Health.
+
+Criticism
+Not full open source and dependence on Google and Apple
+In June 2020, researchers Serge Vaudenay and Martin Vuagnoux published a critical analysis of the application, noting that it relies heavily on Google and Apple's exposure notification system, which is integrated into their respective Android and iOS operating systems. Since Google and Apple have not released the full source code of this system, this would call into question the truly open source nature of the application. The researchers note that the dp3t collective, which includes the developers of the application, has asked Google and Apple to release their code. Moreover, they criticize the official description of the application and its functionalities, as well as the adequacy of the legal basis for its effective operation.
+
+Cyber attacks
+Professor Serge Vaudenay and Martin Vuagnoux identify also various security vulnerabilities in the application. The system would thus allow a third party to trace the movements of a phone using the application by means of Bluetooth sensors scattered along its path, for example in a building. Another possible attack would be to copy identifiers from the phones of people who may be ill (for example, in a hospital), and to reproduce those identifiers in order to receive notification of exposure to COVID-19 and illegitimately benefit from quarantine (thus entitling them to paid leave, a postponed examination, or other benefits). The system would also allow a third party to use a phone using the application by means of Bluetooth sensors scattered along the way.
+
+Paul-Olivier Dehaye of Personaldata.io and professor Joel Reardon of the University of Calgary published in June 2020 several examples of AEM (Associated Encrypted Metadata) replay and manipulation attacks via software development kits (SDKs) found in benign third-party mobile applications downloaded by the general public and having the phone's Bluetooth access permissions and in September 2020  a paper indicating that  &quot;Bluetooth-based proximity tracing apps are fundamentally insecure with respect to an attacker leveraging a malevolent app or SDK&quot;.
+
+Costs
+According to a publication by the federal administration, &quot;the costs of developing the software for the mobile phone application, the GR back-end and the code management system as well as the costs for access management for the cantonal doctors' services are estimated at a one-off amount of 1.65 million francs. However, the Zurich-based company Ubique, responsible for the development of the application, was finally awarded the mandate to develop the application for an amount of 1.8 million francs. Through the Botnar Foundation based in Basel, École polytechnique fédérale de Lausanne received 3.5 million Swiss francs for the development of the application
+
+References
+
+
+
+
+</segment>
+	</text>
+</file>

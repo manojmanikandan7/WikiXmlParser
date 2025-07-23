@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-07-17T22:33:06Z" sourceCorpus="COVID-19" filename="21861955" title="Inactivated_vaccine" url="https://en.wikipedia.org/wiki/Inactivated_vaccine">
+	<text>
+		<segment id="id21861955">An inactivated vaccine (or killed vaccine) is a type of vaccine that contains pathogens (such as virus or bacteria) that have been killed or rendered inactive, so they cannot replicate or cause disease. In contrast, live vaccines use pathogens that are still alive (but are almost always attenuated, that is, weakened). Pathogens for inactivated vaccines are grown under controlled conditions and are killed as a means to reduce infectivity and thus prevent infection from the vaccine.
+
+Inactivated vaccines were first developed in the late 1800s and early 1900s for cholera, plague, and typhoid. In 1897, Waldemar Haffkine, who developed the vaccine for cholera, also successfully created the first vaccine for the plague in 1897. In the 1950s, Jonas Salk created an inactivated vaccine for the poliovirus, creating the first vaccine that was both safe and effective against polio. Today, inactivated vaccines exist for many pathogens, including influenza, polio (IPV), rabies, hepatitis A, CoronaVac, Covaxin and pertussis.
+
+Because inactivated pathogens tend to produce a weaker response by the immune system than live pathogens, immunologic adjuvants and multiple &quot;booster&quot; injections may be required in some vaccines to provide an effective immune response against the pathogen. Attenuated vaccines are often preferable for generally healthy people because a single dose is often safe and very effective. However, some people cannot take attenuated vaccines because the pathogen poses too much risk for them (for example, elderly people or people with immunodeficiency). For those patients, an inactivated vaccine can provide protection.
+
+Mechanism
+The pathogen particles are destroyed and cannot divide, but the pathogens maintain some of their integrity to be recognized by the immune system and evoke an adaptive immune response. When manufactured correctly, the vaccine is not infectious, but improper inactivation can result in intact and infectious particles.
+
+When a vaccine is administered, the antigen will be taken up by an antigen-presenting cell (APC) and transported to a draining lymph node in vaccinated people. The APC will place a piece of the antigen, an epitope, on its surface along with a major histocompatibility complex (MHC) molecule. It can now interact with and activate T cells. The resulting helper T cells will then stimulate an antibody-mediated or cell-mediated immune response and develop an antigen-specific adaptive response. This process creates an immunological memory against the specific pathogen and allows the immune system to respond more effectively and rapidly after subsequent encounters with that pathogen.
+
+Inactivated vaccines tend to produce an immune response that is primarily antibody-mediated. However, deliberate adjuvant selection allows inactivated vaccines to stimulate a more robust cell-mediated immune response.
+
+ Social Consequences 
+The use of inactivated vaccines helped reduce morbidity and mortality from diseases like tetanus, diphtheria, and pertussis, creating a healthier, more stable society. Community health improved as a result, particularly in developed nations, where high vaccination rates led to herd immunity.
+
+Reducing diseases like polio, hepatitis A, and influenza meant fewer people suffering from debilitating illness, which in turn led to increased social productivity. Families no longer had to care for loved ones with debilitating diseases, and children could go to school without the constant fear of contraction. Inactivated vaccines increased public trust in public health systems, normalizing vaccinations to the point where yearly flu shots and childhood immunization are seen as routine parts of life, especially in developed countries.
+
+ Types 
+Inactivated vaccines can be divided by the method used for killing the pathogen.
+* Whole pathogen inactivated vaccines are produced when an entire pathogen is 'killed' using heat, chemicals, or radiation, although only formaldehyde and beta-Propiolactone exposure are widely used in human vaccines.
+* Split virus vaccines are produced by using a detergent to disrupt the viral envelope. This technique is used in the development of many influenza vaccines.
+
+A minority of sources use the term inactivated vaccines to broadly refer to non-live vaccines. Under this definition, inactivated vaccines also include subunit vaccines and toxoid vaccines.
+
+Examples
+Types include:
+* Viral:
+** Injected polio vaccine (Salk vaccine)
+** Hepatitis A vaccine
+** Rabies vaccine
+** Most influenza vaccines
+** Tick-borne encephalitis vaccine
+** Some COVID-19 vaccines: CoronaVac, Covaxin, QazVac, Sinopharm BIBP, Sinopharm WIBP, TURKOVAC, CoviVac
+* Bacterial:
+** Injected typhoid vaccine
+** Cholera vaccine
+** Plague vaccine
+** Whole-cell Pertussis vaccine
+
+ Advantages and disadvantages 
+
+ Advantages 
+* Inactivated pathogens are more stable than live pathogens. Increased stability facilitates the storage and transport of inactivated vaccines.
+* Unlike live attenuated vaccines, inactivated vaccines cannot revert to a virulent form and cause disease. For example, there have been rare instances of the live attenuated form of poliovirus present in the oral polio vaccine (OPV) becoming virulent, leading to the inactivated polio vaccine (IPV) replacing OPV in many countries with controlled wild-type polio transmission.
+* Unlike live attenuated vaccines, inactivated vaccines do not replicate and are not contraindicated for immunocompromised individuals.
+
+ Disadvantages 
+* Inactivated vaccines have a reduced ability to produce a robust immune response for long-lasting immunity when compared to live attenuated vaccines. Adjuvants and boosters are often required to produce and maintain protective immunity.
+* Pathogens must be cultured and inactivated for the creation of killed whole-organism vaccines. This process slows down vaccine production when compared to genetic vaccines.
+* Inactivated vaccines tend to produce less durable immunity, often requiring multiple doses, which can pose a public health challenge. For example, the flu vaccine requires annual updates and re-administration, and hepatitis A vaccines often require two doses spaced six months apart.
+
+ References 
+
+
+
+
+ </segment>
+	</text>
+</file>

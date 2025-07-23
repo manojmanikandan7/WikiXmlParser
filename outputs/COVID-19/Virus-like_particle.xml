@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-06-24T09:34:01Z" sourceCorpus="COVID-19" filename="1660995" title="Virus-like_particle" url="https://en.wikipedia.org/wiki/Virus-like_particle">
+	<text>
+		<segment id="id1660995">Virus-like particles (VLPs) are molecules that closely resemble viruses, but are non-infectious because they contain no viral genetic material. They can be naturally occurring or synthesized through the individual expression of viral structural proteins, which can then self assemble into the virus-like structure. Combinations of structural capsid proteins from different viruses can be used to create recombinant VLPs. Both in-vivo assembly (i.e., assembly inside E. coli bacteria via recombinant co-expression of multiple proteins) and in-vitro assembly (i.e., protein self-assembly in a reaction vessel using stoichiometric quantities of previously purified proteins) have been successfully shown to form virus-like particles. VLPs derived from the Hepatitis B virus (HBV) and composed of the small HBV derived surface antigen (HBsAg) were described in 1968 from patient sera. VLPs have been produced from components of a wide variety of virus families including Parvoviridae (e.g. adeno-associated virus), Retroviridae (e.g. HIV), Flaviviridae (e.g. Hepatitis C virus), Paramyxoviridae (e.g. Nipah) and bacteriophages (e.g. Qβ, AP205). VLPs can be produced in multiple cell culture systems including bacteria, mammalian cell lines, insect cell lines, yeast and plant cells. VLPs can be produced by a single viral protein such as the Z matrix protein of mammarenaviruses, and it is used as scientific tool to investigate budding activity, vRNP inhibition, myristoylation and oligomerization. 
+
+VLPs can also refer to structures produced by some LTR retrotransposons (under Ortervirales) in nature. These are defective, immature virions, sometimes containing genetic material, that are generally non-infective due to the lack of a functional viral envelope. In addition, wasps produce polydnavirus vectors with pathogenic genes (but not core viral genes) or gene-less VLPs to help control their host.
+
+Applications
+left|thumb|This diagram shows how surrogate viruses expressing the SARS-CoV-2 spike protein can be used to measure the activity of neutralizing antibodies that target the spike protein and prevent the virus from entering host cells.
+
+ Therapeutic and imaging agents 
+VLPs are a candidate delivery system for genes or other therapeutics. These drug delivery agents have been shown to effectively target cancer cells in vitro. It is hypothesized that VLPs may accumulate in tumor sites due to the enhanced permeability and retention effect, which could be useful for drug delivery or tumor imaging.
+
+Vaccines
+
+VLPs are useful as vaccines. VLPs contain repetitive, high density displays of viral surface proteins that present conformational viral epitopes that can elicit strong T cell and B cell immune responses. The particles' small radius of roughly 20-200 nm allows sufficient draining into lymph nodes. Since VLPs cannot replicate, they provide a safer alternative to attenuated viruses. VLPs were used to develop FDA-approved vaccines for Hepatitis B and human papillomavirus, which are commercially available.
+
+A selection of viruslike particle-based vaccines against human papilloma virus (HPV) such as Cervarix by GlaxoSmithKline along with Gardasil and Gardasil-9, are available, produced by Merck &amp; Co. Gardasil consists of recombinant VLPs assembled from the L1 proteins of HPV types 6, 11, 16, and 18 expressed in yeast. It is adjuvanted with aluminum hydroxyphosphate sulfate. Gardasil-9 consists of L1 epitopes of 31, 33, 45, 52 and 58 in addition to the listed L1 epitopes found in Gardasil. Cervarix consists of recombinant VLPs assembled from the L1 proteins of HPV types 16 and 18, expressed in insect cells, and is adjuvanted with 3-O-Desacyl-4-monophosphoryl lipid (MPL) A and aluminum hydroxide.
+
+The first VLP vaccine that addresses malaria, Mosquirix, (RTS,S) has been approved by EU regulators. It was expressed in yeast. RTS,S is a portion of the Plasmodium falciparum circumsporozoite protein fused to the Hepatitis B surface antigen (RTS), combined with Hepatitis B surface antigen (S), and adjuvanted with AS01, which is a combination of QS-21, liposomes, and monophosphoryl lipid A.
+
+Vaccine production can begin as soon as the virus strain is sequenced and can take as little as 12 weeks, compared to 9 months for traditional vaccines. In early clinical trials, VLP vaccines for influenza appeared to provide complete protection against both the Influenza A virus subtype H5N1 and the 1918 flu pandemic. Novavax and Medicago Inc. have run clinical trials of their VLP flu vaccines. Several VLP vaccines for COVID-19, including Novavax, are under development.
+
+VLPs have been used to develop a pre-clinical vaccine candidate against chikungunya virus.
+
+Bio-inspired Material Synthesis
+Compartmentalization is a common theme in biology. Nature is full of examples of hierarchically compartmentalized multicomponent structures that self-assembles from individual building blocks. Taking inspiration from nature, synthetic approaches using polymers, phase-separated microdroplets, lipids and proteins have been used to mimic hierarchical compartmentalization of natural systems and to form functional bio-inspired nanomaterials. For example, protein self-assembly was used to encapsulate multiple copies of ferritin protein cages as sub-compartments inside P22 virus-like particle as larger compartment essentially forming a Matryoshka-like nested cage-within-cage structure. The authors further demonstrated stoichiometric encapsulation of cellobiose-hydrolysing β-glycosidase enzyme CelB along with ferritin protein cages using in-vitro self-assembly strategy to form multi-compartment cell-inspired protein cage structure. Using similar strategy, glutathione biosynthesizing enzymes were encapsulated inside bacteriophage P22 virus-like particles. In a separate research, 3.5 nm small Cytochrome C with peroxidase-like activity was encapsulated inside a 9 nm small Dps protein cage to form organelle-inspired protein cage structure.
+
+Lipoparticle technology
+The VLP lipoparticle was developed to aid the study of integral membrane proteins. Lipoparticles are stable, highly purified, homogeneous VLPs that are engineered to contain high concentrations of a conformationally intact membrane protein of interest. Integral Membrane proteins are involved in diverse biological functions and are targeted by nearly 50% of existing therapeutic drugs. However, because of their hydrophobic domains, membrane proteins are difficult to manipulate outside of living cells. Lipoparticles can incorporate a wide variety of structurally intact membrane proteins, including G protein-coupled receptors (GPCR)s, ion channels and viral Envelopes. Lipoparticles provide a platform for numerous applications including antibody screening, production of immunogens and ligand binding assays.
+
+
+Assembly
+The understanding of self-assembly of VLPs was once based on viral assembly. This is rational as long as the VLP assembly takes place inside the host cell (in vivo), though the self-assembly event was found in vitro from the very beginning of the study about viral assembly. Study also reveals that in vitro assembly of VLPs competes with aggregation and certain mechanisms exist inside the cell to prevent the formation of aggregates while assembly is ongoing.
+
+Linking targeting groups to VLP surfaces
+Attaching proteins, nucleic acids, or small molecules to the VLP surface, such as for targeting a specific cell type or for raising an immune response is useful. In some cases a protein of interest can be genetically fused to the viral coat protein. However, this approach sometimes leads to impaired VLP assembly and has limited utility if the targeting agent is not protein-based. An alternative is to assemble the VLP and then use chemical crosslinkers, reactive unnatural amino acids or SpyTag/SpyCatcher reaction in order to covalently attach the molecule of interest. This method is effective at directing the immune response against the attached molecule, thereby inducing high levels of neutralizing antibody and even being able to break tolerance to self-proteins displayed on VLPs.
+
+ References 
+
+
+ External links 
+* 
+
+
+
+
+ 
+</segment>
+	</text>
+</file>

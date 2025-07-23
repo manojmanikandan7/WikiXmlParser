@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-03-29T15:27:41Z" sourceCorpus="COVID-19" filename="67036568" title="COVID-19_vaccination_in_Angola" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Angola">
+	<text>
+		<segment id="id67036568">COVID-19 vaccination in Angola is an ongoing immunisation campaign against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19), in response to the ongoing pandemic in the country.
+As of 15 June 2021, Angola has administered 1,314,375 doses of vaccines.822,109 people with the first dose and 492,266 people fully vaccinated. Angola began their vaccination program shortly after receiving their first shipment of Oxford AstraZeneca vaccine in early March 2021.
+
+ Background 
+
+Vaccines on order
+
+
+ History 
+
+ Timeline 
+
+ March 2021 
+On 2 March 2021, Angola received its first shipment of 624,000 of Oxford/Astrazeneca vaccine courtesy of COVAX.
+
+Mass vaccination started on 10 March. By the end of the month 111,230 vaccine doses had been administered.
+
+ April 2021 
+Angola received 495,000 doses of the Oxford-AstraZeneca vaccine which the Democratic Republic of Congo had been unable to use before the expiry date.
+
+As of 23 April 2021, Angola had administered a total of 456,349 doses. By the end of the month 513,000 persons had received an inoculation.
+
+ May 2021 
+On 30 May, Angola received 25,000 doses of the Sputnik V COVID-19 vaccine donated by Russia.
+
+By the end of the month 1.75 million doses had been administered, including 294,577 second doses.
+
+ June 2021 
+On 1 June, Angola received 100,620 doses of the Pfizer–BioNTech COVID-19 vaccine purchased through COVAX.
+
+On 29 June, the Health Minister announced that due to a shortage of vaccine doses, first doses would be suspended until further notice while second doses would continue to be administered.
+
+By the end of the month, 1.5 million vaccine doses had been administered.
+
+ July 2021 
+By the end of the month, 1.7 million vaccine doses had been administered.
+
+ August 2021 
+On 26 August, Angola received 185,000 doses of the Oxford–AstraZeneca COVID-19 vaccine donated by Portugal, which has so far donated 370,000 vaccines to Angola.
+
+By the end of the month 1.9 million vaccine doses had been administered.
+
+ September 2021 
+On 27 September, Angola received 1.2 million doses of the Sinopharm BIBP vaccine through COVAX.
+
+By the end of the month 3.1 million vaccine doses had been administered.
+
+ October 2021 
+By the end of the month 6.2 million vaccine doses had been administered while 12% of the target population had been fully vaccinated.
+
+ November 2021 
+In late November, Angola received 453,600 doses of the Janssen COVID-19 vaccine courtesy of the Mastercard Foundation.
+
+By the end of the month 9.3 million vaccine doses had been administered while 21% of the target population had been fully vaccinated.
+
+ December 2021 
+By the end of the month 11 million vaccine doses had been administered while 28% of the target population had been fully vaccinated.
+
+ January 2022 
+By the end of the month 14.6 million vaccine doses had been administered while 35% of the target population had been fully vaccinated.
+
+ February 2022 
+By the end of the month 16.6 million vaccine doses had been administered while 5.6 million persons had been fully vaccinated.
+
+ March 2022 
+By the end of the month 17.7 million vaccine doses had been administered while 6.1 million persons had been fully vaccinated.
+
+ April 2022 
+By the end of the month 17.9 million vaccine doses had been administered while 6.3 million persons had been fully vaccinated.
+
+ Progress 
+Cumulative vaccinations
+Graph
+|type=line
+|width=400
+|linewidth=2
+|showSymbols=1
+|legend=Cumulative vaccinations
+|colors=#D000E0,#004DE0,#00C1FF,#C4ADB0,#C4ADC0
+|xType=date
+|yType=number|
+xAxisTitle=Date
+|xAxisFormat=%e %b
+|xAxisAngle=-45
+|x= 5 March 2021, 8 March 2021, 18 March 2021, 24 March 2021, 29 March 2021, 11 April 2021, 19 April 2021, 23 April 2021, 12 May 2021, 18 May 2021, 26 May 2021, 31 May 2021, 8 June 2021, 10 June 2021, 15 June 2021
+|y1Title=Vaccinated (1st dose)
+|y1=0,6169,49000,87022,130750,245442,395447,456349,626572,681502,859979,909215,1115919,1222630,1314375
+|y2Title=Vaccinated (2nd dose)
+|y2=0,0,0,0,0,0,0,0,0,40195,75215,126551,196930,230181,375630,447704,492266
+
+
+ Progress Table 
+
+
+ References 
+
+
+
+
+
+Angola
+Vaccination
+Angola</segment>
+	</text>
+</file>

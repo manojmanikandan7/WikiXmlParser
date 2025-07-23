@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-05-29T20:28:42Z" sourceCorpus="COVID-19" filename="67708405" title="COVID-19_rapid_antigen_test" url="https://en.wikipedia.org/wiki/COVID-19_rapid_antigen_test">
+	<text>
+		<segment id="id67708405">COVID-19 rapid antigen tests or RATs, also frequently called COVID-19 lateral flow tests or LFTs, are rapid antigen tests used to detect SARS-CoV-2 infection (COVID-19). They are quick to implement with minimal training, cost a fraction of other forms of COVID-19 testing, and give users a result within 5–30 minutes. RATs have been used in several countries as part of mass testing or population-wide screening approaches. Many RATs can be used for self-testing, in which an individual &quot;collects their own specimen… and interpret[s] their test result themselves&quot;.
+
+False positives are very rare; the tests' specificity is 98%-99%. However, the tests have a sensitivity of 70%-72%, which is lower than COVID-19 polymerase chain reaction (PCR) tests' sensitivity of 88%-96%. Despite this, COVID-19 RATs remain valuable in finding people who would otherwise not know they were infected, helping to prevent further transmission. The tests are more sensitive in the symptomatic and transmissive stages of disease when the viral load is higher.
+
+Uses
+
+Use in diagnosis
+COVID-19 rapid antigen tests (RATs) have been widely used for diagnosis of COVID-19. The World Health Organization (WHO) COVID-19 Case Definition states that a person with a positive RAT (also known as an antigen rapid diagnostic test or Antigen-RDT) can be considered a &quot;confirmed case of SARS-CoV-2 infection&quot; in two ways. First, the person with a positive Antigen-RDT could meet a &quot;probable case definition&quot; such as having recent loss of smell or taste without any known cause, or could meet certain &quot;suspect criteria&quot; such as having a severe acute respiratory illness. Second, the person with a positive Antigen-RDT could be asymptomatic but a &quot;contact of a probable or confirmed case.&quot; Nevertheless, individual countries may have different case definitions of COVID-19; for example, in New Zealand a positive PCR test (not just a RAT) is necessary for a person to be considered a &quot;confirmed case.&quot;
+
+Use in screening
+Between 2020 and 2021, studies using mathematical models estimated the benefit of frequent RATs in screening populations for COVID-19. Paltiel et al studied a hypothetical college campus with 5000 students. Screening all students every two days with a &quot;low-sensitivity, high-specificity test&quot; (such as a RAT) would be able to control an outbreak of COVID-19. Mina et al theorized that higher-frequency screening using lower-sensitivity RATs may be more useful than lower-frequency screening using higher-sensitivity PCR tests because the former would &quot;capture most infections while they are still infectious.&quot; The quick results of RATs would serve to limit asymptomatic spread. Larremore et al simulated various COVID-19 population screening strategies. The researchers found that &quot;effective screening depends largely on frequency of testing and speed of reporting and is only marginally improved by high test sensitivity.&quot;
+
+ Humanitarian uses 
+In addition to routine community use, rapid tests have also been utilised as part of humanitarian efforts during the pandemic. Following the flooding in Jakarta in Indonesia on 2 December 2020, rapid tests were made available in flood shelters. Furthermore, following the closure of national borders in Europe following the emergence of the Alpha variant just before Christmas 2020, nearly 6,000 lorry drivers were stranded without food, effectively stopping Christmas food deliveries. Rapid tests were deployed by French firefighters within 24 hours at the Channel. Rapid tests enabled lorries to get on the road and complete their deliveries and return to their families for Christmas, demonstrating the potential global utility of having an easily implementable COVID-19 test. Médecins Sans Frontières strongly endorsed the use of rapid tests in lower- and middle-income countries, noting &quot;COVID-19 antigen tests can deliver rapid and actionable results, ensuring timely identification of people infected with the virus at the community level&quot;.
+
+ Use for &quot;return to normal&quot; 
+Spain became the first country to use rapid tests to facilitate a return-to-normal with rapid tests being widely available in pharmacies in December 2020, and a free music concert held in Barcelona for individuals who took a rapid test. A similar approach was taken in Albania to enable music festivals. However, many experts were unsure of this approach believing that &quot;rapid tests are not the solution to restart normal life&quot; but might be used in conjunction with other infection control techniques.
+
+ Concerns about use 
+right|thumb|A certification of quality for a COVID-19 rapid antigen home test.
+
+False negatives (low sensitivity) 
+Although the specificity of RATs are high (98%-99%), in 2020 RATs were criticized for having a sensitivity as low as 50%; that is, if people with COVID-19 as determined by a positive PCR test were also tested with a RAT, about half the time the RAT would be negative. As of 2022, systematic reviews determined that the pooled sensitivities of RATs were 70%-72%. In one systematic review, the range of sensitivities across studies was 37%-90%. As the World Health Organization (WHO) recommends RATs with &quot;≥ 80% sensitivity&quot;, many RATs do not meet the WHO recommendation.
+
+In the systematic reviews, the sensitivity was higher for symptomatic people (76%-82%) than for asymptomatic people (57%-68%). RATs were more sensitive when samples had more viral load, as measured by a low PCR &quot;cycle threshold,&quot; and less sensitive when the samples had less viral load.
+
+A 2022 study followed 225 adults and children with COVID-19 over 15 days using PCR tests, viral cultures, and home RATs. It found that the sensitivity of the RAT (Quidel QuickVue) increased from 0% two days prior to symptom onset or first positive PCR test to 77% four days after symptom onset or first positive PCR test, with an overall sensitivity of 50%. Compared with PCR tests collected the same day, the RAT sensitivity was 64%; compared with viral cultures collected the same day, the RAT sensitivity was 84%. The sensitivity of the RAT was lower in persons who were vaccinated against COVID-19 than in persons who were not vaccinated against COVID-19.
+
+Potential for false negative results due to new variants
+In November 2020, a new, marginally more infectious strain of SARS-CoV-2 was identified in the United Kingdom, the SARS-CoV-2 Alpha variant. The strain rapidly spread around the world. With widespread global use of this form of COVID-19 testing, there was a concern that this variant would render rapid testing obsolete. As part of the UK's accelerated technology evaluation of lateral flow, within 24 hours Public Health England laboratories were able to confirm that RATs in global development were not affected (i.e., that they could identify the new variant). This was because rapid test generally targets the capsid protein and not the spike protein. Some strains have been identified with a nucleocapsid mutation (D399N) that does decrease the sensitivity of at least one RAT (Quidel Sofia 2) up to 1,000-fold. Fortunately, the frequency of mutation D399N was still relatively low globally at ~0.02% as of May 2021. A study published in 2022 found that the sensitivities of six rapid antigen detection tests were 70.0%-92.9% for the Delta variant and 69.6%-78.3% for the Omicron variant across a range of viral loads; however, for Omicron samples with a low viral load, the sensitivities were 0.0%-23.1%.
+
+False positive results when instructions not followed
+If a COVID-19 RAT is used outside manufacturer recommendations, the result can be false positive. Beginning in December 2020, TikTok videos demonstrated how to use soft drinks to create false positive COVID-19 RAT results. Later, researchers found that introducing fruit juices, alcoholic beverages, bottled water, and other products directly into an Abbott Panbio COVID-19 RAT without the manufacturer's recommended buffer solution produced false positives. In contrast, a different RAT (BD Veritor) produced no false positive results under the same conditions.
+
+Slow deployment and uptake
+Some have raised concerns about the slow deployment and uptake of RATs, and the potential loss of life that might have occurred as a result. A modelling study in Canada estimated that half the deaths in care homes in British Columbia in 2020 could have been prevented if rapid testing had been available.
+
+ Toxicity of components 
+Various concerns have been raised related to the safety of chemical components contained within RAT kits, which can be toxic to humans if not properly used. On 24 February 2022, Health Canada issued a public advisory warning that there had been a recent increase in calls to poison control centers associated with RATs, which contained the preservatives sodium azide and ProClin.
+
+ Methods
+
+An antigen is a foreign molecule or molecular structure that can cause an immune response. COVID-19 rapid antigen tests (RATs) detect antigenic proteins on the surface of or in the interior of the SARS-CoV-2 coronavirus. Of the COVID-19 RATs that had received an emergency use authorization (EUA) from the US Food and Drug Administration (FDA) by January 2022, all detected nucleocapsid proteins, and one also detected the receptor-binding domain of the coronavirus spike protein. Similarly, almost all tests on the European Union common list of COVID-19 RATs target nucleocapsid proteins.
+
+thumb|300x300px|Rapid antigen test functioning by lateral flow assay.
+
+A typical COVID-19 RAT is a lateral flow test (LFT). For an LFT, a liquid sample (such as from a nasal swab) is placed on a pad at one end of a porous paper-like strip. The liquid is pulled through the strip by wicking (capillary action), encountering different chemically-enhanced regions embedded within the strip.
+
+First, at a &quot;conjugate pad,&quot; soluble antibodies with gold nanoparticles are picked up by the liquid, attaching to any SARS-CoV-2 antigens present in the sample. Then, at the test line (which may be labelled &quot;T&quot;), antibodies specific to SARS-CoV-2 are anchored to the strip; these bind to any SARS-CoV-2 antigens, capturing the associated nanoparticles. Finally at the control line (which may be labelled &quot;C&quot;), antibodies that can attach to the antibodies with nanoparticles are anchored, capturing the remaining nanoparticles.
+
+If there are no SARS-CoV-2 antigens present, then the gold nanoparticles are carried by the liquid, continue through the test line, and then captured at the control line, showing a single indicating a negative test. However, if there are antigens present, then some of the nanoparticles will be stopped at the test line and the rest will be stopped at the control line, showing two lines indicating a positive test.
+
+History of development and deployment
+
+
+2020
+thumb|right|300px|COVID-19 rapid test being administered in Rwanda
+
+In May 2020, the US Food and Drug Administration (FDA) issued the first emergency use authorization (EUA) for a COVID-19 RAT, the Sofia 2 test manufactured by Quidel.
+
+In August 2020, the United States Department of Health and Human Services announced that the US government would be purchasing 150 million BinaxNOW RATs produced by Abbott Laboratories &quot;to expand strategic, evidence-based testing.&quot; Later the agency announced that 100 million of the tests were to be sent to governors to use &quot;at their discretion,&quot; for example to reopen schools.
+
+By September 2020, it was reported that the United Kingdom's Moonshot program would be investing £100 billion to systematically assess, develop and implement new technologies for COVID-19 testing, including RATs for COVID-19. In that month, the World Health Organization (WHO) released interim guidance on COVID-19 &quot;antigen-detecting rapid diagnostic tests&quot; (Ag-RDTs) including recommendations for their use, selection, and implementation. The interim guidance noted that Ag-RDTs were easier to implement and less expensive than nucleic acid amplification tests (NAATs). The World Health Organization (WHO) recommended the use of Ag-RDTs in outbreaks, in monitoring disease trends, and in early identification of cases.
+
+Health Canada approved its first COVID-19 RAT in October 2020, the Abbott Panbio test. As of October 2020, there were questions in the US as to whether manufacturing capacity could keep up with the potential demand for hundreds of millions of RATs. RATs began to be rolled out across Portuguese schools and care homes.
+
+One of the early large studies of COVID-19 lateral flow devices (LFDs) was completed by Public Health England and University of Oxford, with a preliminary report released in November 2020. The researchers undertook an evaluation of 64 LFDs that proceeded in several phases. Of the four LFDs with &quot;desirable performance characteristics,&quot; one (Innova) had a sensitivity of 78.8% and a false positive rate of 0.32%.
+
+thumb|Contents of a box of free COVID-19 rapid antigen lateral flow tests provided by the NHS Test and Trace system.
+On 2 November 2020, Slovakia became the first country in the world to initiate country-wide mass testing using rapid tests. Five million rapid tests were performed by 60,000 staff who used the SD Biosensor antigen test and performed swabbing on the population. Two research studies on the Slovakia experience were published in early 2021, one by professor Martin Kahanec from Central European University and his coauthors and another one by Martin Pavelka from the London School of Hygiene &amp; Tropical Medicine and his team. Both studies suggested that rapid antigen mass testing helped to suppress the pandemic in the country, although according to the former study the effect of mass testing on the pandemic was temporary and started to dissipate after about two weeks.
+
+The United Kingdom continued their ongoing rapid test development programme using the Innova rapid test, with increasing urgency as COVID-19 cases increased across Europe. On 6 November 2020, the Prime Minister, Boris Johnson, started city-wide screening of Liverpool as part of the accelerated technology evaluation. Further expansion of rapid tests pilots were also launched for many sectors where testing had not been previously available. These included students at Universities who had been particularly hit by outbreaks. This initially started at Durham University, who had the infrastructure and expertise to manage the rapid test programme, but was expanded to the majority of UK universities and enabled the national evacuation-style plan to get students safely home for Christmas. Rapid tests were also implemented within the National Health Service (NHS) for staff to reduce possible transmission to patients, local authorities  and care homes to enable visits to visit residents. On 18 November 2020, Wales completed the first whole borough testing at Merthyr Tydfil.
+
+Global efforts to step up evaluations of rapid tests were initiated by the World Health Organization (WHO) Emergencies Department who launched a major rapid diagnostic test implementation project on 10 November 2020, aided by agreement from the Bill and Melinda Gates Foundation that limited costs for low- and middle-income countries.
+
+Austria started country-wide mass testing on 5 December 2020 and ordered seven million tests consisting of the SD Biosensor test and Siemens Clinitest (aka Orientgene).
+
+By the middle of December 2020, there were many studies confirming the efficacy and success of using rapid tests to identify individuals with COVID-19 including studies in the Netherlands, the United Kingdom, and the US. These studies all enabled rapid tests to enter standard national COVID-19 testing strategies. Global piloting of rapid tests was now common place in schools in Canada, travel hubs in Indonesia, and across India.
+
+Professor William A. Haseltine of Harvard said that &quot;rapid, self-administered testing could stem the ever-surging tide of disease and death.&quot; However, further deployment of rapid tests as part of mass testing approaches in the US stalled as a result of the impasse around the $900 billion in COVID-19 relief contained within the Consolidated Appropriations Act, 2021. The bill was criticized for not specifically supporting COVID rapid self-tests. Meanwhile, the FDA authorized the Abbott BinaxNOW RAT &quot;for prescription use at home.&quot; Subsequent approval was given for the first COVID-19 at-home RAT available without a prescription, by Ellume.
+
+In the UK in December 2020, the Medicines and Healthcare products Regulatory Agency approved the Innova rapid test for self-testing of asymptomatic people. The United Kingdom's chief clinical medic, Dr Susan Hopkins, noted that rapid tests provided a means to find &quot;people that...we couldn't otherwise find&quot;.
+
+Noting the ability to identify cases more rapidly, and considering the ensuing escalation in cases in Europe, the European Commission (EC) met in December 2020 and developed a common European framework for &quot;use, validation and mutual recognition of rapid tests&quot;, committing 100 million euros for the purchase of tests from Roche and Abbott. Stella Kyriakides, commissioner for Health and Food Safety, said &quot;Rapid antigen tests offer us speed, reliability and quick responses to isolate COVID cases. This is crucial to slow down the spread of the pandemic.&quot;
+
+2021
+By January 2021, the Council of the European Union advocated greater use of rapid tests, noting that &quot;should research prove that rapid antigen tests can be conducted by the testee themselves.... self-testing with or without professional guidance could also be considered.&quot; In the US, newly inaugurated US president Joe Biden released a national strategy for COVID-19 that pledged to &quot;fund rapid test acquisition and distribution for priority populations, work to spur development and manufacturing of at-home tests and work to ensure that tests are widely available.&quot; In March 2021, the US FDA authorized the Abbott BinaxNOW RAT and the Quidel QuickVue RAT for use at home without a prescription.
+
+Innova voluntarily launched a Class I recall in the US of more than 77,000 of its RATs in April 2021. Two months later, the FDA warned Americans to stop using the test because it had &quot;significant concerns that the performance of the test has not been adequately established.&quot; A week after the FDA's warning about the Innova test, UK's Medicines and Healthcare products Regulatory Agency (MHRA) cleared the rapid diagnostic's use and extended its authorization.
+
+In October 2021, the World Health Organization (WHO) updated its interim guidance on Ag-RDTs. Among other changes, the 2021 WHO interim guidance included updated information on test performance, uses selection, and storage. Also in October 2021, Ellume recalled more than 2.2 million of its home tests because of &quot;higher-than-acceptable false positive test results for SARS-CoV-2&quot;.
+
+In December 2021, US president Biden announced that the government planned to purchase and distribute for free 500 million at-home COVID-19 RATs. In response, Dr Leana Wen was quoted as saying that the number of tests &quot;does not come even close to what's needed.&quot;
+
+2022
+US president Biden announced in January 2022 the purchase of 500 million additional RATs for free distribution. In March 2022, the World Health Organization (WHO) issued interim guidance on self-testing with Ag-RDTs. The WHO made a strong recommendation that COVID-19 Ag-RDT self-testing &quot;should be offered in addition to professionally administered testing services.&quot; An April 2022 warning from the US FDA concerned two counterfeit at-home COVID-19 RATs.
+
+2024
+In October 2024, the US Food and Drug Administration granted marketing authorization for the Healgen Rapid Check COVID-19/Flu A&amp;B Antigen Test. The test, authorized for use without a prescription, is for use by individuals experiencing respiratory symptoms and uses a nasal swab sample to deliver at-home results in approximately 15 minutes for COVID-19 and influenza (flu). The test detects proteins from both SARS-CoV-2 (the virus that causes COVID-19) and influenza A and B (the viruses that causes flu). This is the first over-the-counter (OTC) test that can detect influenza to be granted marketing authorization using a traditional premarket review pathway, which enables the test to be marketed in the absence of an applicable emergency use declaration. Other OTC flu/COVID tests are available under emergency use authorization.
+
+ Economic aspects 
+ Costs and cost-effectiveness 
+In late 2020, it was noted that in the US RATs cost US$5-$23, in contrast with PCR tests which cost at least $75. In a Danish study published in 2021, RATs cost about $5.70 per test, as opposed to PCRs at $10.80 per test. A 2021 study from Germany found that monitoring health care workers exposed to COVID-19 with RATs saves money compared with sending them into quarantine. A 2021 study concluded that if the US is willing to pay $100,000 per year of life lost averted, then weekly or monthly testing of the population using RATs is likely to be cost-effective. Another 2021 study estimated incremental cost-effectiveness ratios of &quot;$7890 per infection averted and $1 430 000 per death averted&quot; if weekly screening with home-based RATs were performed in the entire US population over a 60-day period.
+
+ Global market value 
+Estimates of value of the worldwide market for RATs vary. One estimate was that the market size was $28 billion in 2021 with a compound annual growth rate (CAGR) of -21.7%, leading to a size of $14 billion in 2028. A second estimate suggested that the market value was $4.6 billion in 2021, with a CAGR of -26.3%, leading to a value of $743 million in 2027. A third estimate found a value of $5.3 billion in 2020, which was &quot;anticipated to grow with a healthy growth rate of more than 6.7% over the forecast period 2021-2027.&quot;
+
+ Notes 
+
+
+
+
+ References 
+
+
+
+</segment>
+	</text>
+</file>

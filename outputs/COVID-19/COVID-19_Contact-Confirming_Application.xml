@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-05-02T04:23:28Z" sourceCorpus="COVID-19" filename="67493273" title="COVID-19_Contact-Confirming_Application" url="https://en.wikipedia.org/wiki/COVID-19_Contact-Confirming_Application">
+	<text>
+		<segment id="id67493273">infobox software
+| name = 
+| author = COVID-19 Radar Japan
+| developer = Ministry of Health, Labour and Welfare
+| released = 
+| latest_release_version = 1.4.1
+| latest_release_date = 
+| programming_language = C#
+| operating_system = |iOS 13.5 or later
+| language = 
+| language count = 3
+| language footnote = 
+| license = |source: MPL 2.0
+| website = 
+
+COVID-19 Contact-Confirming Application (COCOA) is a COVID-19 application for smartphones provided by the Ministry of Health, Labour and Welfare of Japan. The application uses Bluetooth to detect and record suspected close contacts between users. If the contact is diagnosed with COVID-19, the user will be notified. After receiving the notification, the user can consider self-isolation or go to a medical institution for treatment.
+
+ Development 
+On May 20, 2020, Apple and Google began to provide the public health authorities of various countries with the new coronavirus infection notification (English: Exposure Notification). On May 26, 2020, the &quot;New Coronavirus Infectious Disease Countermeasures Technical Team&quot; released a specification that defines the contact confirmation application and related systems that use this API. After Persol Process &amp; Technology received the project management and maintenance order with a price of 41.04 million yen, it subcontracted it to two companies, including Microsoft Japan and Fixer. The application itself is developed by the open source community &quot;COVID-19 Radar Japan&quot; composed of private IT technicians. The members include Japanese Microsoft employees, and Persol Process &amp; Technology is responsible for maintenance and adjustments. On June 15, the Nikkei reported that the application was developed by Microsoft in the United States, and Microsoft in Japan later denied the content of the report.
+
+At 15:00 on June 19, 2020, Google Play and App Store began to provide the 1.0.0 (initial trial version) version of the application. This version does not link to the information control and management support system (HER-SYS) of people infected with the new coronavirus, and there are many problems. Version 1.1.1 (trial version) fixes the problems of the previous version, and after accessing the above system, it will be published to the App Store on June 30, 2020, and to Google Play on July 1, 2020. The Ministry of Health, Labour and Welfare stated that it will maintain the trial version for about one month after its release (June 19, 2020), revising the design and functions.
+
+On September 13, 2022, Digital Minister Taro Kono said that COCOA will be discontinued as Tokyo continues to simply details on COVID-19 patients' names and other details.
+
+ COVID-19 Radar Japan 
+The initiator Hirose told Diamond Online that the plan was promoted by himself and 5 other core members, including Hirose, 4 core members agreed to open the name for an interview.
+* Hirose Kazukai (the initiator of COVID-19 Radar Japan)
+* Yasuda Kristina (External External person in charge)
+* Noriko Matsumoto (designer in charge)
+* Tetsuhiko Kodama (designer in charge)
+
+ Function 
+
+ Record contact information 
+As long as the smart phones of both parties are installed with COCOA and Bluetooths are turned on, the devices will record each other's data (identification code) and store it as &quot;contact information&quot;. The contact information is an encrypted record, and personal identity cannot be identified. After 14 days of storage, the recorded information will be automatically delete. For privacy reasons, the application does not use personally identifiable information such as phone numbers and location information (GPS).
+
+ Notify when contact with confirmed cases 
+A confirmed case of COVID-19 confirmed by PCR testing will receive a &quot;processing number&quot; issued by the health center after the diagnosis is confirmed. After entering COCOA, people who have been in contact with the confirmed case will be notified. The Japanese government stated that the processing number of a confirmed case will only be sent to the confirmed case itself by mail, etc., to prevent abusers from falsely reporting the diagnosis.
+
+ Issues 
+
+ Can't find application issue 
+When it was released on June 19, 2020, the Ministry of Health, Labour and Welfare urged users to search for &quot;contact confirmation app&quot; (contact confirmation app) in the App Store and other places, and install it (download) for free. After the release, many people reported that they &quot;cannot download&quot; or &quot;cannot search&quot;. The Ministry of Health, Labour and Welfare finally published the application link on its official website, and clicked it to go directly to the installation interface.
+
+ Confirmed information registration problem 
+In version 1.0.0 of the app, when registering confirmed information, even if the input processing number is not issued by the &quot;New Coronavirus Infected Persons and Other Information Grasp and Management Support System&quot;, it will display &quot;completed&quot;. After receiving the report, the Ministry of Health, Labour and Welfare stated that it is temporarily suspending the issuance of the processing number. Since the system will check the processing number, if the entered processing number has not been issued, it will not be registered as a confirmed case, and other users will not receive contact notifications. This problem has been fixed in version 1.1.1 of the application.
+
+ Starting day display problem 
+In version 1.0.0 of the application, the start date will be displayed as today's date. The 1.1.1 version of the application has fixed this problem.
+
+ Confirmed cases cannot be registered in the app issue 
+The Ministry of Health, Labour and Welfare stated that it will stop issuing the processing number required for registration information since July 11 due to &quot;the discovery of a confirmed case of new coronavirus infection that could not be registered in the app&quot;. The revised version (1.1.2) will be released on iOS on July 13 and Android on July 14 to fix this problem.
+
+ Problem reporting method 
+The Tuberculosis and Infectious Diseases Division of the Ministry of Health, Labour and Welfare stated that if problems are found, they can report through the consultation email address listed in the app and Q&amp;A, or go to the issue report discussion area (Issues) in the GitHub project.
+
+ See also 
+* Protect each other 
+* Health Code
+
+ References 
+
+
+# [https://www.nikkei.com/article/DGXMZO60440470X10C20A6000000/ Government contact confirmation app, supplier is Persol]. Japan Economic News. 2020-06-17 [2020-06-19]. (Archived from the original on 2020-06-19).
+# [https://www3.nhk.or.jp/news/html/20200619/k10012476931000.html Notification of close contact with corona-infected persons Started using the app &quot;COCOA&quot;. NHK News]. 2020-06-19 [2020-06-19].
+# [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application]. www.mhlw.go.jp. [2020-07-15].
+# [https://apps.apple.com/jp/app/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%8E%A5%E8%A7%A6%E7%A2%BA%E8%AA%8D%E3%82%A2%E3%83%97%E3%83%AA/id1516764458 New Coronavirus Contact Confirmation App.] App Store. [2020-06-20].
+# [https://www.mhlw.go.jp/stf/seisakunitsuite/japanese_rk_00028.html Contact Confirmation Application Terms of Service.] www.mhlw.go.jp. [2020-06-20].
+# [https://github.com/Covid-19Radar/Covid19Radar Covid-19Radar / Covid19Radar], Project Covid19Radar, 2020-06-20 [2020-06-20]
+# [https://www.itmedia.co.jp/news/articles/2006/19/news140.html Japan's new corona contact confirmation app, Android version also released Following iOS version]. ITmedia NEWS. 2020-06-19 [2020-06-20].
+# [https://www.itmedia.co.jp/news/articles/2006/19/news072.html Japanese contact confirmation app &quot;COCOA&quot; released today at 3:00 pm.] ITmedia NEWS. 2020-06-19 [2020-06-19].
+# [https://mainichi.jp/articles/20200619/k00/00m/040/147000c &quot;Contact confirmation&quot; application distribution start with infected people Information to short-distance user smartphones]. Mainichi Shimbun. 2020-06-19 [2020-06-19].
+# [https://mainichi.jp/articles/20200619/k00/00m/040/147000c &quot;Contact confirmation&quot; application distribution start with infected people Information to short-distance users' smartphones.] Mainichi Shimbun. [2020-06-20].
+# [https://www.itmedia.co.jp/news/articles/2005/21/news048.html Apple and Google release API of new corona &quot;exposure notification&quot; 22 countries including Japan have accessed.] ITmediaNEWS. 2020-05-21 [2020-06-20].
+# [https://www.watch.impress.co.jp/docs/news/1254879.html The government's &quot;contact confirmation app&quot; specifications have been released. Available on iOS and Android in mid-June.] Impress Watch. 2020-05-26 [2020-06-19].
+# [https://k-tai.watch.impress.co.jp/docs/news/1255400.html The specifications of the new Corona contact confirmation app have been released-to an app that does not identify individuals using Bluetooth.] 2020-05-28 [2020-06-20].
+# [https://smart-flash.jp/sociopolitics/105385 Development cost 41 million yen Will the &quot;Corona Contact App&quot; spread to 60% of the population? Smart FLASH [Kobunsha Shukanshi].] 2020-06-19 [2020-06-21].
+# [https://www.mhlw.go.jp/stf/kaiken/daijin/0000194708_00254.html Outline of Minister Kato's press conference (Friday, June 19, 2nd year of Reiwa 11: 13-11: 44)]. Www.mhlw.go.jp. [2020-06-24].
+# [https://diamond.jp/articles/-/240905 Directly hit the developer of Corona &quot;contact confirmation app&quot;! How is personal information handled? Is it effective?] --[https://zh.wikipedia.org/w/index.php?title=%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3&amp;action=edit&amp;redlink=1 Diamond Online]
+# [https://diamond.jp/articles/-/240905?page=4 Treasure money Kanae. Hit the developer of Corona &quot;contact confirmation app&quot; directly! How is personal information handled? Is it effective?] Diamond Online. Diamond Inc. 2020-06-20 [2020-06-25].
+# [https://www.itmedia.co.jp/news/articles/2006/15/news140.html Is the contact confirmation app made by US MS? Japan MS denies that it is &quot;not a fact&quot;]. ITmedia NEWS. [2020-07-04].
+# [https://xtech.nikkei.com/atcl/nxt/column/18/00001/04199/ Why was the release of the contact confirmation app delayed? Directly hit Deputy Minister of Health, Labor and Welfare Hashimoto, who leads the IT measures of Corona.] Nikkei XTECH. [2020-06-23].
+# [https://xtech.nikkei.com/atcl/nxt/news/18/08165/ Nikkei Cross Tech (xTECH). The Ministry of Health, Labor and Welfare released a contact confirmation app around 3:00 pm on the 19th, and the functions were gradually improved with the trial version]. Nikkei Cross Tech (xTECH). [2020-07-03].
+# [https://diamond.jp/articles/-/240905 Directly hit the developer of Corona &quot;contact confirmation app&quot;! How is personal information handled? Is it effective?] Diamond Online. [2020-06-21].
+# [https://www.stat.go.jp/data/jinsui/new.html Population estimation (fixed value in December of the first year of Reiwa (2019), estimated value in May of the second year of Reiwa (2020)) (announced on May 20, 2020)]. stat.go.jp. [2020-06-22].
+# [https://k-tai.watch.impress.co.jp/docs/news/1263107.html Impress Co., Ltd. Contact confirmation application &quot;COCOA&quot; of the Ministry of Health, Labor and Welfare, notifications from positive people can be received from July 3]. Keitai Watch. 2020-07-02 [2020-07-03].
+# [https://web.archive.org/web/20200703173430/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare]. Web.archive.org. 2020-07-03 [2020-07-08].
+# [https://web.archive.org/web/20200706104515/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-06 [2020-07-07].
+# [https://web.archive.org/web/20200707091917/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-07 [2020-07-07].
+# [https://web.archive.org/web/20200708104921/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-08 [2020-07-08].
+# [https://web.archive.org/web/20200709093843/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-09 [2020-07-09].
+# [https://web.archive.org/web/20200710142625/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-10 [2020-07-10].
+# [https://web.archive.org/web/20200713130137/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-13 [2020-07-13].
+# [https://web.archive.org/web/20200714091511/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-14 [2020-07-14].
+# [https://web.archive.org/web/20200715131757/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare]. Web.archive.org. 2020-07-15 [2020-07-15].
+# [https://web.archive.org/web/20200716135831/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-16 [2020-07-16].
+# [https://web.archive.org/web/20200717140321/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-17 [2020-07-17].
+# [https://web.archive.org/web/20200720102721/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application ｜ Ministry of Health, Labor and Welfare.] Web.archive.org. 2020-07-20 [2020-07-20].
+# [https://www3.nhk.or.jp/news/html/20200619/k10012477051000.html &quot;COCOA&quot; of the dense contact notification cannot be downloaded. Voices one after another]. NHK News. 2020-06-19 [2020-06-19].
+# [https://k-tai.watch.impress.co.jp/docs/news/1260349.html The Ministry of Health, Labor and Welfare will guide you if there is a problem with the contact notification application &quot;COCOA&quot;.] Keitai Watch. 2020-06-19 [2020-06-21].
+# [https://www.news24.jp/articles/2020/06/22/07665807.html Multiple problems with &quot;contact confirmation app COCOA&quot;.] NTV NEWS24. 2020-06-22 [2020-06-23].
+# [https://www.itmedia.co.jp/news/articles/2007/03/news054.html Ministry of Health, Labor and Welfare's contact confirmation app, positive report &quot;processing number&quot; issuance started DL 4.99 million.] ITmedia NEWS. [2020-07-03].
+# [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html New Coronavirus Contact Confirmation App (COCOA) COVID-19 Contact-Confirming Application.] Www.mhlw.go.jp. [2020-06-24].
+# [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/covid19_qa_kanrenkigyou_00009.html#Q17 Q &amp; A.] [2020-06-23].
+# [https://github.com/Covid-19Radar/Covid19Radar/issues Problem Report Bulletin Board (Issues) in the GitHub project.] [2020-06-23].
+
+ External links 
+* [https://play.google.com/store/apps/details?id=jp.go.mhlw.covid19radar&amp;hl=ru&amp;gl=US Google Play link]
+* [https://apps.apple.com/jp/app/cocoa-covid-19-contact-app/id1516764458?l=en App Store link]
+
+
+
+
+
+
+</segment>
+	</text>
+</file>

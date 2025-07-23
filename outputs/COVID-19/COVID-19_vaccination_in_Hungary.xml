@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-03-29T15:28:10Z" sourceCorpus="COVID-19" filename="67242622" title="COVID-19_vaccination_in_Hungary" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Hungary">
+	<text>
+		<segment id="id67242622">COVID-19 vaccination in Hungary is an ongoing immunization campaign against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19), in response to the ongoing pandemic in the country.
+
+ Vaccination program 
+Around 20.13% of the Hungarian citizens (based on the 2011 census  and the official vaccination statistics) have received, at least, one anti-COVID-19 injection, since 28 March 2021.  Graph:Chart
+|type=line
+|linewidth=1
+|showSymbols=1
+|width=1200
+|height=400
+|colors=Green, Orange
+|xAxisTitle=Date
+|xAxisFormat = %d %b %y
+|xAxisAngle=-40
+|xType=date
+|x= 2021/1/12, 2021/1/13, 2021/1/14, 2021/1/15, 2021/1/16, 2021/1/17, 2021/1/18, 2021/1/19, 2021/1/20, 2021/1/21, 2021/1/22, 2021/1/23, 2021/1/24, 2021/1/25, 2021/1/26, 2021/1/27, 2021/1/28, 2021/1/29, 2021/1/30, 2021/1/31, 2021/2/1, 2021/2/2, 2021/2/3, 2021/2/4, 2021/2/5, 2021/2/6, 2021/2/7, 2021/2/8, 2021/2/9, 2021/2/10, 2021/2/11, 2021/2/12, 2021/2/13, 2021/2/14, 2021/2/15, 2021/2/16, 2021/2/17, 2021/2/18, 2021/2/19, 2021/2/20, 2021/2/21, 2021/2/22, 2021/2/23, 2021/2/24, 2021/2/25, 2021/2/26, 2021/2/27, 2021/2/28, 2021/3/1, 2021/3/2, 2021/3/3, 2021/3/4, 2021/3/5, 2021/3/6, 2021/3/7, 2021/3/8, 2021/3/9, 2021/3/10, 2021/3/11, 2021/3/12, 2021/3/13, 2021/3/14, 2021/3/15, 2021/3/16, 2021/3/17, 2021/3/18, 2021/3/19, 2021/3/20, 2021/3/21, 2021/3/22, 2021/3/23, 2021/3/24, 2021/3/25, 2021/3/26, 2021/3/27, 2021/3/28, 2021/3/29, 2021/3/30
+|yAxisTitle=People
+|legend=Legend
+|y1= 78579, 86929, 96101, 105728, 112847, 119944, 123188, 129689, 130318, 134554, 138983, 143184, 145257, 146695, 149676, 152704, 161215, 175283, 198283, 222005, 237872, 243036, 247270, 249687, 264530, 279410, 286379, 289042, 291396, 292627, 294624, 310448, 330745, 335188, 336297, 341958, 348927, 365021, 391821, 427309, 445535, 453457, 457096, 471004, 508073, 521283, 563601, 677682, 685247, 721677, 758037, 785440, 862953, 949497, 981401, 1000000, 1047045, 1107791, 1149557, 1229827, 1293414, 1319266, 1334595, 1347073, 1397342, 1441706, 1477554, 1520350, 1563242, 1589612, 1636436, 1696110, 1747519, 1803533, 1870631, 1903498, 1920347, 2000998
+|y1title=Number of first vaccinated
+|yGrid=
+|xGrid=
+
+| y2 = 78579, 86929, 96101, 105728, 112847, 119944, 123188, 129689, 130318, 134554, 138983, 143184, 145257, 146695, 149676, 152704, 161215, 175283, 198283, 222005, 237872, 243036, 247270, 249687, 264530, 279410, 286379, 289042, 291396, 292627, 294624, 310448, 330745, 335188, 336297, 341958, 348927, 365021, 391821, 427309, 445535, 453457, 457096, 471004, 508073, 521283, 563601, 677682, 685247, 721677, 758037, 785440, 862953, 949497, 981401, 1000000, 1047045, 1107791, 1149557, 1229827, 1293414, 1319266, 1334595, 1347073, 1397342, 1441706, 1477554, 1520350, 1563242, 1589612, 1636436, 1696110, 1747519, 1803533, 1870631, 1903498, 1920347
+ | showValues=offset:2
+ | y2Title = PCR Samples tested per day
+
+
+ Background 
+Reports in March 2021 stated that Hungary was the first country in the EU to &quot;begin using China's Sinopharm BIBP and Russia's Sputnik V vaccines, even as polling showed that public trust in non-EU approved vaccines was low&quot;. The European Commission's Vaccine Passport plan excluded the Sputnik and Sinopharm products because they were not &quot;EU authorized vaccines&quot;. One suggestion to resolve that issue was that &quot;Russian and Chinese vaccine producers submit their products to the EMA for testing and authorization&quot;. At the end of March 2021, Hungary also granted emergency use licenses to two more vaccines, CanSino (from China) and Covishield (the AstraZeneca vaccine produced by the Serum Institute of India).
+
+ Vaccines on order 
+
+
+
+ Government response 
+On 17 March 2020, the Surgeon General announced that the National Safety Laboratory of National Health Security Center had successfully isolated COVID-19 from a Hungarian patient's sample, which it could use for the research and development of a new Hungarian vaccine. A consortium founded by the Department of Immunology at the Faculty of Sciences of Eötvös Loránd University, the Institute of Biology at the Science Faculty of the University of Pécs, Richter Gedeon and ImmunoGenes is involved in international biotechnological developments. Imre Kacskovics, leader of Immunology Department of ELTE, said the product currently in the first phase of development won't be a vaccine, but provide passive immunity. It will not prepare the body to fight against the virus. Some days after the successful isolation, the Bioinformatic Research Team of Szentágothay János Research Center at the University of Pécs and the university's virologists made the genome of the new SARS-CoV-2 human coronavirus available in Hungary.
+
+ References 
+
+
+
+
+
+Vaccination campaign
+Hungary</segment>
+	</text>
+</file>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-07-18T00:51:40Z" sourceCorpus="COVID-19" filename="66147797" title="SARS-CoV-2_Alpha_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant">
+	<text>
+		<segment id="id66147797">|map = thumb|upright=1.5|Total number of B.1.1.7 sequences by country as of 25 March 2021
+
+Legend:
+
+
+
+
+
+
+
+
+
+
+
+
+The Alpha variant (B.1.1.7) was a SARS-CoV-2 variant of concern. It was estimated to be 40–80% more transmissible than the wild-type SARS-CoV-2 (with most estimates occupying the middle to higher end of this range). Scientists more widely took note of this variant in early December 2020, when a phylogenetic tree showing viral sequences from Kent, United Kingdom looked unusual.
+
+The variant began to spread quickly by mid-December, around the same time as infections surged. This increase is thought to be at least partly because of one or more mutations in the virus' spike protein. The variant was also notable for having more mutations than normally seen. By January 2021, more than half of all genomic sequencing of SARS-CoV-2 was carried out in the UK. This gave rise to questions as to how many other important variants were circulating around the world undetected.
+
+On 2 February 2021, Public Health England reported that they had detected &quot;[a] limited number of B.1.1.7 VOC-202012/01 genomes with E484K mutations&quot;, which they dubbed Variant of Concern 202102/02 (VOC-202102/02). One of the mutations (N501Y) was also present in Beta variant and Gamma variant. On 31 May 2021, the World Health Organization announced that the Variant of Concern would be labelled &quot;Alpha&quot; for use in public communications.
+
+The Alpha variant disappeared in late 2021 as a result of competition from even more infectious variants. In March 2022, the World Health Organization changed its designation to &quot;previously circulating variant of concern&quot;.
+
+Classification
+Names
+The variant is known by several names. Outside the UK it is sometimes referred to as the UK variant or British variant or English variant, despite the existence of other, less common, variants first identified in UK, such as Eta variant (lineage B.1.525). Within the UK, it is commonly referred to as the Kent variant after Kent, where the variant was found.
+
+In scientific use, the variant had originally been named the first Variant Under Investigation in December 2020 (VUI – 202012/01) by Public Health England (PHE), but was reclassified to a Variant of Concern (Variant of Concern 202012/01, abbreviated VOC-202012/01) by Meera Chand and her colleagues in a report published by PHE on 21 December 2020. 
+ In a report written on behalf of COVID-19 Genomics UK (COG-UK) Consortium, Andrew Rambaut and his co-authors, using the Phylogenetic Assignment of Named Global Outbreak Lineages (pangolin) tool, dubbed it lineage B.1.1.7, while Nextstrain dubbed the variant 20I/501Y.V1.
+
+The name VOC-202102/02 refers to the variant with the E484K mutation (see below).
+
+Genetic profile
+
+
+Mutations in SARS-CoV-2 are common: over 4,000 mutations have been detected in its spike protein alone, according to the COVID-19 Genomics UK (COG-UK) Consortium.
+
+VOC-202012/01 is defined by 23 mutations: 14 non-synonymous mutations, 3 deletions, and 6 synonymous mutations (i.e., there are 17 mutations that change proteins and six that do not).
+
+Symptoms and signs
+Imperial College London investigated over a million people in England while the Alpha variant was dominant and discovered a wide range of further symptoms linked to Covid.  &quot;Chills, loss of appetite, headache and muscle aches&quot; were most common in infected people, as well as classic symptoms.
+
+Diagnosis
+Several rapid antigen tests for SARS-CoV-2 are in widespread use globally for COVID-19 diagnostics. They are believed to be useful in stopping the chain of transmission of the virus by providing the means to rapidly identify large numbers of cases as part of a mass-testing program. Following the emergence of VOC-202012/01, there was initially concern that rapid tests might not detect it, but Public Health England determined that rapid tests evaluated and used in the United Kingdom detected the variant.
+
+Prevention
+
+
+By late 2020, several COVID-19 vaccines were being deployed or under development.
+
+However, as further mutations occurred, concerns were raised as to whether vaccine development would need to be altered. SARS-CoV-2 does not mutate as quickly as, for example, influenza viruses, and the new vaccines that had proved effective by the end of 2020 are types that can be adjusted if necessary. As of the end of 2020, German, British, and American health authorities and experts believe that existing vaccines will be as effective against VOC-202012/01 as against previous variants.
+
+On 18 December, NERVTAG determined &quot;that there are currently insufficient data to draw any conclusion on... [[Antigenic escape|[a]ntigenic escape]]&quot;.
+
+, Public Health England confirmed there is &quot;no evidence&quot; to suggest that the new variant would be resistant to the Pfizer–BioNTech vaccine currently being used in the UK's vaccination programme, and that people should still be protected.
+
+E484K mutation
+On  2 February 2021, Public Health England reported that they had detected &quot;[a] limited number of B.1.1.7 VOC-202012/01 genomes with E484K mutations&quot;, which is also present in the Beta and Gamma variants; a mutation which may reduce vaccine effectiveness. On 9 February 2021, it became known that some 76 cases with the E484K mutation had been detected, principally in Bristol, but with a genomically distinct group in Liverpool also carrying the mutation. A week later a Research and analysis report from PHE gave a total of 77 confirmed and probable cases involving the E484K mutation across the UK, in two variants, VUI-202102/01 and VOC-202102/02, the latter described as 'B.1.1.7 with E484K'.
+
+On 5 March 2021, it was reported that a B.1.1.7 lineage with the E484K mutation has been detected in two US patients (in Oregon and New York states). Researchers thought that the E484K mutation in the Oregon variant arose independently.
+
+Characteristics
+Transmissibility
+The transmissibility of the Alpha variant (lineage B.1.1.7) had generally been found to be substantially higher than that of pre-existing SARS-CoV-2 variants. The variant was discovered by a team of scientists at COG-UK whose initial results found transmissibility was 70% (50-100%) higher. A study by the Centre for the Mathematical Modelling of Infectious Diseases at the London School of Hygiene &amp; Tropical Medicine reported that the variant was 43 to 90% (range of 95% credible intervals, 38 to 130%) more transmissible than pre-existing variants in the United Kingdom, depending on the method used to assess increases in transmissibility. Similar increases in the transmissibility of lineage B.1.1.7 were measured in Denmark, Switzerland, and the United States. Furthermore, a simple model to account for the rapid rise of lineage B.1.1.7 in several countries and the world found that the variant is 50% more transmissible than the local wild type in these three countries and across the world as whole.  Another study concluded that it was 75% (70%–80%) more transmissible in the UK between October and November 2020. A later study suggested that these earlier estimates overestimated the transmissibility of the variant and that the transmissibility increase was on the lower ends of these ranges.
+
+The Dutch Ministry of Health, Welfare and Sport calculated, based on genome sequencing of positive cases, each week the transmissibility rate of the variant compared to the local wildtype, and found it to fluctuate between 28%-47% higher during the first six weeks of 2021. The Danish Statens Serum Institut in comparison calculated it to be 55% (48%–62%) more transmissible in Denmark based upon the observed development of its relative frequency from 4 January to 12 February 2021.  The Institute of Social and Preventive Medicine (ISPM) under University of Bern, calculated the transmissibility of lineage B.1.1.7 based on the weekly development of its observed fraction of all Covid-19 positives during the entire pandemic, and found for 95% confidence intervals under the assumption of a wildtype reproduction number Rw≈1 and an exponentially generation time of 5.2 days, that transmissibility was: 52% (45%–60%) higher when compared to the wildtype in Denmark and 51% (42%-60%) higher when compared to the wildtype in Switzerland.
+
+On 18 December 2020—early on in the risk assessment of the variant—the UK scientific advisory body New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG) concluded that they had moderate confidence that VOC-202012/01 was substantially more transmissible than other variants, but that there were insufficient data to reach any conclusion on underlying mechanism of increased transmissibility (e.g. increased viral load, tissue distribution of virus replication, serial interval etc.), the age distribution of cases, or disease severity. Data seen by NERVTAG indicated that the relative reproduction number (&quot;multiplicative advantage&quot;) was determined to be 1.74—i.e., the variant is 74% more transmissible—assuming a 6.5-day generational interval. It was demonstrated that the variant grew fast exponentially with respect to the other variants. The variant out-competed the ancestral variant by a factor of 1.74^{14/6.5}=3.3 every two weeks. Another group came to similar conclusions, generating a replicative advantage, independent of &quot;protective measures&quot;, of 2.24 per generation of 6.73 days, out-competing the ancestral variant by 2.24^{14/6.73}=5.4 every two weeks. Similarly, in Ireland, the variant—as indicated by the missing S gene detection (S-gene target failure [SGTF]), which historically was rare—went from 16.3% to 46.3% of cases in two weeks. This demonstrates, based on the statistics of 116 positive samples, that the variant had a relative higher growth by a factor of  when compared to the average growth for all other variants by the end of this two week period. The variant became the dominant variant in London, East of England and the South East from low levels in one to two months. A surge of SARS-CoV-2 infections around the start of the new year was the result of the elevated transmissibility of the variant, while the other variants were in decline.
+
+One of the most important changes in lineage B.1.1.7 seems to be N501Y, a change from asparagine (N) to tyrosine (Y) in amino-acid position 501. This is because of its position inside the spike protein's receptor-binding domain (RBD)—more specifically inside the receptor-binding motif (RBM), a part of the RBD —which binds human ACE2. Mutations in the RBD can change antibody recognition and ACE2 binding specificity and lead to the virus becoming more infectious;.  Chand et al. concluded that &quot;[i]t is highly likely that N501Y affects the receptor-binding affinity of the spike protein, and it is possible that this mutation alone or in combination with the deletion at 69/70 in the N-terminal domain (NTD) is enhancing the transmissibility of the virus&quot;. In early 2021 a peer-reviewed paper found that the mentioned HV 69–70 deletion in vitro &quot;appeared to have two-fold higher infectivity over a single round of infection compared to &quot; in lentiviral SARS-CoV-2 pseudoviruses.
+
+Using In Silico approach, Shahhosseini et al. demonstrated that the Y501 mutation in lineage B.1.1.7 forms a shorter H-bond (length of 2.94 Å) than its counterpart in the wild type (WT) variant residue N501, indicating that in lineage B.1.1.7 the RBD and hACE2 have a stable interaction. Furthermore, the Y501 mutation in lineage B.1.1.7 contributes more negatively to Binding Free Energy (BFE) (-7.18 kcal/mol) than its counterpart in the WT variant residue N501 (-2.92 kcal/mol). As a result of combining BFE and molecular interaction results, the N501Y mutation in RBD strengthens binding affinity of SARS-CoV-2 RBD to hACE2.
+
+In a detailed affinity and kinetic analysis of the interaction between the Spike RBD and ACE2, the N501Y mutation was found to significantly enhance the binding affinity between the RBD and ACE2 by approximately 10-fold, resulting from a 1.8-fold increase in the association rate constant (kon) and a 7-fold decrease in the dissociation rate constant (koff).
+
+Virulence
+Matched cohort studies of the Alpha variant (lineage B.1.1.7) found higher mortality rate than earlier circulating variants overall, but not in hospitalised patients. An ecological study found no difference in mortality overall.
+
+Initially, NERVTAG said on 18 December 2020 that there were insufficient data to reach a conclusion regarding disease severity. At prime minister Boris Johnson's briefing the following day, officials said that there was &quot;no evidence&quot; as of that date that the variant caused higher mortality or was affected differently by vaccines and treatments; Vivek Murthy agreed with this. Susan Hopkins, the joint medical adviser for the NHS Test and Trace and Public Health England (PHE), declared in mid-December 2020: &quot;There is currently no evidence that this strain causes more severe illness, although it is being detected in a wide geography, especially where there are increased cases being detected.&quot; Around a month later, however—on 22 January 2021—Johnson said that &quot;there is some evidence that the new variant [VOC-202012/01]... may be associated with a higher degree of mortality&quot;, though Sir Patrick Vallance, the government's Chief Scientific Advisor, stressed that there is not yet enough evidence to be fully certain of this.
+
+In a paper analysing twelve different studies on lineage B.1.1.7 death rate relative to other lineages, it was found to have a higher death rate (71% according to LSHTM, 70% according to University of Exeter, 65% according to Public Health England, and 36% according to Imperial College London), and NERVTAG concluded: &quot;Based on these analyses, it is likely that infection with VOC B.1.1.7 is associated with an increased risk of hospitalisation and death compared to
+infection with non-VOC viruses&quot;. Results of the death studies were associated with some high uncertainty and confidence intervals, because of a limited sample size related to the fact that UK only analysed the VOC status for 8% of all COVID-19 deaths.
+
+A UK case-control study for 54,906 participants, testing positive for SARS-CoV-2 between 1 October 2020 and 29 January 2021 in the community setting (not including vulnerable persons from care centres and other public institutions), reported that patients infected with the Alpha variant (VOC 202012/1) had a hazard ratio for death within 28 days of testing of 1.64 (95% confidence interval 1.32-2.04), as compared with matched patients positive for other variants of SARS-CoV-2. Also in the UK, a survival analysis of 1,146,534 participants testing positive for SARS-CoV-2 between 1 November 2020 and 14 February 2021, including individuals in the community and in care and nursing homes, found a hazard ratio of 1.61 (95% confidence interval 1.42–1.82) for death within 28 days of testing among individuals infected with lineage B.1.1.7; no significant differences in the increased hazard of death associated with lineage B.1.1.7 were found among individuals differing in age, sex, ethnicity, deprivation level, or place of residence. Both studies adjusted for varying COVID-19 mortality by geographical region and over time, correcting for potential biases due to differences in testing rates or differences in the availability of hospital services over time and space.
+
+A Danish study found people infected by lineage B.1.1.7 to be 64% (32%–104%) more likely to get admitted to hospitals compared with people infected by another lineage.
+
+Genetic sequencing of VOC-202012/01 has shown a Q27stop mutation which &quot;truncates the ORF8 protein or renders it inactive&quot;. An earlier study of SARS-CoV-2 variants which deleted the ORF8 gene noted that they &quot;have been associated to milder symptoms and better disease outcome&quot;. The study also noted that &quot;SARS-CoV-2 ORF8 is an immunoglobulin (Ig)–like protein that modulates pathogenesis&quot;, that &quot;SARS-CoV-2 ORF8 mediates major histocompatibility complex I (MHC-I) degradation&quot;, and that &quot;SARS-CoV-2 ORF8 suppresses type I interferon (IFN)–mediated antiviral response&quot;.
+
+Referring to amino-acid position 501 inside the spike protein, Chand et al. concluded that &quot;it is possible that variants at this position affect the efficacy of neutralisation of virus&quot;, but noted that &quot;[t]here is currently no neutralisation data on N501Y available from polyclonal sera from natural infection&quot;. The HV 69–70 deletion has, however, been discovered &quot;in viruses that eluded the immune response in some immunocompromised patients&quot;, and has also been found &quot;in association with other  changes&quot;.
+
+Epidemiology
+thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in Denmark, the Netherlands, the United Kingdom, Portugal, Switzerland, and Ireland.refn|Data sources:
+* Denmark:
+* The Netherlands:
+* Portugal:
+* Switzerland:
+* The United Kingdom:
+* Ireland:
+ The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 7.6% per day for Denmark).
+
+thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in the United Kingdom, countries in the UK, and regions of England.refn|Data sources:
+* UK national (2021-01-21):
+* South-East England (2020-12-31):
+* UK countries (2021-01-29):
+* England regions (2021-01-15):
+ The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 8.6% per day for the UK).
+
+Cases of the Alpha variant (lineage B.1.1.7) were estimated to be under-reported by most countries as the most commonly used tests do not distinguish between this variant and other SARS-CoV-2 variants, and as many SARS-CoV-2 infections are not detected at all. RNA sequencing is required for detection of this variant, although RT-PCR test for specific variants through what has been named &quot;spike-gene target failure&quot; (SGTF) or &quot;spike-gene drop out&quot; for the spike (S) gene in a subset of RT-PCR assays (e.g., TaqPath COVID-19 RT-PCR assay, ThermoFisher). Though existing in a few other variants of SARS-CoV-2, the HV 69–70 deletion in the spike protein is present in the vast majority of B.1.1.7 genomes, which enables the delta-PCR test to be used as a proxy test for the lineage—or as a supplementing first-screening test before conducting the whole-genome sequencing.
+Another example of a RT-PCR test intended to detect specific variants is the one detecting all genomes with the N501Y mutation (e.g., Alpha, Gamma variant, and Beta variant), which is now also being used as a first-step screening tool ahead of genome sequencing by several laboratories/countries (e.g. by some parts of France).
+A third and fourth RT-PCR test intended for detecting specific variants pre-screen the samples for variants respectively with the N501Y+A570D mutations (Alpha) and N501Y without the A570D mutation (Beta, Gamma, and other N501Y variants).|name=|group= can be used as a proxy test for Alpha  — or as a supplementing first-screening test before conducting the whole-genome sequencing.
+
+As of 23 March, the Alpha variant had been detected in 125 out of 241 sovereign states and dependencies (or 104 out of 194 WHO member countries),efn|name=WHOstatus|104 WHO members had reported a detection of the Alpha variant (lineage B.1.1.7), as of 23 March 2021: Albania, Angola, Argentina, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Cabo Verde, Cambodia, Canada, Chile, China, Costa Rica, Croatia, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Dominican Republic, Ecuador, Estonia, Finland, France, Gambia, Georgia, Germany, Ghana, Greece, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kenya, Kuwait, Latvia, Lebanon, Libya, Lithuania, Luxembourg,  Malaysia, Malta, Mauritania, Mauritius, Mexico, Monaco, Montenegro, Morocco, Nepal, Netherlands, New Zealand, Nigeria, North Macedonia, Norway, Oman, Pakistan, Peru, Philippines, Poland, Portugal, Republic of Korea (South Korea), Republic of Moldova, Romania, Russia, Rwanda, Saint Lucia, Saudi Arabia, Senegal, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Trinidad and Tobago, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Vietnam.
+90 WHO members had not reported any detection of the Alpha variant (lineage B.1.1.7), as of 23 March 2021: Afghanistan, Algeria, Andorra, Antigua and Barbuda, Armenia, Bahamas, Benin, Bhutan, Bolivia, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Colombia, Comoros, Congo, Cook Islands, Côte d'Ivoire, Cuba, Democratic People's Republic of Korea (North Korea), Djibouti, Dominica, Egypt, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, Grenada, Guatemala, Guinea-Bissau, Guyana, Haiti, Honduras, Guinea, Kazakhstan, Kiribati, Kyrgyzstan, Lao People's Democratic Republic, Lesotho, Liberia, Madagascar, Malawi, Maldives, Mali, Marshall Islands, Micronesia, Mongolia, Mozambique, Myanmar, Namibia, Nauru, Nicaragua, Niger, Niue, Palau, Panama, Papua New Guinea, Paraguay, Qatar, Saint Kitts and Nevis, Saint Vincent and the Grenadines, Samoa, San Marino, Sao Tome and Principe, Seychelles, Sierra Leone, Solomon Islands, Somalia, South Sudan, Sudan, Suriname, Swaziland, Syrian Arab Republic, Tajikistan, Timor-Leste, Togo, Tonga, Turkmenistan, Tuvalu, Uganda, United Republic of Tanzania, Vanuatu, Venezuela, Yemen, Zambia, Zimbabwe. of which some had reported existence of community transmission while others so far only found travel related cases. As of 16 March, it had become the dominant COVID-19 variant for 21 countries: United Kingdom (week 52), Ireland (week 2), Bulgaria (week 4), Slovakia (week 5), Israel (week 5), Luxembourg (week 5), Portugal (week 6), Denmark (week 7), Netherlands (week 7), Norway (week 7), Italy (week 7), Belgium (week 7), France (week 8), Austria (week 8), Switzerland (week 8), Liechtenstein (week 9), Germany (week 9), Sweden (week 9), Spain (week 9), Malta (week 10) and Poland (week 11). The emergence and the fast spreading of the new variant has been detected in Lebanon and a relationship noted between SARS-CoV-2 transmission intensity and the frequency of the new variant during the first twelve days of January. By February, Alpha became the dominant variant in Lebanon.
+
+Spread in UK
+The first case was likely in mid-September 2020 in London or Kent, United Kingdom. The variant was sequenced in September. As of 13 December 2020, 1,108 cases with this variant had been identified in the UK in nearly 60 different local authorities. These cases were predominantly in the south east of England. The variant has also been identified in Wales and Scotland. By November, around a quarter of cases in the COVID-19 pandemic in London were being caused by the new variant, and by December, that was a third. In mid-December, it was estimated that almost 60 percent of cases in London involved Alpha. By 25 January 2021, the number of confirmed and probable UK cases had grown to 28,122.
+
+Spread in Europe
+
+The variant became dominant for:
+* South East England in week 48, the last week of November 2020.
+* England in week 51 of 2020.
+* United Kingdom in week 52 of 2020.
+* Scotland and Northern Ireland in week 1 of 2021.
+* Wales in week 2 of 2021.
+* Ireland in week 2 of 2021.
+In Bulgaria, genome sequencing found the variant to be dominant with 52.1% in week 4, followed by 73.4% in week 9.
+thumb|400px|Distribution of the SARS-CoV-2 virus variants after entering Germany
+Also in Slovakia, a RT-PCR Multiplex DX test capable of detecting the 2 deletions specific for lineage B.1.1.7 (ΔH69/ΔV70 and ΔY144), first found the variant nationwide in 74% of cases on 3 February (week 5), followed by 72% of cases on 15 February (week 7), and it then grew to 90% of cases on 3 March (week 9). The same test found earlier on 8 January prevalence of the variant at a rate of 36% in the Michalovce District and 29% in Nitra.
+
+In Israel, the variant was first time detected by genome sequencing 23 December 2020. Leumit Health Care Services however analysed with the proxy test RT-PCR (SGTF) and found the variant at a rate of 3‑4% on 15 December. The national Ministry of Health estimated based on genome sequencing, that the prevalence of the variant became dominant (70%) on 6 February followed by 90% on 16 February.
+
+In Luxembourg, a weekly genome sequencing revealed that the variant grew from 0.3% (week 51) to be dominant with a share of 53.0% in week 5, although results might not be fully representative due to the fact that no correction occurred from potential targeting bias from contact tracing, airport travellers and local outbreaks. Genome sequencing of a population representative randomized test pool - with no target bias - was conducted since week 6, and it confirmed the dominant status of the variant at a rate of 54.1% (week 6) growing to 62.8% (week 9), while the competing Beta variant (lineage B.1.351) was found to be at 18.5% in week 9.
+
+In Denmark the variant grew from 0.3% (week 46 of 2020) to become dominant with 65.9% (week 7 of 2021), and it grew further to 92.7% (week 10); with the regional prevalence ranging from 87.3% in the North Jutland Region to 96.1% in the Central Denmark Region. The observed growth of the relative variant share, was in full accordance with the earlier modelled forecast, that had predicted dominance (over 50%) around mid-February and a prevalence of around 80% of the total circulating variants by early March. In comparison, the genome sequencing only found the competing Beta variant in 0.4% of the positive cases (9 times out of 2315 tests) in week 10.
+
+In the Netherlands, a randomly conducted genome sequencing found that the variant grew from 1.3% of cases in week 49 to a dominant share of 61.3% in week 7, followed by 82.0% in week 9; while the competing Beta variant in comparison was found to be at 3.0% in week 9. In Amsterdam, the Alpha variant (lineage B.1.1.7) grew from 5.2% (week 52) to 54.5% (week 6).
+
+In Norway, the variant was found by genome sequencing to grow from 5.7% (week 1) into dominance by a 58.4% (week 7), followed by 65.0% (week 8). Another large survey comprising results of both genome sequencing and PCR proxy tests, with a sample seize of more than 1000 tests per week (since week 4), at the same time found that the variant grew from 2.0% (week 48) into dominance by 60.0% (week 7), followed by 72.7% in week 10 - while only 2.2% of cases in comparison were found to be of the Beta variant. The variant regionally had its highest share in the county of Oslo and Viken,  growing from 18% to 90% of analysed samples in Oslo from 20 January to 23 February (although with the data-corrected estimate a bit lower at 50-70% on 23 February); while growing from 21% to 80% of analysed samples in Viken from 25 January to 23 February (although with the data-corrected estimate a bit lower at 50% on 23 February). For the period 15 February to 14 March, the combined survey of genome sequencing and PCR proxy tests, also found the Alpha variant was at a dominant rate over 50% for 8 out of 11 regions, with its highest rate (82%) found for Oslo; while the region Nordland was different from all other regions by having only 6% cases of Alpha along with a dominant 88% of cases represented by the Beta variant.
+
+In Portugal, the variant represented according to a national genome sequencing survey: 16.0% of the Covid-19 infections during 10–19 January (week 2), followed by a dominant 58.2% in week 6. A national RT-PCR proxy test based on SGTF and SGTL observations, found the variant at a rate of 33.5% in week 4, but observed afterwards a decelerating pace for the weekly rise of the variant share (reason unknown), and according to this study it only became dominant by 50.5%  in week 8, followed by 64.3%  in week 10.
+
+In Italy, the Alpha variant accounted for 17.8% of cases nationwide on 4–5 February (week 5), followed by 54.0% on 18 February (week 7). The regional prevalence for week 7 ranged from 0% in Aosta Valley (although only one sample was tested) to 93.3% in Molise. In week 7, the competing Gamma variant had a prevalence of 4.3% (ranging between 0%-36.2% regionally) and the South African variant a prevalence of 0.4% (ranging between 0%-2.9% regionally).
+
+In Switzerland, a nationwide weekly genome sequencing survey found that the Alpha variant grew from 0.05% (week 51) to a dominant 58.2% of cases in week 8, followed by 71.1% in week 9. This was in full accordance with a model from 9 February that had forecast dominance around mid-February. In comparison, the competing Beta variant was only found nationwide in 1.0% of the positive cases in week 9.
+
+In Belgium, genome sequencing of samples selected randomly after excluding all samples from active targeted testing related to local outbreaks or travels (creating a statistical representative national sample with a seize equal to 4.4% of all COVID-19 positive tests), found that the Alpha variant share grew from 7.1% in week 1 to a dominant 51.5% in week 7, followed by 79.3% in week 10. The variant was first time detected by targeted genome sequencing in week 49, but due to a small sample seize (not being random, and less than 100 tests per week) then no reliable variant share data could be determined before week 1. The proxy test for the variant (RT-PCR SGTF) was also conducted for a sample seize equal to 25.8% of all COVID-19 positive tests, and found a dominant 54.8% SGTF rate for week 10. In comparison, the competing Beta variant was found to be at 3.6% and the Gamma variant had a prevalence of 1.8% in week 10.
+
+In France, scientists accurately forecast the Alpha variant (VOC-202012/01) would likely become dominant nationwide around week 8–11 of 2021. A nationwide survey of randomly selected positive COVID-19 samples first analysed by a RT-PCR screening test and subsequently confirmed by genome sequencing, revealed that the variant grew from a share of 3.3% (388/11916) on 7–8 January (week 1) to 13.3% (475/3561) on 27 January (week 4), followed by 44.3% (273/615) on 16 February (week 7). In week 8, the variant was found to have a dominant share of 56.4% (758/1345) according to the interpretable results of a weekly genome sequencing survey comprising 0.9% of all COVID-19 positive tests, or 59.5% according to a variant-specific RT-PCR survey testing 54% of all the COVID-19 positive tests. In week 10, the variant was found to have a share of 71.9% according to a variant-specific RT-PCR survey testing 56.9% of all the COVID-19 positive tests. The spread of the variant differed regionally for the 96 departments located in Metropolitan France for week 10, with 91 departments over 50% and 5 departments with 30%-50% (of which the Moselle department in particular was notable due to finding a high 38.3% rate of the competing Beta variant, that - despite having declined from a dominant 54.4% value in week 8 - still was significantly above the 5.0% national average for this specific variant).
+
+In Austria, Agentur für Gesundheit und Ernährungssicherheit (AGES) collected data from N501Y RT-PCR specific tests combined with subsequent genome sequencing analysis, and found that the variant grew from 7.2% (week 1) to a dominant 61.3% (week 8), followed by 61.2% in week 9 and 48.3% in week 10. If all N501Y positive tests had been analysed further by genome sequencing, then these listed shares could have been even higher, for example they could have been as mcuh as: 2.4% higher for week 1, 23.0% higher for week 7, 4.0% higher for week 8, 6.8% higher for week 9 and 25.4% higher for week 10. The competing Beta variant was only found nationwide in 0.3% of the positive cases in week 10, and for the region Tyrol - where it had been most prevalent - its share declined from 24.5% in week 4 to just 1.9% in week 10. Regionally Alpha was found to be dominant with over 50% for 7 out of 9 regions, with the only two exceptions being Tyrol and Vorarlberg.
+
+In Germany, the largest and probably most representative national survey published by the Robert Koch Institute (entitled RKI-Testzahlerfassung), determined the share of circulating COVID-19 variants for the latest week by analysing 53,272 COVID-19 positive samples either by genome sequencing or RT-PCR proxy tests, with data collected on a voluntary basis from 84 laboratories from the university / research / clinical / outpatient sector - spread evenly across the nation. The survey did not utilize data weights or data selection criteria to ensure existence of geographical representativity, but might still be regarded as somewhat representative for the national average due to its big sample seize. According to the RKI-Testzahlerfassung survey, the variant grew from a share of 2.0% (week 2) to a dominant share of 54.5% (week 9), followed by 63.5% in week 10. In comparison, the competing Beta variant was only found nationwide in 0.9% of the positive cases in week 10.
+
+In Malta, the variant was first time detected by genome sequencing on 30 December 2020, and represented 8% of the positive cases in week 7. A new RT-PCR variant specific test was introduced for the surveillance, where the first results reported on 10 March revealed the variant now represented 61% of cases nationwide.
+
+In Sweden, the national authorities initially expected the variant would become dominant around week 12–14 under the assumption of 50% increased transmissibility compared to the original virus. In average, the variant share was found growing from 10.8% (week 4) to 36.9% (week 7) across five of its southern regions (Skåne, Västra Götaland, Västmanland, Gävleborg and Örebro). For week 7, the share of the variant was for the first time also calculated to 30.4% as the overall average for 19 out of 21 Swedish regions (ranging from 3.3% in Blekinge to 45% in Gävleborg). For week 9, the share of the variant was calculated to a dominant 56.4% as the overall average for the 19 regions (ranging from 16% in Kronoberg to 72% in Gävleborg). For week 10, the share of the variant was calculated to have increased further to 71.3% as the overall average for the 19 regions (ranging from 40% in Kronoberg to 84% in Jönköping). Although no geographical weights were applied to ensure geographical representativity for the calculated average for the 19 regions, the overall sample seize of 12,417 variant tests represented 43.1% of all COVID-19 positive PCR-tests for week 10, inferring that the result of the survey might be close to represent the actual true average for the nation as a whole.
+
+In the microstate Liechtenstein, the first case of Alpha was detected on 19 December 2020. During the entire pandemic, 67 VOC-N501Y PCR-positive cases were detected comprising 58 cases of Alpha, 1 of Beta (detected 1 February) and 8 un-identified N501Y cases (from 10 Dec. to 22 Feb.), as of 18 March 2021. The weekly average of each days calculated 7-day rolling average for the share of all detected VOC-N501Y cases (which is a good proxy for Alpha in Liechtenstein), was found to be 10.9% in week 5, followed by a dominant 52.2% in week 9 (where 8 out of 15 tests were found to be Alpha); and grew further to 73.4% in week 10 (where 6 out of 9 tests were found to be Alpha).
+
+In Spain, the variant share was estimated nationwide to be 5%-10% of cases on 29 January, followed by 20%-25% of cases on 18 February and 25%-30% of cases on 22 February, and estimated to be dominant with over 50% as of 3 March (week 9). As of week 10, the prevalence of the variant ranged from 18.3% to 97.0% for the 17 regions, with all but two regions having a dominant rate above 50%:
+* No data reported by Extremadura.
+* 18.3% for week 10 in Aragon.
+* 27.0% for week 7 in Canary Islands.
+* 51.3% for week 8 in Castile and León.
+* 52.2% for week 10 in Valencia.
+* 52.8% for week 10 in Castilla–La Mancha.
+* 53.3% for week 4 in Galicia.
+* 59.5% for week 9 in La Rioja.
+* 59.7% for week 10 in Madrid.
+* 61.6% for week 11 in Andalusia.
+* 76.1% for week 10 in Balearic Islands.
+* 76.7% for week 10 in Murcia.
+* 77.4% for week 10 in Basque Country.
+* 77.8% for week 10 in Navarre.
+* 83.1% for week 10 in Cantabria.
+* 84.6% for week 9 in Catalonia.
+* 97.0% for week 10 in Asturias.
+
+In Poland, a national survey among infected teachers led to experts estimating that the variant share was between 5% and 10% nationwide as of 11 February, while ECDC reported it to be 9% as of 15 February. According to Health minister Adam Niedzielski, the variant was found at a rate of 5% in the first studies from the second half of January, and then it increased by ten percentage points every ten days, until it became dominant nationwide by a 52% rate on 16 March (week 11). Regionally, the variant had already exceeded 70% for Warmian-Masurian and Pomeranian on 22–23 February (week 8), and even reached 90% for the Greater Poland Voivodeship on 17 March (week 11).
+
+In Finland, no statistical representative national survey had been conducted as of February 2021, as the national genome sequencing mainly targeted further analysis of COVID-19 positive samples from travellers and local outbreak clusters. Helsinky University Hospital (HUS), operating in the Helsinki and Uusimaa Hospital District, found the variant in 10% of all samples collected randomly during a few days ahead of 14 February in the capitol region (also known as the Helsinky constituency and Uusimaa constituency). For the capitol region, the variant was modelled to become dominant (over 50%) in the second half of March (week 11-13).
+
+In Iceland, the national authorities implemented a strict 3 test and quarantine regime for all persons entering the country from abroad, that so far successfully managed to prevent new infectious VOCs from gaining a foothold in the country. As of 4 March, a total of 90 travellers had tested positive for the Alpha variant at Iceland's borders and the 20 additional domestic cases were all closely connected to the border cases, with no cases related to community transmission.
+
+Spread in North America
+In the United States, the variant first appeared late November 2020, grew from 1.2% in late January and became predominant around the end of March. The spread of the variant was primarily concentrated in the upper Midwest of the country, especially the states of Michigan and Minnesota, but it failed to spread in high concentrations to other parts of the country.
+
+In Canada, the variant first appeared in Ontario late December 2020. By 13 February, it had spread to all ten provinces. Testing and confirmation of the Alpha variant (lineage B.1.1.7) in COVID-19-positive samples has been inconsistent across the country. On 3 February, the province of Alberta was the first to screen all COVID-19 positive samples for variants of concern. As of 23 March, the Alpha variant had been detected in 5812 cases, and was most prevalent in the province of Alberta. In Ontario, a combined RT-PCR (N501Y) and genome sequencing study found that all VOCs represented 4.4% of all COVID-19 positives on 20 January (week 3), and that Alpha comprised 99% of all those VOCs. Public Health Ontario laboratories found the variant in close to 7% of all COVID-19 positives in week 5, representing 97% (309/319) of all detected VOCs. Alpha became the dominant variant on or around 16 March; 53% of all positive cases were VOCs, and it was presumed 97% of VOCs were Alpha. In Quebec, where the variant was also widespread, it was expected to become dominant by late March or in April.
+
+Development
+
+
+
+The following additional countries did not report variant shares, but are likely to have a significant share present due to their finding of more than 50 cases confirmed by whole genome sequencing per 13 March 2021:
+* Turkey (486 cases)
+* Finland (268 cases)
+* Australia (140 cases)
+* Chile (124 cases)
+* Croatia (121 cases)
+* Nigeria (113 cases)
+* South Korea (90 cases)
+* Slovenia (87 cases)
+* Latvia (83 cases)
+* India (81 cases)
+* Romania (76 cases)
+* Ghana (67 cases)
+* Singapore (66 cases)
+* New Zealand (63 cases)
+* North Macedonia (53 cases)
+* Brazil (53 cases)
+* Taiwan (32 cases)
+
+The GISAID database of all sequenced COVID-19 genomes, calculates for each country for the past four weeks an average &quot;Relative Variant Genome Frequency&quot; for submitted samples. Those observed frequencies are however subject to sampling and reporting biases, and do not represent exact variant share prevalence due to absence of statistical representativity.
+
+Countries reporting a first case
+December 2020
+Cases of the variant began to be reported globally during December, being reported in Denmark, Belgium, the Netherlands, Australia and Italy. Shortly after, several other countries confirmed their first cases, the first of whom were found in Iceland and Gibraltar, then Singapore, Israel and Northern Ireland on 23 December, Germany and Switzerland on 24 December, and the Republic of Ireland and Japan confirmed on 25 December.
+
+The first cases in Canada, France, Lebanon, Spain and Sweden were reported on 26 December. Jordan, Norway, and Portugal reported their first case on 27 December, Finland and South Korea reported their first cases on 28 December, and Chile, India, Pakistan and the United Arab Emirates reported their first cases on 29 December. The first case of new variant in Malta and Taiwan are reported on 30 December. China and Brazil reported their first cases of the new variant on 31 December. The United Kingdom and Denmark are sequencing their SARS-CoV-2 cases at considerably higher rates than most others, and it was considered likely that additional countries would detect the variant later.
+
+The United States reported a case in Colorado with no travel history on 29 December, the sample was taken on 24 December. On 6 January 2021, the US Centers for Disease Control and Prevention announced that it had found at least 52 confirmed cases in California, Florida, Colorado, Georgia, and New York. In the following days, more cases of the variant were reported in other states, leading former CDC director Tom Frieden to express his concerns that the U.S. will soon face &quot;close to a worst-case scenario&quot;.
+
+January 2021
+Turkey detected its first cases in 15 people from England on 1 January 2021. It was reported on 1 January that Denmark had found a total of 86 cases of the variant, equalling an overall frequency of less than 1% of the sequenced cases in the period from its first detection in the country in mid-November to the end of December; this had increased to 1.6% of sequenced tests in the period from mid-November to week two of 2021, with 7% of sequenced tests in this week alone being of Alpha variant (lineage B.1.1.7). Luxembourg and Vietnam reported their first case of this variant on 2 January 2021.
+
+On 3 January 2021, Greece and Jamaica detected their first four cases of this variant and Cyprus announced that it had detected Alpha (VOC 202012/01) in 12 samples.  At the same time, New Zealand and Thailand reported their first cases of this variant, where the former reported six cases made up of five from the United Kingdom and one from South Africa, and the latter reported the cases from a family of four who had arrived from Kent. Georgia reported its first case and Austria reported their first four cases of this variant, along with one case of Beta variant, on 4 January.
+
+On 5 January, Iran, Oman, and Slovakia reported their first cases of VOC-202012/01. On 8 January, Romania reported its first case of the variant, an adult woman from Giurgiu County who declared not having left the country recently. On 9 January, Peru confirmed its first case of the variant. Mexico and Russia reported their first case of this variant on 10 January, then Malaysia and Latvia on 11 January.
+
+On 12 January, Ecuador confirmed its first case of this variant. The Philippines and Hungary both detected the presence of the variant on 13 January. The Gambia recorded first cases of the variant on 14 January with it being the first confirmation of the variant's presence in Africa. On 15 January, the Dominican Republic confirmed its first case of the new variant and Argentina confirmed its first case of the variant on 16 January. Czech Republic and Morocco reported their first cases on 18 January while Ghana and Kuwait confirmed their first cases on 19 January. Nigeria confirmed its first case on 25 January. On 28 January, Senegal detected its first case of the variant.
+
+In early January, an outbreak linked to a primary school led to the detection of at least 30 cases of the new variant in the Bergschenhoek area of the Netherlands, signifying local transmission.
+
+On 24 January, a person travelling from Africa to Faroe Islands tested positive upon arrival to the islands, and went directly into quarantine.
+
+On 28 January, North Macedonia confirmed the variant was detected in a 46-year-old man, who had already recovered.
+
+February 2021
+On 1 February, Lithuania confirmed the first cases of the new lineage. On 4 February, health authorities in Uruguay announced the first case of the variant in the country. The case was detected in a person who entered the country on 20 December 2020 and has been in quarantine ever since. On 10 February, the Health Ministry of Croatia confirmed that out of 61 sequenced samples since 20 January, the variant was detected in 3 samples: a male 50 year old and 3.5 year old from Zagreb, and a male 34-year-old from Brod-Posavina County. On 12 February, the variant was detected from four areas in Sri Lanka, and the Canadian province of Newfoundland and Labrador confirmed an outbreak of the variant.
+
+March 2021
+On 2 March, Indonesia reports its first cases of the variant in two migrant workers returning from Saudi Arabia. On the same day, Tunisia reported their first cases of the variant. The presence of the variant in Ivory Coast was confirmed on 25 March.
+
+N501Y mutation elsewhere
+
+The N501Y mutation arose independently multiple times in different locations:
+* In April 2020, it was seen for the first time in a few isolated sequences in Brazil.
+* In June 2020, the mutation appeared in an Australian lineage.
+* In July 2020, (according to Dr Julian Tang, University of Leicester) N501Y appeared in a lineage circulating in United States.
+* In September 2020, it was found in a lineage in Wales, that evolved independently and was different from lineage B.1.1.7.
+* In September 2020, the much more transmissible and widespread lineage B.1.1.7 (501Y.V1) was detected for the first time in Kent (England).
+* In October 2020, another highly transmissible variant of concern termed lineage B.1.351 (501Y.V2, Beta variant) was first time detected by genome sequencing in Nelson Mendela Bay (South Africa). Phylogeographic analysis suggests this lineage emerged already in July or August 2020.
+* In December 2020, another highly transmissible variant termed lineage P.1 (501Y.V3, Gamma variant) was detected in Manaus (Brazil).
+
+ Statistics 
+
+ Table 
+
+
+ Graphics 
+ Confirmed cases by countries 
+* Note: The graphs presented here are only viewable by computers and some phones. If you cannot view it on your cell phone, switch to desktop mode from your browser.
+* Data provided by various sources, such as; governmental, press or officials are updated every week since their last publication.
+Switcher
+|Graph
+|width = 700
+|height = 250
+|linewidth= 2
+|type = line
+|xType = date
+|yType = number
+|yAxisMin =
+|showValues =
+|xAxisTitle = Date
+|xAxisAngle = -60
+|xAxisFormat = %e-%-m-%Y
+|yAxisFormat = s
+|legend = Legend
+|x= 2020/09/20, 2020/09/21, 2020/09/22, 2020/09/23, 2020/09/24, 2020/09/25, 2020/09/26, 2020/09/27, 2020/09/28, 2020/09/29, 2020/09/30, 2020/10/01, 2020/10/02, 2020/10/03, 2020/10/04, 2020/10/05, 2020/10/06, 2020/10/07, 2020/10/08, 2020/10/09, 2020/10/10, 2020/10/11, 2020/10/12, 2020/10/13, 2020/10/14, 2020/10/15, 2020/10/16, 2020/10/17, 2020/10/18, 2020/10/19, 2020/10/20, 2020/10/21, 2020/10/22, 2020/10/23, 2020/10/24, 2020/10/25, 2020/10/26, 2020/10/27, 2020/10/28, 2020/10/29, 2020/10/30, 2020/10/31, 2020/11/01, 2020/11/02, 2020/11/03, 2020/11/04, 2020/11/05, 2020/11/06, 2020/11/07, 2020/11/08, 2020/11/09, 2020/11/10, 2020/11/11, 2020/11/12, 2020/11/13, 2020/11/14, 2020/11/15, 2020/11/16, 2020/11/17, 2020/11/18, 2020/11/19, 2020/11/20, 2020/11/21, 2020/11/22, 2020/11/23, 2020/11/24, 2020/11/25, 2020/11/26, 2020/11/27, 2020/11/28, 2020/11/29, 2020/11/30, 2020/12/01, 2020/12/02, 2020/12/03, 2020/12/04, 2020/12/05, 2020/12/06, 2020/12/07, 2020/12/08, 2020/12/09, 2020/12/10, 2020/12/11, 2020/12/12, 2020/12/13, 2020/12/14, 2020/12/15, 2020/12/16, 2020/12/17, 2020/12/18, 2020/12/19, 2020/12/20, 2020/12/21, 2020/12/22, 2020/12/23, 2020/12/24, 2020/12/25, 2020/12/26, 2020/12/27, 2020/12/28, 2020/12/29, 2020/12/30, 2020/12/31, 2021/01/01, 2021/01/02, 2021/01/03, 2021/01/04, 2021/01/05, 2021/01/06, 2021/01/07, 2021/01/08, 2021/01/09, 2021/01/10, 2021/01/11, 2021/01/12, 2021/01/13, 2021/01/14, 2021/01/15, 2021/01/16, 2021/01/17, 2021/01/18, 2021/01/19, 2021/01/20, 2021/01/21, 2021/01/22, 2021/01/23, 2021/01/24, 2021/01/25, 2021/01/26, 2021/01/27, 2021/01/28, 2021/01/29, 2021/01/30, 2021/01/31, 2021/02/01, 2021/02/02, 2021/02/03, 2021/02/04, 2021/02/05, 2021/02/06, 2021/02/07, 2021/02/08, 2021/02/09, 2021/02/10, 2021/02/11, 2021/02/12, 2021/02/13, 2021/02/14, 2021/02/15, 2021/02/16, 2021/02/17, 2021/02/18, 2021/02/19, 2021/02/20, 2021/02/21, 2021/02/22, 2021/02/23, 2021/02/24, 2021/02/25, 2021/02/26
+|yAxisTitle= Number of cases by country
+|y1Title=United Kingdom
+|y1=1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 9, 9, 9, 9, 12, 12, 12, 12, 12, 12, 26, 33, 36, 41, 42, 44, 44, 44, 62, 70, 74, 113, 161, 168, 172, 258, 284, 285, 389, 436, 453, 497, 645, 827, 0, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 827, 1108, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4249, 4249, 4249, 4499, 4518, 4562, 4562, 4566, 5040, 6944, 7101, 7711, 8786, 9504, 9939, 9939, 12942, 13018, 14521, 16782, 16847, 16847, 16847, 16982, 20832, 20832, 23250, 24295, 24295, 24364, 27010, 29566, 33153, 33941, 34758, 34756, 37021, 37036, 40302, 44101, ,46042, ,56616,57481, |yGrid = |xGrid =
+
+| &gt;100 000 cases
+|Graph
+|width = 700
+|height = 250
+|linewidth= 2
+|type = line
+|xType = date
+|yType = number
+|yAxisMin =
+|showValues =
+|xAxisTitle = Date
+|xAxisAngle = -60
+|xAxisFormat = %e-%-m-%Y
+|yAxisFormat = s
+|legend = Legend
+|x= 2020/12/23, 2020/12/24, 2020/12/25, 2020/12/26, 2020/12/27, 2020/12/28, 2020/12/29, 2020/12/30, 2020/12/31, 2021/01/01, 2021/01/02, 2021/01/03, 2021/01/04, 2021/01/05, 2021/01/06, 2021/01/07, 2021/01/08, 2021/01/09, 2021/01/10, 2021/01/11, 2021/01/12, 2021/01/13, 2021/01/14, 2021/01/15, 2021/01/16, 2021/01/17, 2021/01/18, 2021/01/19, 2021/01/20, 2021/01/21, 2021/01/22, 2021/01/23, 2021/01/24, 2021/01/25, 2021/01/26, 2021/01/27, 2021/01/28, 2021/01/29, 2021/01/30, 2021/01/31, 2021/02/01, 2021/02/02, 2021/02/03, 2021/02/04, 2021/02/05, 2021/02/06, 2021/02/07, 2021/02/08, 2021/02/09, 2021/02/10, 2021/02/11, 2021/02/12, 2021/02/13, 2021/02/14, 2021/02/15, 2021/02/16, 2021/02/17, 2021/02/18, 2021/02/19, 2021/02/20, 2021/02/21, 2021/02/22, 2021/02/23, 2021/02/24, 2021/02/25, 2021/02/26, 2021/02/27, 2021/02/28, 2021/03/01, 2021/03/02, 2021/03/03, 2021/03/04, 2021/03/05, 2021/03/06, 2021/03/07, 2021/03/08, 2021/03/09, 2021/03/10, 2021/03/11, 2021/03/12, 2021/03/13, 2021/03/14, 2021/03/15, 2021/03/16, 2021/03/17, 2021/03/18, 2021/03/19, 2021/03/20, 2021/03/21, 2021/03/22, 2021/03/23, 2021/03/24, 2021/03/25, 2021/03/26, 2021/03/27, 2021/03/28, 2021/03/29, 2021/03/30, 2021/03/31, 2021/04/01, 2021/04/02, 2021/04/03, 2021/04/04, 2021/04/05, 2021/04/06, 2021/04/07, 2021/04/08, 2021/04/09, 2021/04/10, 2021/04/11, 2021/04/12, 2021/04/13, 2021/04/14, 2021/04/15, 2021/04/16, 2021/04/17, 2021/04/18, 2021/04/19, 2021/04/20, 2021/04/21,
+|yAxisTitle= Number of cases by country
+|y1Title=Denmark
+|y1=33,33,33,33,33,46,46,46,46,86,86,86,86,86,86,86,86,134,134,134,134,208,208,256,256,283,330,330,383,383,464,464,561,632,632,632,772,840,975,1047, ,1116, 1404, 1525, ,1690, 1859,2037,2294,2294,2314,2510,2785,2905,3052,3244,, ,4327,4684,4772, ,5138
+|y2Title=Switzerland
+|y2=2, 2,3,3,3,5,5,5,5,5,5,5,28,34,34,83,83,83,83,86,86,120,147,147,147,208,243,281,336,336,336,336,474,521,521,654,663,663,663, 1021,1140,1301,1370, ,1621,1692,1848, 2111, ,2381, 2512,2603,, 2928,3122,3257,3426,3492,3825,3825,3992,4025,4070, ,4180
+|y3Title=United States
+|y3=0,0,0,0,0,0,1,2,6,8,8,8,9,30,52,56,63,71,72,73,81,90,90,103,107,110,139,143,149,151,199,206,207,305,309,335,337,439,440,469, 541, 611, ,690, 932, 981, ,1173, 1277, 1523, ,1661, 1881, 2102, ,2400, 2506, 2672, ,3037,, 4690,, ,4686, 5567, ,6390, 7501, 8337, ,10579, 11569, 12505,, 15511,16275, 19554, 20915
+|y4Title=Spain
+|y4=0,0,0,4,4,9,11,17,25,25,30,30,41,50,50,69,81,81,81,81,102,102,127,127,127,130,133,140,200,205,205,205,205,283,423,434,437,437,437,437,437,437,437,437,437,437,437,479, 550,
+|y5Title=Canada
+|y5= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 27, 27, 78, 78, 98, 104, 105, 136, 187, 184, 242, 260, 269, 279, 355, 366, 385, 429, 506, 544, 568, 583, 607, 640, 665, 731, 755, 769, 809, 827, 854, 964, 1007, 1068, 1181, 1326, 1394, 1437, 1602, 1835, 1902, 1904, 2216, 2479, 2640, 2728, 2867, 2956, 3031, 3335, 3777, 3946, 4169, 4411, 4566, 4807, 5116, 5812, 6083, 6633, 7152, 7410, 7748, 8381, 9461, 9999, 10857, 11414, 11434, 11508, 14016, 14793, 15511, 23611, 26419, 29472, 31567, 34404, 39663, 44466, 49372, 53985, 57103,
+|yGrid = |xGrid =
+
+| &gt;10 000 cases
+|Graph
+|width = 700
+|height = 250
+|linewidth= 2
+|type = line
+|xType = date
+|yType = number
+|yAxisMin =
+|showValues =
+|xAxisTitle = Date
+|xAxisAngle = -60
+|xAxisFormat = %e-%-m-%Y
+|yAxisFormat = s
+|legend = Legend
+|x= 2020/12/23, 2020/12/24, 2020/12/25, 2020/12/26, 2020/12/27, 2020/12/28, 2020/12/29, 2020/12/30, 2020/12/31, 2021/01/01, 2021/01/02, 2021/01/03, 2021/01/04, 2021/01/05, 2021/01/06, 2021/01/07, 2021/01/08, 2021/01/09, 2021/01/10, 2021/01/11, 2021/01/12, 2021/01/13, 2021/01/14, 2021/01/15, 2021/01/16, 2021/01/17, 2021/01/18, 2021/01/19, 2021/01/20, 2021/01/21, 2021/01/22, 2021/01/23, 2021/01/24, 2021/01/25, 2021/01/26, 2021/01/27, 2021/01/28, 2021/01/29, 2021/01/30, 2021/01/31, 2021/02/01, 2021/02/02, 2021/02/03, 2021/02/04, 2021/02/05, 2021/02/06, 2021/02/07, 2021/02/08, 2021/02/09, 2021/02/10, 2021/02/11, 2021/02/12, 2021/02/13, 2021/02/14, 2021/02/15, 2021/02/16, 2021/02/17, 2021/02/18, 2021/02/19, 2021/02/20, 2021/02/21, 2021/02/22, 2021/02/23, 2021/02/24, 2021/02/25, 2021/02/26, 2021/02/27, 2021/02/28, 2021/03/01, 2021/03/02, 2021/03/03, 2021/03/04, 2021/03/05, 2021/03/06, 2021/03/07, 2021/03/08, 2021/03/09, 2021/03/10, 2021/03/11, 2021/03/12, 2021/03/13, 2021/03/14, 2021/03/15, 2021/03/16, 2021/03/17, 2021/03/18, 2021/03/19, 2021/03/20, 2021/03/21, 2021/03/22, 2021/03/23, 2021/03/24, 2021/03/25, 2021/03/26, 2021/03/27, 2021/03/28, 2021/03/29, 2021/03/30, 2021/03/31, 2021/04/01, 2021/04/02, 2021/04/03, 2021/04/04, 2021/04/05, 2021/04/06, 2021/04/07, 2021/04/08, 2021/04/09, 2021/04/10, 2021/04/11, 2021/04/12,
+|yAxisTitle= Number of cases by country
+|y1Title=France
+|y1=0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,19,19,19,19,19,19,19,66,66,66,66,66,66,66,131,131,131,131,131,131,131,299,299,299,299
+|y2Title=India
+|y2=0,0,0,0,0,0,6,20,25,29,29,29,38,58,73,73,82,90,90,96,96,102,109,114,116,116,116,141,141,145,145,150,150,150,150,153,165,165,165,165
+|y3Title=Greece
+|y3=0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,26,26,26,26,32,32,59,59,66,66,66,173, 204, 205, 232, ,412,, ,495,495,495,495,764,,, ,990
+|y4Title=Japan
+|y4=0,0,5,7,8,14,14,14,20,20,20,20,20,20,23,23,25,25,28,28,28,28,28,32,32,32,36,38,38,39,41,41,41,42,43,43,46,49,54,54, 56, 58,58,69, ,79,90,93, 99, ,112,135, 147,156, ,161, 171,183,188,, 195,211,214,227,, ,318, 318,, ,443,,, ,581,,, ,727
+|yGrid = |xGrid =
+
+| &gt;1 000 cases
+|Graph
+|width = 700
+|height = 250
+|linewidth= 2
+|type = line
+|xType = date
+|yType = number
+|yAxisMin =
+|showValues =
+|xAxisTitle = Date
+|xAxisAngle = -60
+|xAxisFormat = %e-%-m-%Y
+|yAxisFormat = s
+|legend = Legend
+|x= 2020/12/23, 2020/12/24, 2020/12/25, 2020/12/26, 2020/12/27, 2020/12/28, 2020/12/29, 2020/12/30, 2020/12/31, 2021/01/01, 2021/01/02, 2021/01/03, 2021/01/04, 2021/01/05, 2021/01/06, 2021/01/07, 2021/01/08, 2021/01/09, 2021/01/10, 2021/01/11, 2021/01/12, 2021/01/13, 2021/01/14, 2021/01/15, 2021/01/16, 2021/01/17, 2021/01/18, 2021/01/19, 2021/01/20, 2021/01/21, 2021/01/22, 2021/01/23, 2021/01/24, 2021/01/25, 2021/01/26, 2021/01/27, 2021/01/28, 2021/01/29, 2021/01/30, 2021/01/31, 2021/02/01, 2021/02/02, 2021/02/03, 2021/02/04, 2021/02/05, 2021/02/06, 2021/02/07, 2021/02/08, 2021/02/09, 2021/02/10, 2021/02/11, 2021/02/12, 2021/02/13, 2021/02/14, 2021/02/15, 2021/02/16, 2021/02/17, 2021/02/18, 2021/02/19, 2021/02/20, 2021/02/21, 2021/02/22, 2021/02/23, 2021/02/24, 2021/02/25, 2021/02/26,
+|yAxisTitle= Number of cases by country
+|y1Title=Singapore
+|y1=1,1,1,1,4,4,4,4,4,4,4,6,6,6,6,7,7,7,7,7,13,13,13,15,15,15,15,18,18,18,18,21,21,21,29,29,29,34,34,34
+|y2Title=Luxembourg
+|y2=0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,3,3,3,3,3,3,6,6,6,6,6,6,6,12,12,12,12,12,12,12,36,36,36,36,36
+|y3Title=Romania
+|y3=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,4,5,8,8,18,18,18
+|y4Title=Bulgaria
+|y4=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,8,33,33,33
+|y5Title=Hungary
+|y5=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+|y6Title=Czech Republic
+|y6=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,10,10,10,10,10,10,10,13,13,13,13
+|y7Title=Poland
+|y7=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,2
+|y8Title=North Macedonia
+|y8=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+|y9Title=Slovenia
+|y9=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1
+|y10Title=Slovakia
+|y10=0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,10,10,10,10,10,10,10,10,22,22,22,22,22,22,22,22,22,22,33,33,33,33,37
+|y11Title=Malta
+|y11=0,0,0,0,0,0,0,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+|y12Title=Chile
+|y12=0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,2,3,3,3,4,15,18,20,20,20,20,20,20,20,20,20,20,20,20,20,20,28,28,28
+|yGrid = |xGrid =
+
+| &gt;100 cases
+
+
+History
+Detection
+
+The Alpha variant (lineage B.1.1.7) was first detected in early December 2020 by analysing genome data with knowledge that the rates of infection in Kent were not falling despite national restrictions.
+
+The two earliest genomes that belong to lineage B.1.1.7 were collected on 20 September 2020 in Kent and another on 21 September 2020 in Greater London. These sequences were submitted to the GISAID sequence database (sequence accessions EPI_ISL_601443 and EPI_ISL_581117, respectively).
+
+Backwards tracing using genetic evidence suggests lineage B.1.1.7 emerged in September 2020 and then circulated at very low levels in the population until mid-November. The increase in cases linked to the variant first became apparent in late November when Public Health England (PHE) was investigating why infection rates in Kent were not falling despite national restrictions. PHE then discovered a cluster linked to this variant spreading rapidly into London and Essex.
+
+Also important was the nature of the RT-PCR test used predominantly in the UK, Thermo Fisher Scientific's TaqPath COVID-19. The test matches RNA in three locations, and stopped working for the spike gene due to the HV 69–70 deletion—a deletion of the amino acids histidine and valine in positions 69 and 70, respectively —in the spike protein of lineage B.1.1.7. This made preliminary identification easier because it could be better suspected which cases were with lineage B.1.1.7 through genome sequencing.
+
+It has been suggested that the variant may have originated in a chronically infected immunocompromised person, giving the virus a long time to replicate and evolve.
+
+Control
+
+In the presence of a more transmissible variant, stronger physical distancing and lockdown measures were opted for to avoid overwhelming the population due to its tendency to grow exponentially.
+
+All countries of the United Kingdom were affected by domestic travel restrictions in reaction to the increased spread of the virus—at least partly attributed to Alpha—effective from 20 December 2020.  During December 2020, an increasing number of countries around the world either announced temporary bans on, or were considering banning, passenger travel from the UK, and in several cases from other countries such as the Netherlands and Denmark. Some countries banned flights; others allowed only their nationals to enter, subject to a negative SARS-CoV-2 test. A WHO spokesperson said that, &quot;[a]cross Europe, where transmission is intense and widespread, countries need to redouble their control and prevention approaches&quot;. Most bans by EU countries were for 48 hours, pending an integrated political crisis response meeting of EU representatives on 21 December to evaluate the threat from the new variant and coordinate a joint response.
+
+Many countries around the world imposed restrictions on passenger travel from the United Kingdom; neighbouring France also restricted manned goods vehicles (imposing a total ban before devising a testing protocol and permitting their passage once more). Some also applied restrictions on travel from other countries. , at least 42 countries had restricted flights from the UK, and Japan was restricting entry of all foreign nationals after cases of the new variant were detected in the country.
+
+The usefulness of travel bans has been contested as limited in cases where the variant has likely already arrived, especially if the estimated growth rate per week of the virus is higher locally.
+
+Extinction
+
+In October 2021, Dr Jenny Harries, chief executive of the UK Health and Security Agency stated that previous circulating variants such as Alpha had 'disappeared' and replaced by the Delta variant. In March 2022, the World Health Organization listed the Alpha, Beta and Gamma variants as previously circulating citing lack of any detected cases in the prior weeks and months.
+
+See also
+
+* Variants of SARS-CoV-2: Beta, Gamma, Delta, Epsilon, Zeta, Eta, Theta, Iota, Kappa, Lambda, Mu, Omicron
+
+Notes
+Notelist|refs=
+ and the ECDC.
+
+
+References
+Reflist|refs=
+
+
+
+
+External links
+
+
+
+* 
+* [https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data#variant-voc-20201201 Public Health England: Variants: UK distribution – summary of 4 nations distribution]
+* [https://cov-lineages.org/global_report_B.1.1.7.html PANGO lineages: New Variant Report - Report on global distribution of lineage B.1.1.7]
+* [https://www.gisaid.org/hcov19-variants/ GISAID sequencing data base - Tracking of COVID-19 variants]
+
+
+
+
+
+
+
+
+S001
+
+</segment>
+	</text>
+</file>

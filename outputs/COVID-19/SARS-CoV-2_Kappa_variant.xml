@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE file
+  SYSTEM 'wikixml.dtd'>
+<file type="Talk" date="2025-01-12T01:31:52Z" sourceCorpus="COVID-19" filename="67867635" title="SARS-CoV-2_Kappa_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Kappa_variant">
+	<text>
+		<segment id="id67867635">Kappa variant is a variant of SARS-CoV-2, the virus that causes COVID-19. It is one of the three sublineages of Pango lineage B.1.617. The SARS-CoV-2 Kappa variant is also known as lineage B.1.617.1 and was first detected in India in December 2020. By the end of March 2021, the Kappa sub-variant accounted for more than half of the sequences being submitted from India. On 1 April 2021, it was designated a Variant Under Investigation (VUI-21APR-01) by Public Health England.
+
+Mutations
+
+
+
+The Kappa variant has three notable alterations in the amino-acid sequences, all of which are in the virus's spike protein code.
+
+The three notable substitutions are: L452R, E484Q, P681R
+* L452R. The substitution at position 452, a leucine-to-arginine substitution. This exchange confers stronger affinity of the spike protein for the ACE2 receptor along with decreased recognition capability of the immune system.
+* E484Q. The substitution at position 484, a glutamic acid-to-glutamine substitution. This alteration confers the variant stronger binding potential to Angiotensin-converting enzyme 2, as well as better ability to evade hosts' immune systems.
+* P681R. The substitution at position 681, a proline-to-arginine substitution.
+
+The European Centre for Disease Prevention and Control (ECDC) also list a fourth spike mutation of interest:
+* D614G. This is a substitution at position 614, an aspartic acid-to-glycine substitution. Other variants which have the D614G mutation include the Beta and Delta variants, and the mutation is associated with increased infectivity.
+
+The two other mutations which can be found closer to either end of the spike region are T95I and Q1071H.
+
+History
+International detection
+The Kappa variant was first identified in India in December 2020.
+
+By 11 May 2021, the WHO Weekly Epidemiological Update had reported 34 countries with detections of the subvariant, however by 25 May 2021, the number of countries had risen to 41. , the United Kingdom had detected a total of 418 confirmed cases of the SARS-CoV-2 Kappa variant. On 6 June 2021, a cluster of 60 cases identified in the Australian city of Melbourne were linked to the Kappa variant. According to GISAID in July 2021, India had submitted more genetic samples of the Kappa variant than any other country.
+
+Community transmission
+A Public Health England technical briefing paper of 22 April 2021 reported that 119 cases of the sub-variant had been identified in England with a concentration of cases in the London area and the regions of the North West and East of England. Of the 119 cases, 94 had an established link to travel, 22 cases were still under investigation, but the remaining 3 cases were identified as not having any known link to travel.
+
+On 2 June, the Guardian reported that at least 1 in 10 of the cases in the outbreak in the Australian state of Victoria were due to contact with strangers and that community transmission was involved with clusters of the Kappa variant. However, infectious disease expert, Professor Greg Dore, said that the Kappa variant was behaving &quot;the same as we've seen before&quot; in relation to other variants in Australia.
+
+Vaccine efficacy
+
+Vaccines are effective against the Kappa variant, albeit to a lower extent than against the original strain.
+
+A study conducted by Oxford University in June 2021 said that the Oxford-AstraZeneca vaccine and the Pfizer-BioNTech vaccine were effective against the Kappa and Delta variants, suggesting that the current vaccines offer protection against these variants, although with slight reductions in neutralization.
+
+Covaxin was also found to be effective against the Kappa variant (B.1.617.1) as for other variants.
+
+The Moderna COVID-19 vaccine was also found to be effective against the Kappa variant, albeit with a 3.3-3.4 fold reduction in neutralization.
+
+Statistics
+
+
+See also
+
+* Variants of SARS-CoV-2: Alpha, Beta, Gamma, Delta, Epsilon, Zeta, Eta, Theta, Iota, Lambda, Mu, Omicron
+
+
+References
+
+
+
+
+
+S010
+</segment>
+	</text>
+</file>
