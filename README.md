@@ -35,7 +35,7 @@ $ python3 -m pip install --upgrade pip
 
 Then, run the following command to install the package.
 ```bash
-$ pip3 install "https://github.com/manojmanikandan7/WikiXmlParser/releases/download/v0.0.1/wiki_xml_parser-0.0.1-py3-none-any.whl"
+$ pip3 install "https://github.com/manojmanikandan7/WikiXmlParser/releases/latest/download/wiki_xml_parser-0.0.2-py3-none-any.whl"
 ```
 
 ## Usage
