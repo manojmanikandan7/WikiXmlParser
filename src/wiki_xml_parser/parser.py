@@ -68,26 +68,44 @@ class XmlParser:
         :param txt:
         :return:
         """
-        # Removing title formatting
-        # This should be done before removing tags, since Beautiful Soup looks for curly braces ('{', '}') for namespaces
-        no_titles = re.sub("{{.*?|", "", txt)
-        no_titles = re.sub("{{", "", no_titles)
-        no_titles = re.sub("}}", "", no_titles)
-        no_titles = re.sub(r"\[\[", "", no_titles)
-        no_titles = re.sub("]]", "", no_titles)
-        no_titles = re.sub("==+", "", no_titles)
+        ## Text cleaning pipeline ##
+        # TODO: Elaborated steps
+        # Removing all infoboxes
+        no_infoboxes = re.sub(r"(?s){{(#invoke:)?Infobox.*?\n.*?\n}}", "", txt)
+
+        # Removing all tables
+        no_tables = re.sub(r"(?s){\|.*?\n.*?\n\|}", "", no_infoboxes)
+
+        # Removing Wikipedia formatting patterns
+        # Note: This should be done before removing tags, since Beautiful Soup looks for curly braces ('{', '}') for namespaces
+        no_format_patterns = re.sub("{{.*?}}", "", no_tables)
+        no_format_patterns = re.sub("{{", "", no_format_patterns)
+        no_format_patterns = re.sub("}}", "", no_format_patterns)
+        
+        # Removing internal links formatting
+        no_internal_links = re.sub(r"\[\[([^:|]*?)]]", r"\1", no_format_patterns)
+        no_internal_links = re.sub(r"\[\[[^][]*?\|([^][]*?)]]", r"\1", no_internal_links)
+        no_internal_links = re.sub(r"\[\[[^][]*?:[^][]*?]]", "", no_internal_links)
+
+        # Removing titles
+        no_titles = re.sub("==+", "", no_internal_links)
 
         # First, unescape the html special characters (i.e., &..; -> unicode forms)
-        txt = html.unescape(no_titles)
+        unesc_xml = html.unescape(no_titles)
 
         # Removing the self-closing tags
-        txt = re.sub("<.+?/>", "", txt)
+        unesc_xml = re.sub("<ref [^>]*?/>", "", unesc_xml)
 
-        # Then, remove them using beautiful soup
-        soup = BeautifulSoup(txt, "lxml")
+        # Then, remove ref tags using beautiful soup
+        # Note: The html parser of lxml is used since xml parsers are strict;
+        # They might not allow empty content tags (<...></...>) and prefer self-closing tags(<... />)
+        soup = BeautifulSoup(unesc_xml, "lxml")
         refs = soup.find_all("ref")
+        galleries = soup.find_all("gallery")
         for ref in refs:
             ref.decompose()  # Remove tag and content
+        for gallery in galleries:
+            gallery.decompose()  # Remove tag and content
         no_tags = soup.text
 
         # Remove formatting with double-single quotes (''...'')
