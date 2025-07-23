@@ -31,5 +31,11 @@ wiki_parse = "wiki_xml_parser.cli:app"
 requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
+[tool.hatch.build.targets.sdist]
+exclude = [
+    "corpus/",
+    "outputs/",
+]
+
 
 
