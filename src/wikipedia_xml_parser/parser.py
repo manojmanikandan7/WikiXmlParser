@@ -90,12 +90,12 @@ class XmlParser:
         no_format_patterns = re.sub("}}", "", no_format_patterns)
         
         # Removing internal links formatting
-        no_internal_links = re.sub(r"\[\[([^:|]*?)]]", r"\1", no_format_patterns)
-        no_internal_links = re.sub(r"\[\[[^][]*?\|([^][]*?)]]", r"\1", no_internal_links)
-        no_internal_links = re.sub(r"\[\[[^][]*?:[^][]*?]]", "", no_internal_links)
+        no_internal_links = re.sub(r"\[\[([^]:|]*?)]]", r"\1", no_format_patterns)
+        no_internal_links = re.sub(r"\[\[[^]:]*?\|([^]]*?)]]", r"\1", no_internal_links)
+        no_internal_links = re.sub(r"\[\[[^]:]*?:[^]:]*?]]", "", no_internal_links)
 
         # Removing titles
-        no_titles = re.sub("==+", "", no_internal_links)
+        no_titles = re.sub(r"\s?==+\s?", "\n", no_internal_links)
 
         # First, unescape the html special characters (i.e., &..; -> unicode forms)
         unesc_xml = html.unescape(no_titles)
@@ -171,4 +171,4 @@ class XmlParser:
             with open(file_name, 'wb') as f:
                 f.write(xml_text)
             print(f"Processed {title}: Saved as {file_name}")
-            time.sleep(0.2)
+            time.sleep(0.01)
