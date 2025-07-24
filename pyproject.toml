@@ -1,6 +1,6 @@
 [project]
 name = "wikipedia_xml_parser"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Manoj Manikandan", email="manoj140805@gmail.com" },
 ]
