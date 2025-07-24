@@ -3,19 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2024-09-10T20:51:24Z" sourceCorpus="COVID-19" filename="68051984" title="SARS-CoV-2_Epsilon_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Epsilon_variant">
 	<text>
-		<segment id="id68051984">[[File:Epsilon variant countries.svg|thumb|upright=1.5|Countries with confirmed cases of Epsilon variant as of 1 July 2021 (GISAID)
-
-Legend:
-
-
-
-
-
-
-
-]]
-
-Epsilon variant, also known as CAL.20C and referring to two PANGO lineages B.1.427 and B.1.429, is one of the variants of SARS-CoV-2, the virus that causes COVID-19. It was first detected in California, USA in July 2020.
+		<segment id="id68051984">Epsilon variant, also known as CAL.20C and referring to two PANGO lineages B.1.427 and B.1.429, is one of the variants of SARS-CoV-2, the virus that causes COVID-19. It was first detected in California, USA in July 2020.
 
 As of March 2022, Epsilon is considered as a previously circulating variant of interest by the WHO. It is considered a variant being monitored by the CDC.
 
@@ -26,7 +14,7 @@ The variant has five defining mutations (I4205V and D1183Y in the ORF1ab gene, a
 
 
 History
-Epsilon (CAL.20C) was first observed in July 2020 by researchers at the Cedars-Sinai Medical Center, California, in one of 1,230 virus samples collected in Los Angeles County from the start of the COVID-19 epidemic. It was not detected again until September when it reappeared among samples in California, but numbers remained very low until November. In November 2020, the Epsilon variant accounted for 36 percent of samples collected at Cedars-Sinai Medical Center, and by January 2021, the Epsilon variant accounted for 50 percent of samples. In a joint press release by University of California, San Francisco, California Department of Public Health, and Santa Clara County Public Health Department, it was announced that the variant was also detected in multiple counties in Northern California. From November to December 2020, the frequency of the variant in sequenced cases from Northern California rose from 3% to 25%. A preprint describes CAL.20C as belonging to Nextstrain clade 20C and contributing approximately 36% of samples, while an emerging variant from the 20G clade accounts for some 24% of the samples in a study focused on Southern California. However, in the US as a whole, the 20G clade predominated as of January 2021. Following the increasing numbers of Epsilon in California, the variant has been detected at varying frequencies in most US states. Small numbers have been detected in other countries in North America, and in Europe, Asia and Australia. As of July 2021, the Epsilon variant had been detected in 45 countries, according to GISAID. After an initial increase, its frequency rapidly decreased from February 2021 as it was being outcompeted by the more transmissible Alpha variant. In April, Epsilon remained relatively frequent in parts of northern California, but it had virtually disappeared from the south of the state and had never been able to establish itself elsewhere; only 3.2% of all cases in the United States were Epsilon, whereas by then more than two-thirds were Alpha.
+Epsilon (CAL.20C) was first observed in July 2020 by researchers at the Cedars-Sinai Medical Center, California, in one of 1,230 virus samples collected in Los Angeles County from the start of the COVID-19 epidemic. It was not detected again until September when it reappeared among samples in California, but numbers remained very low until November. In November 2020, the Epsilon variant accounted for 36 percent of samples collected at Cedars-Sinai Medical Center, and by January 2021, the Epsilon variant accounted for 50 percent of samples. In a joint press release by University of California, San Francisco, California Department of Public Health, and Santa Clara County Public Health Department, it was announced that the variant was also detected in multiple counties in Northern California. From November to December 2020, the frequency of the variant in sequenced cases from Northern California rose from 3% to 25%. A preprint describes CAL.20C as belonging to Nextstrain clade 20C and contributing approximately 36% of samples, while an emerging variant from the 20G clade accounts for some 24% of the samples in a study focused on Southern California. However, in the US as a whole, the 20G clade predominated as of January 2021. Following the increasing numbers of Epsilon in California, the variant has been detected at varying frequencies in most US states. Small numbers have been detected in other countries in North America, and in Europe, Asia and Australia. As of July 2021, the Epsilon variant had been detected in 45 countries, according to GISAID. After an initial increase, its frequency rapidly decreased from February 2021 as it was being outcompeted by the more transmissible Alpha variant. In April, Epsilon remained relatively frequent in parts of northern California, but it had virtually disappeared from the south of the state and had never been able to establish itself elsewhere; only 3.2% of all cases in the United States were Epsilon, whereas by then more than two-thirds were Alpha.
 
 Statistics
 

@@ -11,7 +11,7 @@
 * sixteen subunit vaccines: Abdala, Corbevax, COVAX-19, EpiVacCorona, IndoVac, MVC-COV1901, Noora, Novavax, Razi Cov Pars, Sanofi–GSK, Sinopharm CNBG, Skycovione, Soberana 02, Soberana Plus, V-01, and ZF2001.
 * one virus-like particle vaccine: CoVLP
 
-, 353 vaccine candidates are in various stages of development, with 135 in clinical research, including 38 in phase I trials, 32 in phase I–II trials, 39 in phase III trials, and 9 in phase IV development.
+, 353 vaccine candidates are in various stages of development, with 135 in clinical research, including 38 in phase I trials, 32 in phase I–II trials, 39 in phase III trials, and 9 in phase IV development.
 
 
 Formulation
@@ -25,7 +25,7 @@ Clinical trials
 
 The clinical trial process typically consists of three phases, each following the success of the prior phase. Trials are doubly blind in that neither the researcher nor the subject know whether they receive the vaccine or a placebo. Each phase involves randomly-selected subjects who are randomly assigned to serve either as recipients are controls:
 * Phase I trials test primarily for safety and preliminary dosing in healthy subjects. Dozens of subjects.
-* Phase II trials evaluate immunogenicity, dose levels (efficacy based on biomarkers) and adverse effects. Hundreds of subjects. Sometimes Phase I and II trials are combined.
+* Phase II trials evaluate immunogenicity, dose levels (efficacy based on biomarkers) and adverse effects. Hundreds of subjects. Sometimes Phase I and II trials are combined.
 * Phase III trials typically involve more participants at multiple sites, include a control group, and test effectiveness of the vaccine to prevent the disease (an &quot;interventional&quot; or &quot;pivotal&quot; trial), while monitoring for adverse effects at the selected dose. Safety, efficacy, and clinical endpoints may vary, including the definition of side effects, infection or amount of transmission, and whether the vaccine prevents moderate or severe infection.
 
 A clinical trial design in progress may adopt an &quot;adaptive design&quot;. If accumulating data provide insights about the treatment, the endpoints or other aspects or the trial can be adjusted. Adaptive designs may shorten trial durations and use fewer subjects, possibly expediting decisions, avoiding duplication of research efforts, and enhancing coordination of design changes.
@@ -68,7 +68,7 @@ On 16 December, WHO recommendations on heterologous vaccinations suggested a gen
 
 
 Efficacy
-[[File:BNT162b2 vaccine efficacy data.png|thumb|upright=1.2|Cumulative incidence curves for symptomatic COVID-19 infections after the first dose of the Pfizer–BioNTech vaccine (tozinameran) or placebo in a double-blind clinical trial (red: placebo; blue: tozinameran)]]
+
 
 Vaccine efficacy is the reduction in risk of getting the disease by vaccinated participants in a controlled trial compared with the risk of getting the disease by unvaccinated participants. An efficacy of 0% means that the vaccine does not work (identical to placebo). An efficacy of 50% means that there are half as many cases of infection as in unvaccinated individuals.
 
@@ -106,8 +106,8 @@ Studies
 Real-world studies of vaccine effectiveness measure the extent to which a certain vaccine prevents infection, symptoms, hospitalization and death for the vaccinated individuals in a large population under routine conditions.
 * In Israel, among the 715,425 individuals vaccinated by the mRNA vaccines from 20 December 2020, to 28 January 2021, starting seven days after the second shot, only 317 people (0.04%) displayed mild/moderate COVID-19 symptoms and only 16 people (0.002%) were hospitalized.
 * CDC reported that under real-world conditions, mRNA vaccine effectiveness was 90% against infections regardless of symptom status; while effectiveness of partial immunization was 80%.
-* In the UK, 15,121 health care workers from 104 hospitals who had tested negative for antibodies prior to the study, were followed by RT-PCR tests twice a week from 7 December 2020 to 5 February 2021, a study compared the positive results for the 90.7% vaccinated share of their cohort with the 9.3% unvaccinated share, and found that the Pfizer-BioNTech vaccine reduced all infections (including asymptomatic), by 72% (58–86%) three weeks after the first dose and 86% (76–97%) one week after the second dose, while Alpha was dominant.
-* In Israel a study conducted from 17 January to 6 March 2021, found that Pfizer/BioNTech reduced asymptomatic Alpha infections by 94% and symptomatic COVID-19 infections by 97%.
+* In the UK, 15,121 health care workers from 104 hospitals who had tested negative for antibodies prior to the study, were followed by RT-PCR tests twice a week from 7 December 2020 to 5 February 2021, a study compared the positive results for the 90.7% vaccinated share of their cohort with the 9.3% unvaccinated share, and found that the Pfizer-BioNTech vaccine reduced all infections (including asymptomatic), by 72% (58–86%) three weeks after the first dose and 86% (76–97%) one week after the second dose, while Alpha was dominant.
+* In Israel a study conducted from 17 January to 6 March 2021, found that Pfizer/BioNTech reduced asymptomatic Alpha infections by 94% and symptomatic COVID-19 infections by 97%.
 * A study on the Queensland Population having only ever been exposed to the Omicron strain of COVID-19 found vaccine effectiveness against symptomatic hospitalizations to be 70% in the general population and similar for First Nations peoples.
 * A study among pre-surgical patients across the Mayo Clinic system in the United States, showed that mRNA vaccines were 80% protective against asymptomatic infections.
 * A UK study found that a single dose of the Oxford–AstraZeneca COVID-19 vaccine is about  effective in people aged 70 and older.
@@ -145,11 +145,11 @@ Beta (lineage B.1.351)
 
 Limited evidence from various preliminary studies reviewed by the WHO have indicated reduced efficacy/effectiveness against disease from Beta with the Oxford–AstraZeneca vaccine (possibly substantial), Novavax (moderate), Pfizer–BioNTech and Janssen (minimal), with no data for other vaccines yet. Relevant to how vaccines can end the pandemic by preventing asymptomatic infection, they have also indicated possibly reduced antibody neutralization against Beta with most of the widely distributed vaccines (Oxford–AstraZeneca, Sputnik V, Janssen, Pfizer–BioNTech, Moderna, Novavax; minimal to substantial reduction) except CoronaVac and Sinopharm BIBP (minimal to modest reduction), with no data for other vaccines yet.
 
-Moderna has launched a trial of a vaccine to tackle the Beta variant or lineage B.1.351. On 17 February 2021, Pfizer announced neutralization activity was reduced by two-thirds for this variant, while stating that no claims about the efficacy of the vaccine in preventing illness for this variant could yet be made. Decreased neutralizing activity of sera from patients vaccinated with the Moderna and Pfizer-BioNTech vaccines against Beta was later confirmed by several studies. On 1 April 2021, an update on a Pfizer/BioNTech South African vaccine trial stated that the vaccine was 100% effective so far (i.e., vaccinated participants saw no cases), with six of nine infections in the placebo control group being the Beta variant.
+Moderna has launched a trial of a vaccine to tackle the Beta variant or lineage B.1.351. On 17 February 2021, Pfizer announced neutralization activity was reduced by two-thirds for this variant, while stating that no claims about the efficacy of the vaccine in preventing illness for this variant could yet be made. Decreased neutralizing activity of sera from patients vaccinated with the Moderna and Pfizer-BioNTech vaccines against Beta was later confirmed by several studies. On 1 April 2021, an update on a Pfizer/BioNTech South African vaccine trial stated that the vaccine was 100% effective so far (i.e., vaccinated participants saw no cases), with six of nine infections in the placebo control group being the Beta variant.
 
 In January 2021, Johnson &amp; Johnson, which held trials for its Janssen vaccine in South Africa, reported the level of protection against moderate to severe COVID-19 infection was 72% in the United States and 57% in South Africa.
 
-On 6 February 2021, the Financial Times reported that provisional trial data from a study undertaken by South Africa's University of the Witwatersrand in conjunction with Oxford University demonstrated reduced efficacy of the Oxford–AstraZeneca COVID-19 vaccine against the variant. The study found that in a sample size of 2,000 the AZD1222 vaccine afforded only &quot;minimal protection&quot; in all but the most severe cases of COVID-19. On 7 February 2021, the Minister for Health for South Africa suspended the planned deployment of about a million doses of the vaccine whilst they examine the data and await advice on how to proceed.
+On 6 February 2021, the Financial Times reported that provisional trial data from a study undertaken by South Africa's University of the Witwatersrand in conjunction with Oxford University demonstrated reduced efficacy of the Oxford–AstraZeneca COVID-19 vaccine against the variant. The study found that in a sample size of 2,000 the AZD1222 vaccine afforded only &quot;minimal protection&quot; in all but the most severe cases of COVID-19. On 7 February 2021, the Minister for Health for South Africa suspended the planned deployment of about a million doses of the vaccine whilst they examine the data and await advice on how to proceed.
 
 In a study reported in March and May 2021, the efficacy of the Novavax vaccine (NVX-CoV2373) was tested in a preliminary randomized, placebo-controlled study involving 2684 participants who were negative for COVID at baseline testing. Beta was the predominant variant to occur, with post-hoc analysis indicating a vaccine efficacy of Novavax against Beta of 51.0% for HIV-negative participants.
 

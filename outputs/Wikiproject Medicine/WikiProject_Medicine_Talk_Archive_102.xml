@@ -7,24 +7,24 @@
 
 It occurs to me that we might do well to map MeSH to articles — when we have an article on a concept covered by a subject heading or entry term, I think the heading or term should redirect to the article if the names are different.  Even when a heading changes, the old name is still useful as a redirect because it was once standard.  Any objections to this basic idea?
 
-Do we have a complete list of headings and entry terms from MeSH?  WP:NOTDIR, so it would be in projectspace somewhere I suppose.  The whole vocabulary can be [https://www.nlm.nih.gov/mesh/filelist.html downloaded], so creating the list, by itself, should be easy, but I'm not about to do it without checking here, since I don't want to duplicate someone else's work.   () 13:13, 14 September 2017 (UTC)
+Do we have a complete list of headings and entry terms from MeSH?  WP:NOTDIR, so it would be in projectspace somewhere I suppose.  The whole vocabulary can be [https://www.nlm.nih.gov/mesh/filelist.html downloaded], so creating the list, by itself, should be easy, but I'm not about to do it without checking here, since I don't want to duplicate someone else's work.  Nyttend backup (talk) 13:13, 14 September 2017 (UTC)
 
-, yes this is redirect-focused.  For example, if I find [https://meshb.nlm.nih.gov/record/ui?ui=D010254], I might want to see if we have coverage of Paranasal Sinus Diseases, and because that's a redlink, it's harder to find.  I might create it as a redirect, and if I don't find paranasal sinus diseases first, the two redirects may end up going to different places.   () 15:03, 14 September 2017 (UTC)
+Sizeofint, yes this is redirect-focused.  For example, if I find [https://meshb.nlm.nih.gov/record/ui?ui=D010254], I might want to see if we have coverage of Paranasal Sinus Diseases, and because that's a redlink, it's harder to find.  I might create it as a redirect, and if I don't find paranasal sinus diseases first, the two redirects may end up going to different places.  Nyttend backup (talk) 15:03, 14 September 2017 (UTC)
 
-This seems like something that better belongs at WikiData. It should be straightforward for the query wizards to construct a query to identify those MeSH ids that have no corresponding article in (a specified language) Wikipedia. We have  (Medical Subject Headings)  (MeSH ID) and  (MeSH Code). The  (List of MeSH codes) links to List of MeSH codes here on EnWikipedia.  [[User talk:LeadSongDog#top|come howl!]] 19:34, 14 September 2017 (UTC)
+This seems like something that better belongs at WikiData. It should be straightforward for the query wizards to construct a query to identify those MeSH ids that have no corresponding article in (a specified language) Wikipedia. We have  (Medical Subject Headings)  (MeSH ID) and  (MeSH Code). The  (List of MeSH codes) links to List of MeSH codes here on EnWikipedia. LeadSongDog come howl! 19:34, 14 September 2017 (UTC)
 
 
 
-In case anyone is interested, this draft could probably use review by someone who has a clue what it's talking about, which probably isn't your run-of-the-mill AfC reviewer. [[User:Timothyjosephwood|TJW]][[User talk:Timothyjosephwood|talk]]  13:22, 15 September 2017 (UTC)
+In case anyone is interested, this draft could probably use review by someone who has a clue what it's talking about, which probably isn't your run-of-the-mill AfC reviewer. TJWtalk  13:22, 15 September 2017 (UTC)
 Well there is a small clue  in a couple of sentences from the draft “This paper proposes that islet beta-cells are designed to deliberately have a poor coupling efficiency,
 “Hence, this paper speculates that these cells are designed to be sensitive to increased electron supply”
-Regards,  () 16:30, 15 September 2017 (UTC)
+Regards, CV9933 (talk) 16:30, 15 September 2017 (UTC)
 
 Healthcare or health care
 
-I noticed that articles with healthcare/health care in the title change between the two different types of spelling. Maybe unify the healthcare/health care spelling for all the different articles? Here are some examples:Health care in the United States, Health care in Canada and Healthcare in Cuba, Healthcare in Israel.It's just a detail but I think it's expected that we settle on one type of spelling. - () 08:57, 15 September 2017 (UTC)
-per article... Health care-- () 18:21, 15 September 2017 (UTC)
- states consistency is a &quot;goal&quot; (rather than a rule). However, in line with  and , if the single word spelling is preferred by English-language sources from Cuba, Israel, etc, then the single word spelling should probably be the article title for that territory (redirects can always be used for the alternative spelling). For the main health care article title; cursory searches (using boolean operators) on Google and PubMed, both return more results for health care.  () 21:12, 15 September 2017 (UTC)
+I noticed that articles with healthcare/health care in the title change between the two different types of spelling. Maybe unify the healthcare/health care spelling for all the different articles? Here are some examples:Health care in the United States, Health care in Canada and Healthcare in Cuba, Healthcare in Israel.It's just a detail but I think it's expected that we settle on one type of spelling. -Throast (talk) 08:57, 15 September 2017 (UTC)
+per article... Health care--Ozzie10aaaa (talk) 18:21, 15 September 2017 (UTC)
+ states consistency is a &quot;goal&quot; (rather than a rule). However, in line with  and , if the single word spelling is preferred by English-language sources from Cuba, Israel, etc, then the single word spelling should probably be the article title for that territory (redirects can always be used for the alternative spelling). For the main health care article title; cursory searches (using boolean operators) on Google and PubMed, both return more results for health care. Little pob (talk) 21:12, 15 September 2017 (UTC)
 
 Suggested improvements to Multiple Sclerosis page
 
@@ -33,110 +33,110 @@ I have posted a couple of suggestions for improvements to the Multiple Sclerosis
 
 If you have a chance, I would appreciate some feedback.
 
-Thanks,  () 14:02, 15 September 2017 (UTC)
-commented-- () 09:55, 16 September 2017 (UTC)
+Thanks, JenOttawa (talk) 14:02, 15 September 2017 (UTC)
+commented--Ozzie10aaaa (talk) 09:55, 16 September 2017 (UTC)
 
 Moving metadata off WP
-There is an effort  which causes me concern. Please join the discussion there. [[User:Doc James|Doc James]] ( ·  · ) 01:48, 15 September 2017 (UTC)
+There is an effort  which causes me concern. Please join the discussion there. Doc James (talk ·  · ) 01:48, 15 September 2017 (UTC)
 
 
-*opinions please(we already have [https://en.wikipedia.org/wiki/Template_talk:Cite_doi#RfC:_Should_cite_doi_template_be_deprecated.3F])-- () 10:01, 16 September 2017 (UTC)
+*opinions please(we already have [https://en.wikipedia.org/wiki/Template_talk:Cite_doi#RfC:_Should_cite_doi_template_be_deprecated.3F])--Ozzie10aaaa (talk) 10:01, 16 September 2017 (UTC)
 
 Introduction
 
-Hi, my name is Ivan Buljan, and I am currently at the workshop about WikiProject Medicine. My intention is to see how I can contribute to the project.  — Preceding  comment added by  ( • ) 09:57, 16 September 2017 (UTC) 
-Hi , thanks for your message and interest in the project. I will leave you a personal message on your &quot;talk&quot; page. Your help would be greatly appreciated.  () 12:39, 16 September 2017 (UTC)
+Hi, my name is Ivan Buljan, and I am currently at the workshop about WikiProject Medicine. My intention is to see how I can contribute to the project.  — Preceding  comment added by Ibuljan (talk • ) 09:57, 16 September 2017 (UTC) 
+Hi , thanks for your message and interest in the project. I will leave you a personal message on your &quot;talk&quot; page. Your help would be greatly appreciated. JenOttawa (talk) 12:39, 16 September 2017 (UTC)
 
 New Cochrane editor
 
 I am currently attending the workshop on &quot;Wikipedia and crowdsourcing: improving health information for the public&quot; at the GES 2017.
 
-I am interested in sharing evidence from Cochrane systematic reviews on Wikipedia.  — Preceding  comment added by  ( • ) 10:03, 16 September 2017 (UTC) 
- Hi  Thanks for your message and interest in the project. I will leave you a personal message on your &quot;talk&quot; page. Your help would be greatly appreciated.  () 12:40, 16 September 2017 (UTC)
+I am interested in sharing evidence from Cochrane systematic reviews on Wikipedia.  — Preceding  comment added by Rhone2510 (talk • ) 10:03, 16 September 2017 (UTC) 
+ Hi  Thanks for your message and interest in the project. I will leave you a personal message on your &quot;talk&quot; page. Your help would be greatly appreciated. JenOttawa (talk) 12:40, 16 September 2017 (UTC)
 
 New Cochrane editor interested in using WikiProject Med in Danish
 
 Hi,
 
-I'm interested in writing about health information based on Cochrane Evidence in Danish.— Preceding  comment added by  ( • ) 09:56, 16 September 2017 (UTC)
-*please sign your post-- () 10:09, 16 September 2017 (UTC)
+I'm interested in writing about health information based on Cochrane Evidence in Danish.— Preceding  comment added by DMEN0003 (talk • ) 09:56, 16 September 2017 (UTC)
+*please sign your post--Ozzie10aaaa (talk) 10:09, 16 September 2017 (UTC)
 
-left a message-- () 12:57, 16 September 2017 (UTC)
+left a message--Ozzie10aaaa (talk) 12:57, 16 September 2017 (UTC)
 
 Introduction
 
-We are currently attending the  workshop on &quot;Wikipedia and crowd sourcing: improving health information for the public&quot;.— Preceding  comment added by  ( • ) 10:00, 16 September 2017 (UTC)
-*please sign your post-- () 10:13, 16 September 2017 (UTC)
+We are currently attending the  workshop on &quot;Wikipedia and crowd sourcing: improving health information for the public&quot;.— Preceding  comment added by Kfapohunda10 (talk • ) 10:00, 16 September 2017 (UTC)
+*please sign your post--Ozzie10aaaa (talk) 10:13, 16 September 2017 (UTC)
 
-left a message-- () 12:58, 16 September 2017 (UTC)
+left a message--Ozzie10aaaa (talk) 12:58, 16 September 2017 (UTC)
 
 Oxytocic electricity
 
 *   
-This may possibly be related to uterotonic?  Thanks, —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 07:03, 16 September 2017 (UTC)
-are you suggesting a merge w [https://en.wikipedia.org/wiki/Uterotonic]?-- () 10:11, 16 September 2017 (UTC)
-Not really, but am wondering if the article's medical qualifications/practice claims make any sense.  Thanks, —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 14:57, 16 September 2017 (UTC)
+This may possibly be related to uterotonic?  Thanks, —PaleoNeonate – 07:03, 16 September 2017 (UTC)
+are you suggesting a merge w [https://en.wikipedia.org/wiki/Uterotonic]?--Ozzie10aaaa (talk) 10:11, 16 September 2017 (UTC)
+Not really, but am wondering if the article's medical qualifications/practice claims make any sense.  Thanks, —PaleoNeonate – 14:57, 16 September 2017 (UTC)
 
 WP:Medicine Discord
 
 Hey guys,
 
 Here is the link to the Wikipedia Discord, and there is a specific channel for WP:MED 
-https://discord.gg/Z9xAwjz [[User:Qaei|Qaei]]   [[User talk:Qaei|☎]] 23:21, 15 September 2017 (UTC)
-Interesting. Thanks for the pointer - was easy to log on, perhaps will find WPMED folks there from time to time. —  () 04:23, 16 September 2017 (UTC)
-See  for more info. :) --  () 16:23, 16 September 2017 (UTC)
+https://discord.gg/Z9xAwjz Qaei ☎ 23:21, 15 September 2017 (UTC)
+Interesting. Thanks for the pointer - was easy to log on, perhaps will find WPMED folks there from time to time. — soupvector (talk) 04:23, 16 September 2017 (UTC)
+See  for more info. :) -- ferret (talk) 16:23, 16 September 2017 (UTC)
 
 Fecal Body Odor article
 
-Hello. I need to improve [https://en.wikipedia.org/wiki/Draft:Fecal_body_odor this Fecal Body Odor draft] with more reliable secondary sources. Any recommendations for books, research or themes I should be looking for? -- () 20:33, 13 September 2017 (UTC)
-would concur w/ [https://en.wikipedia.org/w/index.php?title=Draft:Fecal_body_odor&amp;diff=800069896&amp;oldid=799784477]-- () 19:37, 13 September 2017 (UTC)
-Doubt this is a viable topic.  () 19:41, 13 September 2017 (UTC)
- @Alexbrn how so? There is an article on Foot odor and Old person smell. I don't know why FBO would be less viable. -- () 20:33, 13 September 2017 (UTC)
- Time to make sure you've read . -- () 00:17, 14 September 2017 (UTC)
-  because unlike foot odor, in serious sources this &quot;condition&quot; doesn't exist.[https://www.ncbi.nlm.nih.gov/pubmed/?term=%22fecal+body+odor%22] Just one mention in a fringe journal. At the most this might get a mention in body odor, but even that could be an over-stretch.  () 05:13, 14 September 2017 (UTC)
+Hello. I need to improve [https://en.wikipedia.org/wiki/Draft:Fecal_body_odor this Fecal Body Odor draft] with more reliable secondary sources. Any recommendations for books, research or themes I should be looking for? --Candide124 (talk) 20:33, 13 September 2017 (UTC)
+would concur w/ [https://en.wikipedia.org/w/index.php?title=Draft:Fecal_body_odor&amp;diff=800069896&amp;oldid=799784477]--Ozzie10aaaa (talk) 19:37, 13 September 2017 (UTC)
+Doubt this is a viable topic. Alexbrn (talk) 19:41, 13 September 2017 (UTC)
+ @Alexbrn how so? There is an article on Foot odor and Old person smell. I don't know why FBO would be less viable. --Candide124 (talk) 20:33, 13 September 2017 (UTC)
+ Time to make sure you've read . --RexxS (talk) 00:17, 14 September 2017 (UTC)
+  because unlike foot odor, in serious sources this &quot;condition&quot; doesn't exist.[https://www.ncbi.nlm.nih.gov/pubmed/?term=%22fecal+body+odor%22] Just one mention in a fringe journal. At the most this might get a mention in body odor, but even that could be an over-stretch. Alexbrn (talk) 05:13, 14 September 2017 (UTC)
 This draft makes it sound like this is more than one thing, which means that it's probably impossible to source.
 The first of those things appears to be &quot;smelling bad because you're farting all the time&quot;, but the odor is presumably the flatus itself rather than the body (unlike what's written in the lead sentence).  Trimethylaminuria is an unrelated (and rare) cause of a similar unwanted odor, and there is already an article about that.  (TMAU has traditionally been described as a &quot;fishy&quot; odor, but this chemical is present in and characteristic of feces, too, and humans are exceptionally sensitive to its scent, so it's not unreasonable to call it a fecal odor.)  
-Also, despite covering multiple unrelated causes of this symptom, I didn't notice the most common, which is poor hygiene.  I'm thinking that this would probably be better split up into smaller improvements for multiple articles, and some work at Body odor to  to those articles.   () 00:49, 17 September 2017 (UTC)
-Your input is appreciated, . I've refactored the whole article to be smaller and more of a hub to other articles. Do you mind taking a look? -- () 10:15, 17 September 2017 (UTC)
+Also, despite covering multiple unrelated causes of this symptom, I didn't notice the most common, which is poor hygiene.  I'm thinking that this would probably be better split up into smaller improvements for multiple articles, and some work at Body odor to  to those articles.  WhatamIdoing (talk) 00:49, 17 September 2017 (UTC)
+Your input is appreciated, . I've refactored the whole article to be smaller and more of a hub to other articles. Do you mind taking a look? --Candide124 (talk) 10:15, 17 September 2017 (UTC)
 
 Missed schooling due to severe illness?
 
-Is there a Wikipedia article which discusses the subject of missed schooling due to severe illness?  Does that have a more formal name?  I found a review article which mentions it as a consequence for children with such poor bone density that they can break bones while being dressed, and I was hoping there'd be a Wikipedia article which discussed that in more detail so I could wikilink it.  I had a looksee in the education issues category, but couldn't find one.  -- () 00:55, 15 September 2017 (UTC)
-We have Truancy and although it is difficult to assess the number of cases due to illness, this article is more about delinquency.  I can't say that I found exactly what you were looking for.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 04:34, 15 September 2017 (UTC)
-Thanks for looking, I found that one too. I just thought there might be a more focused article or section on the subject.  () 09:36, 15 September 2017 (UTC)
-It'd probably be called something like Health and education.  Education-related articles are generally under-developed, so it probably hasn't been created yet.  It would presumably contain information about the educational effects of missing school (some students miss so much school that they have to repeat the year), the regulations on schools (excused vs unexcused absences, loss of attendance-based funding), and connect to articles such as Medical certificate and Special education.   () 01:00, 17 September 2017 (UTC)
-The CDC often uses 'missed school days' as a measure of virulence or the impact of a disease/condition on school attendance. It sort of is like the quantification of days of work missed due to the flu. Best Regards,  [[User talk:Barbara (WVS)|✐]] [[Special:Emailuser/Barbara (WVS)|✉]] 02:10, 18 September 2017 (UTC)
+Is there a Wikipedia article which discusses the subject of missed schooling due to severe illness?  Does that have a more formal name?  I found a review article which mentions it as a consequence for children with such poor bone density that they can break bones while being dressed, and I was hoping there'd be a Wikipedia article which discussed that in more detail so I could wikilink it.  I had a looksee in the education issues category, but couldn't find one.  -- (talk) 00:55, 15 September 2017 (UTC)
+We have Truancy and although it is difficult to assess the number of cases due to illness, this article is more about delinquency.  I can't say that I found exactly what you were looking for.  —PaleoNeonate – 04:34, 15 September 2017 (UTC)
+Thanks for looking, I found that one too. I just thought there might be a more focused article or section on the subject.  (talk) 09:36, 15 September 2017 (UTC)
+It'd probably be called something like Health and education.  Education-related articles are generally under-developed, so it probably hasn't been created yet.  It would presumably contain information about the educational effects of missing school (some students miss so much school that they have to repeat the year), the regulations on schools (excused vs unexcused absences, loss of attendance-based funding), and connect to articles such as Medical certificate and Special education.  WhatamIdoing (talk) 01:00, 17 September 2017 (UTC)
+The CDC often uses 'missed school days' as a measure of virulence or the impact of a disease/condition on school attendance. It sort of is like the quantification of days of work missed due to the flu. Best Regards, Barbara (WVS) ✐  02:10, 18 September 2017 (UTC)
 
 Bilateral cancer
 
-I've proposed deletion of this article - rationale in the PROD - would appreciate your thoughts. (also hoping I did this properly - just followed the &quot;PROD&quot; template from TW) —  () 18:10, 16 September 2017 (UTC)
-We need to wait until Sept 23rd to delete. But agree with deletion. [[User:Doc James|Doc James]] ( ·  · ) 18:33, 16 September 2017 (UTC)
+I've proposed deletion of this article - rationale in the PROD - would appreciate your thoughts. (also hoping I did this properly - just followed the &quot;PROD&quot; template from TW) — soupvector (talk) 18:10, 16 September 2017 (UTC)
+We need to wait until Sept 23rd to delete. But agree with deletion. Doc James (talk ·  · ) 18:33, 16 September 2017 (UTC)
 I kind of wonder whether this seems worthless to physicians but extremely valuable to people who are trying to figure out whether their mother is going to die (&quot;bilateral breast cancer&quot; being a bad sign, generally).  If, for easy math, we assume about 1.5 million new cases of breast cancer each year, and 1% are bilateral, then that's 150,000 women whose friends and families are going to want to know what this whole &quot;bilateral&quot; word means (and that's just for breast cancer).
-So rather than thinking about whether it's an important &quot;thing&quot; biologically, what do you think we could do to make this information easy to find in Wikipedia?   () 01:18, 17 September 2017 (UTC)
-You seem to have started with the assumption that &quot;bilateral breast cancer&quot; is a bad sign, specifically (as opposed to, say, more than one focus in the same breast). What is the basis for that? Perhaps I misunderstand. I absolutely accept that the definition for &quot;bilateral&quot; should be available - would apply to bilateral broken leg, bilateral pneumothorax, bilateral stroke... do we need an extra article for each? (btw, is your response a veiled ad hominem rejection of the perspective offered?) —  () 02:33, 17 September 2017 (UTC)
-It seems to me that the POV offered by people who already know what this word means in this context is that they don't think that people will be trying to find out what it means.  But  created that article last week, and I assume that it wasn't for a frivolous purpose like boosting the edit count.  (The purpose might be because it's been listed for years at .)  I'm not convinced that having this separate article is the best way to deal with the information, but I believe that information needs to be somewhere in Wikipedia.  Maybe it belongs in a glossary of cancer-related terms?  Maybe a single sentence in Cancer?  Maybe somewhere else?  But somewhere, and ideally with this title redirecting there.
+So rather than thinking about whether it's an important &quot;thing&quot; biologically, what do you think we could do to make this information easy to find in Wikipedia?  WhatamIdoing (talk) 01:18, 17 September 2017 (UTC)
+You seem to have started with the assumption that &quot;bilateral breast cancer&quot; is a bad sign, specifically (as opposed to, say, more than one focus in the same breast). What is the basis for that? Perhaps I misunderstand. I absolutely accept that the definition for &quot;bilateral&quot; should be available - would apply to bilateral broken leg, bilateral pneumothorax, bilateral stroke... do we need an extra article for each? (btw, is your response a veiled ad hominem rejection of the perspective offered?) — soupvector (talk) 02:33, 17 September 2017 (UTC)
+It seems to me that the POV offered by people who already know what this word means in this context is that they don't think that people will be trying to find out what it means.  But someone created that article last week, and I assume that it wasn't for a frivolous purpose like boosting the edit count.  (The purpose might be because it's been listed for years at .)  I'm not convinced that having this separate article is the best way to deal with the information, but I believe that information needs to be somewhere in Wikipedia.  Maybe it belongs in a glossary of cancer-related terms?  Maybe a single sentence in Cancer?  Maybe somewhere else?  But somewhere, and ideally with this title redirecting there.
 As to the example, I understand that a woman with bilateral breast cancer is about three-quarters as likely to survive long term compared to a woman with similar-grade unilateral breast cancer (which is commonly but not always single foci, of course).  Other cancers will mostly be worse:  I understand that bilateral ovarian cancer is correlated with metatases.  I imagine that treating bilateral lung cancer could create some significant treatment problems, because there's only so much lung tissue that you can remove. 
 Most average, non-medical people react to any sort of diagnosis by trying to find out what all that medicalese means.  Grandma comes back from the doctor's office with some papers, and they sit down with her papers and type each of the unfamiliar words into their favorite web search engine.  They may not want to admit it to their doctors, but this is how a lot of people figure out what's going on.  They will end up somewhere in their searches, and I'd kind of rather that they ended up here. 
-By the way, the PROD's out of process.   already removed a prod once.  So if we can't find a decent redirect/merge option, you will have to send it to AFD.   () 03:22, 17 September 2017 (UTC)
-PROD removed - thanks for pointing that out. I discuss WP content with my patients, trainees, and colleagues - I appreciate its value and limitations. I don't think &quot;bilateral condition X[i]&quot; is a good template for articles where i = 1 to N, but let's see what happens - it's great to be pleasantly surprised. —  () 03:57, 17 September 2017 (UTC)
-WhatamIdoing, and why can't this [https://en.wikipedia.org/w/index.php?title=Bilateral_cancer&amp;oldid=801012412 currently tiny article] simply be covered in the Cancer article, if not already covered there? Why do we need this one-sentence article? Yes, we can often expand tiny stubs, but stuff like this should be covered in the main article before being split off.  () 03:10, 18 September 2017 (UTC)
-Never mind; I see that you stated, &quot;Maybe a single sentence in Cancer?&quot;  () 03:15, 18 September 2017 (UTC)
+By the way, the PROD's out of process.   already removed a prod once.  So if we can't find a decent redirect/merge option, you will have to send it to AFD.  WhatamIdoing (talk) 03:22, 17 September 2017 (UTC)
+PROD removed - thanks for pointing that out. I discuss WP content with my patients, trainees, and colleagues - I appreciate its value and limitations. I don't think &quot;bilateral condition X[i]&quot; is a good template for articles where i = 1 to N, but let's see what happens - it's great to be pleasantly surprised. — soupvector (talk) 03:57, 17 September 2017 (UTC)
+WhatamIdoing, and why can't this [https://en.wikipedia.org/w/index.php?title=Bilateral_cancer&amp;oldid=801012412 currently tiny article] simply be covered in the Cancer article, if not already covered there? Why do we need this one-sentence article? Yes, we can often expand tiny stubs, but stuff like this should be covered in the main article before being split off. Flyer22 Reborn (talk) 03:10, 18 September 2017 (UTC)
+Never mind; I see that you stated, &quot;Maybe a single sentence in Cancer?&quot; Flyer22 Reborn (talk) 03:15, 18 September 2017 (UTC)
 
- I've 'boldly' inserted the entire contents of Bilateral cancer into a single sentence in Cancer#Definitions and made Bilateral cancer into a redirect to there. Let's see if that sticks. If not, there's always AfD. -- () 16:01, 18 September 2017 (UTC)
- Now reverted. Opinions welcome at . -- () 00:41, 19 September 2017 (UTC)
+ I've 'boldly' inserted the entire contents of Bilateral cancer into a single sentence in Cancer#Definitions and made Bilateral cancer into a redirect to there. Let's see if that sticks. If not, there's always AfD. --RexxS (talk) 16:01, 18 September 2017 (UTC)
+ Now reverted. Opinions welcome at . --RexxS (talk) 00:41, 19 September 2017 (UTC)
 
 Merger proposal: 
 
-please comment.  () 00:04, 18 September 2017 (UTC)
+please comment. Jytdog (talk) 00:04, 18 September 2017 (UTC)
 
 
 
 
-*more opinions(gave mine)-- () 10:45, 19 September 2017 (UTC)
+*more opinions(gave mine)--Ozzie10aaaa (talk) 10:45, 19 September 2017 (UTC)
 
 Chiropractic and other alternative medicine practices as &quot;health care&quot;?
 
-Eyes and comments [https://en.wikipedia.org/wiki/Talk:Health_care#Chiropractic_in_lede_and_as_a_health_care_topic here]. If one quackery practice is included, is the article on health care open to others? -- () 19:04, 17 September 2017 (UTC)
+Eyes and comments [https://en.wikipedia.org/wiki/Talk:Health_care#Chiropractic_in_lede_and_as_a_health_care_topic here]. If one quackery practice is included, is the article on health care open to others? --Zefr (talk) 19:04, 17 September 2017 (UTC)
 
 A few off-the-cuff thoughts:
 * That article has mentioned Ayurveda and other forms of traditional medicine for years.  What's so bad about chiropractic that we swallow these forms of quackery but strain at that form?
@@ -144,7 +144,7 @@ A few off-the-cuff thoughts:
 * How would you describe the economic issues without mentioning the multi-billion-dollar SCAM industry?
 * How would you describe the history of European health care without including &quot;quackery&quot;?
 Everything depends upon the exact sentence(s) in question, but I think that it's going to be necessary to mention the undisputed fact that alternative medicine exists (and costs money). 
-Also, I notice that you reverted any mention of optometry, and if that's part of your idea of &quot;quackery&quot;, then we might need to spend some time coming to a shared understanding of what that word means.   () 22:12, 17 September 2017 (UTC)
+Also, I notice that you reverted any mention of optometry, and if that's part of your idea of &quot;quackery&quot;, then we might need to spend some time coming to a shared understanding of what that word means.  WhatamIdoing (talk) 22:12, 17 September 2017 (UTC)
 
  A few off-the-cuff replies:
 * Ayurveda, homeopathy, etc. are mentioned in the body, but not the lead - what makes chiropractic so significant as a mode of health care that it needs to be listed in the lead alongside mainstream professions?
@@ -152,11 +152,11 @@ Also, I notice that you reverted any mention of optometry, and if that's part of
 * We can describe the economic issues raised by the multi-billion-dollar SCAM industry without mentioning it in the lead.
 * I would describe the history of European health care as a learning experience, in which quackery played a significant role, but I still don't think the history of European health care is vital to an understanding of present-day health care, nor that it is so key that it needs to be in the lead.
  The sentence in question was a poorly thought-out 'laundry list' of every conceivable medical and pseudo-medical discipline. Not a good idea for the lead of such a top-level article as Health care.
- I always thought optometry was the good deeds done by groups of women who weren't allowed to join the Freemasons, but I could be getting muddled there. Even so, do we really want to list in the lead every possible medical speciality? Would we then wish to quote Tom Lehrer:  And then why stop with just the top ten? What next - manicurists? -- () 16:24, 18 September 2017 (UTC)
+ I always thought optometry was the good deeds done by groups of women who weren't allowed to join the Freemasons, but I could be getting muddled there. Even so, do we really want to list in the lead every possible medical speciality? Would we then wish to quote Tom Lehrer:  And then why stop with just the top ten? What next - manicurists? --RexxS (talk) 16:24, 18 September 2017 (UTC)
 Optometrists are the licensed professionals with a doctorate who spend all day telling people that they need new glasses.  I suppose that one could make a case for manicurists (some elderly and disabled people are unable to cut their toenails, which makes walking painful), but nobody does, so I don't think that we need to go down that slippery slope yet.
-If the problem was really &quot;in the lead&quot;, then I'd have expected the editors to move that information to a different part of the article.  Wholesale blanking suggests that the editor who blanked it does not want it mentioned at all.   () 15:22, 19 September 2017 (UTC)
-First, I think that's a narrow view of the role optometrists play in total eyecare. Ophthalmologists would say that well-equipped, well-trained optometrists are essential for screening, detection, and referrals of more serious vision problems than just supplying glasses, particularly for seniors. Second, the lede addresses mainstream, evidence-based areas that are within the connected network of a total health care system, with the quackery practices removed from the article for lack of sources showing they are part of a network. Quackery and fringe practices - chiropractic, naturopathy, acupuncture, herbalism, etc. - tend to take their roles as singular endpoints, rather than being referrals or partners in a network for total care. It's possible we could have a section on quackery practices under 'Related sectors' [https://en.wikipedia.org/wiki/Health_care#Related_sectors here], particularly for less-developed world regions, but the challenge is finding good sources showing such practices are effective and perceived by respected health organizations as useful. -- () 15:54, 19 September 2017 (UTC)
-Hmm, do the telephone sanitisers need someone to speak up for them here too? There are quite a few occupations where incompetence or inaction would pose health and safety risks (to clients or the public) yet are minimally regulated rather than recognised professions. Food handlers, heavy equipment operators, janitors, firefighters, police, and yes even manicurists all fall into this group. It's not just the academic difficulty of admission to the traditional self-regulated professions which defines them. Sheldon Cooper's discipline isn't about to be regarded as a profession any time soon. Perhaps we need a different collective term for these relatively-easy-but-still-risky jobs.  [[User talk:LeadSongDog#top|come howl!]] 16:07, 19 September 2017 (UTC)
+If the problem was really &quot;in the lead&quot;, then I'd have expected the editors to move that information to a different part of the article.  Wholesale blanking suggests that the editor who blanked it does not want it mentioned at all.  WhatamIdoing (talk) 15:22, 19 September 2017 (UTC)
+First, I think that's a narrow view of the role optometrists play in total eyecare. Ophthalmologists would say that well-equipped, well-trained optometrists are essential for screening, detection, and referrals of more serious vision problems than just supplying glasses, particularly for seniors. Second, the lede addresses mainstream, evidence-based areas that are within the connected network of a total health care system, with the quackery practices removed from the article for lack of sources showing they are part of a network. Quackery and fringe practices - chiropractic, naturopathy, acupuncture, herbalism, etc. - tend to take their roles as singular endpoints, rather than being referrals or partners in a network for total care. It's possible we could have a section on quackery practices under 'Related sectors' [https://en.wikipedia.org/wiki/Health_care#Related_sectors here], particularly for less-developed world regions, but the challenge is finding good sources showing such practices are effective and perceived by respected health organizations as useful. --Zefr (talk) 15:54, 19 September 2017 (UTC)
+Hmm, do the telephone sanitisers need someone to speak up for them here too? There are quite a few occupations where incompetence or inaction would pose health and safety risks (to clients or the public) yet are minimally regulated rather than recognised professions. Food handlers, heavy equipment operators, janitors, firefighters, police, and yes even manicurists all fall into this group. It's not just the academic difficulty of admission to the traditional self-regulated professions which defines them. Sheldon Cooper's discipline isn't about to be regarded as a profession any time soon. Perhaps we need a different collective term for these relatively-easy-but-still-risky jobs. LeadSongDog come howl! 16:07, 19 September 2017 (UTC)
 
 Introducing myself
 
@@ -164,56 +164,56 @@ Hi,
 I'm at the Global Evidence Summit in Cape Town and have just created an account! I'd like to contribute to health information on wikipedia. Some years ago I wrote an editorial about Wikiprojects Medicine for the BMJ http://www.bmj.com/content/342/bmj.d3387 
 Look forward to working with you
 Lyndal
- () 10:20, 16 September 2017 (UTC)
-Hi . Thanks for the message. I will leave you a note on your &quot;talk&quot; page with some more information about the Cochrane-Wikipedia project. I am looking forward to working with you.  () 12:46, 16 September 2017 (UTC)
-Yes welcome. [[User:Doc James|Doc James]] ( ·  · ) 17:32, 19 September 2017 (UTC)
+Lyndalt (talk) 10:20, 16 September 2017 (UTC)
+Hi . Thanks for the message. I will leave you a note on your &quot;talk&quot; page with some more information about the Cochrane-Wikipedia project. I am looking forward to working with you. JenOttawa (talk) 12:46, 16 September 2017 (UTC)
+Yes welcome. Doc James (talk ·  · ) 17:32, 19 September 2017 (UTC)
 
 Draft:Zrii
 
 * 
-A new alternative medicine marketting company draft.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 22:46, 17 September 2017 (UTC)
-will look-- () 18:19, 18 September 2017 (UTC)
-Fairly typically for undisclosed paid promotional editing. Have blocked the accounts in question until the TOU are followed. [[User:Doc James|Doc James]] ( ·  · ) 17:31, 19 September 2017 (UTC)
-This aricle William F. Farley also likely needs clean up. [[User:Doc James|Doc James]] ( ·  · ) 19:31, 19 September 2017 (UTC)
+A new alternative medicine marketting company draft.  —PaleoNeonate – 22:46, 17 September 2017 (UTC)
+will look--Ozzie10aaaa (talk) 18:19, 18 September 2017 (UTC)
+Fairly typically for undisclosed paid promotional editing. Have blocked the accounts in question until the TOU are followed. Doc James (talk ·  · ) 17:31, 19 September 2017 (UTC)
+This aricle William F. Farley also likely needs clean up. Doc James (talk ·  · ) 19:31, 19 September 2017 (UTC)
 
 RfC: Should the  guideline discourage interleaving?
 
-Opinions are needed on the following matter: [[Wikipedia talk:Talk page guidelines#RfC: Should the guideline discourage interleaving? #2]]. A permalink for it is [https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Talk_page_guidelines&amp;oldid=801344749#RfC:_Should_the_guideline_discourage_interleaving.3F_.232 here].  () 18:27, 19 September 2017 (UTC)
-Why on Earth would you think that's an RFC of particular interest to WikiProject Medicine?  Please try  instead rather than posting this everywhere. [[User talk:LeadSongDog#top|come howl!]] 19:11, 19 September 2017 (UTC)
-As a one of the three most active projects I see how we may be interested in this. I have added my thoughts. [[User:Doc James|Doc James]] ( ·  · ) 19:31, 19 September 2017 (UTC)
+Opinions are needed on the following matter: . A permalink for it is [https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Talk_page_guidelines&amp;oldid=801344749#RfC:_Should_the_guideline_discourage_interleaving.3F_.232 here]. Flyer22 Reborn (talk) 18:27, 19 September 2017 (UTC)
+Why on Earth would you think that's an RFC of particular interest to WikiProject Medicine?  Please try  instead rather than posting this everywhere.LeadSongDog come howl! 19:11, 19 September 2017 (UTC)
+As a one of the three most active projects I see how we may be interested in this. I have added my thoughts. Doc James (talk ·  · ) 19:31, 19 September 2017 (UTC)
 
 Journal of Dietary Supplements
 
-If a journal does not have the impact factor, this journal is not &quot;reputable medical journal&quot; ()? Even if it is include in the Index medicus (MEDLINE)? Or am I wrong? -- () 12:23, 20 September 2017 (UTC)
-This criteria would seem to imply any recently created journal is not a reliable source. This seems not ideal to me. If Elsevier or Springer or PLoS start a new journal with stringent editing standards I think it would be reliable despite not having an impact factor (yet).  () 00:46, 21 September 2017 (UTC)
-That said, I think the lack of an impact factor is a red flag to investigate further.  () 00:46, 21 September 2017 (UTC)
-According to that article, this journal has been around since 1996 and is published by Taylor &amp; Francis, a reputable publisher as far as I know. ResearchGate gives it an impact factor of ~1 which isn't horrible [https://www.researchgate.net/journal/1939-022X_Journal_of_Dietary_Supplements].  () 00:51, 21 September 2017 (UTC)
+If a journal does not have the impact factor, this journal is not &quot;reputable medical journal&quot; ()? Even if it is include in the Index medicus (MEDLINE)? Or am I wrong? --Мит Сколов (talk) 12:23, 20 September 2017 (UTC)
+This criteria would seem to imply any recently created journal is not a reliable source. This seems not ideal to me. If Elsevier or Springer or PLoS start a new journal with stringent editing standards I think it would be reliable despite not having an impact factor (yet). Sizeofint (talk) 00:46, 21 September 2017 (UTC)
+That said, I think the lack of an impact factor is a red flag to investigate further. Sizeofint (talk) 00:46, 21 September 2017 (UTC)
+According to that article, this journal has been around since 1996 and is published by Taylor &amp; Francis, a reputable publisher as far as I know. ResearchGate gives it an impact factor of ~1 which isn't horrible [https://www.researchgate.net/journal/1939-022X_Journal_of_Dietary_Supplements]. Sizeofint (talk) 00:51, 21 September 2017 (UTC)
 Given the small number of articles published per year – I counted just 50 articles spread across six issues in 2016; I see only 17 articles in four issues for 2015 – I would take the RG impact factor numbers with a large grain of salt.  Having (or not having) a single moderately-widely cited paper would be sufficient to swing a calculated impact factor wildly up or down. (The relatively low and rather uneven output of this journal may be a reason why Clarivate doesn't even calculate an impact factor for them.)  The vast majority of articles could well never be cited (beyond self-cites) or even read.
 The scope of the journal encompasses a lot of territory frequently infringed by woo promoters, and would require a diligent editorial staff and careful peer reviewers to effectively police.  Unfortunately, the top scientific entry on the [http://www.tandfonline.com/toc/ijds20/current journal's homepage] is to [http://www.tandfonline.com/doi/full/10.3109/19390211.2015.1008614 Emerging Adjuvant Therapy for Cancer: Propolis and its Constituents], which has a wildly-overblown abstract about the miraculous healing properties of bee glue:
 &quot;...Its biological effects, which range from antimicrobial, antioxidant, anti-inflammatory, antidiabetic, dermatoprotective, anti-allergic, laxative and immunomodulatory to anticancer, have been validated. Propolis has shown efficacy against brain, head and neck, skin, breast, liver, pancreas, kidney, bladder, prostate, colon and blood cancers....&quot;
 On the other hand, right next to it we have [http://www.tandfonline.com/doi/full/10.3109/19390211.2014.904128 An Evidence-Based Systematic Review of Goji (Lycium spp.) by the Natural Standard Research Collaboration], which offers
 &quot;An evidence-based systematic review of goji (Lycium spp.) by the Natural Standard Research Collaboration consolidates the safety and efficacy data available in the scientific literature using a validated, reproducible grading rationale. This article includes written and statistical analysis of clinical trials, plus a compilation of expert opinion, folkloric precedent, history, pharmacology, kinetics/dynamics, interactions, adverse effects, toxicology, and dosing.&quot;
 (The Natural Standard Research Collaboration, as near as I can tell, is small but reputable and associated with Edzard Ernst.)
-So altogether the journal's a mixed bag.  I would be very careful about which articles I cited from it, and reluctant to use any content from articles without independent indicia of reliability.  () 02:54, 21 September 2017 (UTC)
+So altogether the journal's a mixed bag.  I would be very careful about which articles I cited from it, and reluctant to use any content from articles without independent indicia of reliability.  TenOfAllTrades(talk) 02:54, 21 September 2017 (UTC)
 
 Merge duplicate
 
-Any thoughts about this merge? It appears the duplicate article still carries the sandbox edits in it's history. I would have thought it would be better to take the duplicate and merge with the original and tidy up.   () 10:58, 20 September 2017 (UTC)
-yes agree-- () 23:51, 20 September 2017 (UTC)
-Merge done. [[User:Doc James|Doc James]] ( ·  · ) 04:42, 21 September 2017 (UTC)
+Any thoughts about this merge? It appears the duplicate article still carries the sandbox edits in it's history. I would have thought it would be better to take the duplicate and merge with the original and tidy up.  CV9933 (talk) 10:58, 20 September 2017 (UTC)
+yes agree--Ozzie10aaaa (talk) 23:51, 20 September 2017 (UTC)
+Merge done. Doc James (talk ·  · ) 04:42, 21 September 2017 (UTC)
 
 Notification of discussion on WP:FTN
 
-Some people here might be interested in . (Ignore the venue as it's not really a fringe theory discussion per se, but primarily a discussion on whether separate articles on Medicinal plants and Herbalism is either viable or desirable.) ‑  20:40, 21 September 2017 (UTC)
-If this is really a  then we might as well all give up hope.  () 21:05, 21 September 2017 (UTC)
-yep-- () 21:35, 21 September 2017 (UTC)
+Some people here might be interested in . (Ignore the venue as it's not really a fringe theory discussion per se, but primarily a discussion on whether separate articles on Medicinal plants and Herbalism is either viable or desirable.) ‑ Iridescent 20:40, 21 September 2017 (UTC)
+If this is really a  then we might as well all give up hope. Alexbrn (talk) 21:05, 21 September 2017 (UTC)
+yep--Ozzie10aaaa (talk) 21:35, 21 September 2017 (UTC)
 
 Cochrane switcheroo
 
-I thought WPMED might find [https://www.ncbi.nlm.nih.gov/pubmed/28922704 this Cochrane review] interesting, because: (1) as I note in [https://www.ncbi.nlm.nih.gov/pubmed/28922704#cm28922704_74056 a PubMed Commons comment there], it's a revised set of conclusions for a Cochrane review published earlier this year under the same title and authors but a different PubMed record; (2) if you go to the [https://www.ncbi.nlm.nih.gov/pubmed/28585310/ prior record] and scroll down, you'll see from the PubMed Commons comments (including mine) that this was a highly controversial report. Sometimes, &quot;high quality sources&quot;... aren't. —  () 01:57, 21 September 2017 (UTC)
-Yay!!  We had discussed that a bit when it came out, .  but YAY!!  So good that they had the guts to step away from that.  And thank you for interlinking them on pubmed.  That is a huge service that they should have done themselves.   () 02:37, 21 September 2017 (UTC)
-Agree the new conclusions are an improvement on the prior. I think much of the world was left scratching their heads after the first one. [[User:Doc James|Doc James]] ( ·  · ) 04:33, 21 September 2017 (UTC)
-Thanks for sharing this! () 01:24, 22 September 2017 (UTC)
+I thought WPMED might find [https://www.ncbi.nlm.nih.gov/pubmed/28922704 this Cochrane review] interesting, because: (1) as I note in [https://www.ncbi.nlm.nih.gov/pubmed/28922704#cm28922704_74056 a PubMed Commons comment there], it's a revised set of conclusions for a Cochrane review published earlier this year under the same title and authors but a different PubMed record; (2) if you go to the [https://www.ncbi.nlm.nih.gov/pubmed/28585310/ prior record] and scroll down, you'll see from the PubMed Commons comments (including mine) that this was a highly controversial report. Sometimes, &quot;high quality sources&quot;... aren't. — soupvector (talk) 01:57, 21 September 2017 (UTC)
+Yay!!  We had discussed that a bit when it came out, .  but YAY!!  So good that they had the guts to step away from that.  And thank you for interlinking them on pubmed.  That is a huge service that they should have done themselves.  Jytdog (talk) 02:37, 21 September 2017 (UTC)
+Agree the new conclusions are an improvement on the prior. I think much of the world was left scratching their heads after the first one. Doc James (talk ·  · ) 04:33, 21 September 2017 (UTC)
+Thanks for sharing this!JenOttawa (talk) 01:24, 22 September 2017 (UTC)
 
 IMO we are losing Wikipedia to undisclosed paid editors
 Thankfully most paid editors are still obvious like this
@@ -228,7 +228,7 @@ But they make a fair point [https://en.wikipedia.org/w/index.php?title=User_talk
 
 Because we are getting overrun by spam, they do not see why they cannot add their spam as well :-(
 
-[[User:Doc James|Doc James]] ( ·  · ) 18:15, 21 September 2017 (UTC)
+Doc James (talk ·  · ) 18:15, 21 September 2017 (UTC)
 
 * What's the problem here?
 * Poor article quality
@@ -237,87 +237,87 @@ Because we are getting overrun by spam, they do not see why they cannot add thei
  There is an increasing incidence, agreed, of paid editing and undisclosed paid editing. There are always questions of article quality. Yet, despite the initial gut reaction, I can't see so much of an inherent problem with paid editing. None of us are trusted as sources here: everything added needs to be sourced in a way that's independently verifiable. It doesn't matter whether additions come from &quot;good faith&quot; editors or from paid editors: are their edits any good?
  We have an article quality problem. I don't see paid editors significantly changing this. Maybe competent paid editors are to be encouraged?  We do have a number of incompetent, secretive and usually quite obvious paid editors around too, and most of those are quite obviously the low budget end of the market.
  We have a bias problem too. But even that is greater from the volunteer zealots, rather than the professional advocates.
- I think we need to focus less on the horror of editors being paid, more on quality generally, and more on efficiently working as a collaborative team. The amount of sniping at other good editors from those self-appointed &quot;senior editors&quot; in power (in their own mind at least) is far more of a problem than UPE. Also it makes tasks like SPI uselessly inefficient, when that's bunged up more with personal sniping than exposing real sock editors pushing an agenda for hire.  () 18:38, 21 September 2017 (UTC)
-The short answer is that paid editing (or advocacy of any kind) corrupts a consensus-based process. . More at .  () 18:48, 21 September 2017 (UTC)
-The question of what harms WP more, unpaid advocacy or paid advocacy, is unanswerable and a waste of time.  They both harm Wikipedia. People who spend time maintaining articles clean up after both kinds.  () 19:14, 21 September 2017 (UTC)
+ I think we need to focus less on the horror of editors being paid, more on quality generally, and more on efficiently working as a collaborative team. The amount of sniping at other good editors from those self-appointed &quot;senior editors&quot; in power (in their own mind at least) is far more of a problem than UPE. Also it makes tasks like SPI uselessly inefficient, when that's bunged up more with personal sniping than exposing real sock editors pushing an agenda for hire. Andy Dingley (talk) 18:38, 21 September 2017 (UTC)
+The short answer is that paid editing (or advocacy of any kind) corrupts a consensus-based process. . More at . Alexbrn (talk) 18:48, 21 September 2017 (UTC)
+The question of what harms WP more, unpaid advocacy or paid advocacy, is unanswerable and a waste of time.  They both harm Wikipedia. People who spend time maintaining articles clean up after both kinds. Jytdog (talk) 19:14, 21 September 2017 (UTC)
 
-* Doc James, I get that argument a lot. Bad content becomes a model and justification for more of the same.  () 19:19, 21 September 2017 (UTC)
+* Doc James, I get that argument a lot. Bad content becomes a model and justification for more of the same. Jytdog (talk) 19:19, 21 September 2017 (UTC)
 **In this example the company in question copied from their press releases into Wikipedia because they see other companies copying from their press releases into Wikipedia.
 **The article quality is exceedingly poor and promotional as is typically. We would not be here if paid editors created good content. They simply do not. I do not think I have seen a competent undisclosed paid editor every. And by far the majority of disclosed paid editors are also not competent and a greater harm than benefit. Overall disclosed paid editing is an overall harm and paid editing, taking over all, is a serious harm.
 **CU is already verging on useless when it comes to experience / professional paid editors as it only picks them up when they become lazy. Saying that the real problem is &quot;senior editors&quot; is basically the saying the volunteers who have built up Wikipedia and put it in the top ten of Google hits should now simply hand it over to those who want to make a profit off the site.
-**I am not there yet. Wikipedia officially does not accept advertising, we need to enforce this. [[User:Doc James|Doc James]] ( ·  · ) 19:57, 21 September 2017 (UTC)
+**I am not there yet. Wikipedia officially does not accept advertising, we need to enforce this. Doc James (talk ·  · ) 19:57, 21 September 2017 (UTC)
 Additional details:
 This person added &quot;SEPT9 DNA was listed along with the recommended Grade A screening tests in the United States Preventive Task Force (USPSTF) Colorectal Cancer Screening (2016).&quot;
 The actual source says &quot;Although a serology test to detect methylated SEPT9 DNA was included in the systematic evidence review, this screening method currently has limited evidence evaluating its use (a single published test characteristic study met inclusion criteria, which found it had a sensitivity to detect colorectal cancer of &lt;50%).1 It is therefore not included in this table.&quot;[https://www.uspreventiveservicestaskforce.org/Page/Document/RecommendationStatementFinal/colorectal-cancer-screening2#tab]
-This is a serious misrepresentation of the source and of a US government position. [[User:Doc James|Doc James]] ( ·  · ) 21:42, 21 September 2017 (UTC)
-Just cleaned up another one.[https://en.wikipedia.org/wiki/Special:Contributions/GHI_MSM] Sources were all primary or not about the subject in question. [[User:Doc James|Doc James]] ( ·  · ) 22:14, 21 September 2017 (UTC)
+This is a serious misrepresentation of the source and of a US government position. Doc James (talk ·  · ) 21:42, 21 September 2017 (UTC)
+Just cleaned up another one.[https://en.wikipedia.org/wiki/Special:Contributions/GHI_MSM] Sources were all primary or not about the subject in question. Doc James (talk ·  · ) 22:14, 21 September 2017 (UTC)
 
 How would you even know? 
-(This kind of discussion always reminds of something that I think  first commented on:  if you see a well-written contribution from a new account, it's probably a copyright violation.  It's very unusual for a newbie to get everything right.)   () 00:29, 22 September 2017 (UTC)
-We discover undisclosed paid editors by means other than their contributes such as Fiverr or Upworks. And when we discover them by those methods we find that invariable the articles they are creating are poor quality. Another way we discover paid editors is via SPIs and there to they are poor quality and spammy. [[User:Doc James|Doc James]] ( ·  · ) 01:11, 22 September 2017 (UTC)
- Even the copyvios, although textually well written, are liable to be rife with formatting errors. Also, even where a paid editor does those things well, they are going to be an SPA, or have at most a very limited number of topics that they address. [[User:BD2412|bd2412]]  00:38, 22 September 2017 (UTC)
-Last I heard, ~70% of registered editors who make one edit never come back on a second day.  So practically everyone has &quot;at most a very limited number of topics that they address&quot;.   () 01:05, 22 September 2017 (UTC)
+(This kind of discussion always reminds of something that I think  first commented on:  if you see a well-written contribution from a new account, it's probably a copyright violation.  It's very unusual for a newbie to get everything right.)  WhatamIdoing (talk) 00:29, 22 September 2017 (UTC)
+We discover undisclosed paid editors by means other than their contributes such as Fiverr or Upworks. And when we discover them by those methods we find that invariable the articles they are creating are poor quality. Another way we discover paid editors is via SPIs and there to they are poor quality and spammy. Doc James (talk ·  · ) 01:11, 22 September 2017 (UTC)
+ Even the copyvios, although textually well written, are liable to be rife with formatting errors. Also, even where a paid editor does those things well, they are going to be an SPA, or have at most a very limited number of topics that they address. bd2412 T 00:38, 22 September 2017 (UTC)
+Last I heard, ~70% of registered editors who make one edit never come back on a second day.  So practically everyone has &quot;at most a very limited number of topics that they address&quot;.  WhatamIdoing (talk) 01:05, 22 September 2017 (UTC)
 * &quot;I do not think I have seen a competent undisclosed paid editor ever&quot;
-Then find it and remedy it because of their incompetence, which should be obvious.  () 12:24, 22 September 2017 (UTC)
+Then find it and remedy it because of their incompetence, which should be obvious. Andy Dingley (talk) 12:24, 22 September 2017 (UTC)
  — Adding yet another task to the plate of the already low number of medical editors. We are only a handful who are truly active, and we all have limited time. I'm tired of how people who have no idea what they are talking about come here and bicker...
-The fact that you are alone as a non-regular in taking a position against the rest of the community who actually edit medical articles should be enough to tell you that you don't really grasp the issue at hand. [[User:CFCF|Carl Fredrik]] 12:50, 22 September 2017 (UTC)
+The fact that you are alone as a non-regular in taking a position against the rest of the community who actually edit medical articles should be enough to tell you that you don't really grasp the issue at hand. Carl Fredrik talk 12:50, 22 September 2017 (UTC)
  You might get to tell me about &quot;workload&quot; when you get &gt;100k edits
- Nor is medicine a special case. UPE affects all of WP.  () 12:53, 22 September 2017 (UTC)
+ Nor is medicine a special case. UPE affects all of WP. Andy Dingley (talk) 12:53, 22 September 2017 (UTC)
 So, this is exactly the problem. Wasteful automated edits, such as most who perform over 100k edits make are not going to help this issue. As for editors above 100k in medicine, there are either 3 or 4 in total (, ... maybe someone else), and only 1 who is active now: .
 Medicine is a special case, and this would be obvious if you weren't so ignorant of our policies and guidelines, such as .
-Other topic areas are absolutely under fire from UPD, however, medicine is especially susceptible because of the amount of money that goes into lobbying and marketing things that are not best practice. I suggest you read: 's excellent essay , especially the section . [[User:CFCF|Carl Fredrik]] 13:00, 22 September 2017 (UTC)
-Wanted to emphasise CFCF's point, excellently illustrated by the fact that some software or editor somewhere thanked me for being in the top 200 medical editors. I have an interest, but am most emphatically not a medical editor. -  13:23, 22 September 2017 (UTC)
-That is what some of use are working to do , we are trying to solve the problem at its source so that less edits are required. We need to put in place measures to limit activities by those not here to build a high quality and neutral encyclopedia. Should we remove rules against socking because we have a non perfect ability to enforce it? Should we say socking for any reason is perfectly fine because we should just look at the edits by said socks and not whether or not they are a sock? [[User:Doc James|Doc James]] ( ·  · ) 14:47, 22 September 2017 (UTC)
-If we are to create more stringent &quot;measures to limit activities by those not here to build a high quality and neutral encyclopedia&quot;, we should tighten the editing capability by having edit page code to screen for socks and encourage user registration or temporarily embargo an edit until review. In most cases, socks do not engage productively on Talk pages or follow guides like MEDRS. -- () 15:39, 22 September 2017 (UTC)
-Zefr makes some good points for consideration...IMO-- () 15:50, 22 September 2017 (UTC)
- has started a few weeks ago. We have pending changes but the software is slow and thus why I do not use it much. But agree [[User:Doc James|Doc James]] ( ·  · ) 18:32, 22 September 2017 (UTC)
+Other topic areas are absolutely under fire from UPD, however, medicine is especially susceptible because of the amount of money that goes into lobbying and marketing things that are not best practice. I suggest you read: 's excellent essay , especially the section . Carl Fredrik talk 13:00, 22 September 2017 (UTC)
+Wanted to emphasise CFCF's point, excellently illustrated by the fact that some software or editor somewhere thanked me for being in the top 200 medical editors. I have an interest, but am most emphatically not a medical editor. -Roxy the dog. bark 13:23, 22 September 2017 (UTC)
+That is what some of use are working to do , we are trying to solve the problem at its source so that less edits are required. We need to put in place measures to limit activities by those not here to build a high quality and neutral encyclopedia. Should we remove rules against socking because we have a non perfect ability to enforce it? Should we say socking for any reason is perfectly fine because we should just look at the edits by said socks and not whether or not they are a sock? Doc James (talk ·  · ) 14:47, 22 September 2017 (UTC)
+If we are to create more stringent &quot;measures to limit activities by those not here to build a high quality and neutral encyclopedia&quot;, we should tighten the editing capability by having edit page code to screen for socks and encourage user registration or temporarily embargo an edit until review. In most cases, socks do not engage productively on Talk pages or follow guides like MEDRS. --Zefr (talk) 15:39, 22 September 2017 (UTC)
+Zefr makes some good points for consideration...IMO--Ozzie10aaaa (talk) 15:50, 22 September 2017 (UTC)
+ has started a few weeks ago. We have pending changes but the software is slow and thus why I do not use it much. But agree Doc James (talk ·  · ) 18:32, 22 September 2017 (UTC)
 
 
 Manipulation under anesthesia
 
 * 
-Not a new article, but under recent changes, with some (perhaps outdated) complaints on the talk page about chiropractic vs osteopathy weight, more eyes always welcome.  Thanks, —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 03:17, 22 September 2017 (UTC)
-some additional sources could be added[https://www.ncbi.nlm.nih.gov/pubmed/?term=(+%22Manipulation+under+anesthesia%22+)+AND+Review%5Bptyp%5D]-- () 12:15, 23 September 2017 (UTC)
-The article requires cleanup and a possible merge to Spinal_manipulation#Assistance_of_medication_or_anesthesia. First, all the MEDRS violations need to be removed and then start the cleanup process. [[User:QuackGuru|QuackGuru]] ([[User talk:QuackGuru|talk]]) 14:32, 23 September 2017 (UTC)
+Not a new article, but under recent changes, with some (perhaps outdated) complaints on the talk page about chiropractic vs osteopathy weight, more eyes always welcome.  Thanks, —PaleoNeonate – 03:17, 22 September 2017 (UTC)
+some additional sources could be added[https://www.ncbi.nlm.nih.gov/pubmed/?term=(+%22Manipulation+under+anesthesia%22+)+AND+Review%5Bptyp%5D]--Ozzie10aaaa (talk) 12:15, 23 September 2017 (UTC)
+The article requires cleanup and a possible merge to Spinal_manipulation#Assistance_of_medication_or_anesthesia. First, all the MEDRS violations need to be removed and then start the cleanup process. QuackGuru (talk) 14:32, 23 September 2017 (UTC)
 
 Traveling with a mental health condition
 
-If you know a bit about the practical side of a mental health condition, then please consider taking a break to read the new guide about .  Feel free to add your advice for travellers.  If you're not familiar with the travel guide's standards, then [[voy:Wikivoyage:Welcome, Wikipedians]] explains it all pretty well.  Wikivoyage is a friendly, low-drama kind of place.   () 05:22, 24 September 2017 (UTC)
-thanks for post WAID-- () 11:17, 24 September 2017 (UTC)
+If you know a bit about the practical side of a mental health condition, then please consider taking a break to read the new guide about .  Feel free to add your advice for travellers.  If you're not familiar with the travel guide's standards, then  explains it all pretty well.  Wikivoyage is a friendly, low-drama kind of place.  WhatamIdoing (talk) 05:22, 24 September 2017 (UTC)
+thanks for post WAID--Ozzie10aaaa (talk) 11:17, 24 September 2017 (UTC)
 
 Rajesh Shah
 
-This article about a homeopath has seen its fair share of deletion discussions and controversial editing. The article contains several unsourced claims and other possibly controversial medical statements, that are solely based on Shah's own research and publications. It would be great, if an interested topic expert could look through the article to evaluate its claims and the used sources.  () 20:27, 24 September 2017 (UTC)
-I have AfD'd it with a request to salt.  () 05:47, 25 September 2017 (UTC)
+This article about a homeopath has seen its fair share of deletion discussions and controversial editing. The article contains several unsourced claims and other possibly controversial medical statements, that are solely based on Shah's own research and publications. It would be great, if an interested topic expert could look through the article to evaluate its claims and the used sources. GermanJoe (talk) 20:27, 24 September 2017 (UTC)
+I have AfD'd it with a request to salt. Alexbrn (talk) 05:47, 25 September 2017 (UTC)
 
 Urolithin A
 
-Assessment and comments for this article and its Talk page. If basic-stage phytochemical research is published in Nature Medicine [https://www.nature.com/nm/journal/v22/n8/full/nm.4132.html here], does that elevate it as MEDRS? -- () 23:59, 13 September 2017 (UTC)
- Nope. The quality of the journal publishing is just one factor that makes a source MEDRS-compliant. Primary studies (such as &quot;Urolithin A induces mitophagy and prolongs lifespan in C. elegans and increases muscle function in rodents&quot;) are not really what we need for biomedical claims. Nor for that matter would it be a good idea to extrapolate studies in roundworms and rats in order to draw conclusions in other lifeforms. On the plus side, the research is indexed at , and it is cited in other works such as [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5054377/ PMC5054377], but my advice would be to wait for a sober review to do some analysis before trying to use it. There's likely to be just too much hype around the idea of using pomegranates to extend lifespans. -- () 00:34, 14 September 2017 (UTC)
+Assessment and comments for this article and its Talk page. If basic-stage phytochemical research is published in Nature Medicine [https://www.nature.com/nm/journal/v22/n8/full/nm.4132.html here], does that elevate it as MEDRS? --Zefr (talk) 23:59, 13 September 2017 (UTC)
+ Nope. The quality of the journal publishing is just one factor that makes a source MEDRS-compliant. Primary studies (such as &quot;Urolithin A induces mitophagy and prolongs lifespan in C. elegans and increases muscle function in rodents&quot;) are not really what we need for biomedical claims. Nor for that matter would it be a good idea to extrapolate studies in roundworms and rats in order to draw conclusions in other lifeforms. On the plus side, the research is indexed at , and it is cited in other works such as [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5054377/ PMC5054377], but my advice would be to wait for a sober review to do some analysis before trying to use it. There's likely to be just too much hype around the idea of using pomegranates to extend lifespans. --RexxS (talk) 00:34, 14 September 2017 (UTC)
 Do we actually want to make &quot;biomedical claims&quot; about this?  Or can we give  attention to this collection of research by saying something in a
 Research
-section like &quot;Some of the basic research around this compound has been focused on its role in mitochondria and muscle development&quot; (or whatever that source says, when it's been reduced to plain English)?   () 00:55, 17 September 2017 (UTC)
-agree best if mentioned in research-- () 10:54, 25 September 2017 (UTC)
+section like &quot;Some of the basic research around this compound has been focused on its role in mitochondria and muscle development&quot; (or whatever that source says, when it's been reduced to plain English)?  WhatamIdoing (talk) 00:55, 17 September 2017 (UTC)
+agree best if mentioned in research--Ozzie10aaaa (talk) 10:54, 25 September 2017 (UTC)
 
 Women in Red: October focus on healthcare
--- () 18:39, 25 September 2017 (UTC)
-good info, thank you-- () 19:38, 25 September 2017 (UTC)
+--Ipigott (talk) 18:39, 25 September 2017 (UTC)
+good info, thank you--Ozzie10aaaa (talk) 19:38, 25 September 2017 (UTC)
 
 MACI and Maci
 
-Hi all! Does anyone have a clue whether MACI and Maci (medical treatment) might not perchance be about the same thing? Their unpronounceably long names (when not abbreviated) are different but the topics look suspiciously similar. –  18:48, 25 September 2017 (UTC)
+Hi all! Does anyone have a clue whether MACI and Maci (medical treatment) might not perchance be about the same thing? Their unpronounceably long names (when not abbreviated) are different but the topics look suspiciously similar. – Uanfala 18:48, 25 September 2017 (UTC)
 And than we have 
 *Autologous matrix-induced chondrogenesis 
 *Autologous chondrocyte implantation
 *Knee cartilage replacement therapy
 *Microfracture surgery
-[[User:Doc James|Doc James]] ( ·  · ) 22:46, 25 September 2017 (UTC)
+Doc James (talk ·  · ) 22:46, 25 September 2017 (UTC)
 
 Draft:Anita Madnani
 
 *
-Recent altmed BLP draft: &quot;color therapist, homeopathic practitioner and a motivational speaker&quot;.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 07:22, 25 September 2017 (UTC)
-barely meets -- () 00:29, 26 September 2017 (UTC)
+Recent altmed BLP draft: &quot;color therapist, homeopathic practitioner and a motivational speaker&quot;.  —PaleoNeonate – 07:22, 25 September 2017 (UTC)
+barely meets --Ozzie10aaaa (talk) 00:29, 26 September 2017 (UTC)
 
 Link to the site &quot;drug-key&quot;
 
@@ -326,17 +326,17 @@ http://www.drugskey.com/gabapin-nt-tablet-uses-side-effects-interactions-dosage/
 
 https://en.wikipedia.org/w/index.php?title=Gabapentin&amp;type=revision&amp;diff=802353199&amp;oldid=801462474
 
-Thanks,  () 17:01, 25 September 2017 (UTC)
+Thanks, JenOttawa (talk) 17:01, 25 September 2017 (UTC)
 
- Sets off a few warning alarms: &quot;The tablet shows its effectiveness in a period of one week and one month&quot;, &quot;Gabapin Nt Tablet can be interacted with the following drugs&quot;, &quot;Keep the medicines reach out of children&quot;. So a bit short on proofreading. The page was created on 29 September 2016, so it's rather new, but old enough for someone to have caught the typos if it was well used. The publisher points to some messed-up facebook page. The generator is &quot;WordPress 4.7.3&quot;. All of it is on http: rather than a secure protocol. Taken together, it doesn't inspire me to view it as a site that has &quot;a reputation for fact-checking and accuracy&quot; as  would wish us to use. -- () 19:02, 25 September 2017 (UTC)
- good catch. Typical spamming by a user with a COI. Delete and warn. If continues let me know. [[User:Doc James|Doc James]] ( ·  · ) 22:48, 25 September 2017 (UTC)
- Thanks for the feedback  and . Was reverted by another dedicated editor a few hrs later. I enjoy learning and being part of this community.  () 14:13, 26 September 2017 (UTC)
+ Sets off a few warning alarms: &quot;The tablet shows its effectiveness in a period of one week and one month&quot;, &quot;Gabapin Nt Tablet can be interacted with the following drugs&quot;, &quot;Keep the medicines reach out of children&quot;. So a bit short on proofreading. The page was created on 29 September 2016, so it's rather new, but old enough for someone to have caught the typos if it was well used. The publisher points to some messed-up facebook page. The generator is &quot;WordPress 4.7.3&quot;. All of it is on http: rather than a secure protocol. Taken together, it doesn't inspire me to view it as a site that has &quot;a reputation for fact-checking and accuracy&quot; as  would wish us to use. --RexxS (talk) 19:02, 25 September 2017 (UTC)
+ good catch. Typical spamming by a user with a COI. Delete and warn. If continues let me know. Doc James (talk ·  · ) 22:48, 25 September 2017 (UTC)
+ Thanks for the feedback  and . Was reverted by another dedicated editor a few hrs later. I enjoy learning and being part of this community. JenOttawa (talk) 14:13, 26 September 2017 (UTC)
 
 List of youngest birth fathers
-Trimmed a bunch of really poorly source items from here. [[User:Doc James|Doc James]] ( ·  · ) 03:56, 23 September 2017 (UTC)
-might be useful to expand the lede to this article/list[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3172315/]...IMO-- () 11:13, 24 September 2017 (UTC)
+Trimmed a bunch of really poorly source items from here. Doc James (talk ·  · ) 03:56, 23 September 2017 (UTC)
+might be useful to expand the lede to this article/list[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3172315/]...IMO--Ozzie10aaaa (talk) 11:13, 24 September 2017 (UTC)
 
-[https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Medicine&amp;diff=802732105&amp;oldid=802731967 Noting] that I started discussion section about it at . Permalink is [https://en.wikipedia.org/w/index.php?title=Talk:List_of_youngest_birth_fathers&amp;oldid=802732715 here]. I'm really not seeing why this article exists other than to serve as the male version of List of youngest birth mothers.  () 03:03, 28 September 2017 (UTC)
+[https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Medicine&amp;diff=802732105&amp;oldid=802731967 Noting] that I started discussion section about it at . Permalink is [https://en.wikipedia.org/w/index.php?title=Talk:List_of_youngest_birth_fathers&amp;oldid=802732715 here]. I'm really not seeing why this article exists other than to serve as the male version of List of youngest birth mothers. Flyer22 Reborn (talk) 03:03, 28 September 2017 (UTC)
 
 Novel substance use disorders?
 
@@ -346,32 +346,32 @@ Novel substance use disorders?
 *Phencyclidine use disorder
 *Other hallucinogen use disorder
 
- () 06:42, 27 September 2017 (UTC)
+Sizeofint (talk) 06:42, 27 September 2017 (UTC)
 
-Yes, they are categories taken from the DSM-5.  But the articles don't even say that -- I suspect they were created for the purpose of advertising a particular web site (which is not a  source).  () 17:09, 27 September 2017 (UTC)
-And the website currently does not appear to work. [[User:Doc James|Doc James]] ( ·  · ) 22:02, 27 September 2017 (UTC)
-It does, but not when accessed using those links.  () 00:18, 28 September 2017 (UTC)
-Given the small amount of content, should we redirect to substance use disorder?   () 05:51, 28 September 2017 (UTC)
-Yes I think that is the best approach Sizeofint. () 08:42, 28 September 2017 (UTC)
-   () 00:05, 29 September 2017 (UTC)
+Yes, they are categories taken from the DSM-5.  But the articles don't even say that -- I suspect they were created for the purpose of advertising a particular web site (which is not a  source). Looie496 (talk) 17:09, 27 September 2017 (UTC)
+And the website currently does not appear to work. Doc James (talk ·  · ) 22:02, 27 September 2017 (UTC)
+It does, but not when accessed using those links. Looie496 (talk) 00:18, 28 September 2017 (UTC)
+Given the small amount of content, should we redirect to substance use disorder?  Sizeofint (talk) 05:51, 28 September 2017 (UTC)
+Yes I think that is the best approach Sizeofint.Charlotte135 (talk) 08:42, 28 September 2017 (UTC)
+  Sizeofint (talk) 00:05, 29 September 2017 (UTC)
 
 Posterior ischemic optic neuropathy
-have been doing MEDMOS, MEDRS, infobox etc, (mainly stubs)... however stumbled upon above article and would prefer some assistance w/ it, thank you-- () 18:58, 28 September 2017 (UTC)
-WOW [[User:Doc James|Doc James]] ( ·  · ) 06:31, 29 September 2017 (UTC)
+have been doing MEDMOS, MEDRS, infobox etc, (mainly stubs)... however stumbled upon above article and would prefer some assistance w/ it, thank you--Ozzie10aaaa (talk) 18:58, 28 September 2017 (UTC)
+WOW Doc James (talk ·  · ) 06:31, 29 September 2017 (UTC)
 
 Sources for lack of evidence
 
-Unfounded health claims are regularly made, and people come to Wikipedia to check them. Most discussions of fads suffer from a lack of of genuine scientific evidence, which is bad for the public understanding of science, and some fads even harm public health. It would be good to have reliable sources for statements like &quot;As of January 2017, no good clinical evidence for this claim has been published&quot; or &quot;The two studies frequently cited in support of this claim both had major flaws, which...&quot;. Could we as ask the Cochrane Foundation (, ) to publish such statements? For a researcher in a field, an authoritative statement that there is currently no adequate evidence of X would presumably be fairly easy to make. In some cases, they might even be able to give an expert view of the plausibility of claims.  () 16:05, 30 September 2017 (UTC)
+Unfounded health claims are regularly made, and people come to Wikipedia to check them. Most discussions of fads suffer from a lack of of genuine scientific evidence, which is bad for the public understanding of science, and some fads even harm public health. It would be good to have reliable sources for statements like &quot;As of January 2017, no good clinical evidence for this claim has been published&quot; or &quot;The two studies frequently cited in support of this claim both had major flaws, which...&quot;. Could we as ask the Cochrane Foundation (, ) to publish such statements? For a researcher in a field, an authoritative statement that there is currently no adequate evidence of X would presumably be fairly easy to make. In some cases, they might even be able to give an expert view of the plausibility of claims. HLHJ (talk) 16:05, 30 September 2017 (UTC)
 This is a very important question The short answer is yes. EBM language has a lot of false friend vocabulary which readers mistake: see recently at  for the common misconception that &quot;more research is needed&quot; is a phrase that offers some kind of validation. I'm a big fan of the way Edzard Ernst glosses EBMeze, for example saying the text[http://edzardernst.com/2012/12/up-the-garden-path-craniosacral-therapy/]
 
 is
 
-With the Web of today, lay readers now read EBM materials. I wish the authors would consider their conclusions are sometimes read by scared people with credit card in hand wondering whether to  pay for a fringe &quot;therapy&quot;.  () 16:22, 30 September 2017 (UTC)
-Thanks, . I made you an article on more research is needed. Abstruse academic language is a separate issue, but I remember once reading a sentence in a published and presumably peer-reviewed case study three times before realizing that it meant &quot;The patient died&quot;. The authors were clearly not happy that their patient had died. Your example, on the other hand, retreats into dry, detached, unemotional, abstruse language to deal with conflict. I think open access will make the ability to read academic English much more common. Sadly, marketing dressed up in academic language will probably become more common, too. — Preceding  comment added by  ( • ) 18:22, 1 October 2017 (UTC)
-Oh, I love this new article.  , is there any chance that there's more to be said on the subject?  If we can get it up to 1,500 (readable) characters, which would be about a 50% expansion, then it could be sent to  and run on the Main Page.  It's really a &quot;hooky&quot; subject, so it might be fun.   () 20:46, 1 October 2017 (UTC) 
-Thank you, . I'll reply on .  ()
+With the Web of today, lay readers now read EBM materials. I wish the authors would consider their conclusions are sometimes read by scared people with credit card in hand wondering whether to  pay for a fringe &quot;therapy&quot;. Alexbrn (talk) 16:22, 30 September 2017 (UTC)
+Thanks, Alexbrn. I made you an article on more research is needed. Abstruse academic language is a separate issue, but I remember once reading a sentence in a published and presumably peer-reviewed case study three times before realizing that it meant &quot;The patient died&quot;. The authors were clearly not happy that their patient had died. Your example, on the other hand, retreats into dry, detached, unemotional, abstruse language to deal with conflict. I think open access will make the ability to read academic English much more common. Sadly, marketing dressed up in academic language will probably become more common, too. — Preceding  comment added by HLHJ  (talk • ) 18:22, 1 October 2017 (UTC)
+Oh, I love this new article.  HLHJ, is there any chance that there's more to be said on the subject?  If we can get it up to 1,500 (readable) characters, which would be about a 50% expansion, then it could be sent to  and run on the Main Page.  It's really a &quot;hooky&quot; subject, so it might be fun.  WhatamIdoing (talk) 20:46, 1 October 2017 (UTC) 
+Thank you, WhatamIdoing. I'll reply on . HLHJ (talk)
 
-At 's request I am removing the RfC as clutter. I hope you won't pity me for feeling fallible, Jytdog.  () 23:02, 1 October 2017 (UTC)
+At Jytdog's request I am removing the RfC as clutter. I hope you won't pity me for feeling fallible, Jytdog. HLHJ (talk) 23:02, 1 October 2017 (UTC)
 
 Sources about PTSD and abortion
 
@@ -382,54 +382,54 @@ Which of these two refs should we be citing about the risk of PTSD for women who
 
 Please read them both (I can send them to you - just email me), and please note that Bellieni is [https://www.catholicnewsagency.com/news/papal-adviser-finds-holes-in-new-study-on-abortion-and-mental-health a member of the Pontifical Academy for Life], who has also published on fetal pain, arguing that it starts at 20 weeks () a date that has become a focal point for anti-abortion state legislation drafted by the National Right to Life Committee and passed in around 12 states as of 2013  as described in [http://www.nytimes.com/2013/09/17/health/complex-science-at-issue-in-politics-of-fetal-pain.html this NYT] article and . 
 
---  () 08:26, 1 October 2017 (UTC)
-*The Horvath/Schreiber one is more recent, so that's an argument for preferring it, as is the history of bias on the part of the lead author of the other one. Some other recent reviews on this subject include [https://www.ncbi.nlm.nih.gov/pubmed/28477657 this recent review] with a negative conclusion and [https://www.ncbi.nlm.nih.gov/pubmed/23553240 this older one] (from 2013) with a more mixed conclusion (though there were some critical letters published in response to this latter review).   20:09, 1 October 2017 (UTC)
-Thanks for those refs! Have requested the Clinics one; am looking forward to seeing what it says. 2 reviews from this year would be great.  () 07:00, 2 October 2017 (UTC)
+-- Jytdog (talk) 08:26, 1 October 2017 (UTC)
+*The Horvath/Schreiber one is more recent, so that's an argument for preferring it, as is the history of bias on the part of the lead author of the other one. Some other recent reviews on this subject include [https://www.ncbi.nlm.nih.gov/pubmed/28477657 this recent review] with a negative conclusion and [https://www.ncbi.nlm.nih.gov/pubmed/23553240 this older one] (from 2013) with a more mixed conclusion (though there were some critical letters published in response to this latter review). Everymorning (talk) 20:09, 1 October 2017 (UTC)
+Thanks for those refs! Have requested the Clinics one; am looking forward to seeing what it says. 2 reviews from this year would be great. Jytdog (talk) 07:00, 2 October 2017 (UTC)
 * Two thoughts:
 *# First, before looking at the papers:  Is there some reason not to cite both, even if most individual editors disagree with the POVs in one or both of the reviews?  I thought that the mainstream consensus was that there are no simple answers.  The rate of PTSD presumably depends not just on the procedure, but also on cultural factors, your social situation, and individual issues, such as [https://www.theguardian.com/world/2008/nov/23/india-gender whether your mother-in-law wants to murder you because she unfairly blames you (and not her son) for conceiving a girl].  Which reminds me:  In keeping with the educational needs of a global encyclopedia, most of our articles related to this subject should probably be pointing out that the sex of a baby is determined by the father rather than the mother.  That's almost &quot;the sky is blue&quot; for those of us who know a thing or two about genetics, but maybe making this fact easier to find could result in fewer murdered mothers.  (And if you know any lawmakers in India, then maybe those ubiquitous signs at ultrasound clinics could be updated to say &quot;Sex determination testing is illegal, and, anyway, it's entirely your husband's fault if you conceived a girl.&quot;)
-*# After, looking at the papers:  I went into this biased in favor of the newer one, but is that second one actually a review?  PubMed's labels aren't perfect.  The abstract says, &quot;The Turnaway Study prospectively enrolled 956 women seeking abortion in the USA and followed their mental health outcomes for 5 years. The control group was comprised of women denied abortions based on gestational age limits&quot;, which sounds very much like an original experimental study.  I'm sure that scientists will argue over whether the kind of woman who sought an abortion at &gt;20 weeks is sufficiently similar to a woman who had the money, resources, organizational skills, prompt recognition of pregnancy, decisiveness, etc., to be able to obtain an abortion at a median of 7 weeks, but for our purposes, comparing a thousand individual women over the course of five years doesn't sound like a review article.   () 21:11, 1 October 2017 (UTC)
-Yes there is a reason not to use pro-life propaganda in Wikipedia. There are discretionary sanctions on abortion topics.  Yes, the second is a review; it discusses the 19 primary sources in Table 1 from the Turnaway study.  () 21:15, 1 October 2017 (UTC)
+*# After, looking at the papers:  I went into this biased in favor of the newer one, but is that second one actually a review?  PubMed's labels aren't perfect.  The abstract says, &quot;The Turnaway Study prospectively enrolled 956 women seeking abortion in the USA and followed their mental health outcomes for 5 years. The control group was comprised of women denied abortions based on gestational age limits&quot;, which sounds very much like an original experimental study.  I'm sure that scientists will argue over whether the kind of woman who sought an abortion at &gt;20 weeks is sufficiently similar to a woman who had the money, resources, organizational skills, prompt recognition of pregnancy, decisiveness, etc., to be able to obtain an abortion at a median of 7 weeks, but for our purposes, comparing a thousand individual women over the course of five years doesn't sound like a review article.  WhatamIdoing (talk) 21:11, 1 October 2017 (UTC)
+Yes there is a reason not to use pro-life propaganda in Wikipedia. There are discretionary sanctions on abortion topics.  Yes, the second is a review; it discusses the 19 primary sources in Table 1 from the Turnaway study. Jytdog (talk) 21:15, 1 October 2017 (UTC)
 Summarizing all the publications from one (1) clinical trial is not exactly what we mean by &quot;a review&quot;.  The point behind a review is to combine multiple, unrelated studies – ideally even sources that happen outside of the US.  Following the Least publishable unit theory and then collecting all of your own previously published work into a single report doesn't really meet the spirit of MEDRS' call for relying on secondary sources.  I'm not saying that it's unreliable for all purposes, but you couldn't really use it to say &quot;the rate of PTSD after an abortion is X%&quot;; you could only use it to say &quot;In one study, the rate of PTSD among American women who sought abortions but were denied because the clinic said the pregnancy was too advanced was X%, compared to American women who sought abortions at those same clinics at an earlier stage in the pregnancy.&quot;
-Are there no other sources on this subject?   () 17:43, 2 October 2017 (UTC)
-WAID.  That source and the higher quality older ones talk about the difficulty of confounders and how conclusions drawn from studies done in the past are tenative at best due to the confounders; the Turnaway study is the first study that was designed to actually address them and was very well powered.  It is immensely important. The Horvath paper is a review that discusses the older studies as well as that one. If you need the source I can send it to you; it is not clear to me that you have actually read it yet.  () 22:30, 2 October 2017 (UTC)
+Are there no other sources on this subject?  WhatamIdoing (talk) 17:43, 2 October 2017 (UTC)
+WAID.  That source and the higher quality older ones talk about the difficulty of confounders and how conclusions drawn from studies done in the past are tenative at best due to the confounders; the Turnaway study is the first study that was designed to actually address them and was very well powered.  It is immensely important. The Horvath paper is a review that discusses the older studies as well as that one. If you need the source I can send it to you; it is not clear to me that you have actually read it yet. Jytdog (talk) 22:30, 2 October 2017 (UTC)
 
 Ear pain
 
-This article came to my attention because of a discussion on the Science Reference Desk.  It is full of unsourced and rather dubious claims.  What is worse, this is the sort of article I can easily imagine readers who experience the problem turning to for information.  Unfortunately it's not a topic I know much about.  () 15:21, 2 October 2017 (UTC)
-will look-- () 22:54, 2 October 2017 (UTC)
+This article came to my attention because of a discussion on the Science Reference Desk.  It is full of unsourced and rather dubious claims.  What is worse, this is the sort of article I can easily imagine readers who experience the problem turning to for information.  Unfortunately it's not a topic I know much about. Looie496 (talk) 15:21, 2 October 2017 (UTC)
+will look--Ozzie10aaaa (talk) 22:54, 2 October 2017 (UTC)
 
 Laetrile in userspace
 
- is a single-subject editor who has not edited since 2010; he has left a couple of draft articles in his userspace about laetrile and a biochemist who promoted it. I know nothing of this topic and its history on Wikipedia; would anyone here know if Db-repost would be appropriate?  () 01:11, 3 October 2017 (UTC)
-[https://en.wikipedia.org/?title=Laetrile&amp;redirect=no]and [https://en.wikipedia.org/wiki/Ernst_T._Krebs]-- () 01:18, 3 October 2017 (UTC)
+ is a single-subject editor who has not edited since 2010; he has left a couple of draft articles in his userspace about laetrile and a biochemist who promoted it. I know nothing of this topic and its history on Wikipedia; would anyone here know if Db-repost would be appropriate? HLHJ (talk) 01:11, 3 October 2017 (UTC)
+[https://en.wikipedia.org/?title=Laetrile&amp;redirect=no]and [https://en.wikipedia.org/wiki/Ernst_T._Krebs]--Ozzie10aaaa (talk) 01:18, 3 October 2017 (UTC)
 
 * Ernst T. Krebs exists, so I see no need for 
-* Amygdalin#Laetrile exists so there is no need for   () 01:22, 3 October 2017 (UTC)
+* Amygdalin#Laetrile exists so there is no need for  Jytdog (talk) 01:22, 3 October 2017 (UTC)
 
 Meg's Patterson's Neuro-electric Therapy
 
 *
-Some debate about the legitimacy of this electric shock treatment to cure drug addiction, whether it is ensdorsed by the NHS, is pseudoscience, quackery, etc. More eyes would help. (Also posted at ).  () 10:13, 30 September 2017 (UTC)
-[https://www.ncbi.nlm.nih.gov/pubmed/?term=(+%22Neuro-electric+Therapy%22+)+AND+Review%5Bptyp%5D]is what came up(1995)-- () 09:42, 1 October 2017 (UTC)
-Thanks! Commented on the article's Talk page ...  () 08:35, 3 October 2017 (UTC)
+Some debate about the legitimacy of this electric shock treatment to cure drug addiction, whether it is ensdorsed by the NHS, is pseudoscience, quackery, etc. More eyes would help. (Also posted at ). Alexbrn (talk) 10:13, 30 September 2017 (UTC)
+[https://www.ncbi.nlm.nih.gov/pubmed/?term=(+%22Neuro-electric+Therapy%22+)+AND+Review%5Bptyp%5D]is what came up(1995)--Ozzie10aaaa (talk) 09:42, 1 October 2017 (UTC)
+Thanks! Commented on the article's Talk page ... Alexbrn (talk) 08:35, 3 October 2017 (UTC)
 
 Too technical (perhaps)
 
-This article is only one sentence long and has been tagged as too technical. I've noticed that tag a lot just lately but anyway I digress because my main concern is that the subject title is a phrase coined by the authors of the supporting ref (PMC4451469); &quot;This makes the present case the first of its kind in the literature, and it has resulted in the coining of the term Dahan's syndrome.&quot; I am not sure what to make of that, unless there is a special case that I am not aware of, I would think it might not pass notability.  () 21:46, 3 October 2017 (UTC)
-[https://en.wikipedia.org/wiki/Special:Contributions/Bearterry]editor worked only on that article...SPA?-- () 22:28, 3 October 2017 (UTC)
+This article is only one sentence long and has been tagged as too technical. I've noticed that tag a lot just lately but anyway I digress because my main concern is that the subject title is a phrase coined by the authors of the supporting ref (PMC4451469); &quot;This makes the present case the first of its kind in the literature, and it has resulted in the coining of the term Dahan's syndrome.&quot; I am not sure what to make of that, unless there is a special case that I am not aware of, I would think it might not pass notability. CV9933 (talk) 21:46, 3 October 2017 (UTC)
+[https://en.wikipedia.org/wiki/Special:Contributions/Bearterry]editor worked only on that article...SPA?--Ozzie10aaaa (talk) 22:28, 3 October 2017 (UTC)
 
 Merge Phytomedicine with Herbalism?
 
-Review and comments [https://en.wikipedia.org/wiki/Talk:Herbalism#Proposed_merge_with_Phytomedicine here.] -- () 19:44, 3 October 2017 (UTC)
+Review and comments [https://en.wikipedia.org/wiki/Talk:Herbalism#Proposed_merge_with_Phytomedicine here.] --Zefr (talk) 19:44, 3 October 2017 (UTC)
 
 
 
-*more opinions(gave mine)-- () 10:53, 4 October 2017 (UTC)
+*more opinions(gave mine)--Ozzie10aaaa (talk) 10:53, 4 October 2017 (UTC)
 
 Health in Cuba vs Healthcare in Cuba
 
-Hi! I had someone ask me about the articles Health in Cuba and Healthcare in Cuba. They were worried that the articles need to be merged, since they discuss almost the same topic. I wanted to ask about this here since I didn't know if there was a difference between the two articles that I didn't pick up on. I know that health could be more about the general health and healthcare be more about how health is treated, but I wasn't sure.  () 14:37, 4 October 2017 (UTC)
- Yes, I would expect Health in Cuba to be about the health of the population, notable health issues, life expectancy, etc. Healthcare in Cuba should be able the healthcare industry.  () 15:36, 4 October 2017 (UTC)
+Hi! I had someone ask me about the articles Health in Cuba and Healthcare in Cuba. They were worried that the articles need to be merged, since they discuss almost the same topic. I wanted to ask about this here since I didn't know if there was a difference between the two articles that I didn't pick up on. I know that health could be more about the general health and healthcare be more about how health is treated, but I wasn't sure. Shalor (Wiki Ed) (talk) 14:37, 4 October 2017 (UTC)
+ Yes, I would expect Health in Cuba to be about the health of the population, notable health issues, life expectancy, etc. Healthcare in Cuba should be able the healthcare industry. Natureium (talk) 15:36, 4 October 2017 (UTC)
 
 Should MDMA state it has no medical uses in the first paragraph?
 
@@ -438,43 +438,43 @@ Please offer your thoughts.
 *
 *
 
- () 20:15, 4 October 2017 (UTC)
+Sizeofint (talk) 20:15, 4 October 2017 (UTC)
 
 
 
-opinions needed(gave mine[https://en.wikipedia.org/w/index.php?title=Talk:MDMA&amp;diff=803896498&amp;oldid=803885700])-- () 10:47, 5 October 2017 (UTC)
+opinions needed(gave mine[https://en.wikipedia.org/w/index.php?title=Talk:MDMA&amp;diff=803896498&amp;oldid=803885700])--Ozzie10aaaa (talk) 10:47, 5 October 2017 (UTC)
 
 To mouse or not to mouse
 
 In the spirit of a bar bet, if you're editing remotely (e.g., if you take your laptop to a café), do you take an external mouse and mousepad with you?  
 
-I'm hearing that Wikipedia editors in at least some countries do this, but I can't remember the last time I saw someone using a mouse (away from a desk), much less taking a mousepad along.  What do you think?  Am I just not going to the right places?   () 22:18, 2 October 2017 (UTC)
+I'm hearing that Wikipedia editors in at least some countries do this, but I can't remember the last time I saw someone using a mouse (away from a desk), much less taking a mousepad along.  What do you think?  Am I just not going to the right places?  WhatamIdoing (talk) 22:18, 2 October 2017 (UTC)
 
-Because touchpads are suboptimal, I do bring a small portable mouse around, but no pad.  This reminds me that I should replace my dead trackball which is even better (small, no need for a surface, more efficient than touchpads).  But I don't think that I really see people with a mouse and pad in cafes.  Even netbooks and laptops are rare versus pads and phones.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 22:55, 2 October 2017 (UTC)
+Because touchpads are suboptimal, I do bring a small portable mouse around, but no pad.  This reminds me that I should replace my dead trackball which is even better (small, no need for a surface, more efficient than touchpads).  But I don't think that I really see people with a mouse and pad in cafes.  Even netbooks and laptops are rare versus pads and phones.  —PaleoNeonate – 22:55, 2 October 2017 (UTC)
 
- Always mouse. I usually find myself using my laptop at events I'm training at, so not only do I take a wireless mouse for my laptop, I take a spare wireless mouse + dongle because there's always one new editor who has borrowed a laptop and finds they can't work the touchpad (or worse, the tiny joystick that some have). -- () 02:26, 3 October 2017 (UTC)
-Generally I use a touchpad with a laptop, but if I'm travelling with my laptop I take a wired mouse. Sometimes at home when something is Really Wrong with Wikipedia, I need to decamp to the desktop machine (3 screens &amp; big clicky keyboard) ;-)  () 08:40, 3 October 2017 (UTC)
- When I was in grad school (a few years ago) some of my classmates used wireless mice with their laptops (no mousepads), but that was most common among the second-career folks. I've occasionally carried along a wireless mouse when I knew I'd be doing a lot of graphics work (especially after I bought a Magic Mouse) or when the switch(es) for clicking started to get flakey on an older laptop—the tap-to-click thing has never consistently worked for me. — ‹› 16:40, 5 October 2017 (UTC)
-Who doesn't use a wireless mouse when working on a laptop nowadays? Also, I hate mouse pads. [[User:Seppi333|Seppi333]] () 22:19, 5 October 2017 (UTC)
+ Always mouse. I usually find myself using my laptop at events I'm training at, so not only do I take a wireless mouse for my laptop, I take a spare wireless mouse + dongle because there's always one new editor who has borrowed a laptop and finds they can't work the touchpad (or worse, the tiny joystick that some have). --RexxS (talk) 02:26, 3 October 2017 (UTC)
+Generally I use a touchpad with a laptop, but if I'm travelling with my laptop I take a wired mouse. Sometimes at home when something is Really Wrong with Wikipedia, I need to decamp to the desktop machine (3 screens &amp; big clicky keyboard) ;-) Alexbrn (talk) 08:40, 3 October 2017 (UTC)
+ When I was in grad school (a few years ago) some of my classmates used wireless mice with their laptops (no mousepads), but that was most common among the second-career folks. I've occasionally carried along a wireless mouse when I knew I'd be doing a lot of graphics work (especially after I bought a Magic Mouse) or when the switch(es) for clicking started to get flakey on an older laptop—the tap-to-click thing has never consistently worked for me. —Shelley V. Adams ‹blame› 16:40, 5 October 2017 (UTC)
+Who doesn't use a wireless mouse when working on a laptop nowadays? Also, I hate mouse pads. Seppi333 (Insert 2¢) 22:19, 5 October 2017 (UTC)
 
 Research
-On Wikipedia and medicine published by someone here[https://www.researchgate.net/publication/320188268_Open_Medicine_Journal_Wikipedia_as_Informal_Self-Education_for_Clinical_Decision-Making_in_Medical_Practice] [[User:Doc James|Doc James]] ( ·  · ) 23:07, 4 October 2017 (UTC)
-very useful information obtained-- () 10:35, 5 October 2017 (UTC)
-Thanks.  () 01:07, 6 October 2017 (UTC)
+On Wikipedia and medicine published by someone here[https://www.researchgate.net/publication/320188268_Open_Medicine_Journal_Wikipedia_as_Informal_Self-Education_for_Clinical_Decision-Making_in_Medical_Practice] Doc James (talk ·  · ) 23:07, 4 October 2017 (UTC)
+very useful information obtained--Ozzie10aaaa (talk) 10:35, 5 October 2017 (UTC)
+Thanks. JenOttawa (talk) 01:07, 6 October 2017 (UTC)
 
 Anonymous edits to psychiatry-related articles
 
-An anonymous editor added the same (or very similar) text to [[Special:Contributions/2601:C6:8301:4E20:E8B7:6E21:E2BD:FCED|several psychiatry-related articles]] in the last couple days. Very similar, but much smaller, anonymous edits to Psychiatric rehabilitation earlier this week came from a [[Special:Contributions/2601:C6:8301:4E20:758B:EBD6:4C17:74B9|different IP]]. The edits are occasionally , but mostly . Not sure if this is reason enough to protect these articles, but an admin might want to take a look. I'd also like to find out if more edits like these are coming from nearby IP addresses, so I'd appreciate advice from folks experienced at checking out IP edits. Thanks! — ‹› 14:28, 5 October 2017 (UTC), edited 16:17, 5 October 2017 (UTC)
-they seem to be advertising [https://cpr.bu.edu/ BU Center for Psychiatric Rehabilitation/Boston University]-- () 21:24, 5 October 2017 (UTC)
-Yes, blatant advertising, I agree. () 01:33, 6 October 2017 (UTC)
+An anonymous editor added the same (or very similar) text to  in the last couple days. Very similar, but much smaller, anonymous edits to Psychiatric rehabilitation earlier this week came from a . The edits are occasionally , but mostly . Not sure if this is reason enough to protect these articles, but an admin might want to take a look. I'd also like to find out if more edits like these are coming from nearby IP addresses, so I'd appreciate advice from folks experienced at checking out IP edits. Thanks! —Shelley V. Adams ‹blame› 14:28, 5 October 2017 (UTC), edited 16:17, 5 October 2017 (UTC)
+they seem to be advertising [https://cpr.bu.edu/ BU Center for Psychiatric Rehabilitation/Boston University]--Ozzie10aaaa (talk) 21:24, 5 October 2017 (UTC)
+Yes, blatant advertising, I agree.Charlotte135 (talk) 01:33, 6 October 2017 (UTC)
 
 Mahendra Shah
 
 *
 
-.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 23:17, 4 October 2017 (UTC)
+.  —PaleoNeonate – 23:17, 4 October 2017 (UTC)
 
-Typical paid for spam / COI editing. Most likely a sock. [[User:Doc James|Doc James]] ( ·  · ) 00:06, 5 October 2017 (UTC)
+Typical paid for spam / COI editing. Most likely a sock. Doc James (talk ·  · ) 00:06, 5 October 2017 (UTC)
 
 While I've put off looking closely, my impression is there is a lot of this going on for articles about medical professionals, service providers, and the occasional procedure. 
 
@@ -482,25 +482,25 @@ While I've put off looking closely, my impression is there is a lot of this goin
 
 
 
-are some the I've edited recently. -- () 23:34, 5 October 2017 (UTC)
+are some the I've edited recently. --Ronz (talk) 23:34, 5 October 2017 (UTC)
 Yup we are being overrun :-( Paid editing (especially of the undisclosed type) is the single biggest threat to Wikipedia's future. A conflicted editor yesterday email me threats as they thought I deleted the article they wrote about themselves (even though someone else actually deleted it). 
-The process for getting a CU on obvious socks of a paid editor is an uphill battle... [[User:Doc James|Doc James]] ( ·  · ) 08:42, 6 October 2017 (UTC)
+The process for getting a CU on obvious socks of a paid editor is an uphill battle... Doc James (talk ·  · ) 08:42, 6 October 2017 (UTC)
 
 Creating a Public Domain tag for medical images taken in the US
 
-As per [https://www.copyright.gov/comp3/docs/compendium.pdf Compendium: Chapter 300 by the US Copyright Office], &quot;the Office will not register works produced by a machine or mere mechanical process that operates randomly or automatically without any creative input or intervention from a human author.&quot; including &quot;Medical imaging produced by x-rays, ultrasounds, magnetic resonance imaging, or other diagnostic equipment.&quot; I've updated the [[Meta:Wikilegal/Copyright of X-Ray Images|Meta:Copyright of X-Ray Images]] page with this information, and I've also made a request at Wikimedia Commons to make a Public Domain tag specifically to mark such works: [[Commons:Village_pump/Copyright#Creating_.7B.7BPD-US-Medical_imaging.7D.7D|Commons:Village pump/Copyright#Creating ]]. Please add your opinion there.  () 18:38, 1 October 2017 (UTC)
+As per [https://www.copyright.gov/comp3/docs/compendium.pdf Compendium: Chapter 300 by the US Copyright Office], &quot;the Office will not register works produced by a machine or mere mechanical process that operates randomly or automatically without any creative input or intervention from a human author.&quot; including &quot;Medical imaging produced by x-rays, ultrasounds, magnetic resonance imaging, or other diagnostic equipment.&quot; I've updated the  page with this information, and I've also made a request at Wikimedia Commons to make a Public Domain tag specifically to mark such works: . Please add your opinion there. Mikael Häggström (talk) 18:38, 1 October 2017 (UTC)
 
 
-more opinions(gave mine[https://commons.wikimedia.org/w/index.php?title=Commons:Village_pump/Copyright&amp;diff=261230339&amp;oldid=261226682])-- () 10:49, 3 October 2017 (UTC)
+more opinions(gave mine[https://commons.wikimedia.org/w/index.php?title=Commons:Village_pump/Copyright&amp;diff=261230339&amp;oldid=261226682])--Ozzie10aaaa (talk) 10:49, 3 October 2017 (UTC)
 
-There are two separate issues, copyright and consent. We should not be mixing them. [[User:Doc James|Doc James]] ( ·  · ) 23:46, 4 October 2017 (UTC)
-I've added subsection headers to mark the different topics. Also, I've now made further edits to the [[Commons:Template:PD-US-Medical imaging|]] tag [https://commons.wikimedia.org/w/index.php?title=Template%3APD-US-Medical_imaging%2Fen&amp;type=revision&amp;diff=261937948&amp;oldid=261865667] and the  page [https://meta.wikimedia.org/w/index.php?title=Wikilegal%2FCopyright_of_Medical_Imaging&amp;type=revision&amp;diff=17306508&amp;oldid=17295840]. Notably, by the laws of derivative works it would seem we can also use medical images from otherwise copyrighted works such as journals and textbooks, but we would reasonably still need evidence that each of those images were created in the United States to invoke those laws. It seems at [[Commons:Commons:Requests for comment/Xrays|Commons:Requests for comment/Xrays]] (most activity was in 2013) that a rather conservative approach was supported in avoiding such usage in general, but I do think the issue is worth raising again for images created in the US.  () 08:28, 7 October 2017 (UTC)
+There are two separate issues, copyright and consent. We should not be mixing them. Doc James (talk ·  · ) 23:46, 4 October 2017 (UTC)
+I've added subsection headers to mark the different topics. Also, I've now made further edits to the  tag [https://commons.wikimedia.org/w/index.php?title=Template%3APD-US-Medical_imaging%2Fen&amp;type=revision&amp;diff=261937948&amp;oldid=261865667] and the  page [https://meta.wikimedia.org/w/index.php?title=Wikilegal%2FCopyright_of_Medical_Imaging&amp;type=revision&amp;diff=17306508&amp;oldid=17295840]. Notably, by the laws of derivative works it would seem we can also use medical images from otherwise copyrighted works such as journals and textbooks, but we would reasonably still need evidence that each of those images were created in the United States to invoke those laws. It seems at  (most activity was in 2013) that a rather conservative approach was supported in avoiding such usage in general, but I do think the issue is worth raising again for images created in the US. Mikael Häggström (talk) 08:28, 7 October 2017 (UTC)
 
 Should we have separate articles on a WHO Essential medicines?
-*Discussion at  [[User:Doc James|Doc James]] ( ·  · ) 22:30, 6 October 2017 (UTC)
-I'm posting this on  and  as well.  () 04:35, 9 October 2017 (UTC)
+*Discussion at  Doc James (talk ·  · ) 22:30, 6 October 2017 (UTC)
+I'm posting this on  and  as well. Sizeofint (talk) 04:35, 9 October 2017 (UTC)
 
-opinions needed(gave mine)-- () 11:47, 8 October 2017 (UTC)
+opinions needed(gave mine)--Ozzie10aaaa (talk) 11:47, 8 October 2017 (UTC)
 
 Adding the Cochrane-Wikipedia Initiative to the &quot;Health Information on Wikipedia&quot; article
 
@@ -509,27 +509,27 @@ I made a suggestion on the talk page of this article with some ideas for referen
  
 
 Thanks,
- () 15:43, 8 October 2017 (UTC)
-commented-- () 09:47, 9 October 2017 (UTC)
+JenOttawa (talk) 15:43, 8 October 2017 (UTC)
+commented--Ozzie10aaaa (talk) 09:47, 9 October 2017 (UTC)
 
 Need help with the biography of a professor of neurosurgery 
 
-I'm working on expanding the Karin Muraszko article, I need help with selecting items for the &quot;Selected articles&quot; list. Her Google Scholar profile lists over 200 articles, picking out the most significant/important dozen or so is proving difficult. &quot;Most cited&quot; is proving not particularly useful as a selection criterion. Many of her early articles, where she was one of a large number of joint authors, are very heavily cited, but don't seem to to be particularly ground-breaking works. Most cited appears to correlate better to age than &quot;significance&quot;. I've started the list more on &quot;gut feel&quot; than any objective criteria, so I'd really appreciate some help from someone familiar with the topic.  () 18:09, 8 October 2017 (UTC)
-commented on article/talk-- () 11:49, 9 October 2017 (UTC)
+I'm working on expanding the Karin Muraszko article, I need help with selecting items for the &quot;Selected articles&quot; list. Her Google Scholar profile lists over 200 articles, picking out the most significant/important dozen or so is proving difficult. &quot;Most cited&quot; is proving not particularly useful as a selection criterion. Many of her early articles, where she was one of a large number of joint authors, are very heavily cited, but don't seem to to be particularly ground-breaking works. Most cited appears to correlate better to age than &quot;significance&quot;. I've started the list more on &quot;gut feel&quot; than any objective criteria, so I'd really appreciate some help from someone familiar with the topic. Roger (Dodger67) (talk) 18:09, 8 October 2017 (UTC)
+commented on article/talk--Ozzie10aaaa (talk) 11:49, 9 October 2017 (UTC)
 
 Spanish medical editing initiatives
 
 I noticed a comment on the Cochrane-Wikipedia partnership page asking for information on any Spanish editing initiatives. https://meta.wikimedia.org/wiki/Talk:Cochrane_Collaboration-Wikipedia_Initiative
 Is anyone here connected with a Spanish medical editing group? I have also asked at Cochrane.
 Thanks,
- () 16:41, 6 October 2017 (UTC)
- does some work in Spanish I think. There are requests from those using the offline app for Spanish improvements in medical content. [[User:Doc James|Doc James]] ( ·  · ) 21:53, 6 October 2017 (UTC)
-Thanks . I will follow up.  Jenny  () 01:32, 7 October 2017 (UTC)
-Hello, . [https://es.wikipedia.org/wiki/Wikiproyecto:Medicina/participantes This] is the list of the participants in the Spanish WikiProject Medicine. Is not as active as here. --    01:59, 7 October 2017 (UTC)
-Thanks for this list . I appreciate your help. Jenny.  () 01:24, 9 October 2017 (UTC)
- Is there anyone in particular on this list that could connect this potential editor with? Thanks again,  () 22:50, 9 October 2017 (UTC)
-I do not know... What I will do is linking to this discussion in the Wikiproyecto Medicina. See if there is luck and someone is interested. Best regards. --    22:56, 9 October 2017 (UTC)
-[https://es.wikipedia.org/wiki/Wikiproyecto_Discusi%C3%B3n:Medicina#Mensaje_en_el_WikiProject_Medicine:_solicitud_de_colaboraci.C3.B3n] --    23:02, 9 October 2017 (UTC)
+JenOttawa (talk) 16:41, 6 October 2017 (UTC)
+ does some work in Spanish I think. There are requests from those using the offline app for Spanish improvements in medical content. Doc James (talk ·  · ) 21:53, 6 October 2017 (UTC)
+Thanks Doc James. I will follow up.  Jenny JenOttawa (talk) 01:32, 7 October 2017 (UTC)
+Hello, . [https://es.wikipedia.org/wiki/Wikiproyecto:Medicina/participantes This] is the list of the participants in the Spanish WikiProject Medicine. Is not as active as here. --BallenaBlanca   (Talk) 01:59, 7 October 2017 (UTC)
+Thanks for this list . I appreciate your help. Jenny. JenOttawa (talk) 01:24, 9 October 2017 (UTC)
+ Is there anyone in particular on this list that could connect this potential editor with? Thanks again, JenOttawa (talk) 22:50, 9 October 2017 (UTC)
+I do not know... What I will do is linking to this discussion in the Wikiproyecto Medicina. See if there is luck and someone is interested. Best regards. --BallenaBlanca   (Talk) 22:56, 9 October 2017 (UTC)
+[https://es.wikipedia.org/wiki/Wikiproyecto_Discusi%C3%B3n:Medicina#Mensaje_en_el_WikiProject_Medicine:_solicitud_de_colaboraci.C3.B3n] --BallenaBlanca   (Talk) 23:02, 9 October 2017 (UTC)
 
 Clinical equipoise article needs help
 
@@ -537,36 +537,36 @@ I changed Clinical equipoise from Start-class to Stub as it suffers from poor qu
 
 Rooshenas L, Elliott D, Wade J, et al. Conveying Equipoise during Recruitment for Clinical Trials: Qualitative Synthesis of Clinicians’ Practices across Six Randomised Controlled Trials. PLoS Medicine. 2016;13(10):e1002147. [http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002147 doi:10.1371/journal.pmed.1002147]
 
-[[User:Markworthen|  - Mark D Worthen PsyD]] [[User talk:Markworthen|(talk)]] 06:22, 9 October 2017 (UTC)
-[https://www.ncbi.nlm.nih.gov/pubmed/?term=Clinical+equipoise+and+personal+equipoise%3A+two+necessary+ingredients+for+reducing+bias+in+manual+therapy+trials]could use-- () 10:49, 10 October 2017 (UTC)
+  - Mark D Worthen PsyD (talk) 06:22, 9 October 2017 (UTC)
+[https://www.ncbi.nlm.nih.gov/pubmed/?term=Clinical+equipoise+and+personal+equipoise%3A+two+necessary+ingredients+for+reducing+bias+in+manual+therapy+trials]could use--Ozzie10aaaa (talk) 10:49, 10 October 2017 (UTC)
 
 Nomination of  for deletion
 A discussion is taking place as to whether the article  is suitable for inclusion in Wikipedia according to  or whether it should be .
 
 The article will be discussed at  until a consensus is reached, and anyone is welcome to contribute to the discussion. The nomination will explain the policies and guidelines which are of concern. The discussion focuses on high-quality evidence and our policies and guidelines.
 
-Users may edit the article during the discussion, including to improve the article to address concerns raised in the discussion. However, do not remove the article-for-deletion notice from the top of the article. —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 08:30, 10 October 2017 (UTC)
-It is a neologism. Belongs on wiktionary. [[User:Doc James|Doc James]] ( ·  · ) 09:08, 11 October 2017 (UTC)
+Users may edit the article during the discussion, including to improve the article to address concerns raised in the discussion. However, do not remove the article-for-deletion notice from the top of the article. —PaleoNeonate – 08:30, 10 October 2017 (UTC)
+It is a neologism. Belongs on wiktionary. Doc James (talk ·  · ) 09:08, 11 October 2017 (UTC)
 
 Change Antidepressants to Dysfunctional Mood Relievers (DMRs)
 
-I've witnessed that antidepressants are effective for a range of mood maladies beyond depression, anxiety, and obsessive compulsive disorder. They're also effective against anger, aggravation, irritability, temperamentality, apathy, sloth, etc. that individually or collectively cause clinically significant distress/impariment. I feel that the label of DMRs is a better umbrella term for the wide range of disorders antidepressants are effective against. Thoughts/comments?  () 07:43, 8 October 2017 (UTC)
-My impression is that antidepressant is still a more widely used term.  Various DMR uses are also off-label, some being controversial (others more substanciated).  Disclaimer: I'm no expert.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 08:32, 8 October 2017 (UTC)
-I know people can be hostile about antidepressants, but surely calling all Mood Relievers &quot;Dysfunctional&quot; is going a bit far...  () 09:21, 8 October 2017 (UTC)
-We go with the common name which is antidepressants. [[User:Doc James|Doc James]] ( ·  · ) 09:56, 8 October 2017 (UTC)
-I can't find any reference in the literature to the term &quot;Dysfunctional Mood Reliever&quot;, abbreviated DMR.  () 13:43, 8 October 2017 (UTC)
-I thought DMR referred to the awful sexual side effects that cause many patients to stop taking SSRI's and SNRI's. ;o) [[User:Markworthen|  - Mark D Worthen PsyD]] [[User talk:Markworthen|(talk)]] 06:12, 9 October 2017 (UTC)
-I concur.  Never heard of a DMR.  There are some antidepressants that make people pretty doggone dysfunctional when stopped abruptly, but I don't think that's what you're getting at...  () 06:48, 9 October 2017 (UTC)
-I think this might be meant as a proposal, which of course is a problem with  (so we won't put it in any articles).  On the other hand, for people interested in the subject area, brainstorming an ideal replacement name for antidepressants (which do both more and less than what the label suggests) is probably interesting, and that the world would be a slightly better place if someone came up with a perfect name (which naturally would have to be adopted elsewhere, etc.).  So, taking this as a proposal, I'll point out that &quot;DMR&quot; doesn't indicate the non-mood effects, e.g., the use of some of these pills to treat physical pain, and thus is perhaps not quite ideal.    () 03:32, 10 October 2017 (UTC)
- Mm, I actually coined the term while thinking of antidepressants as being a somewhat restricted label for all the uses this class of medications makes available. But you're right, sufferers of somatic symptom disorder for example can experience relief from pain or other malignant sensations in the body with antidepressants. When I thought of the label DMR, I didn't really spend time to think of more alternatives to naming this class of medications though I'll probably give it some more thought at some point. At any rate, I feel that the label of DMRs, as opposed to the label of antidepressants, draws more focus to the chief symptoms these medications are traditionally used for, with mood being somewhat predominant from my experience (not sure about how it is with others' experience). I'm glad that my idea seems to have drawn some interest to the subject, maybe someone will come up with an even more fitting (while still hopefully pithy) term in the future :)  () 09:19, 11 October 2017 (UTC)
+I've witnessed that antidepressants are effective for a range of mood maladies beyond depression, anxiety, and obsessive compulsive disorder. They're also effective against anger, aggravation, irritability, temperamentality, apathy, sloth, etc. that individually or collectively cause clinically significant distress/impariment. I feel that the label of DMRs is a better umbrella term for the wide range of disorders antidepressants are effective against. Thoughts/comments?  (talk) 07:43, 8 October 2017 (UTC)
+My impression is that antidepressant is still a more widely used term.  Various DMR uses are also off-label, some being controversial (others more substanciated).  Disclaimer: I'm no expert.  —PaleoNeonate – 08:32, 8 October 2017 (UTC)
+I know people can be hostile about antidepressants, but surely calling all Mood Relievers &quot;Dysfunctional&quot; is going a bit far... Jheald (talk) 09:21, 8 October 2017 (UTC)
+We go with the common name which is antidepressants. Doc James (talk ·  · ) 09:56, 8 October 2017 (UTC)
+I can't find any reference in the literature to the term &quot;Dysfunctional Mood Reliever&quot;, abbreviated DMR. Looie496 (talk) 13:43, 8 October 2017 (UTC)
+I thought DMR referred to the awful sexual side effects that cause many patients to stop taking SSRI's and SNRI's. ;o)   - Mark D Worthen PsyD (talk) 06:12, 9 October 2017 (UTC)
+I concur.  Never heard of a DMR.  There are some antidepressants that make people pretty doggone dysfunctional when stopped abruptly, but I don't think that's what you're getting at... Jclemens (talk) 06:48, 9 October 2017 (UTC)
+I think this might be meant as a proposal, which of course is a problem with  (so we won't put it in any articles).  On the other hand, for people interested in the subject area, brainstorming an ideal replacement name for antidepressants (which do both more and less than what the label suggests) is probably interesting, and that the world would be a slightly better place if someone came up with a perfect name (which naturally would have to be adopted elsewhere, etc.).  So, taking this as a proposal, I'll point out that &quot;DMR&quot; doesn't indicate the non-mood effects, e.g., the use of some of these pills to treat physical pain, and thus is perhaps not quite ideal.   WhatamIdoing (talk) 03:32, 10 October 2017 (UTC)
+ Mm, I actually coined the term while thinking of antidepressants as being a somewhat restricted label for all the uses this class of medications makes available. But you're right, sufferers of somatic symptom disorder for example can experience relief from pain or other malignant sensations in the body with antidepressants. When I thought of the label DMR, I didn't really spend time to think of more alternatives to naming this class of medications though I'll probably give it some more thought at some point. At any rate, I feel that the label of DMRs, as opposed to the label of antidepressants, draws more focus to the chief symptoms these medications are traditionally used for, with mood being somewhat predominant from my experience (not sure about how it is with others' experience). I'm glad that my idea seems to have drawn some interest to the subject, maybe someone will come up with an even more fitting (while still hopefully pithy) term in the future :)  (talk) 09:19, 11 October 2017 (UTC)
 The problem of naming is significant, and can lead to people refusing potentially effective treatment because they're not experiencing depressed mood (so why take an antidepressant?).  Perhaps someone will find a source and expand Antidepressant to talk about the misleading name. 
-(I wonder if the converse is true:  the patient feels depressed, and therefore insists upon an antidepressant, although what is really needed is, say, a CPAP machine.)   () 21:55, 11 October 2017 (UTC)
+(I wonder if the converse is true:  the patient feels depressed, and therefore insists upon an antidepressant, although what is really needed is, say, a CPAP machine.)  WhatamIdoing (talk) 21:55, 11 October 2017 (UTC)
 
 Medical identification tags
 
-Can anyone get a photo of a typical/metal medical alert bracelet for Medical identification tag?   () 05:59, 27 September 2017 (UTC)
-Note: If finding one of a common MedicAlert one, it could serve for both .  I have searched on commons without success.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 06:15, 27 September 2017 (UTC)
-We're a pretty big group.  I figure that there's got to be someone here who owns such a tag, or who has a friend or family member who wouldn't mind a quick snapshot of theirs (the non-personally-identifying parts, please).   () 15:07, 27 September 2017 (UTC)
+Can anyone get a photo of a typical/metal medical alert bracelet for Medical identification tag?  WhatamIdoing (talk) 05:59, 27 September 2017 (UTC)
+Note: If finding one of a common MedicAlert one, it could serve for both .  I have searched on commons without success.  —PaleoNeonate – 06:15, 27 September 2017 (UTC)
+We're a pretty big group.  I figure that there's got to be someone here who owns such a tag, or who has a friend or family member who wouldn't mind a quick snapshot of theirs (the non-personally-identifying parts, please).  WhatamIdoing (talk) 15:07, 27 September 2017 (UTC)
  I have a friend who has a bracelet, so I've photographed that and uploaded three images to Commons. It's really hard to stop the light from reflecting and bleaching out part of the engraving, but these are hopefully readable at a useable size:
  multiple image
 | align = center
@@ -577,45 +577,45 @@ We're a pretty big group.  I figure that there's got to be someone here who owns
 | image3 = Medical alert bracelet 4.jpg
 | width3 = 144
 
- See what you think. -- () 17:37, 27 September 2017 (UTC)
+ See what you think. --RexxS (talk) 17:37, 27 September 2017 (UTC)
 Thanks!  I've added the first to Medical identification tag.
-I've also checked the refs, and 100% were either links to websites selling these or obviously unreliable (e.g., the link to an Amazon product review by someone claiming to be a nurse), so I've removed them all.  The content itself doesn't look wrong or promotional, but now it needs .  , do you know whether Consumer Reports or a similar independent group has written anything about this subject?  I don't realistically expect it to be a hot topic in biomedical research.   () 18:37, 27 September 2017 (UTC)
-Answer:  Yes, they did:  .   () 05:34, 28 September 2017 (UTC)
+I've also checked the refs, and 100% were either links to websites selling these or obviously unreliable (e.g., the link to an Amazon product review by someone claiming to be a nurse), so I've removed them all.  The content itself doesn't look wrong or promotional, but now it needs .  , do you know whether Consumer Reports or a similar independent group has written anything about this subject?  I don't realistically expect it to be a hot topic in biomedical research.  WhatamIdoing (talk) 18:37, 27 September 2017 (UTC)
+Answer:  Yes, they did:  .  WhatamIdoing (talk) 05:34, 28 September 2017 (UTC)
 
 
-*Medical identification tag article could use help/edits, thanks-- () 11:54, 8 October 2017 (UTC)
-** I have to put this on my to-do list. I have some article about these things somewhere but I cannot immediately find it. Thanks for pinging me because this is relevant to what I do but I am unable to engage at this time. [[User:Bluerasberry| Blue Rasberry ]][[User talk:Bluerasberry|(talk)]] 19:18, 10 October 2017 (UTC)
-*** are a few that I found:  [https://www.consumerreports.org/home-medical-supplies/a-medical-alert-necklace-that-mom-might-wear/ style matters], [https://www.consumerreports.org/cro/health/the-deal-with-greatcall-and-other-mobile-medical-alert-systems indoor vs everywhere else], and [https://www.consumerreports.org/cro/2014/06/what-to-look-for-in-a-medical-alert-system/index.htm costs and US comparison].   () 06:21, 12 October 2017 (UTC)
+*Medical identification tag article could use help/edits, thanks--Ozzie10aaaa (talk) 11:54, 8 October 2017 (UTC)
+** I have to put this on my to-do list. I have some article about these things somewhere but I cannot immediately find it. Thanks for pinging me because this is relevant to what I do but I am unable to engage at this time.  Blue Rasberry (talk) 19:18, 10 October 2017 (UTC)
+***Here are a few that I found:  [https://www.consumerreports.org/home-medical-supplies/a-medical-alert-necklace-that-mom-might-wear/ style matters], [https://www.consumerreports.org/cro/health/the-deal-with-greatcall-and-other-mobile-medical-alert-systems indoor vs everywhere else], and [https://www.consumerreports.org/cro/2014/06/what-to-look-for-in-a-medical-alert-system/index.htm costs and US comparison].  WhatamIdoing (talk) 06:21, 12 October 2017 (UTC)
 
 Video on Wikipedia
 We have a RfC about a video here 
 
-Others thoughts. [[User:Doc James|Doc James]] ( ·  · ) 04:46, 12 October 2017 (UTC)
+Others thoughts. Doc James (talk ·  · ) 04:46, 12 October 2017 (UTC)
 
 
 
-give opinion(gave mine)-- () 11:03, 13 October 2017 (UTC)
+give opinion(gave mine)--Ozzie10aaaa (talk) 11:03, 13 October 2017 (UTC)
 
 Pyroluria treatment
 
 *
-I noticed this article as someone recently added it to the pseudoscience category.  Appears to not have received any attention in a while (and has no WikiProject tags yet).  Thanks, —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 05:25, 14 October 2017 (UTC)
-might be best added/merged toOrthomolecular_psychiatry#Pyroluria...IMO-- () 10:50, 14 October 2017 (UTC)
-Done [[User:Doc James|Doc James]] ( ·  · ) 11:27, 14 October 2017 (UTC)
+I noticed this article as someone recently added it to the pseudoscience category.  Appears to not have received any attention in a while (and has no WikiProject tags yet).  Thanks, —PaleoNeonate – 05:25, 14 October 2017 (UTC)
+might be best added/merged toOrthomolecular_psychiatry#Pyroluria...IMO--Ozzie10aaaa (talk) 10:50, 14 October 2017 (UTC)
+Done Doc James (talk ·  · ) 11:27, 14 October 2017 (UTC)
 
 [https://meta.wikimedia.org/wiki/Internet-in-a-Box Internet-in-a-Box]
 
 
-Internet-in-a-Box (Offline Medical Wikipedia) is launched and ready to ship as of today. The device is basically a mini server that creates a wifi signal that up to 32 people can simultaneously log onto and access all of Wikipedia's medical content in English, Spanish, and Arabic (also includes some others stuff). One can also download and install the offline medical apps to your phone. Content is stored on the uSD card within the device. We are selling them at the cost of the hardware, which is 27 USD, plus shipping. [[User:Doc James|Doc James]] ( ·  · ) 20:52, 5 October 2017 (UTC)
-From content to hardware!  dang.  () 21:24, 5 October 2017 (UTC)
-excellent-- () 21:26, 5 October 2017 (UTC)
- That's excellent news, James. For those who aren't familiar with the Internet-in-a-Box, it is a micro pc running linux with a web/file server and its own wireless network that wireless-connected devices can connect to, and that does not rely on an external internet connection. That allows people (and especially peripatetic physicians) in parts of the world without any internet access of any sort to still use WiFi-enabled devices to access all of our medical content and more. It runs off 5 volts and can work for many hours powered from the sort of battery packs that we use to re-charge mobile phones when there's no mains power available. Making these available is a milestone in our mission to make our knowledge available to every single human on the planet. -- () 22:16, 5 October 2017 (UTC)
-Great concept and service. Thanks for the info. -- () 23:32, 5 October 2017 (UTC)
-This is what it [http://medbox.iiab.me/home/ looks like] when you log onto the wifi. [[User:Doc James|Doc James]] ( ·  · ) 01:36, 6 October 2017 (UTC)
-*Amazing  05:01, 7 October 2017 (UTC)
-*Awesome! What a wonderful gift to the medical community and their patients. :O) [[User:Markworthen|  - Mark D Worthen PsyD]] [[User talk:Markworthen|(talk)]] 06:08, 9 October 2017 (UTC)
-*Fantastic step forward, and way cheaper than Outernet receivers. It'd be even better serviced with a periodic μSD-card swap by snail-mail to easily refresh content for the cost of a postage stamp.  [[User talk:LeadSongDog#top|come howl!]] 21:33, 11 October 2017 (UTC)
-Yup exactly. That is the thought for updates. [[User:Doc James|Doc James]] ( ·  · ) 11:31, 14 October 2017 (UTC)
+Internet-in-a-Box (Offline Medical Wikipedia) is launched and ready to ship as of today. The device is basically a mini server that creates a wifi signal that up to 32 people can simultaneously log onto and access all of Wikipedia's medical content in English, Spanish, and Arabic (also includes some others stuff). One can also download and install the offline medical apps to your phone. Content is stored on the uSD card within the device. We are selling them at the cost of the hardware, which is 27 USD, plus shipping. Doc James (talk ·  · ) 20:52, 5 October 2017 (UTC)
+From content to hardware!  dang. Jytdog (talk) 21:24, 5 October 2017 (UTC)
+excellent--Ozzie10aaaa (talk) 21:26, 5 October 2017 (UTC)
+ That's excellent news, James. For those who aren't familiar with the Internet-in-a-Box, it is a micro pc running linux with a web/file server and its own wireless network that wireless-connected devices can connect to, and that does not rely on an external internet connection. That allows people (and especially peripatetic physicians) in parts of the world without any internet access of any sort to still use WiFi-enabled devices to access all of our medical content and more. It runs off 5 volts and can work for many hours powered from the sort of battery packs that we use to re-charge mobile phones when there's no mains power available. Making these available is a milestone in our mission to make our knowledge available to every single human on the planet. --RexxS (talk) 22:16, 5 October 2017 (UTC)
+Great concept and service. Thanks for the info. --Zefr (talk) 23:32, 5 October 2017 (UTC)
+This is what it [http://medbox.iiab.me/home/ looks like] when you log onto the wifi. Doc James (talk ·  · ) 01:36, 6 October 2017 (UTC)
+*Amazing Samir 05:01, 7 October 2017 (UTC)
+*Awesome! What a wonderful gift to the medical community and their patients. :O)   - Mark D Worthen PsyD (talk) 06:08, 9 October 2017 (UTC)
+*Fantastic step forward, and way cheaper than Outernet receivers. It'd be even better serviced with a periodic μSD-card swap by snail-mail to easily refresh content for the cost of a postage stamp. LeadSongDog come howl! 21:33, 11 October 2017 (UTC)
+Yup exactly. That is the thought for updates. Doc James (talk ·  · ) 11:31, 14 October 2017 (UTC)
 
 Updating Wikipedia should be part of all doctors' jobs
 
@@ -627,29 +627,29 @@ Thanks to
 *
 for putting yourselves out there and speaking up.
 
-I do not recognize the others as regular WikiProject Medicine participants, so I omitted linking their usernames. [[User:Bluerasberry| Blue Rasberry ]][[User talk:Bluerasberry|(talk)]] 19:21, 10 October 2017 (UTC)
-very good points raised[https://www.statnews.com/2017/10/10/updating-wikipedia-part-doctors-jobs/comment-page-1/] and well done-- () 21:40, 10 October 2017 (UTC)
-In our own capacity we are trying to spread the word about Wikipedia and its medical contents. We would encourage others to do the same. Meanwhile it would perhaps be more meaningful if my proposal  can be implemented properly. [[User:Diptanshu Das|Diptanshu]]  07:22, 11 October 2017 (UTC)
-Had to say thanks too as relatively new editor and busy working, but feeling the importance of the quoted article above.  () 05:56, 12 October 2017 (UTC)
-I'm glad that it was enjoyable. Hopefully it'll help the broad efforts on multiple fronts to increase participation. I spend a lot of my time pestering researchers, so it was good to balance that out with pestering doctors!  05:14, 15 October 2017 (UTC)
+I do not recognize the others as regular WikiProject Medicine participants, so I omitted linking their usernames.  Blue Rasberry (talk) 19:21, 10 October 2017 (UTC)
+very good points raised[https://www.statnews.com/2017/10/10/updating-wikipedia-part-doctors-jobs/comment-page-1/] and well done--Ozzie10aaaa (talk) 21:40, 10 October 2017 (UTC)
+In our own capacity we are trying to spread the word about Wikipedia and its medical contents. We would encourage others to do the same. Meanwhile it would perhaps be more meaningful if my proposal  can be implemented properly. Diptanshu 💬 07:22, 11 October 2017 (UTC)
+Had to say thanks too as relatively new editor and busy working, but feeling the importance of the quoted article above. Whispyhistory (talk) 05:56, 12 October 2017 (UTC)
+I'm glad that it was enjoyable. Hopefully it'll help the broad efforts on multiple fronts to increase participation. I spend a lot of my time pestering researchers, so it was good to balance that out with pestering doctors! T.Shafee(Evo&amp;Evo)talk 05:14, 15 October 2017 (UTC)
 
 RNA therapy
-Thoughts? [[User:Doc James|Doc James]] ( ·  · ) 13:24, 14 October 2017 (UTC)
-I wonder if the modernatx site references aren't slightly promotional... we of course also already have gene therapy, but I don't seem to find RNA specific material there yet; there's some mention of  prophylaxis but not specifically on prophylactic vaccines.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 14:21, 14 October 2017 (UTC)
- I agree—the Genomic Medicine, GEN, and Nature refs are fine, but the modernatx refs are not reliable and should be excised in this MEDRS relevant article. — () 16:09, 14 October 2017 (UTC)
-Merge to gene therapy than maybe. [[User:Doc James|Doc James]] ( ·  · ) 16:11, 14 October 2017 (UTC)
-It feels like the kind of subject that will benefit from a separate article.  Injecting RNA into a cell doesn't feel like &quot;gene therapy&quot;, since it neither changes nor adds any actual genes.   () 19:57, 14 October 2017 (UTC)
+Thoughts? Doc James (talk ·  · ) 13:24, 14 October 2017 (UTC)
+I wonder if the modernatx site references aren't slightly promotional... we of course also already have gene therapy, but I don't seem to find RNA specific material there yet; there's some mention of  prophylaxis but not specifically on prophylactic vaccines.  —PaleoNeonate – 14:21, 14 October 2017 (UTC)
+ I agree—the Genomic Medicine, GEN, and Nature refs are fine, but the modernatx refs are not reliable and should be excised in this MEDRS relevant article. —Mark viking (talk) 16:09, 14 October 2017 (UTC)
+Merge to gene therapy than maybe. Doc James (talk ·  · ) 16:11, 14 October 2017 (UTC)
+It feels like the kind of subject that will benefit from a separate article.  Injecting RNA into a cell doesn't feel like &quot;gene therapy&quot;, since it neither changes nor adds any actual genes.  WhatamIdoing (talk) 19:57, 14 October 2017 (UTC)
 
-* Moderna has raised a staggering amount of money, on the promise that they are going to deliver mRNA as a drug, that will be translated into proteins and do all kinds of magical things. The mRNA does not get incorporated into the genome so this is not really gene therapy but they have been very quiet about what kind of vehicle it will be delivered in, if it is oral (?!) or IV or something else, how it survives degradation, how they get any kind of specificity as to where the mRNA gets translated.. so many questions that nobody knows but them yet.   In any case there is a very brief section now at Messenger_RNA#mRNA-based_therapeutics; I think that is where the content should go until there is more to say.  (Moderna has published nothing as far as I know)  () 21:02, 14 October 2017 (UTC)
-** That's a much more plausible target for a merge.  Thanks.   () 21:27, 14 October 2017 (UTC)
-*** done.  () 01:48, 15 October 2017 (UTC)
- Thank you, —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 03:58, 15 October 2017 (UTC)
-Agree, thanks [[User:Doc James|Doc James]] ( ·  · ) 06:33, 15 October 2017 (UTC)
+* Moderna has raised a staggering amount of money, on the promise that they are going to deliver mRNA as a drug, that will be translated into proteins and do all kinds of magical things. The mRNA does not get incorporated into the genome so this is not really gene therapy but they have been very quiet about what kind of vehicle it will be delivered in, if it is oral (?!) or IV or something else, how it survives degradation, how they get any kind of specificity as to where the mRNA gets translated.. so many questions that nobody knows but them yet.   In any case there is a very brief section now at Messenger_RNA#mRNA-based_therapeutics; I think that is where the content should go until there is more to say.  (Moderna has published nothing as far as I know) Jytdog (talk) 21:02, 14 October 2017 (UTC)
+** That's a much more plausible target for a merge.  Thanks.  WhatamIdoing (talk) 21:27, 14 October 2017 (UTC)
+*** done. Jytdog (talk) 01:48, 15 October 2017 (UTC)
+ Thank you, —PaleoNeonate – 03:58, 15 October 2017 (UTC)
+Agree, thanks Doc James (talk ·  · ) 06:33, 15 October 2017 (UTC)
 
 Merge Request
 
-Please comment / assist in merging Dressing (medical), Adhesive bandage, Field dressing (bandage) into Bandage. Reason: duplications, overlappings.  () 17:50, 15 October 2017 (UTC)
-*-- () 18:15, 15 October 2017 (UTC)
+Please comment / assist in merging Dressing (medical), Adhesive bandage, Field dressing (bandage) into Bandage. Reason: duplications, overlappings.  Etan J. Tal(talk) 17:50, 15 October 2017 (UTC)
+*--Ozzie10aaaa (talk) 18:15, 15 October 2017 (UTC)
 
 &quot;code comment&quot;
 
@@ -659,11 +659,11 @@ https://en.wikipedia.org/w/index.php?title=Back_pain&amp;type=revision&amp;diff=
 
 Does anyone have experience with these? The comment is not showing up when I look at the article itself.
 Thanks,
- () 00:09, 15 October 2017 (UTC)
+JenOttawa (talk) 00:09, 15 October 2017 (UTC)
 
- These are regularly used. See . -- () 02:33, 15 October 2017 (UTC)
-I have answered and removed the comment. Really it belongs on the talk page. [[User:Doc James|Doc James]] ( ·  · ) 06:21, 15 October 2017 (UTC)
-Thanks.  () 02:04, 16 October 2017 (UTC)
+ These are regularly used. See . --Mark viking (talk) 02:33, 15 October 2017 (UTC)
+I have answered and removed the comment. Really it belongs on the talk page. Doc James (talk ·  · ) 06:21, 15 October 2017 (UTC)
+Thanks. JenOttawa (talk) 02:04, 16 October 2017 (UTC)
 
 Grant proposal: Wikipedia Cultural Diversity Observatory 
 
@@ -696,44 +696,44 @@ in time, we are facing many challenges in healthcare - from cost to new diseases
 
 
 
- () 14:30, 16 October 2017 (UTC) 07:12 16 October 2017 (PT)
+Masonix (talk) 14:30, 16 October 2017 (UTC)masonite 07:12 16 October 2017 (PT)
 
 * 
 * [https://meta.wikimedia.org/wiki/Grants:Project/Wikipedia_Cultural_Diversity_Observatory_(WCDO) grant proposal at meta]
 
---  () 19:12, 9 October 2017 (UTC)
-Andrew and I did this for medical content a few years ago. [[User:Doc James|Doc James]] ( ·  · ) 01:46, 10 October 2017 (UTC)
-hm! are the results posted somewhere?  () 02:57, 11 October 2017 (UTC)
-[https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Stats/Top_articles_by_language Here]. We published the similarity between readership in this paper.[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4376174/table/table5/] [[User:Doc James|Doc James]] ( ·  · ) 03:34, 12 October 2017 (UTC)
+-- Jytdog (talk) 19:12, 9 October 2017 (UTC)
+Andrew and I did this for medical content a few years ago. Doc James (talk ·  · ) 01:46, 10 October 2017 (UTC)
+hm! are the results posted somewhere? Jytdog (talk) 02:57, 11 October 2017 (UTC)
+[https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Stats/Top_articles_by_language Here]. We published the similarity between readership in this paper.[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4376174/table/table5/] Doc James (talk ·  · ) 03:34, 12 October 2017 (UTC)
 
 Claude Franceschi
-Others thoughts? [[User:Doc James|Doc James]] ( ·  · ) 07:03, 16 October 2017 (UTC)
-oh that  has a serious case of hero worship?  () 07:05, 16 October 2017 (UTC)
-[https://en.wikipedia.org/wiki/Special:Contributions/Geiss]seems to be limited in his/her edits-- () 01:08, 17 October 2017 (UTC)
+Others thoughts? Doc James (talk ·  · ) 07:03, 16 October 2017 (UTC)
+oh that  has a serious case of hero worship? Jytdog (talk) 07:05, 16 October 2017 (UTC)
+[https://en.wikipedia.org/wiki/Special:Contributions/Geiss]seems to be limited in his/her edits--Ozzie10aaaa (talk) 01:08, 17 October 2017 (UTC)
 
 Type of sources to use at the  Sex differences in intelligence article
 
-Opinions are needed on the following: . Concerns what type of sources to use when reporting on the intelligence studies. A permalink for it is [https://en.wikipedia.org/w/index.php?title=Talk:Sex_differences_in_intelligence&amp;oldid=805676355#Primary_source_after_primary_source here].  () 22:37, 16 October 2017 (UTC)
-Controversial stuff needs extra good sourcing. [[User:Doc James|Doc James]] ( ·  · ) 09:52, 17 October 2017 (UTC)
+Opinions are needed on the following: . Concerns what type of sources to use when reporting on the intelligence studies. A permalink for it is [https://en.wikipedia.org/w/index.php?title=Talk:Sex_differences_in_intelligence&amp;oldid=805676355#Primary_source_after_primary_source here]. Flyer22 Reborn (talk) 22:37, 16 October 2017 (UTC)
+Controversial stuff needs extra good sourcing. Doc James (talk ·  · ) 09:52, 17 October 2017 (UTC)
 
 Input welcome
 
-  () 00:59, 16 October 2017 (UTC)
+ Jytdog (talk) 00:59, 16 October 2017 (UTC)
 
 
-*more opinions(gave mine)-- () 11:20, 17 October 2017 (UTC)
+*more opinions(gave mine)--Ozzie10aaaa (talk) 11:20, 17 October 2017 (UTC)
 
 Dr Umme Raheel
 
 *
-New altmed bio: &quot;M.D (Alternative Medicine), PhD (Beauty Therapist)&quot;.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 10:18, 17 October 2017 (UTC)
-Low level spam. Would delete. [[User:Doc James|Doc James]] ( ·  · ) 17:45, 17 October 2017 (UTC)
-Thanks, now at CSD, will see if it's contested.  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 19:08, 17 October 2017 (UTC)
+New altmed bio: &quot;M.D (Alternative Medicine), PhD (Beauty Therapist)&quot;.  —PaleoNeonate – 10:18, 17 October 2017 (UTC)
+Low level spam. Would delete. Doc James (talk ·  · ) 17:45, 17 October 2017 (UTC)
+Thanks, now at CSD, will see if it's contested.  —PaleoNeonate – 19:08, 17 October 2017 (UTC)
 
 Pressure-controlled intermittent coronary sinus occlusion (PICSO)
-Thoughts? [[User:Doc James|Doc James]] ( ·  · ) 17:44, 17 October 2017 (UTC)
-[https://books.google.com/books?id=fhXVDQAAQBAJ&amp;pg=PA420&amp;dq=Pressure-controlled+intermittent+coronary+sinus+occlusion&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiusp7sq_jWAhWFZiYKHRaaD7wQ6AEIQzAG#v=onepage&amp;q=Pressure-controlled%20intermittent%20coronary%20sinus%20occlusion&amp;f=false]pg 420 (bottom of first paragraph, perhaps?)-- () 19:04, 17 October 2017 (UTC)
-The topic might be notable but that page needs to go. it is not a WP article but very typical medical device marketing aimed at explaining the need, why it should work, etc.  not a WP article.  () 19:16, 17 October 2017 (UTC)
+Thoughts? Doc James (talk ·  · ) 17:44, 17 October 2017 (UTC)
+[https://books.google.com/books?id=fhXVDQAAQBAJ&amp;pg=PA420&amp;dq=Pressure-controlled+intermittent+coronary+sinus+occlusion&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiusp7sq_jWAhWFZiYKHRaaD7wQ6AEIQzAG#v=onepage&amp;q=Pressure-controlled%20intermittent%20coronary%20sinus%20occlusion&amp;f=false]pg 420 (bottom of first paragraph, perhaps?)--Ozzie10aaaa (talk) 19:04, 17 October 2017 (UTC)
+The topic might be notable but that page needs to go. it is not a WP article but very typical medical device marketing aimed at explaining the need, why it should work, etc.  not a WP article. Jytdog (talk) 19:16, 17 October 2017 (UTC)
 
 Paracetamol/acetaminophen and asthma
 
@@ -742,50 +742,50 @@ Paracetamol/acetaminophen and asthma
 * 
 
 
-What I am wondering: is this fringe?  If not, is it in due weight?  I've read about so many unsubstanciated hypotheses relating to asthma that I'm skeptical...  Thanks, —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 09:10, 13 October 2017 (UTC)
-The concern of acetaminophen with asthma is weak. Have trimmed the 1998 source. [[User:Doc James|Doc James]] ( ·  · ) 09:36, 13 October 2017 (UTC)
-Thanks!  —[[User:PaleoNeonate|Paleo]][[User talk:PaleoNeonate|Neonate]] – 05:26, 14 October 2017 (UTC)
+What I am wondering: is this fringe?  If not, is it in due weight?  I've read about so many unsubstanciated hypotheses relating to asthma that I'm skeptical...  Thanks, —PaleoNeonate – 09:10, 13 October 2017 (UTC)
+The concern of acetaminophen with asthma is weak. Have trimmed the 1998 source. Doc James (talk ·  · ) 09:36, 13 October 2017 (UTC)
+Thanks!  —PaleoNeonate – 05:26, 14 October 2017 (UTC)
 
- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5349720/ This source] from March 2017 looks good. While there might be a small association between paracetamol use and later asthma diagnosis, this could well be a confounding factor. In particular, paracetamol should not be withheld from children with fever/pain. [[User:Axl|Axl]] ¤ [[User talk:Axl|[Talk]]] 15:00, 18 October 2017 (UTC)
+ [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5349720/ This source] from March 2017 looks good. While there might be a small association between paracetamol use and later asthma diagnosis, this could well be a confounding factor. In particular, paracetamol should not be withheld from children with fever/pain. Axl ¤ [[User talk:Axl|[Talk]]] 15:00, 18 October 2017 (UTC)
 So no aspirin for children because of Reyes and no paracetamol for children because of asthma.  Who wants to take bets on when ibuprofen will be declared unsafe for children, too? 
 Oh, and I asked Mr Google whether that had already happened, it appears that be generally accepted that fevers over 39 °C in young children need to be treated, and that ibuprofen can't be used can't be used below age six months.  So we've already got the catch-22 in one age group:  you should treat, and but you shouldn't use the first-line drug for fear of asthma.  And that leaves you with nothing, by my count. 
-Looking at the study Axl linked, I'm feeling like the confounding-factor hypothesis is not unreasonable.  You're only supposed to use paracetamol for the first six months, so at least 50% of the paracetamol use during the first 12 months (what some of the studies looked at) is really going to mean &quot;were you sick when you were a baby?&quot;   () 15:29, 18 October 2017 (UTC)
- Ack, there was a terrible typo (missing word) in my previous comment. I have corrected it. [[User:Axl|Axl]] ¤ [[User talk:Axl|[Talk]]] 19:12, 18 October 2017 (UTC)
+Looking at the study Axl linked, I'm feeling like the confounding-factor hypothesis is not unreasonable.  You're only supposed to use paracetamol for the first six months, so at least 50% of the paracetamol use during the first 12 months (what some of the studies looked at) is really going to mean &quot;were you sick when you were a baby?&quot;  WhatamIdoing (talk) 15:29, 18 October 2017 (UTC)
+ Ack, there was a terrible typo (missing word) in my previous comment. I have corrected it. Axl ¤ [[User talk:Axl|[Talk]]] 19:12, 18 October 2017 (UTC)
 
 The husband stitch article
 
-The husband stitch article is a recently created article. Noting it here in case anyone wants to take a look at it and expand it or add better sources for it.  () 21:06, 18 October 2017 (UTC)
+The husband stitch article is a recently created article. Noting it here in case anyone wants to take a look at it and expand it or add better sources for it. Flyer22 Reborn (talk) 21:06, 18 October 2017 (UTC)
 Never heard of it. Zero sources on pubmed[https://www.ncbi.nlm.nih.gov/pubmed/?term=%22husband+stitch%22] 
 We have one medical source from 1885[https://books.google.ca/books?id=mZ0RAAAAYAAJ&amp;dq=%22husband+stitch%22&amp;pg=PA43&amp;redir_esc=y#v=onepage&amp;q=%22husband%20stitch%22&amp;f=false]
-I wonder how much of this is urban legend? [[User:Doc James|Doc James]] ( ·  · ) 21:46, 18 October 2017 (UTC)
-Pinging , the article's creator, to possibly weigh in here.  () 22:00, 18 October 2017 (UTC)
-Found a number of sources that refer to it as an urban legend including one of the sources pigsonthewing was using. The author of the short story also portrays it as more or less a legend. [[User:Doc James|Doc James]] ( ·  · ) 22:02, 18 October 2017 (UTC)
+I wonder how much of this is urban legend? Doc James (talk ·  · ) 21:46, 18 October 2017 (UTC)
+Pinging Pigsonthewing, the article's creator, to possibly weigh in here. Flyer22 Reborn (talk) 22:00, 18 October 2017 (UTC)
+Found a number of sources that refer to it as an urban legend including one of the sources pigsonthewing was using. The author of the short story also portrays it as more or less a legend. Doc James (talk ·  · ) 22:02, 18 October 2017 (UTC)
 
 Have I stretched too far here?
 
-So I wrote [https://en.wikipedia.org/w/index.php?title=Management_of_cerebral_palsy&amp;type=revision&amp;diff=805974709&amp;oldid=805719804 this], based on  , but now I'm unsure whether I've reached too far.  There doesn't seem to be any further review articles on the elastic taping procedure and cerebral palsy within the last five years on PubMed.  Thoughts?  -- () 21:10, 18 October 2017 (UTC)
-Does that journal have an impact factor? [[User:Doc James|Doc James]] ( ·  · ) 21:27, 18 October 2017 (UTC)
+So I wrote [https://en.wikipedia.org/w/index.php?title=Management_of_cerebral_palsy&amp;type=revision&amp;diff=805974709&amp;oldid=805719804 this], based on  , but now I'm unsure whether I've reached too far.  There doesn't seem to be any further review articles on the elastic taping procedure and cerebral palsy within the last five years on PubMed.  Thoughts?  -- (talk) 21:10, 18 October 2017 (UTC)
+Does that journal have an impact factor? Doc James (talk ·  · ) 21:27, 18 October 2017 (UTC)
 
-[http://www.scimagojr.com/journalsearch.php?q=21100790785&amp;tip=sid Here's] its page on Scimago.  -- () 21:32, 18 October 2017 (UTC)
-No impact factor at all. Probably best to look for a better source. [[User:Doc James|Doc James]] ( ·  · ) 21:39, 18 October 2017 (UTC)
-Thanks!  I've made a couple of edits to  to act as a reminder for people.  -- () 21:51, 18 October 2017 (UTC)
-Thanks IP. Edit to RS looks good. [[User:Doc James|Doc James]] ( ·  · ) 22:08, 18 October 2017 (UTC)
+[http://www.scimagojr.com/journalsearch.php?q=21100790785&amp;tip=sid Here's] its page on Scimago.  -- (talk) 21:32, 18 October 2017 (UTC)
+No impact factor at all. Probably best to look for a better source. Doc James (talk ·  · ) 21:39, 18 October 2017 (UTC)
+Thanks!  I've made a couple of edits to  to act as a reminder for people.  -- (talk) 21:51, 18 October 2017 (UTC)
+Thanks IP. Edit to RS looks good. Doc James (talk ·  · ) 22:08, 18 October 2017 (UTC)
 
 Michael Frass
-Peoples thoughts? [[User:Doc James|Doc James]] ( ·  · ) 16:05, 18 October 2017 (UTC)
-the editor[https://en.wikipedia.org/w/index.php?title=Special:Contributions/Ventus55&amp;offset=20150529111819&amp;limit=500&amp;target=Ventus55]....the article per should be deleted or trimmed to a greater extent-- () 17:39, 18 October 2017 (UTC)
+Peoples thoughts? Doc James (talk ·  · ) 16:05, 18 October 2017 (UTC)
+the editor[https://en.wikipedia.org/w/index.php?title=Special:Contributions/Ventus55&amp;offset=20150529111819&amp;limit=500&amp;target=Ventus55]....the article per should be deleted or trimmed to a greater extent--Ozzie10aaaa (talk) 17:39, 18 October 2017 (UTC)
 
  I took a look at another of the articles he created: Alexander Berghaus. Like Michael Frass, it is devoid of independent sources and simply uses his academic papers to describe his career. I've sent Alexander Berghaus to AfD, , as a test-case. If that is deleted, it probably indicates that the other articles by Ventus55 should be sent down that route.
  For the record: 
  Considering that all of his articles are translations from the corresponding German articles about German scientists/physicians, he is simply a translator who doesn't realise that our requirements for notability are more rigorous than those on the German Wikipedia. See Thomas Vogl, Peter Kranke, Christian-Friedrich Vahl, Roland Mertelsmann, , Joachim Bauer, , Fuat Oduncu, Gerd Rasp, Walter A. Wohlgemuth, , Paolo Brenner, Kai von Klitzing, Thorsten Walles, Johannes Hoffmann (vascular surgeon), Jürgen Brosius, Frank Hölzle, Reinhard Dallinger, and probably others.
- Andreas Plückthun implicates  as well. -- () 18:50, 18 October 2017 (UTC)
-  was not active just as translator, he created the corresponding articles at de:wp as well. For example, [https://de.wikipedia.org/w/index.php?title=Michael_Frass&amp;oldid=132026008 Michael Frass] as created by him. Overall this appears to be a case of bilingual paid editing. See the [https://de.wikipedia.org/wiki/Wikipedia_Diskussion:WikiProjekt_Umgang_mit_bezahltem_Schreiben#krasser_Fall discussion at de:wp] and in particular this [https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Medizin/Qualit%C3%A4tssicherung/Archiv/2016/1#NICO_.28Kieferknochen-Osteopathie.29 quite concerning case from 2016]. -- () 22:51, 18 October 2017 (UTC)
+ Andreas Plückthun implicates  as well. --RexxS (talk) 18:50, 18 October 2017 (UTC)
+ Ventus55 was not active just as translator, he created the corresponding articles at de:wp as well. For example, [https://de.wikipedia.org/w/index.php?title=Michael_Frass&amp;oldid=132026008 Michael Frass] as created by him. Overall this appears to be a case of bilingual paid editing. See the [https://de.wikipedia.org/wiki/Wikipedia_Diskussion:WikiProjekt_Umgang_mit_bezahltem_Schreiben#krasser_Fall discussion at de:wp] and in particular this [https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Medizin/Qualit%C3%A4tssicherung/Archiv/2016/1#NICO_.28Kieferknochen-Osteopathie.29 quite concerning case from 2016]. --AFBorchert (talk) 22:51, 18 October 2017 (UTC)
 
- Web of Science lists 253 publications by Michael Frass with an h-index of 30. His most cited article is Outcome and prognostic factors in critically ill cancer patients admitted to the intensive care unit, Critical Care Medicine, vol. 28, no. 5, May 2000, pp. 1322–1328. The article does not appear to be balanced as it mainly focuses on Frass' contributions in the field of homeopathy. He has indeed some publications in this field but they had much less impact. More relevant are his works on the fields of emergency care (about the combitube in particular which he appears to have invented) and cancer. His paper Comparison of a conventional tracheal airway with the Combitube in an urban emergency medical services system run by physicians, Resuscitation, vol. 57, no. 1, April 2003, pp. 27–32 has been cited 72 times. -- () 20:11, 18 October 2017 (UTC)
+ Web of Science lists 253 publications by Michael Frass with an h-index of 30. His most cited article is Outcome and prognostic factors in critically ill cancer patients admitted to the intensive care unit, Critical Care Medicine, vol. 28, no. 5, May 2000, pp. 1322–1328. The article does not appear to be balanced as it mainly focuses on Frass' contributions in the field of homeopathy. He has indeed some publications in this field but they had much less impact. More relevant are his works on the fields of emergency care (about the combitube in particular which he appears to have invented) and cancer. His paper Comparison of a conventional tracheal airway with the Combitube in an urban emergency medical services system run by physicians, Resuscitation, vol. 57, no. 1, April 2003, pp. 27–32 has been cited 72 times. --AFBorchert (talk) 20:11, 18 October 2017 (UTC)
 
-*Comment:  editing often worries me because it's so often promotional and/or biased in some other way. For example, important information might be omitted.  () 20:48, 18 October 2017 (UTC)
-**Yup and they so often use sources that do not actually support the text it is attached to :-( In fact sometimes the sources say the exact opposite. Might be cleaner to just ban paid editing to article space all together (with of course the usual exception for WiR that are disclosed and at like minded organizations). 98% of the rest of the paid editors are undisclosed anyway. [[User:Doc James|Doc James]] ( ·  · ) 22:08, 18 October 2017 (UTC)
-** Unfortunately, last I checked, eight of the nine criteria at  don't require any independent sources, and two of those eight are purely subjective items.  If that wasn't bad enough, I've had editors in that area tell me that as far as they're concerned, everything published by an academic's employer should be counted as an  about the prof and/or the prof's research, because no university would dare publish something false or overly promotional.  So notability according to the GNG might not be demonstrated in the current versions of these articles (which doesn't prove that it couldn't be demonstrated through other sources), but AFD is probably pointless.  (Also, I understand that German Wikipedia's notability standard for professors is actually higher than ours:  e.g., no subjective &quot;had a major impact&quot; claims.)   () 03:00, 20 October 2017 (UTC)
+*Comment:  editing often worries me because it's so often promotional and/or biased in some other way. For example, important information might be omitted. Flyer22 Reborn (talk) 20:48, 18 October 2017 (UTC)
+**Yup and they so often use sources that do not actually support the text it is attached to :-( In fact sometimes the sources say the exact opposite. Might be cleaner to just ban paid editing to article space all together (with of course the usual exception for WiR that are disclosed and at like minded organizations). 98% of the rest of the paid editors are undisclosed anyway. Doc James (talk ·  · ) 22:08, 18 October 2017 (UTC)
+** Unfortunately, last I checked, eight of the nine criteria at  don't require any independent sources, and two of those eight are purely subjective items.  If that wasn't bad enough, I've had editors in that area tell me that as far as they're concerned, everything published by an academic's employer should be counted as an  about the prof and/or the prof's research, because no university would dare publish something false or overly promotional.  So notability according to the GNG might not be demonstrated in the current versions of these articles (which doesn't prove that it couldn't be demonstrated through other sources), but AFD is probably pointless.  (Also, I understand that German Wikipedia's notability standard for professors is actually higher than ours:  e.g., no subjective &quot;had a major impact&quot; claims.)  WhatamIdoing (talk) 03:00, 20 October 2017 (UTC)
 **: Actually,  is a guideline, but  is policy:
 **:* &quot;&quot;
 **: According to :
@@ -794,24 +794,24 @@ the editor[https://en.wikipedia.org/w/index.php?title=Special:Contributions/Vent
 **:* &quot;&quot;
 **: Any article that has no independent secondary sources, and where a reasonable search does not find any, should be dispatched to AfD. Policy requires that.
 **: Now, in the case of ,  has found two secondary sources that I was unable to find, so it's likely Berghaus now has sufficient sourcing to pass . We'll have to test further with the other creations by Ventus55. In each case, if no independent secondary sources exist, we can clearly demonstrate that NPROF or any other SNG can't save an article that is not based primarily on such sourcing.
-**: For what it's worth, NPROF and some of the other SNGs need to be modified to fall in line with policy, and that will be difficult given the vested interests in each guideline. -- () 13:15, 20 October 2017 (UTC)
-**::Well, of course I agree that content policies require this, and I will add NOT () to your list of examples.  But the editors who control NPROF have steadily resisted acknowledging these policy requirements for years.  (Of course WHYN is clear on that point; I wrote it originally.  ;-)   () 15:32, 20 October 2017 (UTC)
+**: For what it's worth, NPROF and some of the other SNGs need to be modified to fall in line with policy, and that will be difficult given the vested interests in each guideline. --RexxS (talk) 13:15, 20 October 2017 (UTC)
+**::Well, of course I agree that content policies require this, and I will add NOT () to your list of examples.  But the editors who control NPROF have steadily resisted acknowledging these policy requirements for years.  (Of course WHYN is clear on that point; I wrote it originally.  ;-)  WhatamIdoing (talk) 15:32, 20 October 2017 (UTC)
 
 Sacroiliac joint dysfunction - Hesch-based content
 
-This article contains several large passages based on the research of J. Hesch. Most of it was added by  and  SPAs. I can't evaluate the factual accuracy, but it seems highly problematic when authors just add their own research, especially as these edits seem to promote recent publications and possibly fringe views without any significant 3rd-party verification. For background info see also [http://www.heschinstitute.com/], which seems to be one of the author's sites. It would be great if a topic expert could have a look at these edits.  () 20:51, 20 October 2017 (UTC)
-Agree completely. Thanks for posting here . [[User:Doc James|Doc James]] ( ·  · ) 23:27, 20 October 2017 (UTC)
- I was just in the process of pruning when James came along and applied an axe to the article. It should be much more encyclopedic now. -- () 23:46, 20 October 2017 (UTC)
- Thanks both of you for the quick improvements. I simply lack the topic knowledge to fix this stuff myself, but it's good to have a place to ask for help.  () 00:46, 21 October 2017 (UTC)
+This article contains several large passages based on the research of J. Hesch. Most of it was added by  and  SPAs. I can't evaluate the factual accuracy, but it seems highly problematic when authors just add their own research, especially as these edits seem to promote recent publications and possibly fringe views without any significant 3rd-party verification. For background info see also [http://www.heschinstitute.com/], which seems to be one of the author's sites. It would be great if a topic expert could have a look at these edits. GermanJoe (talk) 20:51, 20 October 2017 (UTC)
+Agree completely. Thanks for posting here . Doc James (talk ·  · ) 23:27, 20 October 2017 (UTC)
+ I was just in the process of pruning when James came along and applied an axe to the article. It should be much more encyclopedic now. --RexxS (talk) 23:46, 20 October 2017 (UTC)
+ Thanks both of you for the quick improvements. I simply lack the topic knowledge to fix this stuff myself, but it's good to have a place to ask for help. GermanJoe (talk) 00:46, 21 October 2017 (UTC)
 
 
 
-Please comment.  { ·  ·  · } 21:48, 21 October 2017 (UTC)
+Please comment. Headbomb {t ·  ·  · } 21:48, 21 October 2017 (UTC)
 
 Reference source
-Internet Archive has just launched an online ebook library. They have full legal copies of medical books, like this dictionary.[https://openlibrary.org/books/OL21112332M/The_American_Heritage_Stedman's_medical_dictionary]. Has a button for auto generating WP references. [[User:Doc James|Doc James]] ( ·  · ) 01:54, 21 October 2017 (UTC)
+Internet Archive has just launched an online ebook library. They have full legal copies of medical books, like this dictionary.[https://openlibrary.org/books/OL21112332M/The_American_Heritage_Stedman's_medical_dictionary]. Has a button for auto generating WP references. Doc James (talk ·  · ) 01:54, 21 October 2017 (UTC)
 
- That's good news, James. Do you think we could have a sub-page with a list of recommendations from our own subject experts on which books from the Internet Archive would be most useful? It could be linked from  in the same way as the Wikipedia Library. I would find such a list very useful, if we could persuade WPMED participants to add their favourites. -- () 14:20, 21 October 2017 (UTC)
-Yes I think that would be useful. Mostly the dictionaries are what I believe will be most useful as many of the books are older. [[User:Doc James|Doc James]] ( ·  · ) 01:19, 22 October 2017 (UTC)</segment>
+ That's good news, James. Do you think we could have a sub-page with a list of recommendations from our own subject experts on which books from the Internet Archive would be most useful? It could be linked from  in the same way as the Wikipedia Library. I would find such a list very useful, if we could persuade WPMED participants to add their favourites. --RexxS (talk) 14:20, 21 October 2017 (UTC)
+Yes I think that would be useful. Mostly the dictionaries are what I believe will be most useful as many of the books are older. Doc James (talk ·  · ) 01:19, 22 October 2017 (UTC)</segment>
 	</text>
 </file>

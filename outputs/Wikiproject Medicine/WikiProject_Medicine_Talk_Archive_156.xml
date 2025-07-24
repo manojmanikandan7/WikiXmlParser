@@ -7,28 +7,28 @@
 
 What is the policy if we are getting data from a  source, and the source is obviously wrong?
 
-In Pfizer–BioNTech COVID-19 vaccine, table called &quot;Vaccine efficacy against confirmed symptomatic COVID‑19&quot;, the &quot;Age ≥75&quot; group, the 95% CI for efficacy includes negative numbers, which is impossible. This is what the [https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf source] (Table 10) is showing: a number that cannot be negative, whose CI includes negative values.  () 20:06, 19 November 2021 (UTC)
-In the general case, if an otherwise solid source is &quot;obviously&quot; wrong for something, don't use it for that wrong thing.  () 21:15, 19 November 2021 (UTC)
-Good. Will you please edit the table to remove the wrong information?  () 21:16, 19 November 2021 (UTC)
-I know nothing about the particular case and its obviousness. If there's an obvious fix to make, you . I would however, caution any Wikipedia editor from adjudging a reputable source as &quot;obviously wrong&quot; without first ruling out the &quot;I don't understand it&quot; option. Obviously wrong has to mean obviously wrong.  () 21:21, 19 November 2021 (UTC)
-I remember seeing this when Pfizer first published their data. I assumed it was a Wikipedia editor's mistake but as you noted, it's in the source data. In fact, the negative numbers appear throughout the report. It's not an error. Rather just the result of their calculation methodology left unadjusted. -  () 21:41, 19 November 2021 (UTC)
+In Pfizer–BioNTech COVID-19 vaccine, table called &quot;Vaccine efficacy against confirmed symptomatic COVID‑19&quot;, the &quot;Age ≥75&quot; group, the 95% CI for efficacy includes negative numbers, which is impossible. This is what the [https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf source] (Table 10) is showing: a number that cannot be negative, whose CI includes negative values. Isabela31 (talk) 20:06, 19 November 2021 (UTC)
+In the general case, if an otherwise solid source is &quot;obviously&quot; wrong for something, don't use it for that wrong thing. Alexbrn (talk) 21:15, 19 November 2021 (UTC)
+Good. Will you please edit the table to remove the wrong information? Isabela31 (talk) 21:16, 19 November 2021 (UTC)
+I know nothing about the particular case and its obviousness. If there's an obvious fix to make, you . I would however, caution any Wikipedia editor from adjudging a reputable source as &quot;obviously wrong&quot; without first ruling out the &quot;I don't understand it&quot; option. Obviously wrong has to mean obviously wrong. Alexbrn (talk) 21:21, 19 November 2021 (UTC)
+I remember seeing this when Pfizer first published their data. I assumed it was a Wikipedia editor's mistake but as you noted, it's in the source data. In fact, the negative numbers appear throughout the report. It's not an error. Rather just the result of their calculation methodology left unadjusted. - Wikmoz (talk) 21:41, 19 November 2021 (UTC)
 How certain are we that 1 minus an odds ratio cannot be a negative number?
-What would you expect this number to be, if someone who got the vaccine paradoxically had a higher risk of hospitalization than someone who did not?   () 06:53, 21 November 2021 (UTC)
-Wouldn't it be consistent with the observation that extremely frail people right on the cusp of &quot;natural&quot; death are quite likely to be pushed over the edge by the adverse effects of a vaccine?  () 08:37, 21 November 2021 (UTC)
-There is nothing wrong with these numbers from statistical point of view. Such negative numbers are frequently reported in clinical trials. _[[User Talk:Ruslik0|Zero]] 20:39, 21 November 2021 (UTC)
+What would you expect this number to be, if someone who got the vaccine paradoxically had a higher risk of hospitalization than someone who did not?  WhatamIdoing (talk) 06:53, 21 November 2021 (UTC)
+Wouldn't it be consistent with the observation that extremely frail people right on the cusp of &quot;natural&quot; death are quite likely to be pushed over the edge by the adverse effects of a vaccine? Alexbrn (talk) 08:37, 21 November 2021 (UTC)
+There is nothing wrong with these numbers from statistical point of view. Such negative numbers are frequently reported in clinical trials. Ruslik_Zero 20:39, 21 November 2021 (UTC)
  That's not what's being reported here.  What's being reported is the &quot;vaccine effectiveness&quot; in terms of (for the specific 95% confidence interval that includes the negative number) people being hospitalized with COVID-19.  This particular range says if you are infected specifically with SARS-CoV-2-gamma, the vaccine effectiveness is somewhere between 82% and –9% (i.e., somewhere from likely to help a lot to likely to be slightly harmful).  The &quot;vaccine effectiveness&quot; is calculated from an odds ratio, not a relative risk.  The only think I can tell you with certainty about an odds ratio is that &quot;25% relative risk&quot; means you are a quarter as likely to get the specified result, and that &quot;25% odds ratio&quot; does not mean this.
-On the immunology side, it is possible for a (bad) vaccine to make you more prone to side effects or more prone to infection.  I don't think there's any evidence of this happening with any of the COVID-19 vaccines, but with other viruses/vaccines, Antibody-dependent enhancement is a thing.  This has been a failure path for HIV vaccines in the past.  () 20:52, 21 November 2021 (UTC)
-If you want to use numbers that humans can understand, it would be worth looking for sources that discuss the Number needed to treat.  This is the metric that lets you say useful things, like how many people hospitalized with COVID-19 need to take dexamethasone to prevent one death (answer:  about [https://www.thennt.com/nnt/dexamethasone-hospitalized-patients-covid-19/ 36]).  People can understand this even if they don't have graduate degrees in statistics.  () 20:58, 21 November 2021 (UTC)
+On the immunology side, it is possible for a (bad) vaccine to make you more prone to side effects or more prone to infection.  I don't think there's any evidence of this happening with any of the COVID-19 vaccines, but with other viruses/vaccines, Antibody-dependent enhancement is a thing.  This has been a failure path for HIV vaccines in the past. WhatamIdoing (talk) 20:52, 21 November 2021 (UTC)
+If you want to use numbers that humans can understand, it would be worth looking for sources that discuss the Number needed to treat.  This is the metric that lets you say useful things, like how many people hospitalized with COVID-19 need to take dexamethasone to prevent one death (answer:  about [https://www.thennt.com/nnt/dexamethasone-hospitalized-patients-covid-19/ 36]).  People can understand this even if they don't have graduate degrees in statistics. WhatamIdoing (talk) 20:58, 21 November 2021 (UTC)
 A confidence interval can easily include &quot;impossible&quot; values, because it's mathematically derived from a statistical model, and models often include assumptions. And assumptions are there to make the model simple enough that it's useful.
 A very common example would be when we model a variable such as age, which can only be positive, as a normal distribution, which goes from -oo to +oo. We do that because it makes the model very simple, and very useful. Of course, there is no free lunch: in doing so, we end up with a model where there is a small (but non-zero) probability that the variable that models age is negative. It's the price we pay.
 The way we calculate confidence intervals entails inverting a normal distribution or any of a number of related distributions with similar assumptions.
-As George Box said, all models are wrong, but some are useful :)  () 21:04, 21 November 2021 (UTC)
+As George Box said, all models are wrong, but some are useful :) Dr. Vogel (talk) 21:04, 21 November 2021 (UTC)
 
  I would like to confirm that we are looking at this line:-
  Age ≥75, n1b 0, surveillance time 0.102 (774), n1b 5, surveillance time 0.106 (785), VE 100.0, 95% CI (-13.1, 100.0) 
- from page 87 of the pdf? [[User:Axl|Axl]] ¤ [[User talk:Axl|[Talk]]] 21:54, 24 November 2021 (UTC)
-For that paper, &quot;VE is defined as 100% × (1 – IRR), where illness rate ratio (IRR) is calculated as the ratio of first confirmed COVID-19 illness rate in the vaccine group to the corresponding illness rate in the placebo group&quot;.  () 23:34, 24 November 2021 (UTC)
- I was hoping that  would answer my question. Anyway, just as you say, WAID, VE is defined like that on page 73. [[User:Axl|Axl]] ¤ [[User talk:Axl|[Talk]]] 00:07, 25 November 2021 (UTC)
+ from page 87 of the pdf? Axl ¤ [[User talk:Axl|[Talk]]] 21:54, 24 November 2021 (UTC)
+For that paper, &quot;VE is defined as 100% × (1 – IRR), where illness rate ratio (IRR) is calculated as the ratio of first confirmed COVID-19 illness rate in the vaccine group to the corresponding illness rate in the placebo group&quot;. WhatamIdoing (talk) 23:34, 24 November 2021 (UTC)
+ I was hoping that Isabela31 would answer my question. Anyway, just as you say, WAID, VE is defined like that on page 73. Axl ¤ [[User talk:Axl|[Talk]]] 00:07, 25 November 2021 (UTC)
  For the time being, I shall assume that the answer to my question is &quot;yes&quot;.
  Firstly, I draw attention to Alexbrn's comment: &quot;I would however, caution any Wikipedia editor from adjudging a reputable source as &quot;obviously wrong&quot; without first ruling out the &quot;I don't understand it&quot; option.&quot;
  The authors derived the confidence interval using the [https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Clopper%E2%80%93Pearson_interval Clopper and Pearson method]. I am not familiar with this method, but I can give some basic information about the confidence interval.
@@ -38,42 +38,42 @@ For that paper, &quot;VE is defined as 100% × (1 – IRR), where illness rate r
  If we look at the rest of the table, we see that five other subgroups also had negative values in their confidence intervals. The most extreme value is &quot;American Indian or Alaska Native&quot;, with a bottom value of -3429 . This corresponds to an IRR of 35.29 . If this value was the actual IRR, it would mean that vaccination would increase the illness rate in these people by a factor of 35. (This value is not the actual IRR). However we should note that in all five of these subgroups, the number of cases was five or fewer in each. This explains the enormous sizes of the confidence intervals.
  There is no limit to the extremity of a negative bottom end of the confidence interval.
  The top end of the CI should not exceed 100%, because such a value would correspond to a negative number of people acquiring the disease. (Such a value would be &quot;obviously wrong&quot;.)
- In summary, I see nothing wrong with the statistical method used, the presence of negative values in the confidence intervals, or the way that the results are presented. [[User:Axl|Axl]] ¤ [[User talk:Axl|[Talk]]] 09:50, 25 November 2021 (UTC)
+ In summary, I see nothing wrong with the statistical method used, the presence of negative values in the confidence intervals, or the way that the results are presented. Axl ¤ [[User talk:Axl|[Talk]]] 09:50, 25 November 2021 (UTC)
 
 &quot;Formaldehyde poisoning&quot; listed at 
 
 
 
-A discussion is taking place to address the redirect  to the article . The discussion will occur at  until a consensus is reached, and readers of this page are welcome to contribute to the discussion.  Comments from those with subject knowledge would be particularly useful to the discussion.  () 01:58, 21 November 2021 (UTC)
+A discussion is taking place to address the redirect  to the article . The discussion will occur at  until a consensus is reached, and readers of this page are welcome to contribute to the discussion.  Comments from those with subject knowledge would be particularly useful to the discussion. Thryduulf (talk) 01:58, 21 November 2021 (UTC)
 
 
-*give opinion(gave mine)-- () 13:48, 25 November 2021 (UTC)
+*give opinion(gave mine)--Ozzie10aaaa (talk) 13:48, 25 November 2021 (UTC)
 
 Cuirass ventilators
 
-An issue has arisen over at the [[Wikipedia:Reference_desk/Science#Spiroshell|Wikipedia:Reference desk/Science]] where it has been noticed that Biphasic Cuirass Ventilation redirects to Mechanical ventilation, while Biphasic cuirass ventilation is redirected to iron lung. Some informed help would be greatly appreciated.  () 09:35, 21 November 2021 (UTC)
-thanks for posting-- () 13:50, 25 November 2021 (UTC)
+An issue has arisen over at the  where it has been noticed that Biphasic Cuirass Ventilation redirects to Mechanical ventilation, while Biphasic cuirass ventilation is redirected to iron lung. Some informed help would be greatly appreciated. Alansplodge (talk) 09:35, 21 November 2021 (UTC)
+thanks for posting--Ozzie10aaaa (talk) 13:50, 25 November 2021 (UTC)
 
 Dubious redirect from Non-freezing cold injury to Trench foot 
 
-The content of Trench foot makes no specific reference to 'non-freezing cold injury', which as far as I am aware is a real medical condition, albeit one of which I have little knowledge. I am concerned that the redirect is misleading, as well as failing to inform the reader. I plan to have a go at a stub if I can find suitable sources, but if there is anyone here who wants to pitch in, please go ahead, even if just to link some good sources from the talk page. Cheers, · · ·  : 05:29, 28 November 2021 (UTC)
-Partially fixed. New article on NFCI about start class but could benefit from some help from experts.· · ·  : 17:42, 28 November 2021 (UTC)
+The content of Trench foot makes no specific reference to 'non-freezing cold injury', which as far as I am aware is a real medical condition, albeit one of which I have little knowledge. I am concerned that the redirect is misleading, as well as failing to inform the reader. I plan to have a go at a stub if I can find suitable sources, but if there is anyone here who wants to pitch in, please go ahead, even if just to link some good sources from the talk page. Cheers, · · · Peter Southwood (talk): 05:29, 28 November 2021 (UTC)
+Partially fixed. New article on NFCI about start class but could benefit from some help from experts.· · · Peter Southwood (talk): 17:42, 28 November 2021 (UTC)
 
 Effects of pornography
 
-Could someone remove all the -dodging trash from Effects of pornography? Myself I'm fed up with being the party pooper at sexuality articles. So, I invite someone else to do it.  ()  14:27, 20 November 2021 (UTC)
+Could someone remove all the -dodging trash from Effects of pornography? Myself I'm fed up with being the party pooper at sexuality articles. So, I invite someone else to do it. tgeorgescu (talk)  14:27, 20 November 2021 (UTC)
 
-That subject is not exclusively about  (e.g., relationship satisfaction), so it probably should cite some sources that aren't MEDRS's ideal.  () 06:31, 21 November 2021 (UTC)
-True, but in its current form Effects of pornography covers a large amount of medical claims and AFAIK it's the medical claims that are the most commonly discussed ones.  () 21:22, 21 November 2021 (UTC)
-I'm not a medical professional, so it feels like too much for me to handle.  ()  13:02, 26 November 2021 (UTC)
+That subject is not exclusively about  (e.g., relationship satisfaction), so it probably should cite some sources that aren't MEDRS's ideal. WhatamIdoing (talk) 06:31, 21 November 2021 (UTC)
+True, but in its current form Effects of pornography covers a large amount of medical claims and AFAIK it's the medical claims that are the most commonly discussed ones. Jo-Jo Eumerus (talk) 21:22, 21 November 2021 (UTC)
+I'm not a medical professional, so it feels like too much for me to handle. tgeorgescu (talk)  13:02, 26 November 2021 (UTC)
 
- I have advocated for  at .  ()  02:42, 29 November 2021 (UTC)
+ I have advocated for  at . tgeorgescu (talk)  02:42, 29 November 2021 (UTC)
 
 Requested move at 
- There is a requested move discussion at  that may be of interest to members of this WikiProject. — [[User:Shibbolethink|Shibbolethink]] ( ) 14:05, 27 November 2021 (UTC)
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. — Shibbolethink (♔ ) 14:05, 27 November 2021 (UTC)
 
 
-*please give opinion(gave mine)-- () 13:31, 29 November 2021 (UTC)
+*please give opinion(gave mine)--Ozzie10aaaa (talk) 13:31, 29 November 2021 (UTC)
 
 PANDAS advocacy
 As mentioned in secondary reviews (as well as countless media sources), PANDAS advocacy is widespread on the internet and social media, with hundreds of advocacy sites and groups, including multiple Facebook pages. Misinformation in the PANS/PANDAS realm has a considerable impact on the well-being of vulnerable children.   recently had to re-semi-protect the article because of advocacy IP edits and vandalism, and today, talk page posts were removed. See [https://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;oldid=1057823256#Biased_content_on_PANDAS_page this post at Help desk].  More eyes on the article are needed; it is not an easy topic, and editing is made harder by .  This British Paediatric Neurology Associates consensus statement is a very readable primer on the topic:
@@ -82,7 +82,7 @@ Here are the most recent secondary reviews:
 * 
 * 
 *
-[[User:SandyGeorgia|SandyGeorgia]] ()  22:12, 29 November 2021 (UTC)
+SandyGeorgia (Talk)  22:12, 29 November 2021 (UTC)
 
 Writing internationally
 
@@ -92,44 +92,44 @@ On this topic, does anyone happen to know the equivalent of UK's GMC (general me
 
 I'm a little afraid that in federal countries like the US and Germany you will have a proliferation of bodies for each separate state - one nice think about the UK is that they often have a single national body solely governing policy for 60 million people or so. 
 
- () 13:49, 27 November 2021 (UTC)
-List of national public health agencies?-- () 02:27, 30 November 2021 (UTC)
+Talpedia (talk) 13:49, 27 November 2021 (UTC)
+List of national public health agencies?--Ozzie10aaaa (talk) 02:27, 30 November 2021 (UTC)
 
 Epidemiology course
 
 Hi, I noticed an epidemiology course that may benefit from a warm welcome and a reminder about secondary sources. I reviewed the Heat stroke contribution. There is a very big edit in Tetralogy of Fallot‎ that may benefit from another set of eyes if anyone has time. Other articles are listed here: https://en.wikipedia.org/wiki/Wikipedia:Wiki_Ed/University_of_Wisconsin-Eau_Claire/Epidemiology_ENPH_450_(Fall_2021)
- () 17:45, 1 December 2021 (UTC)
+JenOttawa (talk) 17:45, 1 December 2021 (UTC)
 
-Bad edits at Multiple sclerosis, lot was reverted (with good reason), have not had time address this, but ALL of this course's edits need scrutiny. The instructor,  has never edited Wikipedia. This course should not be editing mainspace.    [[User:SandyGeorgia|SandyGeorgia]] ()  18:33, 1 December 2021 (UTC)
-PS, most of their edits will come in this week, resulting in lots of work for us, and many will likely end up reverted next week. I find it less stressful to just wait for the course to end before removing the poor work, unless it is info that is really going to jeapordize someone's health.  [[User:SandyGeorgia|SandyGeorgia]] ()  18:35, 1 December 2021 (UTC)
-Concussions in sports student editor really really needs some extra guidance. This looks like it is from a different course and not the same instructor as above. I am sorry to revert like this on a well-intentioned student but these edits are actually the complete opposite of current best practice. I do not have time to provide guidance myself on this but I did indicate a starting place secondary source for the individual in my revert edit summary. https://en.wikipedia.org/w/index.php?title=Concussions_in_sport&amp;type=revision&amp;diff=1058149885&amp;oldid=1058148801&amp;diffmode=source. This second class also just made a large contribution to Language disorder that should be looked at as well if anyone has extra time. Thank you for your support Ian @Wiki Ed.  () 19:57, 1 December 2021 (UTC)
- This is a writing class that shouldn't be editing medical topics at all. Thanks for the ping. Also thanks for the note  - I'll try to keep this class's edits on my radar this week.  () 20:01, 1 December 2021 (UTC)
-Thanks, ; it is quite shocking to see this writing in a 400-level course.  Very very busy, but I should point out to others here that Alzheimer's disease has had some really great student additions, in case anyone wants to look them over (I haven't seen the latest crop, but plan to barnstar them when I get a free moment). [[User:SandyGeorgia|SandyGeorgia]] ()  20:20, 1 December 2021 (UTC)
+Bad edits at Multiple sclerosis, lot was reverted (with good reason), have not had time address this, but ALL of this course's edits need scrutiny. The instructor,  has never edited Wikipedia. This course should not be editing mainspace.    SandyGeorgia (Talk)  18:33, 1 December 2021 (UTC)
+PS, most of their edits will come in this week, resulting in lots of work for us, and many will likely end up reverted next week. I find it less stressful to just wait for the course to end before removing the poor work, unless it is info that is really going to jeapordize someone's health.  SandyGeorgia (Talk)  18:35, 1 December 2021 (UTC)
+Concussions in sports student editor really really needs some extra guidance. This looks like it is from a different course and not the same instructor as above. I am sorry to revert like this on a well-intentioned student but these edits are actually the complete opposite of current best practice. I do not have time to provide guidance myself on this but I did indicate a starting place secondary source for the individual in my revert edit summary. https://en.wikipedia.org/w/index.php?title=Concussions_in_sport&amp;type=revision&amp;diff=1058149885&amp;oldid=1058148801&amp;diffmode=source. This second class also just made a large contribution to Language disorder that should be looked at as well if anyone has extra time. Thank you for your support Ian @Wiki Ed. JenOttawa (talk) 19:57, 1 December 2021 (UTC)
+ This is a writing class that shouldn't be editing medical topics at all. Thanks for the ping. Also thanks for the note  - I'll try to keep this class's edits on my radar this week. Ian (Wiki Ed) (talk) 20:01, 1 December 2021 (UTC)
+Thanks, ; it is quite shocking to see this writing in a 400-level course.  Very very busy, but I should point out to others here that Alzheimer's disease has had some really great student additions, in case anyone wants to look them over (I haven't seen the latest crop, but plan to barnstar them when I get a free moment). SandyGeorgia (Talk)  20:20, 1 December 2021 (UTC)
 
 Relevant RFC on the Medical Disclaimer page about adding a serious injury or death warning. 
 
-. [[User:Plutonical|☢️Plutonical☢️]][[User Talk: Plutonical|ᶜᵒᵐᵐᵘⁿᶦᶜᵃᵗᶦᵒⁿˢ]] 14:56, 2 December 2021 (UTC)
- See old proposal from 2014 at . [[User:SandyGeorgia|SandyGeorgia]] ()  15:45, 2 December 2021 (UTC)
+. ☢️Plutonical☢️ᶜᵒᵐᵐᵘⁿᶦᶜᵃᵗᶦᵒⁿˢ 14:56, 2 December 2021 (UTC)
+ See old proposal from 2014 at . SandyGeorgia (Talk)  15:45, 2 December 2021 (UTC)
 
 Medical Editing Internship For ILAE Wikipedia Epilepsy Project
 
 As the Editor in Chief of the , I from my organisation, Institute of NeuroDevelopment, have taken the liberty to announce an [https://internshala.com/internship/detail/medical-editing-for-ilae-wikipedia-epilepsy-project-work-from-home-job-internship-at-institute-of-neurodevelopment1637847717 internship] to contribute to health information on Wikipedia. Currently, we have above 40 applicants who have expressed interest and around 20 of them were present in the first meeting that we had, the recording of which can be found [https://us02web.zoom.us/rec/share/8Z7v4p_zNKmHsHE_uFUHsk9xkInBIsHZWLNhQzXpTNr2csftGld24tidQD8eAGGu.Pn-f7fBz3zTcGHOh here]. The participants are students from diverse health-related backgrounds and  the roles are defined. We are going to track the contributions through [https://outreachdashboard.wmflabs.org/courses/International_League_Against_Epilepsy/ILAE_Wikipedia_Epilepsy_Project Outreach dashboard from wmflabs] which  has created for us.  would be helping us through the process.
 
-I call upon you all to help these newbies get a hold of Wikipedia. I seek your involvement and guidance for the matter. There are [https://en.wikipedia.org/wiki/Wikipedia:ILAE_Wikipedia_Project/Apply_to_Join various roles that you could play]. We are open to feedback. -[[User:Diptanshu Das|Diptanshu]]  04:06, 3 December 2021 (UTC)
+I call upon you all to help these newbies get a hold of Wikipedia. I seek your involvement and guidance for the matter. There are [https://en.wikipedia.org/wiki/Wikipedia:ILAE_Wikipedia_Project/Apply_to_Join various roles that you could play]. We are open to feedback. -Diptanshu 💬 04:06, 3 December 2021 (UTC)
 
 Non-freezing cold injury
 
 
-New article done for now. I would appreciate if someone would check whether I have appropriately filled in the infobox, and whether there are any categories to add. Other constructive comments also welcome. Cheers, · · ·  : 08:17, 1 December 2021 (UTC)
-did a couple of edits[https://en.wikipedia.org/w/index.php?title=Non-freezing_cold_injury&amp;action=history], article looks good-- () 14:43, 3 December 2021 (UTC)
+New article done for now. I would appreciate if someone would check whether I have appropriately filled in the infobox, and whether there are any categories to add. Other constructive comments also welcome. Cheers, · · · Peter Southwood (talk): 08:17, 1 December 2021 (UTC)
+did a couple of edits[https://en.wikipedia.org/w/index.php?title=Non-freezing_cold_injury&amp;action=history], article looks good--Ozzie10aaaa (talk) 14:43, 3 December 2021 (UTC)
 
 creating a wiki page for medical education conferences and journals 
 
 Hello! 
 I am working with physicians to create a wiki page with resources for specific medical education conferences and one for specific medical education journals to be in one spot for educators or students interested in this field. They start with general conferences and journals that take things from all fields then they go into specific specialties based on alphabetical order. They have been rejected and their recommendations were to use WikiProject Medicine as the platform instead of just the general wiki page. I was wondering if anyone can help me or guide me to create these resources for our students. 
-Thank you  — Preceding  comment added by  ( • ) 21:27, 2 December 2021 (UTC) 
+Thank you  — Preceding  comment added by Mwarshel (talk • ) 21:27, 2 December 2021 (UTC) 
 
-@, what's the goal?  Is this supposed to be an encyclopedia article, or something else?  () 01:45, 4 December 2021 (UTC)
+@Mwarshel, what's the goal?  Is this supposed to be an encyclopedia article, or something else? WhatamIdoing (talk) 01:45, 4 December 2021 (UTC)
 
 Positive impact of MEDRS
 
@@ -157,55 +157,55 @@ Miscellaneous notes
 * More details about the data, quoting from the article:Table 9. Position in rankings of journals in English Wikipedia depending on popularity and reliability model in February 2020. Source: own calculation based on Wikimedia dumps using complex extraction and using only values from journal parameter in citation templates in references. Extended version of the table is available on the web page: http://data.lewoniewski.info/sources/table9.
 
 
-  () 08:16, 18 December 2021 (UTC)
+ Venkat TL (talk) 08:16, 18 December 2021 (UTC)
 
 Upgrades to WPMED welcome template
 
 
-Announcement: the MED welcome template  now allows use of optional parameter  (alias: ) to specify the name of an article the user has contributed to. A documentation page has been added to the template to demonstrate usage. For example, adding  to a user talk page will add the welcome message that you now see at the top of .  Thanks,  () 22:54, 15 December 2021 (UTC)
-very good idea-- () 14:12, 18 December 2021 (UTC)
+Announcement: the MED welcome template  now allows use of optional parameter  (alias: ) to specify the name of an article the user has contributed to. A documentation page has been added to the template to demonstrate usage. For example, adding  to a user talk page will add the welcome message that you now see at the top of this page.  Thanks, Mathglot (talk) 22:54, 15 December 2021 (UTC)
+very good idea--Ozzie10aaaa (talk) 14:12, 18 December 2021 (UTC)
 
 Requested move at 
- There is a requested move discussion at  that may be of interest to members of this WikiProject. — [[User:Shibbolethink|Shibbolethink]] ( ) 16:45, 18 December 2021 (UTC)
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. — Shibbolethink (♔ ) 16:45, 18 December 2021 (UTC)
 
 Vandalism on List of medical abbreviations
 
-At , most of the recent edits (over the past year) are non-constructive.  Can someone with more medical knowledge than me watchlist these pages to prevent bad information from creeping in?  (I'm not sure it's bad enough to indef semi-protect the entire list, but it may be)  (powera, [[User talk:力|π]], [[Special:Contributions/力|ν]]) 00:39, 3 December 2021 (UTC)
-I've watchlisted it. But to be fair I disagree with several of the abbreviations in there, and some of them I've never seen in my life.  () 00:54, 3 December 2021 (UTC)
- In that case, all the pages from  to  should be deleted.  (powera, [[User talk:力|π]], [[Special:Contributions/力|ν]]) 03:09, 18 December 2021 (UTC)
-No, that means that the list is incomplete.  See also [https://www.ismp.org/resources/medical-abbreviations-have-contradictory-or-ambiguous-meanings &quot;Medical Abbreviations That Have Contradictory or Ambiguous Meanings&quot;].  There are thousands of abbreviations used in medicine around the globe.  Nobody will know all of them.  () 20:01, 18 December 2021 (UTC)
+At , most of the recent edits (over the past year) are non-constructive.  Can someone with more medical knowledge than me watchlist these pages to prevent bad information from creeping in?  (I'm not sure it's bad enough to indef semi-protect the entire list, but it may be)  (powera, π, ) 00:39, 3 December 2021 (UTC)
+I've watchlisted it. But to be fair I disagree with several of the abbreviations in there, and some of them I've never seen in my life. Dr. Vogel (talk) 00:54, 3 December 2021 (UTC)
+ In that case, all the pages from  to  should be deleted.  (powera, π, ) 03:09, 18 December 2021 (UTC)
+No, that means that the list is incomplete.  See also [https://www.ismp.org/resources/medical-abbreviations-have-contradictory-or-ambiguous-meanings &quot;Medical Abbreviations That Have Contradictory or Ambiguous Meanings&quot;].  There are thousands of abbreviations used in medicine around the globe.  Nobody will know all of them. WhatamIdoing (talk) 20:01, 18 December 2021 (UTC)
 
 Castle Connolly Top Doctors and similar lists
 
 I recently removed a Castle Connolly Top Doctors mention from an article of a fringe individual because this source is [https://www.propublica.org/article/top-doctors-award-journalist known to be unreliable] or an outright scam. I then realized that there are 101 hits for Castle Connolly on English Wikipedia, including many doctors. If you search for &quot;Top doctors&quot; there are many more results. 
 
-What should be done about all these mentions of Castle Connolly and similarly dubious recognitions? Also the Castle Connolly Medical wiki page currently does not mention the controversy. There's a 2006 [https://slate.com/technology/2006/06/what-s-wrong-with-magazine-best-doctor-lists.html Slate article] about this. I understand non-medical careers have similarly dubious &quot;Who's who&quot; lists. Is there a Wikipedia established convention for dealing with these dubious awards?  () 09:18, 4 December 2021 (UTC)
-Sounds like all those &quot;top doctor&quot; mentions (good grief) should be deleted, for a start.  () 09:23, 4 December 2021 (UTC)
-See [[Special:LinkSearch/https://www.castleconnolly.com]] and  for pages linking to their website.  () 00:14, 5 December 2021 (UTC)
-There are about 100 of these left in the mainspace.  I'll tackle a handful, and perhaps someone else would like to chip in, too.  The second search link will give you a longer list.  () 20:03, 18 December 2021 (UTC)
+What should be done about all these mentions of Castle Connolly and similarly dubious recognitions? Also the Castle Connolly Medical wiki page currently does not mention the controversy. There's a 2006 [https://slate.com/technology/2006/06/what-s-wrong-with-magazine-best-doctor-lists.html Slate article] about this. I understand non-medical careers have similarly dubious &quot;Who's who&quot; lists. Is there a Wikipedia established convention for dealing with these dubious awards? ScienceFlyer (talk) 09:18, 4 December 2021 (UTC)
+Sounds like all those &quot;top doctor&quot; mentions (good grief) should be deleted, for a start. Alexbrn (talk) 09:23, 4 December 2021 (UTC)
+See  and  for pages linking to their website. WhatamIdoing (talk) 00:14, 5 December 2021 (UTC)
+There are about 100 of these left in the mainspace.  I'll tackle a handful, and perhaps someone else would like to chip in, too.  The second search link will give you a longer list. WhatamIdoing (talk) 20:03, 18 December 2021 (UTC)
 
 Omicron
 
 *
-As you'd expect, a high-traffic article.[https://pageviews.toolforge.org/?project=en.wikipedia.org&amp;platform=all-access&amp;agent=user&amp;redirects=0&amp;range=latest-30&amp;pages=SARS-CoV-2_Omicron_variant] I've just trimmed a load of preprints and . Not sure either about the big comparative table pulled together from heterogeneous sources, some very poor. Could uses eyes.  () 16:41, 19 December 2021 (UTC)
+As you'd expect, a high-traffic article.[https://pageviews.toolforge.org/?project=en.wikipedia.org&amp;platform=all-access&amp;agent=user&amp;redirects=0&amp;range=latest-30&amp;pages=SARS-CoV-2_Omicron_variant] I've just trimmed a load of preprints and . Not sure either about the big comparative table pulled together from heterogeneous sources, some very poor. Could uses eyes. Alexbrn (talk) 16:41, 19 December 2021 (UTC)
 
-[[:File:Breathing masks.png]]  () 16:10, 20 December 2021 (UTC)
+ Sciencia58 (talk) 16:10, 20 December 2021 (UTC)
 
 Macfarlane Burnet
-Is anyone able to tune up this important bio? It should be salvageable by someone knowledgeable and with a bit of time.  I can't decipher what is the copyvio issue that Earwig turns up though ... hope that Australian source is PD. [https://en.wikipedia.org/w/index.php?title=Talk:Macfarlane_Burnet&amp;oldid=1061270688#WP:URFA/2020]   any interest?  [[User:SandyGeorgia|SandyGeorgia]] ()  18:38, 20 December 2021 (UTC)
+Is anyone able to tune up this important bio? It should be salvageable by someone knowledgeable and with a bit of time.  I can't decipher what is the copyvio issue that Earwig turns up though ... hope that Australian source is PD. [https://en.wikipedia.org/w/index.php?title=Talk:Macfarlane_Burnet&amp;oldid=1061270688#WP:URFA/2020]   any interest?  SandyGeorgia (Talk)  18:38, 20 December 2021 (UTC)
 
 
 
-G'day, I thought this would be a good place to ask. Understandably, the draft review isn't a particularly a quick one, but I just wanted to reach out &amp; get someone to look at the draft in the title &amp; see if it could accepted? Thanks a lot.  () 03:45, 21 December 2021 (UTC)
+G'day, I thought this would be a good place to ask. Understandably, the draft review isn't a particularly a quick one, but I just wanted to reach out &amp; get someone to look at the draft in the title &amp; see if it could accepted? Thanks a lot. Obama gaming (talk) 03:45, 21 December 2021 (UTC)
 
-@, drafts are supposed to be accepted when they have a ≥50% chance of surviving AFD.  There is basically a 0% chance that a drug that finished Phase 3 clinical trials will be deleted at AFD.  I have never heard of such a thing happening.  IMO you should  it to the mainspace and not bother the AFC folks with an article about an obviously notable subject.  () 16:52, 21 December 2021 (UTC)
-(If you want to expand it, then it's missing a section on its development and regulatory history.  &quot;It was invented by Alice Expert in Year.  BigPharma, Inc. submitted it for FDA approval on Date&quot; – that kind of thing.)  () 16:53, 21 December 2021 (UTC)
- Thank you for the guidance, I'll take a look at WP:MOVe &amp; go from there. Yes I should add in the regulatory stuff in, but as I believe as of now it's currently patent pending. Cheers mate  () 17:34, 21 December 2021 (UTC)
- I hope you don't mind the extra ping but if you could hop on over to tirzepatide &amp; give the history section or the article itself a brief lookover that'd be splendid. Happy holidays  () 23:24, 21 December 2021 (UTC)
-Looks good to me, @.  () 01:10, 22 December 2021 (UTC)
+@Obama gaming, drafts are supposed to be accepted when they have a ≥50% chance of surviving AFD.  There is basically a 0% chance that a drug that finished Phase 3 clinical trials will be deleted at AFD.  I have never heard of such a thing happening.  IMO you should  it to the mainspace and not bother the AFC folks with an article about an obviously notable subject. WhatamIdoing (talk) 16:52, 21 December 2021 (UTC)
+(If you want to expand it, then it's missing a section on its development and regulatory history.  &quot;It was invented by Alice Expert in Year.  BigPharma, Inc. submitted it for FDA approval on Date&quot; – that kind of thing.) WhatamIdoing (talk) 16:53, 21 December 2021 (UTC)
+ Thank you for the guidance, I'll take a look at WP:MOVe &amp; go from there. Yes I should add in the regulatory stuff in, but as I believe as of now it's currently patent pending. Cheers mate Obama gaming (talk) 17:34, 21 December 2021 (UTC)
+ I hope you don't mind the extra ping but if you could hop on over to tirzepatide &amp; give the history section or the article itself a brief lookover that'd be splendid. Happy holidays Obama gaming (talk) 23:24, 21 December 2021 (UTC)
+Looks good to me, @Obama gaming. WhatamIdoing (talk) 01:10, 22 December 2021 (UTC)
 
 
- has been nominated for deletion. Is this a proper or good thing to have? --  () 17:44, 22 December 2021 (UTC)
+ has been nominated for deletion. Is this a proper or good thing to have? --  (talk) 17:44, 22 December 2021 (UTC)
 </segment>
 	</text>
 </file>

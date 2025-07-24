@@ -3,18 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-18T00:51:40Z" sourceCorpus="COVID-19" filename="66147797" title="SARS-CoV-2_Alpha_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant">
 	<text>
-		<segment id="id66147797">|map = [[File:B.1.1.7 Cases by country as of 25 Mar 2021.svg|thumb|upright=1.5|Total number of B.1.1.7 sequences by country as of 25 March 2021
-
-Legend:
-
-
-
-
-
-
-
-
-]]
+		<segment id="id66147797">|map = 
 
 
 
@@ -97,21 +86,9 @@ Genetic sequencing of VOC-202012/01 has shown a Q27stop mutation which &quot;tru
 Referring to amino-acid position 501 inside the spike protein, Chand et al. concluded that &quot;it is possible that variants at this position affect the efficacy of neutralisation of virus&quot;, but noted that &quot;[t]here is currently no neutralisation data on N501Y available from polyclonal sera from natural infection&quot;. The HV 69–70 deletion has, however, been discovered &quot;in viruses that eluded the immune response in some immunocompromised patients&quot;, and has also been found &quot;in association with other  changes&quot;.
 
 Epidemiology
-[[File:Covid-19 VOC-202012-01 odds ratio curves by country.png|thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in Denmark, the Netherlands, the United Kingdom, Portugal, Switzerland, and Ireland.refn|Data sources:
-* Denmark:
-* The Netherlands:
-* Portugal:
-* Switzerland:
-* The United Kingdom:
-* Ireland:
- The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 7.6% per day for Denmark).]]
 
-[[File:Covid-19 VOC-202012-01 odds ratio curves by UK region.png|thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in the United Kingdom, countries in the UK, and regions of England.refn|Data sources:
-* UK national (2021-01-21):
-* South-East England (2020-12-31):
-* UK countries (2021-01-29):
-* England regions (2021-01-15):
- The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 8.6% per day for the UK).]]
+
+
 
 Cases of the Alpha variant (lineage B.1.1.7) were estimated to be under-reported by most countries as the most commonly used tests do not distinguish between this variant and other SARS-CoV-2 variants, and as many SARS-CoV-2 infections are not detected at all. RNA sequencing is required for detection of this variant, although RT-PCR test for specific variants through what has been named &quot;spike-gene target failure&quot; (SGTF) or &quot;spike-gene drop out&quot; for the spike (S) gene in a subset of RT-PCR assays (e.g., TaqPath COVID-19 RT-PCR assay, ThermoFisher). Though existing in a few other variants of SARS-CoV-2, the HV 69–70 deletion in the spike protein is present in the vast majority of B.1.1.7 genomes, which enables the delta-PCR test to be used as a proxy test for the lineage—or as a supplementing first-screening test before conducting the whole-genome sequencing.
 Another example of a RT-PCR test intended to detect specific variants is the one detecting all genomes with the N501Y mutation (e.g., Alpha, Gamma variant, and Beta variant), which is now also being used as a first-step screening tool ahead of genome sequencing by several laboratories/countries (e.g. by some parts of France).
@@ -156,7 +133,7 @@ In Belgium, genome sequencing of samples selected randomly after excluding all s
 
 In France, scientists accurately forecast the Alpha variant (VOC-202012/01) would likely become dominant nationwide around week 8–11 of 2021. A nationwide survey of randomly selected positive COVID-19 samples first analysed by a RT-PCR screening test and subsequently confirmed by genome sequencing, revealed that the variant grew from a share of 3.3% (388/11916) on 7–8 January (week 1) to 13.3% (475/3561) on 27 January (week 4), followed by 44.3% (273/615) on 16 February (week 7). In week 8, the variant was found to have a dominant share of 56.4% (758/1345) according to the interpretable results of a weekly genome sequencing survey comprising 0.9% of all COVID-19 positive tests, or 59.5% according to a variant-specific RT-PCR survey testing 54% of all the COVID-19 positive tests. In week 10, the variant was found to have a share of 71.9% according to a variant-specific RT-PCR survey testing 56.9% of all the COVID-19 positive tests. The spread of the variant differed regionally for the 96 departments located in Metropolitan France for week 10, with 91 departments over 50% and 5 departments with 30%-50% (of which the Moselle department in particular was notable due to finding a high 38.3% rate of the competing Beta variant, that - despite having declined from a dominant 54.4% value in week 8 - still was significantly above the 5.0% national average for this specific variant).
 
-In Austria, [[w:de:Agentur für Gesundheit und Ernährungssicherheit|Agentur für Gesundheit und Ernährungssicherheit (AGES)]] collected data from N501Y RT-PCR specific tests combined with subsequent genome sequencing analysis, and found that the variant grew from 7.2% (week 1) to a dominant 61.3% (week 8), followed by 61.2% in week 9 and 48.3% in week 10. If all N501Y positive tests had been analysed further by genome sequencing, then these listed shares could have been even higher, for example they could have been as mcuh as: 2.4% higher for week 1, 23.0% higher for week 7, 4.0% higher for week 8, 6.8% higher for week 9 and 25.4% higher for week 10. The competing Beta variant was only found nationwide in 0.3% of the positive cases in week 10, and for the region Tyrol - where it had been most prevalent - its share declined from 24.5% in week 4 to just 1.9% in week 10. Regionally Alpha was found to be dominant with over 50% for 7 out of 9 regions, with the only two exceptions being Tyrol and Vorarlberg.
+In Austria,  collected data from N501Y RT-PCR specific tests combined with subsequent genome sequencing analysis, and found that the variant grew from 7.2% (week 1) to a dominant 61.3% (week 8), followed by 61.2% in week 9 and 48.3% in week 10. If all N501Y positive tests had been analysed further by genome sequencing, then these listed shares could have been even higher, for example they could have been as mcuh as: 2.4% higher for week 1, 23.0% higher for week 7, 4.0% higher for week 8, 6.8% higher for week 9 and 25.4% higher for week 10. The competing Beta variant was only found nationwide in 0.3% of the positive cases in week 10, and for the region Tyrol - where it had been most prevalent - its share declined from 24.5% in week 4 to just 1.9% in week 10. Regionally Alpha was found to be dominant with over 50% for 7 out of 9 regions, with the only two exceptions being Tyrol and Vorarlberg.
 
 In Germany, the largest and probably most representative national survey published by the Robert Koch Institute (entitled RKI-Testzahlerfassung), determined the share of circulating COVID-19 variants for the latest week by analysing 53,272 COVID-19 positive samples either by genome sequencing or RT-PCR proxy tests, with data collected on a voluntary basis from 84 laboratories from the university / research / clinical / outpatient sector - spread evenly across the nation. The survey did not utilize data weights or data selection criteria to ensure existence of geographical representativity, but might still be regarded as somewhat representative for the national average due to its big sample seize. According to the RKI-Testzahlerfassung survey, the variant grew from a share of 2.0% (week 2) to a dominant share of 54.5% (week 9), followed by 63.5% in week 10. In comparison, the competing Beta variant was only found nationwide in 0.9% of the positive cases in week 10.
 
@@ -442,8 +419,8 @@ External links
 
 
 * 
-* [https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data#variant-voc-20201201 Public Health England: Variants: UK distribution – summary of 4 nations distribution]
-* [https://cov-lineages.org/global_report_B.1.1.7.html PANGO lineages: New Variant Report - Report on global distribution of lineage B.1.1.7]
+* [https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data#variant-voc-20201201 Public Health England: Variants: UK distribution – summary of 4 nations distribution]
+* [https://cov-lineages.org/global_report_B.1.1.7.html PANGO lineages: New Variant Report - Report on global distribution of lineage B.1.1.7]
 * [https://www.gisaid.org/hcov19-variants/ GISAID sequencing data base - Tracking of COVID-19 variants]
 
 

@@ -13,18 +13,18 @@ However, many redirects to these types already exist, and simply redirect to the
 
 Do you think something could/should be done about it?
 
-Thanks for your time!  () 10:08, 25 December 2023 (UTC)
--- () 16:33, 28 December 2023 (UTC)
+Thanks for your time! AufbauPrinciple (talk) 10:08, 25 December 2023 (UTC)
+--Ozzie10aaaa (talk) 16:33, 28 December 2023 (UTC)
 
 Hyperproteinemia categorization 
 
 I was expanding Hyperproteinemia (high blood protein levels) and I'm having a hard time figuring out which category it should be listed under.
 
-It's currently listed under the catagoried [[:Category:Blood disorders|Blood disorders]] and [[:Category:Blood proteins|Blood proteins]]. However the ICD lists Hyperproteinemia as a  metabolic disorder.[https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/393047701/mms/other]. Hypoproteinemia (low blood protein levels) is categorized under [[:Category:Abnormal clinical and laboratory findings for blood|Abnormal clinical and laboratory findings for blood]].
+It's currently listed under the catagoried  and . However the ICD lists Hyperproteinemia as a  metabolic disorder.[https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/393047701/mms/other]. Hypoproteinemia (low blood protein levels) is categorized under .
 
-If anyone could advise me on how to categorize this article that would be very helpful.  () 01:04, 28 December 2023 (UTC)
-[[:Category:Abnormal clinical and laboratory findings for blood]] seems best. It is a general term for abnormally high protein levels in the blood, not a &quot;blood disorder&quot; in the sense of leukemia, sickle cell anemia etc.  () 01:30, 28 December 2023 (UTC)
-Thank you  () 21:55, 28 December 2023 (UTC)
+If anyone could advise me on how to categorize this article that would be very helpful. CursedWithTheAbilityToDoTheMath (talk) 01:04, 28 December 2023 (UTC)
+ seems best. It is a general term for abnormally high protein levels in the blood, not a &quot;blood disorder&quot; in the sense of leukemia, sickle cell anemia etc. Spicy (talk) 01:30, 28 December 2023 (UTC)
+Thank you CursedWithTheAbilityToDoTheMath (talk) 21:55, 28 December 2023 (UTC)
 
 Black box warnings 2nd project
 
@@ -42,31 +42,31 @@ A week ago, [https://www.wikidata.org/w/index.php?title=Wikidata_talk:Mismatch_F
 
 I was disturbed to find that most drugs with FDA-mandated black box warnings had articles that were missing any mention of the boxes or the risks. It is disturbing to me that many pages mentioned minor side effects but left this critical info out.  Part 1 changed this, but there's more to do - adding the text of the warnings.  
 
---  () 02:20, 11 December 2023 (UTC)
+-- RudolfoMD (talk) 02:20, 11 December 2023 (UTC)
 
 First, I think putting black box information on every drug that has one is important and useful. I'm not sure if there are equivalents of black-box warnings for other regulatory agencies (i.e., other than the US FDA), but if so, I think that should be put on the radar to be addressed once a satisfactory implementation has been found for the FDA-specific black box warnings.
-I do not know much of anything about wikidata, but if there is any way to import that csv from the FDA website into wikidata such that it can be easily referenced, that seems ideal. My complaint before was that the infobox shows that a black box warning exists but there was no readily-available way for the reader to click through to read the text of the warning. There was previous discussion about the fact that medline does have the body of the warnings, and is perhaps easier to link to than the FDA's own data; the point was made that the FDA issues the warnings and so it should be the primary source used for this information. Is there perhaps a way to combine these: have the FDA link in the , and perhaps also somehow link to the medline entry in the UI in the infobox? This way we link to the primary-source/issuer of the warning, but also provide the utility to the reader of being able to click through and read the warning text easily.  () 14:10, 11 December 2023 (UTC)
+I do not know much of anything about wikidata, but if there is any way to import that csv from the FDA website into wikidata such that it can be easily referenced, that seems ideal. My complaint before was that the infobox shows that a black box warning exists but there was no readily-available way for the reader to click through to read the text of the warning. There was previous discussion about the fact that medline does have the body of the warnings, and is perhaps easier to link to than the FDA's own data; the point was made that the FDA issues the warnings and so it should be the primary source used for this information. Is there perhaps a way to combine these: have the FDA link in the , and perhaps also somehow link to the medline entry in the UI in the infobox? This way we link to the primary-source/issuer of the warning, but also provide the utility to the reader of being able to click through and read the warning text easily. Kimen8 (talk) 14:10, 11 December 2023 (UTC)
  in a References section.  What?  Useful?  I doubt it,  but maybe.  Would be cool.) Whilst  is invoked even without the template, a bot can check and add the section – though I like to think an article on a drug with a regulatory warning would have references, and therefore already have a reference section. I don't know if the citation style is something a bot is capable of checking. Mentioning as citations  be consistent within a page (but isn't always), but might vary across a project's articles. 
 (Have added  below to keep the fake citation within the frame of reference)
- () 15:22, 11 December 2023 (UTC)
+Little pob (talk) 15:22, 11 December 2023 (UTC)
 Perhaps you missed/misunderstood my proposal, Little pob?  I'm wanting all of the articles on drugs with boxed warnings have a section something like: 
 
 Important Warnings
 
 There's a black box warning about this drug, which reads  Xoid will kill any patient with foo, and any patient taking Xoid with bar. 
-Will a bot be needed to add these -- that is one of my questions - I guess so but perhaps not.  () 03:31, 14 December 2023 (UTC)
+Will a bot be needed to add these -- that is one of my questions - I guess so but perhaps not. RudolfoMD (talk) 03:31, 14 December 2023 (UTC)
 I think it will be complicated.  For example:  Clonidine has a black box warning, but only for four injectable formulations, not for the more common tablets, and not even for all injectable formulations.  There are four with black box warnings, but they don't give the same black-box warnings.  One of them (XGen's) has a warning that &quot;The 500 mcg/mL strength product should be diluted prior to use in an appropriate solution.&quot;  Maybe the others don't have a 500 mcg/mL product?  Both XGen's and PharmaForce's have a warning against using it for childbirth or surgery, but Hikma's injectable formulation doesn't, for no reason that I can discern. 
-In principle, I am in favor of including this information, but in practice, I'm not sure that it's feasible.  () 18:42, 11 December 2023 (UTC)
+In principle, I am in favor of including this information, but in practice, I'm not sure that it's feasible. WhatamIdoing (talk) 18:42, 11 December 2023 (UTC)
 If it's correct, that is annoying - does complicate this.  Though I'm guessing and hoping it's rare.
 I'd say  Clonidine  should say something like: 
 There's a black box warning about injectable formulations of this drug, which reads  on the XGen label.  In terms of an algorithm:  Including the longest warning is most likely to include all the most important warnings. 
-Are we sure about this, or are we assuming MedLine is correct?  Did you find all the Clonidine labels on fda.gov?  () 03:41, 14 December 2023 (UTC)
-https://dailymed.nlm.nih.gov/dailymed/ has copies of the Medication package insert submitted to the FDA for all regulated drugs (human and veterinary; does not include unregulated substances, such as herbal supplements).  They have [https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=clonidine&amp;pagesize=200&amp;page=1 175 entries for clonidine].  Seven of the 175 are injectable.  These:  [https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e562c90-2e37-47ac-9c3f-12460f96dc33][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f01f281d-c7e5-4258-ab14-3685f1ff296f][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ada02f1f-ae78-4435-879e-492ae862d504][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8c126bb8-732a-4949-8754-2f50b5543638] have one or two boxed warnings (if two, they may be displayed in the same or separate boxes).  These do not:  [https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2b11e61-b2ef-4d20-8973-a4afc6b951ae][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a5b46ec-4c16-48a5-9e58-8d28a3f21274][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7daa1996-ea9f-2576-e053-2991aa0a6be5], although the first in this box-less batch seems to have an incomplete or incorrectly entered label in the database, and the last two seem to have the same warning about surgical procedures as appears in the boxed warnings.  The main difference is that the words aren't displayed in boxes.  () 04:31, 14 December 2023 (UTC)
-So does including the longest warning make sense; is anyone volunteering to manually review the warnings so we can see and handle complications like the one with Clonidine as we prepare to display them in wikipedia?  () 05:09, 14 December 2023 (UTC)
-Passing by comment: can we add a picture to the Boxed warning? I've never heard of this before (I lived in the States for a decade but was never in need of any serious medication...). Skimming that article makes me wonder what that warning actually looks like? |[[User talk:Piotrus| reply here]] 03:17, 12 December 2023 (UTC)
-Passing comment 2: see . We probably need a new article on this concept outside United States, under a more clear name like warnings in drug labels and package or safety information on drug labels (to use some phrasing from cited sources). The current article is appallingly US-centric, and the name is unclear to anyone who is not American. |[[User talk:Piotrus| reply here]] 03:25, 12 December 2023 (UTC)
-All countries have warnings.  Only the US seems to have this &quot;extra important warning&quot; thing.  The article should be US-centric – as US-centric as the Food and Drug Administration article.  () 20:21, 12 December 2023 (UTC)
-Tagging more Rx. Hope to continue to make progress in the new year.  -- () 03:14, 29 December 2023 (UTC)
+Are we sure about this, or are we assuming MedLine is correct?  Did you find all the Clonidine labels on fda.gov? RudolfoMD (talk) 03:41, 14 December 2023 (UTC)
+https://dailymed.nlm.nih.gov/dailymed/ has copies of the Medication package insert submitted to the FDA for all regulated drugs (human and veterinary; does not include unregulated substances, such as herbal supplements).  They have [https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=clonidine&amp;pagesize=200&amp;page=1 175 entries for clonidine].  Seven of the 175 are injectable.  These:  [https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e562c90-2e37-47ac-9c3f-12460f96dc33][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f01f281d-c7e5-4258-ab14-3685f1ff296f][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ada02f1f-ae78-4435-879e-492ae862d504][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8c126bb8-732a-4949-8754-2f50b5543638] have one or two boxed warnings (if two, they may be displayed in the same or separate boxes).  These do not:  [https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2b11e61-b2ef-4d20-8973-a4afc6b951ae][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a5b46ec-4c16-48a5-9e58-8d28a3f21274][https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7daa1996-ea9f-2576-e053-2991aa0a6be5], although the first in this box-less batch seems to have an incomplete or incorrectly entered label in the database, and the last two seem to have the same warning about surgical procedures as appears in the boxed warnings.  The main difference is that the words aren't displayed in boxes. WhatamIdoing (talk) 04:31, 14 December 2023 (UTC)
+So does including the longest warning make sense; is anyone volunteering to manually review the warnings so we can see and handle complications like the one with Clonidine as we prepare to display them in wikipedia? RudolfoMD (talk) 05:09, 14 December 2023 (UTC)
+Passing by comment: can we add a picture to the Boxed warning? I've never heard of this before (I lived in the States for a decade but was never in need of any serious medication...). Skimming that article makes me wonder what that warning actually looks like? Piotr Konieczny aka Prokonsul Piotrus| reply here 03:17, 12 December 2023 (UTC)
+Passing comment 2: see . We probably need a new article on this concept outside United States, under a more clear name like warnings in drug labels and package or safety information on drug labels (to use some phrasing from cited sources). The current article is appallingly US-centric, and the name is unclear to anyone who is not American. Piotr Konieczny aka Prokonsul Piotrus| reply here 03:25, 12 December 2023 (UTC)
+All countries have warnings.  Only the US seems to have this &quot;extra important warning&quot; thing.  The article should be US-centric – as US-centric as the Food and Drug Administration article. WhatamIdoing (talk) 20:21, 12 December 2023 (UTC)
+Tagging more Rx. Hope to continue to make progress in the new year.  --RudolfoMD (talk) 03:14, 29 December 2023 (UTC)
 
 
 Aortocaval compression syndrome Vs. Supine hypotensive syndrome
@@ -75,21 +75,21 @@ I was wondering if anyone could help clear up some confusion regarding Aortocava
 
 The wiki article states that &quot;Aortocaval compression is thought to be the cause of supine hypotensive syndrome&quot;. Supine hypotensive syndrome also redirects to Aortocaval compression syndrome. However a lot of sources seem to classify them as the same disorder.[https://www.ncbi.nlm.nih.gov/books/NBK430759/][https://journals.lww.com/anesthesia-analgesia/fulltext/2017/12000/aortocaval_compression_syndrome__time_to_revisit.27.aspx][https://www.cambridge.org/core/books/abs/analgesia-anaesthesia-and-pregnancy/aortocaval-compression/E524C087792483BCD3684885E2771E04]
 
-I'm wondering if Aortocaval compression syndrome and Supine hypotensive syndrome should be regarded as separate entities or referred to as synonyms.  () 03:08, 29 December 2023 (UTC)
+I'm wondering if Aortocaval compression syndrome and Supine hypotensive syndrome should be regarded as separate entities or referred to as synonyms. CursedWithTheAbilityToDoTheMath (talk) 03:08, 29 December 2023 (UTC)
 
-I think it's safe to say the terms are interchangeable since even the StatPearls article intended to educate healthcare providers explicitly states that. 🙂  () 07:34, 29 December 2023 (UTC)
-Thank you, I was leaning towards that but wanted to double check before writing the article!  () 20:20, 29 December 2023 (UTC)
+I think it's safe to say the terms are interchangeable since even the StatPearls article intended to educate healthcare providers explicitly states that. 🙂 AufbauPrinciple (talk) 07:34, 29 December 2023 (UTC)
+Thank you, I was leaning towards that but wanted to double check before writing the article! CursedWithTheAbilityToDoTheMath (talk) 20:20, 29 December 2023 (UTC)
 
 Arteriosclerotic heart disease Vs. Atherosclerosis
 
-Can anyone find a difference between Arteriosclerotic heart disease and Atherosclerosis? They seem to be referring to the same disorder but I'm not sure.  () 22:00, 29 December 2023 (UTC)
+Can anyone find a difference between Arteriosclerotic heart disease and Atherosclerosis? They seem to be referring to the same disorder but I'm not sure. CursedWithTheAbilityToDoTheMath (talk) 22:00, 29 December 2023 (UTC)
 
 It's extremely difficult to find sources in this. It seems that the term arteriosclerotic heart disease has all but gone extinct. 🤔
 It seems that arteriosclerotic heart disease (ASHD) is the arteriosclerosis of the coronary arteries. Arteriosclerosis is the hardening of arteries such as can be caused by atherosclerosis; plaque buildup. It seems that ASHD is a synonym for coronary heart disease.
 https://www.nhlbi.nih.gov/health/atherosclerosis
-https://www.jstor.org/stable/3469073  () 11:41, 30 December 2023 (UTC)
-Thank you so much. Do you think it's appropriate to redirect it to coronary heart disease?  () 16:01, 30 December 2023 (UTC)
-I think that redirecting ASHD to coronary heart disease would be entirely appropriate. 🙂  () 17:53, 30 December 2023 (UTC)
+https://www.jstor.org/stable/3469073 AufbauPrinciple (talk) 11:41, 30 December 2023 (UTC)
+Thank you so much. Do you think it's appropriate to redirect it to coronary heart disease? CursedWithTheAbilityToDoTheMath (talk) 16:01, 30 December 2023 (UTC)
+I think that redirecting ASHD to coronary heart disease would be entirely appropriate. 🙂 AufbauPrinciple (talk) 17:53, 30 December 2023 (UTC)
 
 Disseminated disease Vs. Disseminated infection.
 
@@ -97,45 +97,45 @@ I was wondering if anyone could help me understand the concept of Disseminated d
 
 Another thing I noticed was that there is lots of usage of the term Disseminated infection but very little usage of the term Disseminated disease. When the term Disseminated disease is used it seems to be used as a synonym not a separate entity. Would a name change and rewrite of the article to focus on Disseminated infections be appropriate here?
 
-Any advice or guidance is appreciated!  () 03:24, 3 January 2024 (UTC)
+Any advice or guidance is appreciated! CursedWithTheAbilityToDoTheMath (talk) 03:24, 3 January 2024 (UTC)
 
-UPDATE: I improved the article a bit but decided to leave it as is because I feel this topic is too far out of my understanding to properly write the article. Thank you to anyone who helped! If anyone is interested in expanding the article the two references I used are very extensive.  () 00:41, 4 January 2024 (UTC)
+UPDATE: I improved the article a bit but decided to leave it as is because I feel this topic is too far out of my understanding to properly write the article. Thank you to anyone who helped! If anyone is interested in expanding the article the two references I used are very extensive. CursedWithTheAbilityToDoTheMath (talk) 00:41, 4 January 2024 (UTC)
 
-Obviously anecdotal, and there's added potential for a geographic bias, but I (a UK based coder) have seen it infrequently used within the clinical record to refer to mets (usually extensive).  () 13:19, 3 January 2024 (UTC)
-Just to note: there's a possibility it may have actually been &quot;disseminated [organ/system] cancer&quot; that I'm remembering, rather than &quot;disseminated disease&quot;...  () 13:29, 3 January 2024 (UTC)
-I've found a couple articles in reference to cancer but typically under the name &quot;Disseminated Cancer&quot;. I'm not sure wether to include this as it seems to be an overlap with &quot;metastatic cancer&quot;.  () 18:41, 3 January 2024 (UTC)
+Obviously anecdotal, and there's added potential for a geographic bias, but I (a UK based coder) have seen it infrequently used within the clinical record to refer to mets (usually extensive). Little pob (talk) 13:19, 3 January 2024 (UTC)
+Just to note: there's a possibility it may have actually been &quot;disseminated [organ/system] cancer&quot; that I'm remembering, rather than &quot;disseminated disease&quot;... Little pob (talk) 13:29, 3 January 2024 (UTC)
+I've found a couple articles in reference to cancer but typically under the name &quot;Disseminated Cancer&quot;. I'm not sure wether to include this as it seems to be an overlap with &quot;metastatic cancer&quot;. CursedWithTheAbilityToDoTheMath (talk) 18:41, 3 January 2024 (UTC)
 I think that the equivalent in non-infectious diseases is usually called Systemic disease.  I looked at dozens of the books using this term, and nearly all of them were about infectious disease, especially HSV in newborns and MAC/MAI in people with HIV/AIDS.  
 That said, I did find a book on lymphoma that mentioned minimal disseminated disease (perhaps the pre-treatment equivalent of minimal residual disease?)[https://www.google.com/books/edition/Non_Hodgkin_s_Lymphoma_in_Childhood_and/nJiRDwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22disseminated+disease+(MDD)+at+diagnosis+or+minimal+residual+disease%22%22&amp;pg=PA114&amp;printsec=frontcover] and a couple of others that mentioned it in the context of oncology, usually for hematological malignancies,[https://www.google.com/books/edition/Microspheres_and_Regional_Cancer_Therapy/KJEBEAAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22disseminated+disease%22&amp;printsec=frontcover][https://www.google.com/books/edition/SPEC_Lanzkowsky_s_Manual_of_Pediatric_He/6nxREAAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22disseminated+disease%22&amp;pg=PA370&amp;printsec=frontcover], but not always.[https://www.google.com/books/edition/Brain_Tumors_in_Children/PuJwDwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22disseminated+disease%22&amp;pg=PA321&amp;printsec=frontcover]
 [https://www.google.com/books/edition/The_Feline_Patient/1PRYDwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22disseminated+disease%22&amp;pg=PA32&amp;printsec=frontcover This vet book] uses the term to describe an infection in a cat, which might be useful for an
 In animals
-section (cat lovers, please be prepared for large and potentially disturbing image if you click that link).  () 16:59, 3 January 2024 (UTC)
-Thank you so much for your detailed response it really is so helpful! Do you think it would be appropriate to use Disseminated infection as a synonym?  () 18:33, 3 January 2024 (UTC)
-No. And &quot;one can view metastatic cancer as a disseminated infection&quot; is wrong or at least unencylopedic.  Cancer isn't an infection.  () 21:20, 3 January 2024 (UTC)
-I improved the article a bit but decided to leave it as is because i feel this topic is too far out of my understanding to properly write article. Thank you to anyone that helped! If anyone is interested in expanding the article the two references I used are very extensive.  () 00:40, 4 January 2024 (UTC)
+section (cat lovers, please be prepared for large and potentially disturbing image if you click that link). WhatamIdoing (talk) 16:59, 3 January 2024 (UTC)
+Thank you so much for your detailed response it really is so helpful! Do you think it would be appropriate to use Disseminated infection as a synonym? CursedWithTheAbilityToDoTheMath (talk) 18:33, 3 January 2024 (UTC)
+No. And &quot;one can view metastatic cancer as a disseminated infection&quot; is wrong or at least unencylopedic.  Cancer isn't an infection. RudolfoMD (talk) 21:20, 3 January 2024 (UTC)
+I improved the article a bit but decided to leave it as is because i feel this topic is too far out of my understanding to properly write article. Thank you to anyone that helped! If anyone is interested in expanding the article the two references I used are very extensive. CursedWithTheAbilityToDoTheMath (talk) 00:40, 4 January 2024 (UTC)
 
-I have definitely come across the term in reference to malignancies in clinical settings, and a quick Internet search seems to bear this use out.  () 18:28, 3 January 2024 (UTC)
-Do you mind expanded on this? I did come across quite a few case reports of Disseminated infection in the context of malignancies due to the weakened immune system. I also found some usage of the term in the context of cancer cells spreading.[https://pubmed.ncbi.nlm.nih.gov/33626407/][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6008966/]  () 18:37, 3 January 2024 (UTC)
-Sure. I'm talking about cases where a malignancy that has metastasized to a large number of locations in the body is described as &quot;disseminated disease&quot;. That is to say, the &quot;disease&quot; in &quot;disseminated disease&quot; refers to the malignancy itself in that context (and &quot;disseminated&quot; is roughly equivalent to &quot;extensively metastasized&quot; here).  () 21:45, 3 January 2024 (UTC)
+I have definitely come across the term in reference to malignancies in clinical settings, and a quick Internet search seems to bear this use out. TompaDompa (talk) 18:28, 3 January 2024 (UTC)
+Do you mind expanded on this? I did come across quite a few case reports of Disseminated infection in the context of malignancies due to the weakened immune system. I also found some usage of the term in the context of cancer cells spreading.[https://pubmed.ncbi.nlm.nih.gov/33626407/][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6008966/] CursedWithTheAbilityToDoTheMath (talk) 18:37, 3 January 2024 (UTC)
+Sure. I'm talking about cases where a malignancy that has metastasized to a large number of locations in the body is described as &quot;disseminated disease&quot;. That is to say, the &quot;disease&quot; in &quot;disseminated disease&quot; refers to the malignancy itself in that context (and &quot;disseminated&quot; is roughly equivalent to &quot;extensively metastasized&quot; here). TompaDompa (talk) 21:45, 3 January 2024 (UTC)
 Tompa, do you see that language used for solid tumors?  I'm not sure that anyone would describe (e.g.,) lymphoma as &quot;metastasized&quot;, but it can be &quot;disseminated&quot;.  
-Cursed, you can have a disseminated infection in the setting of disseminated malignancy.  Both the infection (e.g., bacterial) and the cancer can be separately spread around the body.  () 03:15, 4 January 2024 (UTC)
-Yes, e.g. prostate cancer, lung cancer, and colorectal cancer.  () 07:57, 4 January 2024 (UTC)
+Cursed, you can have a disseminated infection in the setting of disseminated malignancy.  Both the infection (e.g., bacterial) and the cancer can be separately spread around the body. WhatamIdoing (talk) 03:15, 4 January 2024 (UTC)
+Yes, e.g. prostate cancer, lung cancer, and colorectal cancer. TompaDompa (talk) 07:57, 4 January 2024 (UTC)
 
 Last chance to auto-count your refs for the year
 
-If you would like to find out what your net number of refs for the whole year is, please sign up at https://outreachdashboard.wmflabs.org/courses/Wikipedia/WikiProject_Medicine_reference_campaign_2023/students/overview (or leave a comment here, and I can add you).  It also auto-counts the net number of words you've added/removed from WPMED-tagged articles.  So far,  is leading for content added and  for net sources removed (we do see some really lousy sources in some articles, so this is a necessary and important activity), but if you sign up now, your whole year's worth of work will be counted, so the leaderboard could change! 
+If you would like to find out what your net number of refs for the whole year is, please sign up at https://outreachdashboard.wmflabs.org/courses/Wikipedia/WikiProject_Medicine_reference_campaign_2023/students/overview (or leave a comment here, and I can add you).  It also auto-counts the net number of words you've added/removed from WPMED-tagged articles.  So far, JenOttawa is leading for content added and Ajpolino for net sources removed (we do see some really lousy sources in some articles, so this is a necessary and important activity), but if you sign up now, your whole year's worth of work will be counted, so the leaderboard could change! 
 
-[https://outreachdashboard.wmflabs.org/courses/Wikipedia/WikiProject_Medicine_reference_campaign_2023?enroll=qyoufwds You can sign up now!]  (If it asks you for a password or other id code, it should be qyoufwds.)  () 04:48, 31 December 2023 (UTC)
-Too late, it seems.  () 09:15, 31 December 2023 (UTC)
-I've added you.  It updates once every day or two, so it should catch you on the next run.  () 22:00, 31 December 2023 (UTC)
-The leaderboard has changed with some editors adding themselves.  I still have a button to add editors on my screen, so please post if you want to see how 2023 went for you.  () 18:27, 2 January 2024 (UTC)
-Add me please (if it’s not too late :) --[[User:Dustfreeworld|Dustfreeworld]] () 15:20, 4 January 2024 (UTC)
-I've put you on the list.  Check back tomorrow to see your numbers.  () 18:50, 4 January 2024 (UTC)
-It worked. I like the idea. Thanks! --[[User:Dustfreeworld|Dustfreeworld]] () 10:58, 5 January 2024 (UTC)
-Thanks.  It worked.  Interesting. Good idea.  () 21:15, 3 January 2024 (UTC)
+[https://outreachdashboard.wmflabs.org/courses/Wikipedia/WikiProject_Medicine_reference_campaign_2023?enroll=qyoufwds You can sign up now!]  (If it asks you for a password or other id code, it should be qyoufwds.) WhatamIdoing (talk) 04:48, 31 December 2023 (UTC)
+Too late, it seems. RudolfoMD (talk) 09:15, 31 December 2023 (UTC)
+I've added you.  It updates once every day or two, so it should catch you on the next run. WhatamIdoing (talk) 22:00, 31 December 2023 (UTC)
+The leaderboard has changed with some editors adding themselves.  I still have a button to add editors on my screen, so please post if you want to see how 2023 went for you. WhatamIdoing (talk) 18:27, 2 January 2024 (UTC)
+Add me please (if it’s not too late :) --Dustfreeworld (talk) 15:20, 4 January 2024 (UTC)
+I've put you on the list.  Check back tomorrow to see your numbers. WhatamIdoing (talk) 18:50, 4 January 2024 (UTC)
+It worked. I like the idea. Thanks! --Dustfreeworld (talk) 10:58, 5 January 2024 (UTC)
+Thanks.  It worked.  Interesting. Good idea. RudolfoMD (talk) 21:15, 3 January 2024 (UTC)
 
 Requested move at 
- There is a requested move discussion at  that may be of interest to members of this WikiProject.  () 04:44, 5 January 2024 (UTC)
-commented-- () 13:32, 6 January 2024 (UTC)
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. – robertsky (talk) 04:44, 5 January 2024 (UTC)
+commented--Ozzie10aaaa (talk) 13:32, 6 January 2024 (UTC)
 
 One of your project's articles has been selected for improvement!
 
@@ -150,24 +150,24 @@ The infobox adds a WARNING to the beginning of the US legal status along with a 
 
 
 
-The WARNING doesn't belong in the legal status section of the infobox since is part of the FDA label and is not a legal status. Articles that contain the WARNING in the infobox do not contain a discussion about the WARNING. The provided &quot;citation&quot; states it was retrieved in October 2023. Does that mean it is now stale and could be providing a false alarm? The placement of the WARNING in the infobox is annoying and distracting. -- () 23:52, 6 January 2024 (UTC)
+The WARNING doesn't belong in the legal status section of the infobox since is part of the FDA label and is not a legal status. Articles that contain the WARNING in the infobox do not contain a discussion about the WARNING. The provided &quot;citation&quot; states it was retrieved in October 2023. Does that mean it is now stale and could be providing a false alarm? The placement of the WARNING in the infobox is annoying and distracting. --Whywhenwhohow (talk) 23:52, 6 January 2024 (UTC)
 
 Articles about drugs with boxed warnings should contain information about black box warnings.  It wouldn't make sense to remove the little hint of information we have, just because the rest of the article isn't up to normal standards.  An amount of information that is small but less than ideal is better than no information at all. 
-A 504 error to a US federal government website is likely temporary.  I can tell you that the link was working a couple of weeks ago.  Also, as a practical matter, these warnings rarely change.  Like anything else involving regulatory requirements for a drug, it will require a little routine maintenance to check that nothing has changed, but this is probably one editor for a couple of hours, once a year (and less, if anyone comes up with a clever way to diff last year's spreadsheet against this year's spreadsheet).  () 18:03, 7 January 2024 (UTC)
+A 504 error to a US federal government website is likely temporary.  I can tell you that the link was working a couple of weeks ago.  Also, as a practical matter, these warnings rarely change.  Like anything else involving regulatory requirements for a drug, it will require a little routine maintenance to check that nothing has changed, but this is probably one editor for a couple of hours, once a year (and less, if anyone comes up with a clever way to diff last year's spreadsheet against this year's spreadsheet). WhatamIdoing (talk) 18:03, 7 January 2024 (UTC)
 
- Why should they contain that information? Wikipedia is not a guide () and does not give medical advice (). The warning is US FDA specific and looks alarming. The so-called hint using a large unexplained WARNING doesn't seem appropriate. The &quot;citation&quot; for the WARNING is not useful. When it works, it presents a database query form that requires readers to understand the form in order to use it properly. -- () 07:53, 8 January 2024 (UTC)
-Alternative markings were proposed during the discussion – the least obtrusive of which were ◼︎ (a square) for the US FDA and ▼ (an inverted triangle) for the EU equivalent. These did not receive any support over the implemented WARNING. Both disclaimers were also raised and discussed by editors more competent than I, but will see if I can find the archived discussion(s).  () 15:47, 8 January 2024 (UTC)
-Original discussion as far as I'm aware: . (I'm only seeing reference to  on a quick review, though.)  () 15:56, 8 January 2024 (UTC)
-Also  (36 comments from 7 editors).  () 17:31, 8 January 2024 (UTC)
-Whywhenwhohow, I'm sure you don't mean to be asking why articles about drugs should contain information about important contraindications and serious adverse effects.  Every article about a drug that has earned a high-priority warning from the FDA or EU should have that fact mentioned in it because major safety issues are basically always DUE.  One would not wish to leave out information, e.g., about suicide risk in SSRIs, or Depo-Provera causing osteoporosis, or celecoxib causing cardiac deaths because you can't really have a complete understanding of the subject if you aren't aware of the serious safety issues.  In addition to the medical side, these warnings also have significant business effects.  () 17:42, 8 January 2024 (UTC)
+ Why should they contain that information? Wikipedia is not a guide () and does not give medical advice (). The warning is US FDA specific and looks alarming. The so-called hint using a large unexplained WARNING doesn't seem appropriate. The &quot;citation&quot; for the WARNING is not useful. When it works, it presents a database query form that requires readers to understand the form in order to use it properly. --Whywhenwhohow (talk) 07:53, 8 January 2024 (UTC)
+Alternative markings were proposed during the discussion – the least obtrusive of which were ◼︎ (a square) for the US FDA and ▼ (an inverted triangle) for the EU equivalent. These did not receive any support over the implemented WARNING. Both disclaimers were also raised and discussed by editors more competent than I, but will see if I can find the archived discussion(s). Little pob (talk) 15:47, 8 January 2024 (UTC)
+Original discussion as far as I'm aware: . (I'm only seeing reference to  on a quick review, though.) Little pob (talk) 15:56, 8 January 2024 (UTC)
+Also  (36 comments from 7 editors). WhatamIdoing (talk) 17:31, 8 January 2024 (UTC)
+Whywhenwhohow, I'm sure you don't mean to be asking why articles about drugs should contain information about important contraindications and serious adverse effects.  Every article about a drug that has earned a high-priority warning from the FDA or EU should have that fact mentioned in it because major safety issues are basically always DUE.  One would not wish to leave out information, e.g., about suicide risk in SSRIs, or Depo-Provera causing osteoporosis, or celecoxib causing cardiac deaths because you can't really have a complete understanding of the subject if you aren't aware of the serious safety issues.  In addition to the medical side, these warnings also have significant business effects. WhatamIdoing (talk) 17:42, 8 January 2024 (UTC)
 
 Hyperthyroid misinformation in Eliot Coleman article
 
-The Eliot Coleman article (author of winter gardening methods) has a large paragraph on hyperthyroidism which likely contains  violations since it is based on a book written by Coleman's daughter about her recollection of his hyperthyroidism from her childhood, and potentially supported by a Spanish paper (which I cannot access or read). It looks like it is suggesting dietary advice to remedy Graves' disease. I am not familiar enough to evaluate this, but I see zero discussion of diet in the rather long and comprehensive-looking Graves' disease article. Perhaps someone from this wikiproject can assess the matter. [[User:Grorp|   ▶ I am Grorp ◀ ]] 21:46, 7 January 2024 (UTC)
+The Eliot Coleman article (author of winter gardening methods) has a large paragraph on hyperthyroidism which likely contains  violations since it is based on a book written by Coleman's daughter about her recollection of his hyperthyroidism from her childhood, and potentially supported by a Spanish paper (which I cannot access or read). It looks like it is suggesting dietary advice to remedy Graves' disease. I am not familiar enough to evaluate this, but I see zero discussion of diet in the rather long and comprehensive-looking Graves' disease article. Perhaps someone from this wikiproject can assess the matter.    ▶ I am Grorp ◀  21:46, 7 January 2024 (UTC)
 
-Thanks for the note, @.  While iodine problems can be caused by dietary factors, and thus reversed by fixing those dietary factors, that's not what the cited source actually says.  His thyroid problems were solved by conventional medical treatment, not dietary changes.  () 18:18, 8 January 2024 (UTC)
+Thanks for the note, @Grorp.  While iodine problems can be caused by dietary factors, and thus reversed by fixing those dietary factors, that's not what the cited source actually says.  His thyroid problems were solved by conventional medical treatment, not dietary changes. WhatamIdoing (talk) 18:18, 8 January 2024 (UTC)
 
- Thank you! I like what you did to the article's paragraph. [[User:Grorp|   ▶ I am Grorp ◀ ]] 00:34, 9 January 2024 (UTC)
+ Thank you! I like what you did to the article's paragraph.    ▶ I am Grorp ◀  00:34, 9 January 2024 (UTC)
 
 Need help on a page: Enteritis
 
@@ -175,23 +175,23 @@ Enteritis is an extremely high-traffic page, with over 400,000 monthly page view
 
 I need some help improving the page. It may need large-scale restructuring, maybe not. I've also had trouble finding relevant images (there was no image on the page before I added one recently) if anyone is better at finding those too.
 
-I'm pretty new around here - are there any gastroenterology editors who we might be able to reach out to? But I encourage anyone able and interested of course  () 15:25, 5 January 2024 (UTC)
-the treatment section seems to be tagged...-- () 13:49, 9 January 2024 (UTC)
+I'm pretty new around here - are there any gastroenterology editors who we might be able to reach out to? But I encourage anyone able and interested of course Just-a-can-of-beans (talk) 15:25, 5 January 2024 (UTC)
+the treatment section seems to be tagged...--Ozzie10aaaa (talk) 13:49, 9 January 2024 (UTC)
 
 Requested move at 
- There is a requested move discussion at  that may be of interest to members of this WikiProject.  () 18:19, 5 January 2024 (UTC)
-commented-- () 13:53, 9 January 2024 (UTC)
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. Vanderwaalforces (talk) 18:19, 5 January 2024 (UTC)
+commented--Ozzie10aaaa (talk) 13:53, 9 January 2024 (UTC)
 
 Glucocorticoid resistance
 
-I'm currently working on expanding the page Glucocorticoid resistance but I'm a bit confused as to what the topic of the article should be. There seems to be two definitions of Glucocorticoid resistance, one being a well documented genetic disorder,[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2386273/] and the other being more of a vague concept.[https://www.sciencedirect.com/science/article/abs/pii/S0039128X16301258] I'm not sure if I should write this article from both perspectives or just focus on the genetic disorder. I've started a sandbox  for the article if anyone wants to check what I've already written on the subject.
+I'm currently working on expanding the page Glucocorticoid resistance but I'm a bit confused as to what the topic of the article should be. There seems to be two definitions of Glucocorticoid resistance, one being a well documented genetic disorder,[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2386273/] and the other being more of a vague concept.[https://www.sciencedirect.com/science/article/abs/pii/S0039128X16301258] I'm not sure if I should write this article from both perspectives or just focus on the genetic disorder. I've started a sandbox here for the article if anyone wants to check what I've already written on the subject.
 
-It seems like the term has been used in many different contexts and any advice on how I should move forward is appriciated.  () 00:41, 7 January 2024 (UTC)
+It seems like the term has been used in many different contexts and any advice on how I should move forward is appriciated. CursedWithTheAbilityToDoTheMath (talk) 00:41, 7 January 2024 (UTC)
 
-Congratulations on your work. It seems that the primary genetic disorder is a syndrome - i.e., a complex of various manifestations in multiple organ systems - referred to as (primary) generalized glucocorticoid resistance,[https://www.mdpi.com/1422-0067/22/19/10839], and is caused by defects in the human glucocorticoid receptor. The general concept of resistance to glucocorticoids[https://pubmed.ncbi.nlm.nih.gov/21164266/] is indeed more vague and highly technical. Therefore, it is worth considering renaming the article Generalized GC resistance, and only cover this specific disease.  () 15:12, 7 January 2024 (UTC)
-Thank you for your response! I think renaming it is the best course of action and I'll finish up my article in the sandbox, then switch the name!  () 20:53, 7 January 2024 (UTC)
-Another idea is, since the various non-congenital types of glucocorticoid resistance too are mediated by the Glucocorticoid receptor, to expand on them in the article on the aforementioned protein. ()  () 20:33, 8 January 2024 (UTC)
-[https://www.sciencedirect.com/science/article/pii/S0039128X16301258 This publication/review] treats all GR resistances in one go, if that's useful.  () 14:12, 9 January 2024 (UTC)
+Congratulations on your work. It seems that the primary genetic disorder is a syndrome - i.e., a complex of various manifestations in multiple organ systems - referred to as (primary) generalized glucocorticoid resistance,[https://www.mdpi.com/1422-0067/22/19/10839], and is caused by defects in the human glucocorticoid receptor. The general concept of resistance to glucocorticoids[https://pubmed.ncbi.nlm.nih.gov/21164266/] is indeed more vague and highly technical. Therefore, it is worth considering renaming the article Generalized GC resistance, and only cover this specific disease. NikosGouliaros (talk) 15:12, 7 January 2024 (UTC)
+Thank you for your response! I think renaming it is the best course of action and I'll finish up my article in the sandbox, then switch the name! CursedWithTheAbilityToDoTheMath (talk) 20:53, 7 January 2024 (UTC)
+Another idea is, since the various non-congenital types of glucocorticoid resistance too are mediated by the Glucocorticoid receptor, to expand on them in the article on the aforementioned protein.NikosGouliaros (talk) NikosGouliaros (talk) 20:33, 8 January 2024 (UTC)
+[https://www.sciencedirect.com/science/article/pii/S0039128X16301258 This publication/review] treats all GR resistances in one go, if that's useful. Jo-Jo Eumerus (talk) 14:12, 9 January 2024 (UTC)
 
 Dipygus
 
@@ -201,43 +201,43 @@ This article[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4155636/] sates that &
 
 Orphanet,[https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN&amp;data_id=1772&amp;Disease_Disease_Search_diseaseGroup=Dipygus&amp;Disease_Disease_Search_diseaseType=Pat&amp;Disease(s)/group%20of%20diseases=Caudal-duplication&amp;title=Caudal%20duplication&amp;search=Disease_Search_Simple] GARD, [https://rarediseases.info.nih.gov/diseases/1164/index] and MONDO[https://monarchinitiative.org/MONDO:0011928] all list it under synonyms for Caudal duplication.
 
-I'm interested in others thoughts on the matter are.  () 01:27, 10 January 2024 (UTC)
-Support the idea of a merge for , even if not duplication of scope.  () 16:34, 10 January 2024 (UTC)
-Of note, the ICD-11 code listed on Orphanet is not the same as when you type it into the browser:  (Orphanet) vs  (code returned on search).  () 17:32, 10 January 2024 (UTC)
-I noticed that as well. I will redirect and add Dipygus under the classification for  Caudal duplication.  () 19:05, 10 January 2024 (UTC)
+I'm interested in others thoughts on the matter are. CursedWithTheAbilityToDoTheMath (talk) 01:27, 10 January 2024 (UTC)
+Support the idea of a merge for , even if not duplication of scope. Klbrain (talk) 16:34, 10 January 2024 (UTC)
+Of note, the ICD-11 code listed on Orphanet is not the same as when you type it into the browser:  (Orphanet) vs  (code returned on search). Little pob (talk) 17:32, 10 January 2024 (UTC)
+I noticed that as well. I will redirect and add Dipygus under the classification for  Caudal duplication. CursedWithTheAbilityToDoTheMath (talk) 19:05, 10 January 2024 (UTC)
 
 Tumor Cells Communicate
-Hello, is the text on “Brain Tumor” under “Tumor Cells Communicate” OK or not, OK?  () 07:36, 11 January 2024 (UTC)
+Hello, is the text on “Brain Tumor” under “Tumor Cells Communicate” OK or not, OK? Wname1 (talk) 07:36, 11 January 2024 (UTC)
 
 The text has been removed as a copyright violation the last time you posted it. You were informed of this in the edit summary, on [https://en.wikipedia.org/w/index.php?title=User_talk:Wname1&amp;diff=prev&amp;oldid=1190251431 on your talk page] and [https://en.wikipedia.org/w/index.php?title=Talk:Brain_tumor&amp;diff=prev&amp;oldid=1190347957|on the article's talk page]. If memory serves correctly, you've essentially posted the same copyrighted text again. I've undone your change and nominated it for a . If you continue to add copyrighted material, I will request administrative action. 
-Kurzgefasst auf Deutsch: Hör auf urheberrechtsgeschützte Texte hier reinzukopieren, dafür kann man gebannt werden.  () 08:25, 11 January 2024 (UTC)
- Dieser Text ist zu 98% anders/verändert im Vergleich zum Original. Es gab keine Kopie. Welche urheberrechtsgeschützte Texte hat  gesehen?  () 11:23, 11 January 2024 (UTC)
+Kurzgefasst auf Deutsch: Hör auf urheberrechtsgeschützte Texte hier reinzukopieren, dafür kann man gebannt werden. MaligneRange (talk) 08:25, 11 January 2024 (UTC)
+ Dieser Text ist zu 98% anders/verändert im Vergleich zum Original. Es gab keine Kopie. Welche urheberrechtsgeschützte Texte hat  gesehen? Wname1 (talk) 11:23, 11 January 2024 (UTC)
 English: The text is virtually identical to the third and fourth paragraph of [https://www.heidelberg-university-hospital.com/12052022-german-cancer-award-goes-to-top-researcher-from-heidelberg this press release], which you also failed to cite. Slight rewordings (of which there were few) are still copyright violations. [https://de.wikipedia.org/w/index.php?title=Benutzer_Diskussion:Wname1&amp;diff=prev&amp;oldid=236897963 As you've been told to on the German Wikipedia], I'd ask you to first propose any edits on neuro-oncology on the article's talk page.
-German: Der Text ist praktisch identisch zum driten und vierten Absatz [https://www.heidelberg-university-hospital.com/12052022-german-cancer-award-goes-to-top-researcher-from-heidelberg aus der Pressemitteilung]. Hier und da was umzuformulieren hat keine Schöpfungshöhe, das bleiben Urheberrechtsverletzungen. @ hat dich [https://de.wikipedia.org/w/index.php?title=Benutzer_Diskussion:Wname1&amp;diff=prev&amp;oldid=236897963 in der deutschen Wikipedia schon gebeten] keine unabgesprochenen Bearbeitungen mehr an neuroonokologischen Artikeln vorzunehmen, darum würde ich dich auch in der englischen Version bitten.  () 11:50, 11 January 2024 (UTC)
+German: Der Text ist praktisch identisch zum driten und vierten Absatz [https://www.heidelberg-university-hospital.com/12052022-german-cancer-award-goes-to-top-researcher-from-heidelberg aus der Pressemitteilung]. Hier und da was umzuformulieren hat keine Schöpfungshöhe, das bleiben Urheberrechtsverletzungen. @Grim hat dich [https://de.wikipedia.org/w/index.php?title=Benutzer_Diskussion:Wname1&amp;diff=prev&amp;oldid=236897963 in der deutschen Wikipedia schon gebeten] keine unabgesprochenen Bearbeitungen mehr an neuroonokologischen Artikeln vorzunehmen, darum würde ich dich auch in der englischen Version bitten. MaligneRange (talk) 11:50, 11 January 2024 (UTC)
 
 JAMA now available in The Wikipedia Library
 
-This is just a quick note to let you know that if you qualify for access to [https://wikipedialibrary.wmflabs.org/ The Wikipedia Library] you can now access The Journal of the American Medical Association for free! Simply click Access Collection under the JAMA entry or head directly to [https://jamanetwork-com.wikipedialibrary.idm.oclc.org/ this URL]. Let me know if you have any questions.  () 14:18, 10 January 2024 (UTC)
+This is just a quick note to let you know that if you qualify for access to [https://wikipedialibrary.wmflabs.org/ The Wikipedia Library] you can now access The Journal of the American Medical Association for free! Simply click Access Collection under the JAMA entry or head directly to [https://jamanetwork-com.wikipedialibrary.idm.oclc.org/ this URL]. Let me know if you have any questions. Samwalton9 (WMF) (talk) 14:18, 10 January 2024 (UTC)
 
-Fantastic news. Thank you for letting us know!  () 17:27, 10 January 2024 (UTC)
-My account isn't old enough to access the Wikipedia library yet otherwise I would just check this out myself but I was wondering if this includes the journals under JAMA like JAMA Cardiology, JAMA Neurology etc. I'm assumingit does but could someone confirm this for me?  () 23:19, 11 January 2024 (UTC)
+Fantastic news. Thank you for letting us know! Ajpolino (talk) 17:27, 10 January 2024 (UTC)
+My account isn't old enough to access the Wikipedia library yet otherwise I would just check this out myself but I was wondering if this includes the journals under JAMA like JAMA Cardiology, JAMA Neurology etc. I'm assumingit does but could someone confirm this for me? CursedWithTheAbilityToDoTheMath (talk) 23:19, 11 January 2024 (UTC)
 I think you'll qualify next week, but https://wikipedialibrary.wmflabs.org/partners/148/ doesn't sound like it includes all of them, although I had no trouble getting the full text of any JAMA Cardiology article in the current issue (I clicked on several).  
-@, do you know off the top of your head?  If they're meant to be available, then a description that names the other journals might be more useful.
-Also, am I correct to assume that it's not integrated into the general (EBSCO-based) search of multiple sources?  () 00:08, 12 January 2024 (UTC)
-@ @ Let me check on the collections question and we'll update the description if necessary. This collection isn't in the cross-source search yet - we're just clarifying the configuration for it and then it will be searchable there too!  () 10:33, 12 January 2024 (UTC)
+@Samwalton9 (WMF), do you know off the top of your head?  If they're meant to be available, then a description that names the other journals might be more useful.
+Also, am I correct to assume that it's not integrated into the general (EBSCO-based) search of multiple sources? WhatamIdoing (talk) 00:08, 12 January 2024 (UTC)
+@CursedWithTheAbilityToDoTheMath @WhatamIdoing Let me check on the collections question and we'll update the description if necessary. This collection isn't in the cross-source search yet - we're just clarifying the configuration for it and then it will be searchable there too! Samwalton9 (WMF) (talk) 10:33, 12 January 2024 (UTC)
 
 PharmaNutrition
 
-Need some advice about this journal PharmaNutrition, they have published many reviews of clinical trials but is this a reliable journal to be citing on Wikipedia [https://www.sciencedirect.com/journal/pharmanutrition]. The journal is not on pubmed.  () 12:26, 12 January 2024 (UTC)
+Need some advice about this journal PharmaNutrition, they have published many reviews of clinical trials but is this a reliable journal to be citing on Wikipedia [https://www.sciencedirect.com/journal/pharmanutrition]. The journal is not on pubmed. Psychologist Guy (talk) 12:26, 12 January 2024 (UTC)
 
-Elsevier, so a non-junk publisher. Low, but not very low, impact factor. Going since 2013. Not[https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22PharmaNutrition%22%5BTitle+Abbreviation%5D] MEDLINE indexed. My inclination would be that it's okay for anything non-startling. (General proviso: in my view much of the world of 'nutrition' research is semi- anyway, so it's always preferable to adopt material which has penetrated into the wider medical world).  () 12:42, 12 January 2024 (UTC)
-Normal  vary significantly by field.  Within their specific field, they're among the top quarter of journals.[https://www.scopus.com/sourceid/21100239265]   () 17:11, 12 January 2024 (UTC)
+Elsevier, so a non-junk publisher. Low, but not very low, impact factor. Going since 2013. Not[https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22PharmaNutrition%22%5BTitle+Abbreviation%5D] MEDLINE indexed. My inclination would be that it's okay for anything non-startling. (General proviso: in my view much of the world of 'nutrition' research is semi- anyway, so it's always preferable to adopt material which has penetrated into the wider medical world). Bon courage (talk) 12:42, 12 January 2024 (UTC)
+Normal  vary significantly by field.  Within their specific field, they're among the top quarter of journals.[https://www.scopus.com/sourceid/21100239265]  WhatamIdoing (talk) 17:11, 12 January 2024 (UTC)
 
 Sanhujori
 
-The above article on Korean-specific postpartum care could probably do with a once-over looking from members of this WikiProject.  () 14:29, 14 January 2024 (UTC)
+The above article on Korean-specific postpartum care could probably do with a once-over looking from members of this WikiProject. GnocchiFan (talk) 14:29, 14 January 2024 (UTC)
 
-I had a look.  I think that doing more than a superficial copyedit will require someone to read the sources.  It's very easy, but bad practice, to just assume that the Western practices are the correct ones.    () 21:14, 14 January 2024 (UTC)
+I had a look.  I think that doing more than a superficial copyedit will require someone to read the sources.  It's very easy, but bad practice, to just assume that the Western practices are the correct ones.   WhatamIdoing (talk) 21:14, 14 January 2024 (UTC)
 
 Systemic vasculitides VS. Systemic vasculitis
 
@@ -247,17 +247,17 @@ This article [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355154/] states &quo
 
 This seems like the exact same definition of Systemic vasculitis.
 
-If anyone has any opinions advice or information on the topic please share.  () 03:03, 13 January 2024 (UTC)
+If anyone has any opinions advice or information on the topic please share. CursedWithTheAbilityToDoTheMath (talk) 03:03, 13 January 2024 (UTC)
 
-I don't know anything about this subject myself, but https://www.hopkinsvasculitis.org/types-vasculitis/ suggests that the -ides name is just the plural form of -itis.  () 05:47, 13 January 2024 (UTC)
-Would it just make sense to redirect Systemic vasculitides to Systemic vasculitis then?  () 18:32, 13 January 2024 (UTC)
+I don't know anything about this subject myself, but https://www.hopkinsvasculitis.org/types-vasculitis/ suggests that the -ides name is just the plural form of -itis. WhatamIdoing (talk) 05:47, 13 January 2024 (UTC)
+Would it just make sense to redirect Systemic vasculitides to Systemic vasculitis then? CursedWithTheAbilityToDoTheMath (talk) 18:32, 13 January 2024 (UTC)
 We seem to have a bit of a mess.  Systemic Vasculatides (note capitalization) redirects to Vasculitis.  Systemic vasculitis says it's about &quot;Necrotizing systemic vasculitis&quot;, which makes me think that it was about narrower subject and then the name was changed.
 I suspect that what we want is to end up with:
 * All types (e.g., systemic, local) summarized briefly at Vasculitis
 * All the systemic types summarized at Systemic vasculitis
 * All the -ides names redirected to Systemic vasculitis (because we put articles at the singular – Cancer, not &quot;Cancers&quot;)
 * Separate articles on all the main systemic types (e.g., Necrotizing vasculitis gets its own article, unless it turns out that all systemics are also necrotizing)
-People familiar with the subject matter are hereby requested to tell me what I've got wrong.  () 20:09, 13 January 2024 (UTC)
+People familiar with the subject matter are hereby requested to tell me what I've got wrong. WhatamIdoing (talk) 20:09, 13 January 2024 (UTC)
 Thank you for your help. I know quite a bit about vasculitis itself (as an interest not in a professional way) so I would be happy to expand these articles. It would probably take me a week to sort things out but I do love expanding and creating pages! If anyone with more knowledge would like to weigh in please do.
 Just to summarize (correct me if I'm wrong here)
 * Expand Vasculitis to briefly touch on the different types (I'm also noticing that the article itself needs to be reformatted and fixed up a bit)
@@ -265,31 +265,31 @@ Just to summarize (correct me if I'm wrong here)
 * Fix redirects
 * Create page for Necrotizing vasculitis
 This article [https://www.nature.com/articles/s41584-023-00933-5] seems to be pretty up to date however I don't have access to it so I can't say for sure. I also found this article [https://www.sciencedirect.com/science/article/pii/S1521694223000311] from 2023 which seems up to date. This article [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4029362/] is from 2012 however it goes in depth on the topic and is open access.
-Please let me know if I'm missing anything or if anyone has any corrections to make.  () 20:41, 13 January 2024 (UTC)
-Nature is in , which you should finally have access to by maybe Monday or Tuesday?  I don't think it's integrated into the main search, so go to https://wikipedialibrary.wmflabs.org/ to log in, then scroll down until you find the box or &quot;card&quot; about Nature.  Click that, and it'll take you to https://www-nature-com.wikipedialibrary.idm.oclc.org/.  From there, you can search for the title of the article, which will be at the URL https://www-nature-com.wikipedialibrary.idm.oclc.org/articles/s41584-023-00933-5   () 21:00, 14 January 2024 (UTC)
-I just got access yesterday! I've started a sandbox for vasculitis  and a sandbox for system vasculitis .  () 23:09, 14 January 2024 (UTC)
-\o/  () 01:04, 15 January 2024 (UTC)
+Please let me know if I'm missing anything or if anyone has any corrections to make. CursedWithTheAbilityToDoTheMath (talk) 20:41, 13 January 2024 (UTC)
+Nature is in , which you should finally have access to by maybe Monday or Tuesday?  I don't think it's integrated into the main search, so go to https://wikipedialibrary.wmflabs.org/ to log in, then scroll down until you find the box or &quot;card&quot; about Nature.  Click that, and it'll take you to https://www-nature-com.wikipedialibrary.idm.oclc.org/.  From there, you can search for the title of the article, which will be at the URL https://www-nature-com.wikipedialibrary.idm.oclc.org/articles/s41584-023-00933-5  WhatamIdoing (talk) 21:00, 14 January 2024 (UTC)
+I just got access yesterday! I've started a sandbox for vasculitis here and a sandbox for system vasculitis here. CursedWithTheAbilityToDoTheMath (talk) 23:09, 14 January 2024 (UTC)
+\o/ WhatamIdoing (talk) 01:04, 15 January 2024 (UTC)
 
 Bigeminal pulse VS. Bigeminy
 
-I was wondering if anyone could help me figure out the difference (if there is one) between Bigeminal pulse and Bigeminy. I suspect the two articles may be referring to the same disorder but I always get hesitant when pages have already been created.  () 00:52, 6 January 2024 (UTC)
-Bigeminal pulse is the arterial pulse that can be felt when there is a bigeminal cardiac rhythm. Our article describes bigeminal pulse as a condition, but it is more properly classified as a sign. Bigeminy is the underlying cardiac rhythm.  () 08:30, 6 January 2024 (UTC)
-Quite right, but the Bigeminal pulse article is so short (and poorly referenced) that a merge is (in my view) warranted on the grounds of context. I've started a merge proposal; feel free to contribute at .  () 10:35, 6 January 2024 (UTC)
-bigeminal pulse is feeling of alternate abnormal beats due to irregular heart beats. that mean one normal volume pulse and another weaker. similarly bigeminy is an ECG diagnosis of one normal followed by another abnormal beats,   () 11:11, 15 January 2024 (UTC)
-There's open discussion on merging the articles in , you're welcome to contribute there also.  () 15:03, 15 January 2024 (UTC)
+I was wondering if anyone could help me figure out the difference (if there is one) between Bigeminal pulse and Bigeminy. I suspect the two articles may be referring to the same disorder but I always get hesitant when pages have already been created. CursedWithTheAbilityToDoTheMath (talk) 00:52, 6 January 2024 (UTC)
+Bigeminal pulse is the arterial pulse that can be felt when there is a bigeminal cardiac rhythm. Our article describes bigeminal pulse as a condition, but it is more properly classified as a sign. Bigeminy is the underlying cardiac rhythm. TompaDompa (talk) 08:30, 6 January 2024 (UTC)
+Quite right, but the Bigeminal pulse article is so short (and poorly referenced) that a merge is (in my view) warranted on the grounds of context. I've started a merge proposal; feel free to contribute at . Klbrain (talk) 10:35, 6 January 2024 (UTC)
+bigeminal pulse is feeling of alternate abnormal beats due to irregular heart beats. that mean one normal volume pulse and another weaker. similarly bigeminy is an ECG diagnosis of one normal followed by another abnormal beats,  EEverest 8848 (talk) 11:11, 15 January 2024 (UTC)
+There's open discussion on merging the articles in , you're welcome to contribute there also. NikosGouliaros (talk) 15:03, 15 January 2024 (UTC)
 
 Should transplant glomerulopathy be added to the Glomerular disease template?
 
-I just finished fixing up the page Transplant glomerulopathy and noticed its classified as a Glomerular disease.[https://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236587002&amp;edition=MAIN/2024-01-01&amp;release=&amp;languages=en] I would like to add it to the template for Glomerular disease [https://en.wikipedia.org/wiki/Template:Glomerular_disease] but I'm not sure how to classify it. Here [https://karger.com/gdz/article/1/2/68/138415/Transplant-Glomerulopathy-Importance-of] is a good article on the mechanism behind Transplant glomerulopathy in case my article missed anything. Any help is appreciated!  () 00:42, 18 January 2024 (UTC)
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8281330/ this should help to classify it]-- () 13:22, 18 January 2024 (UTC)
+I just finished fixing up the page Transplant glomerulopathy and noticed its classified as a Glomerular disease.[https://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236587002&amp;edition=MAIN/2024-01-01&amp;release=&amp;languages=en] I would like to add it to the template for Glomerular disease [https://en.wikipedia.org/wiki/Template:Glomerular_disease] but I'm not sure how to classify it. Here [https://karger.com/gdz/article/1/2/68/138415/Transplant-Glomerulopathy-Importance-of] is a good article on the mechanism behind Transplant glomerulopathy in case my article missed anything. Any help is appreciated! CursedWithTheAbilityToDoTheMath (talk) 00:42, 18 January 2024 (UTC)
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8281330/ this should help to classify it]--Ozzie10aaaa (talk) 13:22, 18 January 2024 (UTC)
 
 Nefazodone
 
-A new editor is making some strong claims about Nefazodone, [https://en.wikipedia.org/w/index.php?title=Nefazodone&amp;diff=prev&amp;oldid=1195796740 stating that it is toxic and the FDA is corrupt]. More eyes on the article and comments at  would be greatly appreciated.  () 03:22, 16 January 2024 (UTC)
-thank you for post-- () 13:23, 18 January 2024 (UTC)
+A new editor is making some strong claims about Nefazodone, [https://en.wikipedia.org/w/index.php?title=Nefazodone&amp;diff=prev&amp;oldid=1195796740 stating that it is toxic and the FDA is corrupt]. More eyes on the article and comments at  would be greatly appreciated. MrOllie (talk) 03:22, 16 January 2024 (UTC)
+thank you for post--Ozzie10aaaa (talk) 13:23, 18 January 2024 (UTC)
 
 Good article reassessment for Apothecaries' system
-Apothecaries' system has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the . If concerns are not addressed during the review period, the good article status may be removed from the article.  () 18:42, 19 January 2024 (UTC)
+Apothecaries' system has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the . If concerns are not addressed during the review period, the good article status may be removed from the article. ~~ AirshipJungleman29 (talk) 18:42, 19 January 2024 (UTC)
 
 Cryoglobulinemic purpura and Cryofibrinogenemic purpura
 
@@ -299,25 +299,25 @@ Cryoglobulinemic purpura does have its own listing on SNOMED [https://browser.ih
 
 Cryofibrinogenemic purpura also has its own listing on SNOMED [https://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=402853002&amp;edition=MAIN/2024-01-01&amp;release=&amp;languages=en] but nothing on MONDO, Mesh ID or the ICD-11. I was only able to find one paper on the subject.[https://pubmed.ncbi.nlm.nih.gov/3310920/]
 
-Should these terms be redirects? Or are they worth their own pages? Any input or opinions are appreciated!  () 20:31, 19 January 2024 (UTC)
+Should these terms be redirects? Or are they worth their own pages? Any input or opinions are appreciated! CursedWithTheAbilityToDoTheMath (talk) 20:31, 19 January 2024 (UTC)
 
-My inclination is to agree that there's not much hope of us flushing out useful encyclopedia articles on either of those topics. A quick skim of web sources doesn't turn up anything beyond what you'd expect. I'd probably redirect.  () 20:49, 19 January 2024 (UTC)
-Thank you for your input. I'm going to go ahead and make the redirect since there's really no way to expand these articles in a useful way.  () 20:56, 19 January 2024 (UTC)
-Is it possible to add a sentence or so to each of these articles, so that people who have the one name know that they've ended up at the right article?  () 22:23, 19 January 2024 (UTC)
-When I do the redirect I'll add it to the symptoms.  () 23:21, 19 January 2024 (UTC)
+My inclination is to agree that there's not much hope of us flushing out useful encyclopedia articles on either of those topics. A quick skim of web sources doesn't turn up anything beyond what you'd expect. I'd probably redirect. Ajpolino (talk) 20:49, 19 January 2024 (UTC)
+Thank you for your input. I'm going to go ahead and make the redirect since there's really no way to expand these articles in a useful way. CursedWithTheAbilityToDoTheMath (talk) 20:56, 19 January 2024 (UTC)
+Is it possible to add a sentence or so to each of these articles, so that people who have the one name know that they've ended up at the right article? WhatamIdoing (talk) 22:23, 19 January 2024 (UTC)
+When I do the redirect I'll add it to the symptoms. CursedWithTheAbilityToDoTheMath (talk) 23:21, 19 January 2024 (UTC)
 
 New article
 
-Hello everyone, I am planning on starting a new article about chronic meningitis. I feel that this topic does warrant its own Wikipedia page, however &quot;chronic meningitis&quot; redirects to the meningitis article. Is there a way to start the new article about chronic meningitis? Thank you  () 03:09, 20 January 2024 (UTC)
-It looks like Golan1911 sorted out how to do this, by just starting an article on that page. That's certainly one way of boldly doing it, and it's sufficiently well-developed, quickly, that I think that it's worth continuing to build it at Chronic meningitis.  () 10:52, 20 January 2024 (UTC)
+Hello everyone, I am planning on starting a new article about chronic meningitis. I feel that this topic does warrant its own Wikipedia page, however &quot;chronic meningitis&quot; redirects to the meningitis article. Is there a way to start the new article about chronic meningitis? Thank you Golan1911 (talk) 03:09, 20 January 2024 (UTC)
+It looks like Golan1911 sorted out how to do this, by just starting an article on that page. That's certainly one way of boldly doing it, and it's sufficiently well-developed, quickly, that I think that it's worth continuing to build it at Chronic meningitis. Klbrain (talk) 10:52, 20 January 2024 (UTC)
 
 Invite to join the 
 
-  () 14:27, 21 January 2024 (UTC)
-For those interested in this topic, just a reminder that a list of articles with the WP:MED tag and the  tag is [https://bambots.brucemyers.com/cwb/bycat/Medicine2.html#Cites%20no%20sources here]. It updates weekly (on Tuesdays). Depending on your interests, you may also enjoy the lists for the WikiProjects [https://bambots.brucemyers.com/cwb/bycat/AIDS.html#Cites%20no%20sources AIDS], [https://bambots.brucemyers.com/cwb/bycat/COVID-19.html#Cites%20no%20sources Covid], [https://bambots.brucemyers.com/cwb/bycat/Microbiology.html#Cites%20no%20sources Microbiology], [https://bambots.brucemyers.com/cwb/bycat/Neuroscience.html#Cites%20no%20sources Neuroscience], [https://bambots.brucemyers.com/cwb/bycat/Physiology.html#Cites%20no%20sources Physiology], or [https://bambots.brucemyers.com/cwb/bycat/Viruses.html#BLP%20articles%20lacking%20sources Viruses]. Some of these have quite short lists of unreferenced articles. So if you derive satisfaction from clearing a list, you may be able to scratch that itch. You can also type into the search bar:  to get a quick list of potentially interesting hits. Enjoy.  () 15:45, 21 January 2024 (UTC)
-Thank you so much for these advices! Let me add that to the drive's tips and tricks section :)  () 15:46, 21 January 2024 (UTC)
-Also  something is clearly funny with your PetScan run. The right number should be 204 results [https://petscan.wmflabs.org/?psid=26790602 PetScan query]. Med articles are in rough shape, but not 29,774 unreferenced kind of rough ;)  () 15:51, 21 January 2024 (UTC)
-Ah, that's probably because I set the depth to 7 and scan [[:Category:Medicine]]... I am dumb :-)  () 15:53, 21 January 2024 (UTC)
+ CactiStaccingCrane (talk) 14:27, 21 January 2024 (UTC)
+For those interested in this topic, just a reminder that a list of articles with the WP:MED tag and the  tag is [https://bambots.brucemyers.com/cwb/bycat/Medicine2.html#Cites%20no%20sources here]. It updates weekly (on Tuesdays). Depending on your interests, you may also enjoy the lists for the WikiProjects [https://bambots.brucemyers.com/cwb/bycat/AIDS.html#Cites%20no%20sources AIDS], [https://bambots.brucemyers.com/cwb/bycat/COVID-19.html#Cites%20no%20sources Covid], [https://bambots.brucemyers.com/cwb/bycat/Microbiology.html#Cites%20no%20sources Microbiology], [https://bambots.brucemyers.com/cwb/bycat/Neuroscience.html#Cites%20no%20sources Neuroscience], [https://bambots.brucemyers.com/cwb/bycat/Physiology.html#Cites%20no%20sources Physiology], or [https://bambots.brucemyers.com/cwb/bycat/Viruses.html#BLP%20articles%20lacking%20sources Viruses]. Some of these have quite short lists of unreferenced articles. So if you derive satisfaction from clearing a list, you may be able to scratch that itch. You can also type into the search bar:  to get a quick list of potentially interesting hits. Enjoy. Ajpolino (talk) 15:45, 21 January 2024 (UTC)
+Thank you so much for these advices! Let me add that to the drive's tips and tricks section :) CactiStaccingCrane (talk) 15:46, 21 January 2024 (UTC)
+Also  something is clearly funny with your PetScan run. The right number should be 204 results [https://petscan.wmflabs.org/?psid=26790602 PetScan query]. Med articles are in rough shape, but not 29,774 unreferenced kind of rough ;) Ajpolino (talk) 15:51, 21 January 2024 (UTC)
+Ah, that's probably because I set the depth to 7 and scan ... I am dumb :-) CactiStaccingCrane (talk) 15:53, 21 January 2024 (UTC)
 
 CD30+ cutaneous T-cell lymphoma
 
@@ -325,31 +325,31 @@ It seems like CD30+ cutaneous T-cell lymphoma is referring to Primary cutaneous 
 
 I'm wondering if I should redirect CD30+ cutaneous T-cell lymphoma to Primary cutaneous anaplastic large cell lymphoma or rename CD30+ cutaneous T-cell lymphoma to Primary cutaneous CD30+ lymphoproliferative disorders or CD30+ Lymphoproliferative Disorders of the Skin (not sure which one is more appropriate).
 
-Any input is appreciated!  () 21:18, 19 January 2024 (UTC)
+Any input is appreciated! CursedWithTheAbilityToDoTheMath (talk) 21:18, 19 January 2024 (UTC)
 
-Generally speaking, we prefer whatever name is given in an international standard (by which we mostly mean the name used in the International Classification of Diseases, unless it's terrible).  I don't know if it's relevant in this case, but the difference between leukemias and lymphomas can be a bit arbitrary.  () 22:28, 19 January 2024 (UTC)
-The ICD lists Primary cutaneous CD30 positive anaplastic large cell lymphoma and Lymphomatoid papulosis under Primary cutaneous CD-30 positive T-cell lymphoproliferative disorders so should I change CD30+ cutaneous T-cell lymphoma to Primary cutaneous CD-30 positive T-cell lymphoproliferative disorders and Primary cutaneous anaplastic large cell lymphoma to Primary cutaneous CD30 positive anaplastic large cell lymphoma?  () 23:26, 19 January 2024 (UTC)
-That sounds good.  Personally, I generally like to align the article divisions to match the ICD lists whenever we can, though sometimes when you get into it, it's not the best thing.  () 20:31, 21 January 2024 (UTC)
+Generally speaking, we prefer whatever name is given in an international standard (by which we mostly mean the name used in the International Classification of Diseases, unless it's terrible).  I don't know if it's relevant in this case, but the difference between leukemias and lymphomas can be a bit arbitrary. WhatamIdoing (talk) 22:28, 19 January 2024 (UTC)
+The ICD lists Primary cutaneous CD30 positive anaplastic large cell lymphoma and Lymphomatoid papulosis under Primary cutaneous CD-30 positive T-cell lymphoproliferative disorders so should I change CD30+ cutaneous T-cell lymphoma to Primary cutaneous CD-30 positive T-cell lymphoproliferative disorders and Primary cutaneous anaplastic large cell lymphoma to Primary cutaneous CD30 positive anaplastic large cell lymphoma? CursedWithTheAbilityToDoTheMath (talk) 23:26, 19 January 2024 (UTC)
+That sounds good.  Personally, I generally like to align the article divisions to match the ICD lists whenever we can, though sometimes when you get into it, it's not the best thing. WhatamIdoing (talk) 20:31, 21 January 2024 (UTC)
 
 Strong claims in article need checking by this project
 
-Please see Seung Chan Kim. I already removed some extreme puffery like &quot;It developed for the first time as a patented technology uncovering a new era in medical science.&quot; but the other claims in the article need checking by some qualified people.  () 11:58, 12 January 2024 (UTC)
-This person does not seem notable. Have given it a .  () 12:09, 12 January 2024 (UTC)
-Thanks!  () 13:20, 12 January 2024 (UTC)
-ProD has been removed...  () 17:08, 15 January 2024 (UTC)
-Ok it all starts here. The article was given a PROD after a less than 25 minutes “check” from one “qualified people”. Then, after the PROD was removed by an IP user, the article was [https://en.wikipedia.org/w/index.php?title=Seung_Chan_Kim&amp;diff=prev&amp;oldid=1195819457 nominated for deletion] in less than 15 minutes [https://en.wikipedia.org/w/index.php?title=Seung_Chan_Kim&amp;diff=prev&amp;oldid=1195817842 after I tagged it for improvement].IMHO this project is probably dying, just like that article.  --[[User:Dustfreeworld|Dustfreeworld]] () 19:40, 21 January 2024 (UTC)
-While I may understand that there maybe editors who really want to protect Wikipedia from misinformation, what is NOT okay is that, people are nominating articles (likely on subjects they aren’t familiar with) for deletion without doing thorough research or tagging for improvement, and when later more sources and evidence surfaced, people aren’t correcting (or trying to correct) their own mistakes. Not trying to find sources base on new information that others provide, but chose to delete content and sources (and have newbies driven away), and describing other editor’s claim of “sources exist” as imagination (not ), and even citing  instead. --[[User:Dustfreeworld|Dustfreeworld]] () 21:01, 21 January 2024 (UTC); 21:24, 21 January 2024 (UTC)
-It's not being ed or anything. So in the unlikely event anybody does ever turn up sourcing on this topic to show notability, the article can rise again. It's no big deal.  () 21:31, 21 January 2024 (UTC)
-Thanks for the link, though I (and also the IP user or other Korean speaking new users?) really don’t know how to “rise the article again”. I don’t know if I understand you correctly. So 1) not AGF, 2) drove away new comers, 3) removing and wasting other editors’ (both current and those years ago) contributions in case no one takes the (/enough) time to show notability, 4) violating Wikipedia’s goal to preserve knowledge, and 5) creating time sink for the community, etc, are NO BIG DEAL? --[[User:Dustfreeworld|Dustfreeworld]] () 21:51, 21 January 2024 (UTC)
+Please see Seung Chan Kim. I already removed some extreme puffery like &quot;It developed for the first time as a patented technology uncovering a new era in medical science.&quot; but the other claims in the article need checking by some qualified people. Fram (talk) 11:58, 12 January 2024 (UTC)
+This person does not seem notable. Have given it a . Bon courage (talk) 12:09, 12 January 2024 (UTC)
+Thanks! Fram (talk) 13:20, 12 January 2024 (UTC)
+ProD has been removed... Fram (talk) 17:08, 15 January 2024 (UTC)
+Ok it all starts here. The article was given a PROD after a less than 25 minutes “check” from one “qualified people”. Then, after the PROD was removed by an IP user, the article was [https://en.wikipedia.org/w/index.php?title=Seung_Chan_Kim&amp;diff=prev&amp;oldid=1195819457 nominated for deletion] in less than 15 minutes [https://en.wikipedia.org/w/index.php?title=Seung_Chan_Kim&amp;diff=prev&amp;oldid=1195817842 after I tagged it for improvement].IMHO this project is probably dying, just like that article.  --Dustfreeworld (talk) 19:40, 21 January 2024 (UTC)
+While I may understand that there maybe editors who really want to protect Wikipedia from misinformation, what is NOT okay is that, people are nominating articles (likely on subjects they aren’t familiar with) for deletion without doing thorough research or tagging for improvement, and when later more sources and evidence surfaced, people aren’t correcting (or trying to correct) their own mistakes. Not trying to find sources base on new information that others provide, but chose to delete content and sources (and have newbies driven away), and describing other editor’s claim of “sources exist” as imagination (not ), and even citing  instead. --Dustfreeworld (talk) 21:01, 21 January 2024 (UTC); 21:24, 21 January 2024 (UTC)
+It's not being ed or anything. So in the unlikely event anybody does ever turn up sourcing on this topic to show notability, the article can rise again. It's no big deal. Bon courage (talk) 21:31, 21 January 2024 (UTC)
+Thanks for the link, though I (and also the IP user or other Korean speaking new users?) really don’t know how to “rise the article again”. I don’t know if I understand you correctly. So 1) not AGF, 2) drove away new comers, 3) removing and wasting other editors’ (both current and those years ago) contributions in case no one takes the (/enough) time to show notability, 4) violating Wikipedia’s goal to preserve knowledge, and 5) creating time sink for the community, etc, are NO BIG DEAL? --Dustfreeworld (talk) 21:51, 21 January 2024 (UTC)
 
 Possessives in condition names
 
 
-Please see: .  —    😼  21:25, 22 January 2024 (UTC)
+Please see: .  — SMcCandlish ☏  😼  21:25, 22 January 2024 (UTC)
 
 Good article reassessment for Ambulance
-Ambulance has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the . If concerns are not addressed during the review period, the good article status may be removed from the article.  () 16:23, 24 January 2024 (UTC)
-thank you for posting-- () 12:51, 25 January 2024 (UTC)
+Ambulance has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the . If concerns are not addressed during the review period, the good article status may be removed from the article. Onegreatjoke (talk) 16:23, 24 January 2024 (UTC)
+thank you for posting--Ozzie10aaaa (talk) 12:51, 25 January 2024 (UTC)
 
 The ICD-11 coding challenge
 
@@ -373,11 +373,11 @@ So, using a bot to blindly convert all ICD-10 codes to ICD-11 codes would be a b
 
 This is like moving a mountain with a spoon. But dozens of spoons, and thousands of scoops, will move a mountain. If we all do a little, the result will be a lot. So, are you in?
 
-Yours sincerely,  () 12:11, 14 January 2024 (UTC)
+Yours sincerely, Manifestation (talk) 12:11, 14 January 2024 (UTC)
 
-I've checked the first entry of , which is Motor neuron diseases. Our article gives  as the ICD-10 code. I've [https://en.wikipedia.org/w/index.php?title=Motor_neuron_diseases&amp;diff=1195576262 added]  as the ICD-11 code, but it could also be –. I've [https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Medicine/The_ICD-11_coding_challenge/1%E2%80%9399&amp;diff=1195577692 marked it] as . -  () 12:13, 14 January 2024 (UTC)
-I've finished , except for Motor neuron diseases. Good start! -  () 12:38, 14 January 2024 (UTC)
-Thank you for your contribution! Honestly, I don't fully understand what I'd need to do (am I alone in this?). If I'm correct, in most of the articles one only needs to include the ICD11 code in the Medical Resources template at the end, right?  () 15:07, 15 January 2024 (UTC)
+I've checked the first entry of , which is Motor neuron diseases. Our article gives  as the ICD-10 code. I've [https://en.wikipedia.org/w/index.php?title=Motor_neuron_diseases&amp;diff=1195576262 added]  as the ICD-11 code, but it could also be –. I've [https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Medicine/The_ICD-11_coding_challenge/1%E2%80%9399&amp;diff=1195577692 marked it] as . - Manifestation (talk) 12:13, 14 January 2024 (UTC)
+I've finished , except for Motor neuron diseases. Good start! - Manifestation (talk) 12:38, 14 January 2024 (UTC)
+Thank you for your contribution! Honestly, I don't fully understand what I'd need to do (am I alone in this?). If I'm correct, in most of the articles one only needs to include the ICD11 code in the Medical Resources template at the end, right? NikosGouliaros (talk) 15:07, 15 January 2024 (UTC)
  Yes, that's right! In a nutshell:
 # Copy the ICD-10 code from the article.
 # Search for that code in 10To11MapToMultipleCategories.xlsx (this file can be downloaded from [https://icd.who.int/browse11/l-m/en the ICD-11 browser] -&gt; Info -&gt; ICD-10 / ICD-11 mapping Tables).
@@ -385,27 +385,27 @@ Thank you for your contribution! Honestly, I don't fully understand what I'd nee
 # Check the ICD-11 browser to look up the main category.
 # Copy-paste it in the Wikipedia article.
 # Done.
-For example, the article  is Erectile dysfunction. The article says F52.2 and N48.4. If you look those up at 10To11MapToMultipleCategories.xlsx, it'll give you HA01.1Z and HA01.13. The parent category is , so that's the one I'll add ([https://en.wikipedia.org/w/index.php?title=Erectile_dysfunction&amp;diff=1195842066 diff]). Cheers,  () 15:33, 15 January 2024 (UTC)
+For example, the article  is Erectile dysfunction. The article says F52.2 and N48.4. If you look those up at 10To11MapToMultipleCategories.xlsx, it'll give you HA01.1Z and HA01.13. The parent category is , so that's the one I'll add ([https://en.wikipedia.org/w/index.php?title=Erectile_dysfunction&amp;diff=1195842066 diff]). Cheers, Manifestation (talk) 15:33, 15 January 2024 (UTC)
 
- Wow! [https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Medicine/The_ICD-11_coding_challenge/500%E2%80%93599&amp;diff=1195852067 Great job!] Thanks you! -  () 17:00, 15 January 2024 (UTC)
-Cheers :) 500's are mostly done now.  () 17:48, 15 January 2024 (UTC)
-Thank you for your clarification. I take the rest of my questions to [[Wikipedia talk:WikiProject Medicine/The ICD-11 coding challenge|Talk:The ICD-11 coding challenge]]  () 20:53, 15 January 2024 (UTC)
+ Wow! [https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Medicine/The_ICD-11_coding_challenge/500%E2%80%93599&amp;diff=1195852067 Great job!] Thanks you! - Manifestation (talk) 17:00, 15 January 2024 (UTC)
+Cheers :) 500's are mostly done now. MaligneRange (talk) 17:48, 15 January 2024 (UTC)
+Thank you for your clarification. I take the rest of my questions to  NikosGouliaros (talk) 20:53, 15 January 2024 (UTC)
 
 
 
 Wait! Is there an easier way?
 
-[[:wikidata:Wikidata:Project chat#The ICD-11 coding challenge|I asked at Wikidata]] about this. As it turns out, Wikidata actually has lots of ICD-11 codes. Much to my surprise,  told me that there is a way to import ICD-11 codes from Wikidata into Wikipedia. He then mentioned this code:
+ about this. As it turns out, Wikidata actually has lots of ICD-11 codes. Much to my surprise,  told me that there is a way to import ICD-11 codes from Wikidata into Wikipedia. He then mentioned this code:
 
 }|P7807|}
 
-I tried added it to , but I'm completely lost. I can't make any heads or tails of this. This is horrible... 😔 -  () 10:57, 16 January 2024 (UTC)
+I tried added it to , but I'm completely lost. I can't make any heads or tails of this. This is horrible... 😔 - Manifestation (talk) 10:57, 16 January 2024 (UTC)
 
-I've shut down this challenge. This is probably the stupidest thing I've ever done on Wikipedia. And I've made my fair share of mistakes. -  () 11:34, 16 January 2024 (UTC)
-You weren't far off. The sandbox is now at the stage where it either displays the code or the foundation ID, but I can't seem to get it to use the foundation ID to generate the link whilst displaying the ICD11 code. If there is a template editor about, could just do with a hand with this final hurdle. (Don't worry if not, I'll pursue other technical help avenues in a few days.)  () 18:04, 23 January 2024 (UTC)
-@, have you asked for help at ?  () 18:49, 24 January 2024 (UTC)
-Not yet. Was hoping a template editor would have it on their watchlist and pick it up. Will probably end up there by the weekend though.  () 19:12, 24 January 2024 (UTC)
- If you can solve this puzzle, please do! Cheers,  () 13:02, 25 January 2024 (UTC)
+I've shut down this challenge. This is probably the stupidest thing I've ever done on Wikipedia. And I've made my fair share of mistakes. - Manifestation (talk) 11:34, 16 January 2024 (UTC)
+You weren't far off. The sandbox is now at the stage where it either displays the code or the foundation ID, but I can't seem to get it to use the foundation ID to generate the link whilst displaying the ICD11 code. If there is a template editor about, could just do with a hand with this final hurdle. (Don't worry if not, I'll pursue other technical help avenues in a few days.) Little pob (talk) 18:04, 23 January 2024 (UTC)
+@Little pob, have you asked for help at ? WhatamIdoing (talk) 18:49, 24 January 2024 (UTC)
+Not yet. Was hoping a template editor would have it on their watchlist and pick it up. Will probably end up there by the weekend though. Little pob (talk) 19:12, 24 January 2024 (UTC)
+ If you can solve this puzzle, please do! Cheers, Manifestation (talk) 13:02, 25 January 2024 (UTC)
 
 American Red Cross Motor Corp
 
@@ -414,42 +414,42 @@ This is an oldie but a goodie. There is some older articles about the corps, but
 Click to Edit
 
 
-Happy editing! :)   () 00:30, 23 January 2024 (UTC)
+Happy editing! :)  Reachforthestarz (talk) 00:30, 23 January 2024 (UTC)
 
-You might also let editors at  know about this opportunity.   () 04:58, 23 January 2024 (UTC)
-Great idea @ - thanks!  () 21:01, 25 January 2024 (UTC)
+You might also let editors at  know about this opportunity.  WhatamIdoing (talk) 04:58, 23 January 2024 (UTC)
+Great idea @WhatamIdoing - thanks! Reachforthestarz (talk) 21:01, 25 January 2024 (UTC)
 
 Calcific Tendinitis Wiki page
 
-Having some calcium along with tendinopathy should arguably not alter management.  It is probably best considered an incidental finding.  Acute, inflammatory, calcific tendinitis on the other hand is a completely different thing with a different pathophysiology, prognosis, and treatment.  It should be separated and distinguished.   Scientific writing on this are misleading when they don't clearly make this distinction.  () 21:15, 19 January 2024 (UTC)
+Having some calcium along with tendinopathy should arguably not alter management.  It is probably best considered an incidental finding.  Acute, inflammatory, calcific tendinitis on the other hand is a completely different thing with a different pathophysiology, prognosis, and treatment.  It should be separated and distinguished.   Scientific writing on this are misleading when they don't clearly make this distinction. Ischyros7 (talk) 21:15, 19 January 2024 (UTC)
 
-There's an article at Calcific tendinitis.  Is that content what you think should be under that name?  () 22:24, 19 January 2024 (UTC)
+There's an article at Calcific tendinitis.  Is that content what you think should be under that name? WhatamIdoing (talk) 22:24, 19 January 2024 (UTC)
 [Yes, I am referencing that Wiki page. Please let me know what you think of the below.]
 Calcium is very common in degenerated tendons.  There is no clear reason to distinguish tendinopathy with and without calcium.  
 This chapter collates the evidence that calcification in tendons is a common variation in asymptomatic people: DOI 10.1016/s0950-3579(89)80009-3
 As an orthopedic surgeon, I recommend this page be changed to &quot;Acute calcific tendinitis&quot; to address the much less common circumstance in which the calcium breaks free of the tendon and causes a brief, intense, inflammation that mimics the symptoms and signs of infection. 
 Examples here: 
-https://ima-files.s3.amazonaws.com/302619_4e04e699-dddb-44db-913f-fbadabec9b62.pdf  () 22:56, 25 January 2024 (UTC)
-The OP is referring to their suggestion at  where they propose moving Calcific tendinitis to Acute calcific tendinitis. I suggested posting here.  () 23:56, 25 January 2024 (UTC)
+https://ima-files.s3.amazonaws.com/302619_4e04e699-dddb-44db-913f-fbadabec9b62.pdf Ischyros7 (talk) 22:56, 25 January 2024 (UTC)
+The OP is referring to their suggestion at  where they propose moving Calcific tendinitis to Acute calcific tendinitis. I suggested posting here. Johnuniq (talk) 23:56, 25 January 2024 (UTC)
 
 Myringitis
 
-Hello, and hope you're well. I changed the redirect target of  and now have half a mind to undo it. Do you mind if I pick your brain and ask if there is a primary topic?  ( · ) 04:40, 26 January 2024 (UTC)
- Otitis media#myringitis...seems to have been right IMO-- () 02:28, 27 January 2024 (UTC)
-Since you wrote Bullous myringitis, I defer to your knowledge and have reverted my edit.  ( · ) 04:41, 27 January 2024 (UTC) Fixed a dangling modifier at 05:33, 27 January 2024 (UTC)
+Hello, and hope you're well. I changed the redirect target of  and now have half a mind to undo it. Do you mind if I pick your brain and ask if there is a primary topic? Rotideypoc41352 (talk · ) 04:40, 26 January 2024 (UTC)
+ Otitis media#myringitis...seems to have been right IMO--Ozzie10aaaa (talk) 02:28, 27 January 2024 (UTC)
+Since you wrote Bullous myringitis, I defer to your knowledge and have reverted my edit. Rotideypoc41352 (talk · ) 04:41, 27 January 2024 (UTC) Fixed a dangling modifier at 05:33, 27 January 2024 (UTC)
 
 Problem with class assignment in medical topics
 
-Please be aware of . And feel free to revert anything that isn't right. -- () 22:41, 25 January 2024 (UTC)
+Please be aware of . And feel free to revert anything that isn't right. --Tryptofish (talk) 22:41, 25 January 2024 (UTC)
 
-Please also see the . --[[User:Dustfreeworld|Dustfreeworld]] () 03:41, 28 January 2024 (UTC)
+Please also see the . --Dustfreeworld (talk) 03:41, 28 January 2024 (UTC)
 
 Articles about health care professions
 
 I notice that many health care professions have two articles: one for the profession and one for the people who practice the profession. An example is Dentistry and Dentist. In editing these kinds of articles, I'm not sure what the difference should be. What content should go in one but not the other? I've tried to find policies for guidance but haven't turned up anything.
--- () 04:50, 29 January 2024 (UTC)
+--BeauregardTA (talk) 04:50, 29 January 2024 (UTC)
 
-Ballet#Ballet as a career is IMO one of the best occupation-related sections I've written.  Career-related articles generally have something about the education/training, the likelihood of getting a job, the pay, and the job conditions (e.g., whether you work overnight).  It's good to include similar careers (both laterally and vertically).  I particularly recommend the US Occupational Outlook Handbook as a source of impartial (though US-specific) statistics.  Professional organizations can be useful, but they tend to be a bit promotional.  () 15:38, 29 January 2024 (UTC)
+Ballet#Ballet as a career is IMO one of the best occupation-related sections I've written.  Career-related articles generally have something about the education/training, the likelihood of getting a job, the pay, and the job conditions (e.g., whether you work overnight).  It's good to include similar careers (both laterally and vertically).  I particularly recommend the US Occupational Outlook Handbook as a source of impartial (though US-specific) statistics.  Professional organizations can be useful, but they tend to be a bit promotional. WhatamIdoing (talk) 15:38, 29 January 2024 (UTC)
 
 referring to placebo effect
 
@@ -457,49 +457,49 @@ One sentence in the lead to the acupuncture article says: &quot;The conclusions 
 
 In the talk page this was suggested to be bad style, as well as moving towards promoting placebos, but acknowledging that something exists is not the same as promoting it, particularly when the most accurate descriptive account of the sources requires acknowledging that such a thing exists.
 
-Anyway, I don't think we always have to acknowledge placebos, just in areas where broad medical consensus would suggest the placebo effect might be at work. Any thoughts?  () 17:06, 23 January 2024 (UTC)
+Anyway, I don't think we always have to acknowledge placebos, just in areas where broad medical consensus would suggest the placebo effect might be at work. Any thoughts? AtavisticPillow (talk) 17:06, 23 January 2024 (UTC)
 
-I think this is covered by . We should be summarizing the main finding(s) of sources and not surfacing details of method (whether work has been placebo-controlled, double-blinded or whatever). If we look at an  like Amphetamine it discusses efficacy without every mentioning the placebo controls used: I don't think we should be retro-fitting such articles to add 'compared to placebo' alongside discussions of efficacy. There's an additional consideration in altmed where there is a rearguard action to justify poorly-performing interventions with the justification that they 'harness the power of placebo'; thus, mentioning it in this context without an even longer explanation risks causing more confusion.  () 17:15, 23 January 2024 (UTC)
-Thanks for that link. That seems fair. I thought a minor addition of a few words for accuracy would help the article, but concision is a virtue too.  () 17:29, 23 January 2024 (UTC)
+I think this is covered by . We should be summarizing the main finding(s) of sources and not surfacing details of method (whether work has been placebo-controlled, double-blinded or whatever). If we look at an  like Amphetamine it discusses efficacy without every mentioning the placebo controls used: I don't think we should be retro-fitting such articles to add 'compared to placebo' alongside discussions of efficacy. There's an additional consideration in altmed where there is a rearguard action to justify poorly-performing interventions with the justification that they 'harness the power of placebo'; thus, mentioning it in this context without an even longer explanation risks causing more confusion. Bon courage (talk) 17:15, 23 January 2024 (UTC)
+Thanks for that link. That seems fair. I thought a minor addition of a few words for accuracy would help the article, but concision is a virtue too. AtavisticPillow (talk) 17:29, 23 January 2024 (UTC)
 Comparing pain treatments against non-pain treatments feels like an apples-and-oranges error.  When we look at chronic pain (e.g., chronic lower back pain), very little works better than placebo, but placebo works fairly well.  If we say &quot;doesn't work&quot; without qualification, and the reader's personal experience/belief is dramatically different from that, then they may be inappropriately skeptical abut the rest of our content.  (Also, some drugs, especially Experimental cancer treatments, aren't tested against placebo anyway, so specifying may be appropriate.)
-Speaking more generally, what makes readers trust (or not) what they find on the internet has nothing to do with the sources cited.  People trust information that confirms their pre-existing beliefs more than information that disagrees.  This is not unique to lay people; this history of science is littered with examples of gradual corrections to an early expert's work, because saying &quot;Wow, Dr. Expert's 2 is wrong; I clearly got 10&quot;, researchers behave like first-year students and say &quot;Well, I got 10, but let me 'adjust' those with a series of excuses about my technique until I can claim that my 10 really means 3 or 4.  That's pretty similar to 2, even if it's a little higher&quot;.    () 18:48, 24 January 2024 (UTC)
-I recently read Surely You're Joking, Mr. Feynman!, where one of these examples is presented. See Oil drop experiment#Millikan's experiment as an example of psychological effects in scientific methodology for the details.  () 19:25, 24 January 2024 (UTC)
+Speaking more generally, what makes readers trust (or not) what they find on the internet has nothing to do with the sources cited.  People trust information that confirms their pre-existing beliefs more than information that disagrees.  This is not unique to lay people; this history of science is littered with examples of gradual corrections to an early expert's work, because saying &quot;Wow, Dr. Expert's 2 is wrong; I clearly got 10&quot;, researchers behave like first-year students and say &quot;Well, I got 10, but let me 'adjust' those with a series of excuses about my technique until I can claim that my 10 really means 3 or 4.  That's pretty similar to 2, even if it's a little higher&quot;.   WhatamIdoing (talk) 18:48, 24 January 2024 (UTC)
+I recently read Surely You're Joking, Mr. Feynman!, where one of these examples is presented. See Oil drop experiment#Millikan's experiment as an example of psychological effects in scientific methodology for the details. TompaDompa (talk) 19:25, 24 January 2024 (UTC)
 The guideline referred to above does state not to get into the details of methods when citing medical studies and to simply summarize the conclusion(s). I think this situation is a borderline, because arguably failing to mention that the conclusions are against a placebo here changes the meaning of the results being summarized. I don't think that would be the case were we discussing cancer drugs not tested against the placebo, because placebo's have no effect on the progression of the cancer (though they might change the patient's psychological wellbeing and relation to their cancer); we could just say &quot;this drug doesn't work&quot; based on a good secondary source. 
-Broadly, it seems the approach to fringe and alternative medicine on Wikipedia takes its lead from people like Steven Novella and his website, Science Based Medicine, and it is thought that only this approach is actually . This is clearly better than letting pseudoscientific theories and practices run amuck, but I share the concern that for lay-readers this may make Wikipedia as read as partial or polemical, and may lead to the premature dismissal by readers of the data to be presented. It is clear to me that Novella and such skepticism by experts performs a valuable function and should be displayed prominently on Wikipedia; I am less sure that the present way that this is carried out is the ideal one.  () 19:44, 24 January 2024 (UTC)
-This is not an altmed-specific thing, but applies to all biomedicine. It has nothing to do with Novella. To repeat, look at a high-quality article like Amphetamine to see how efficacy is discussed without going into the weeds about placebo controls.  () 20:20, 24 January 2024 (UTC)
-WhatamIdoing raised the issue of how Wikipedia is read by the general public, so I was responding to that in the second paragraph. I don't think specifically the presentation of clinical trial details has anything to do with Novella. I do think there is a little room for disagreement as to what constitutes the &quot;weeds&quot; and what is directly relevant for summary, and background assumptions or approach may play a role there, but the  guideline you adduced is convincing imo.  () 20:57, 24 January 2024 (UTC)
+Broadly, it seems the approach to fringe and alternative medicine on Wikipedia takes its lead from people like Steven Novella and his website, Science Based Medicine, and it is thought that only this approach is actually . This is clearly better than letting pseudoscientific theories and practices run amuck, but I share the concern that for lay-readers this may make Wikipedia as read as partial or polemical, and may lead to the premature dismissal by readers of the data to be presented. It is clear to me that Novella and such skepticism by experts performs a valuable function and should be displayed prominently on Wikipedia; I am less sure that the present way that this is carried out is the ideal one. AtavisticPillow (talk) 19:44, 24 January 2024 (UTC)
+This is not an altmed-specific thing, but applies to all biomedicine. It has nothing to do with Novella. To repeat, look at a high-quality article like Amphetamine to see how efficacy is discussed without going into the weeds about placebo controls. Bon courage (talk) 20:20, 24 January 2024 (UTC)
+WhatamIdoing raised the issue of how Wikipedia is read by the general public, so I was responding to that in the second paragraph. I don't think specifically the presentation of clinical trial details has anything to do with Novella. I do think there is a little room for disagreement as to what constitutes the &quot;weeds&quot; and what is directly relevant for summary, and background assumptions or approach may play a role there, but the  guideline you adduced is convincing imo. AtavisticPillow (talk) 20:57, 24 January 2024 (UTC)
 My input is to change it to something like, &quot;The conclusions of trials and systematic reviews of acupuncture generally provide no evidence of benefit relative to placebo&quot;. (Or &quot;compared to placebo&quot;, or other similar wording) (I would also take out the word &quot;good&quot; as being unnecessary and sounding too informal) That would be both accurate and concise and I can't imagine how it would possibly make anything any worse. 
 
-As AtavisticPillow said: &quot; If we say &quot;doesn't work&quot; without qualification, and the reader's personal experience/belief is dramatically different from that, then they may be inappropriately skeptical abut the rest of our content.&quot;  () 21:14, 29 January 2024 (UTC)
+As AtavisticPillow said: &quot; If we say &quot;doesn't work&quot; without qualification, and the reader's personal experience/belief is dramatically different from that, then they may be inappropriately skeptical abut the rest of our content.&quot; Vontheri (talk) 21:14, 29 January 2024 (UTC)
 
 Requested move at 
- There is a requested move discussion at  that may be of interest to members of this WikiProject.  () 07:15, 31 January 2024 (UTC)
-commented-- () 13:41, 2 February 2024 (UTC)
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. – robertsky (talk) 07:15, 31 January 2024 (UTC)
+commented--Ozzie10aaaa (talk) 13:41, 2 February 2024 (UTC)
 
 Dana-Farber Cancer Institute
 
-[https://www.science.org/content/article/errors-found-dozens-papers-top-scientists-dana-farber-cancer-institute Errors found in dozens of papers by top scientists at Dana-Farber Cancer Institute] has been popping up in the news today in about the last day or so. I don't really have time to dig into it further, so just something for folks to keep an eye out for.  () 23:13, 23 January 2024 (UTC)
-[https://www.science.org/content/article/errors-found-dozens-papers-top-scientists-dana-farber-cancer-institute interesting read], thanks-- () 13:45, 2 February 2024 (UTC)
+[https://www.science.org/content/article/errors-found-dozens-papers-top-scientists-dana-farber-cancer-institute Errors found in dozens of papers by top scientists at Dana-Farber Cancer Institute] has been popping up in the news today in about the last day or so. I don't really have time to dig into it further, so just something for folks to keep an eye out for. KoA (talk) 23:13, 23 January 2024 (UTC)
+[https://www.science.org/content/article/errors-found-dozens-papers-top-scientists-dana-farber-cancer-institute interesting read], thanks--Ozzie10aaaa (talk) 13:45, 2 February 2024 (UTC)
 
 Essential medicine or not?
 
-Daptomycin doesn't seem to have decided whether it is still a WHO essential medicine or not.  () 16:46, 1 February 2024 (UTC)
+Daptomycin doesn't seem to have decided whether it is still a WHO essential medicine or not. Jo-Jo Eumerus (talk) 16:46, 1 February 2024 (UTC)
 
-Can you tell us more about your concern?  It's not in https://iris.who.int/bitstream/handle/10665/371090/WHO-MHP-HPS-EML-2023.02-eng.pdf and the article says it was removed from the list in 2019.  It looks like someone needs to add an end date to the Wikidata entry.  (I'm not sure how to do that.)  () 23:30, 1 February 2024 (UTC)
-No, it seems like I merely didn't read the sentences in the lead correctly.  () 13:11, 3 February 2024 (UTC)
- Added in 2017 and removed in 2019 -- () 06:28, 6 February 2024 (UTC)
+Can you tell us more about your concern?  It's not in https://iris.who.int/bitstream/handle/10665/371090/WHO-MHP-HPS-EML-2023.02-eng.pdf and the article says it was removed from the list in 2019.  It looks like someone needs to add an end date to the Wikidata entry.  (I'm not sure how to do that.) WhatamIdoing (talk) 23:30, 1 February 2024 (UTC)
+No, it seems like I merely didn't read the sentences in the lead correctly. Jo-Jo Eumerus (talk) 13:11, 3 February 2024 (UTC)
+ Added in 2017 and removed in 2019 --Whywhenwhohow (talk) 06:28, 6 February 2024 (UTC)
 
 For plague/pandemic experts: Volcanism as driver of Yersinia pestis/Black Death evolution and spread
 
-Fell, H. G., Baldini, J. U., Dodds, B., &amp; Sharples, G. J. (2020). [https://www.sciencedirect.com/science/article/pii/S0305748820300967 Volcanism and global plague pandemics: Towards an interdisciplinary synthesis]. Journal of Historical Geography, 70, 36-46. hypothesizes that the climate disturbance caused by the 1257 Samalas eruption triggered/helped cause several disease outbreaks across Eurasia, including the initial Yersinia pestis outbreak that became the Black Death. I have refrained from adding this information so far b/c it seems like a big claim and I don't know anything about the wider Black Death literature to tell whether it has any acceptance.  () 10:07, 1 February 2024 (UTC)
+Fell, H. G., Baldini, J. U., Dodds, B., &amp; Sharples, G. J. (2020). [https://www.sciencedirect.com/science/article/pii/S0305748820300967 Volcanism and global plague pandemics: Towards an interdisciplinary synthesis]. Journal of Historical Geography, 70, 36-46. hypothesizes that the climate disturbance caused by the 1257 Samalas eruption triggered/helped cause several disease outbreaks across Eurasia, including the initial Yersinia pestis outbreak that became the Black Death. I have refrained from adding this information so far b/c it seems like a big claim and I don't know anything about the wider Black Death literature to tell whether it has any acceptance. Jo-Jo Eumerus (talk) 10:07, 1 February 2024 (UTC)
 
-@, I don't know whether it has acceptance (I leave that question to others) and I haven't read the paper, but I think an idea like this could be presented fairly, e.g., &quot;Volcanoes can trigger chains of events; for example, some researchers have speculated that this eruption might have caused climate disturbances that triggered, among other things, zoonotic disease outbreaks.&quot;
+@Jo-Jo Eumerus, I don't know whether it has acceptance (I leave that question to others) and I haven't read the paper, but I think an idea like this could be presented fairly, e.g., &quot;Volcanoes can trigger chains of events; for example, some researchers have speculated that this eruption might have caused climate disturbances that triggered, among other things, zoonotic disease outbreaks.&quot;
 In the specific case of Y. pestis, this isn't exactly an extraordinary claim.  It's transmitted by fleas and lice that usually bother rats but sometimes find themselves around humans.  Outbreaks are correlated with an increased reports of dead rats (whose plague-bearing fleas then jump ship for the nearest target), which are correlated with sudden changes in plant growth (e.g., no food here, so the rat decides to investigate that grain silo), which is correlated with changes to sudden changes to weather patterns, which can be triggered by a volcano belching a bunch of dust into the sky.  Also, crop failures cause human migration, which is another opportunity to spread everyone's favorite biting insects and arthropods.  
 The only real question here is likely to be how strong of a claim is .
-(List of deadliest animals to humans doesn't have an entry for fleas.  I assume that they're not looking at historical numbers.)  () 23:21, 1 February 2024 (UTC)
-[https://scholar.google.com/scholar?hl=de&amp;as_sdt=0%2C5&amp;q=samalas+yersinia&amp;btnG= Here's a list of all papers mentioning Samalas and Yersinia] at once. 'bout 73.  () 13:16, 3 February 2024 (UTC)
-Anyone else?  () 15:36, 5 February 2024 (UTC)
-Eh, tentatively added a section.  () 11:41, 6 February 2024 (UTC)
+(List of deadliest animals to humans doesn't have an entry for fleas.  I assume that they're not looking at historical numbers.) WhatamIdoing (talk) 23:21, 1 February 2024 (UTC)
+[https://scholar.google.com/scholar?hl=de&amp;as_sdt=0%2C5&amp;q=samalas+yersinia&amp;btnG= Here's a list of all papers mentioning Samalas and Yersinia] at once. 'bout 73. Jo-Jo Eumerus (talk) 13:16, 3 February 2024 (UTC)
+Anyone else? Jo-Jo Eumerus (talk) 15:36, 5 February 2024 (UTC)
+Eh, tentatively added a section. Jo-Jo Eumerus (talk) 11:41, 6 February 2024 (UTC)
 
 Nodular vasculitis
 
@@ -525,56 +525,56 @@ SNOMED CT entry[https://browser.ihtsdotools.org/?perspective=full&amp;conceptId1
 
 MONDO entry[https://monarchinitiative.org/MONDO:0008640]
 
-Both descriptions sound similar and I'm not sure what should be done with this article. If anyone has any advice or insight please let me know.  () 23:23, 2 February 2024 (UTC)
-[https://dermnetnz.org/topics/nodular-vasculitis maybe use this]-- () 13:25, 5 February 2024 (UTC)
-My only thing is that it lists the medscape page for Erythema induratum under other websites implying that it is reffering to Erythema induratum. If I can't find a solution I will probably just make a page based off [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6256222/] and [https://dermnetnz.org/topics/nodular-vasculitis]. Thank you for the suggestion!  () 13:52, 5 February 2024 (UTC)
-Hey @ I was able to find this source on DermNet [https://dermnetnz.org/topics/nodular-vasculitis]. It has a breakdown of the cause, who gets it, clinical features, how its diagnosed, and different varietals. Hope this helps!  () 21:54, 8 February 2024 (UTC)
+Both descriptions sound similar and I'm not sure what should be done with this article. If anyone has any advice or insight please let me know. CursedWithTheAbilityToDoTheMath (talk) 23:23, 2 February 2024 (UTC)
+[https://dermnetnz.org/topics/nodular-vasculitis maybe use this]--Ozzie10aaaa (talk) 13:25, 5 February 2024 (UTC)
+My only thing is that it lists the medscape page for Erythema induratum under other websites implying that it is reffering to Erythema induratum. If I can't find a solution I will probably just make a page based off [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6256222/] and [https://dermnetnz.org/topics/nodular-vasculitis]. Thank you for the suggestion! CursedWithTheAbilityToDoTheMath (talk) 13:52, 5 February 2024 (UTC)
+Hey @CursedWithTheAbilityToDoTheMath I was able to find this source on DermNet [https://dermnetnz.org/topics/nodular-vasculitis]. It has a breakdown of the cause, who gets it, clinical features, how its diagnosed, and different varietals. Hope this helps! Reachforthestarz (talk) 21:54, 8 February 2024 (UTC)
 
 Complex Regional Pain Syndrome and Amplified Musculoskeletal Pain Syndrome
 
-We were contributing to the page on Complex Regional Pain Syndrome and discovered this page on Amplified Musculoskeletal Pain Syndrome.  While it's definitely true that humans can experience pain disproportionate to any pathophysiology/nociception, we should discuss the potential benefits and potential harms of creating numerous illness constructions (social constructions about illness), such as CRPS and AMPS on the one hand, versus just having a page about disproportionate discomfort and incapability on the other.  We favor the later.  () 23:39, 24 January 2024 (UTC)
+We were contributing to the page on Complex Regional Pain Syndrome and discovered this page on Amplified Musculoskeletal Pain Syndrome.  While it's definitely true that humans can experience pain disproportionate to any pathophysiology/nociception, we should discuss the potential benefits and potential harms of creating numerous illness constructions (social constructions about illness), such as CRPS and AMPS on the one hand, versus just having a page about disproportionate discomfort and incapability on the other.  We favor the later. Unecomeditor1 (talk) 23:39, 24 January 2024 (UTC)
 
-@, who is &quot;we&quot;, and can we invite all of them to this discussion?  () 15:42, 25 January 2024 (UTC)
-Yes, I work with @  () 11:11, 26 January 2024 (UTC)
-For example, the AMPS page discusses EDS and other rheumatological diseases along with AMPS. But this is confusing and misleading because those conditions each have a pathophysiology that can be measured and verified. We suggest using words of association rather than causation on these pages until there is adequate experimental support for a pathophysiology in these conditions. At this time, the evidence is still speculative and based on observational studies, rather than experimental.  () 16:31, 1 February 2024 (UTC)
-I think your changes yesterday were helpful.  I particularly appreciate the very concise explanation of what &quot;amplified pain&quot; means.  () 20:05, 1 February 2024 (UTC)
-Thank you! We appreciate the positive feedback.  () 13:54, 7 February 2024 (UTC)
-To further expand, It’s more accurate to say there is no measurable pathophysiology and the diagnosis is conceptual. A section of the AMPS page mentions that the condition is “often not diagnosed when it first presents.” Since the diagnosis is conceptual rather than experimental, it cannot be framed as a delay in diagnosis. The main issue is whether this concept of AMPS and its use with individual patients is good for their health.  () 12:47, 9 February 2024 (UTC)
+@Unecomeditor1, who is &quot;we&quot;, and can we invite all of them to this discussion? WhatamIdoing (talk) 15:42, 25 January 2024 (UTC)
+Yes, I work with @Dr311 Unecomeditor1 (talk) 11:11, 26 January 2024 (UTC)
+For example, the AMPS page discusses EDS and other rheumatological diseases along with AMPS. But this is confusing and misleading because those conditions each have a pathophysiology that can be measured and verified. We suggest using words of association rather than causation on these pages until there is adequate experimental support for a pathophysiology in these conditions. At this time, the evidence is still speculative and based on observational studies, rather than experimental. Unecomeditor1 (talk) 16:31, 1 February 2024 (UTC)
+I think your changes yesterday were helpful.  I particularly appreciate the very concise explanation of what &quot;amplified pain&quot; means. WhatamIdoing (talk) 20:05, 1 February 2024 (UTC)
+Thank you! We appreciate the positive feedback. Unecomeditor1 (talk) 13:54, 7 February 2024 (UTC)
+To further expand, It’s more accurate to say there is no measurable pathophysiology and the diagnosis is conceptual. A section of the AMPS page mentions that the condition is “often not diagnosed when it first presents.” Since the diagnosis is conceptual rather than experimental, it cannot be framed as a delay in diagnosis. The main issue is whether this concept of AMPS and its use with individual patients is good for their health. Unecomeditor1 (talk) 12:47, 9 February 2024 (UTC)
 
 Requested move at 
- There is a requested move discussion at  that may be of interest to members of this WikiProject.  () 06:10, 10 February 2024 (UTC)
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. Bensci54 (talk) 06:10, 10 February 2024 (UTC)
 
-This looks like a request to switch from the ICD-10 name to the ICD-11 name.  There have been no responses yet.  () 17:32, 10 February 2024 (UTC)
+This looks like a request to switch from the ICD-10 name to the ICD-11 name.  There have been no responses yet. WhatamIdoing (talk) 17:32, 10 February 2024 (UTC)
 
 Merging Adiposis dolorosa to Dercum's disease
 
-Adiposis dolorosa seems to be a direct synonym for Dercum's disease[https://medlineplus.gov/genetics/condition/adiposis-dolorosa/#synonyms][https://www.ncbi.nlm.nih.gov/books/NBK507867/][https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=GB&amp;Expert=36397] yet it has its own page. Would it be appropriate to merge the sections and add the content from Adiposis dolorosa to the history section of Dercum's disease?  () 22:10, 9 February 2024 (UTC)
+Adiposis dolorosa seems to be a direct synonym for Dercum's disease[https://medlineplus.gov/genetics/condition/adiposis-dolorosa/#synonyms][https://www.ncbi.nlm.nih.gov/books/NBK507867/][https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=GB&amp;Expert=36397] yet it has its own page. Would it be appropriate to merge the sections and add the content from Adiposis dolorosa to the history section of Dercum's disease? CursedWithTheAbilityToDoTheMath (talk) 22:10, 9 February 2024 (UTC)
 
-This sounds like a definite maybe.   has the process if that's what you think is best, but the question you'll have to settle first is whether that's a case of &quot;one old thing → one new thing&quot; or &quot;one old thing → two different diseases&quot;.  For example, Da Costa's syndrome (&quot;soldier's heart&quot;) turned out to be at least two things (some of the soldiers had PTSD; some of them had Mitral valve prolapse), so we can't really merge and redirect it to one or the other.  If AD included both Dercum's disease and also lipedema, then it's probably better to have a short article saying that it's an outdated category that lumped together two conditions that we now split apart, instead of just redirecting it.  () 16:34, 10 February 2024 (UTC)
-Sounds good. I wasn't sure with the historical context what to do.  () 19:23, 10 February 2024 (UTC)
+This sounds like a definite maybe.   has the process if that's what you think is best, but the question you'll have to settle first is whether that's a case of &quot;one old thing → one new thing&quot; or &quot;one old thing → two different diseases&quot;.  For example, Da Costa's syndrome (&quot;soldier's heart&quot;) turned out to be at least two things (some of the soldiers had PTSD; some of them had Mitral valve prolapse), so we can't really merge and redirect it to one or the other.  If AD included both Dercum's disease and also lipedema, then it's probably better to have a short article saying that it's an outdated category that lumped together two conditions that we now split apart, instead of just redirecting it. WhatamIdoing (talk) 16:34, 10 February 2024 (UTC)
+Sounds good. I wasn't sure with the historical context what to do. CursedWithTheAbilityToDoTheMath (talk) 19:23, 10 February 2024 (UTC)
 
 Abraham Wolbarst
 
-Hello all - I have created the following article regarding a notable physician. I thought I would make this WikiProject aware of it as it relates to a contentious subject in medicine (male circumcision in the United States) - please let me know of any improvements I can make to this article, or if you have any other feedback. Thank you.  () 22:31, 8 February 2024 (UTC)
-thanks for post-- () 13:28, 12 February 2024 (UTC)
+Hello all - I have created the following article regarding a notable physician. I thought I would make this WikiProject aware of it as it relates to a contentious subject in medicine (male circumcision in the United States) - please let me know of any improvements I can make to this article, or if you have any other feedback. Thank you. GnocchiFan (talk) 22:31, 8 February 2024 (UTC)
+thanks for post--Ozzie10aaaa (talk) 13:28, 12 February 2024 (UTC)
 
 Requested move at 
- There is a requested move discussion at  that may be of interest to members of this WikiProject. – [[User:Hilst|Hilst]] [[User talk:Hilst|[talk]]] 23:00, 10 February 2024 (UTC)
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. – Hilst [talk] 23:00, 10 February 2024 (UTC)
 
-The remaining question here is whether we would prefer to have this article using the singular or plural.  Some high-quality sources use one and other high-quality sources use the other.    () 17:24, 12 February 2024 (UTC)
+The remaining question here is whether we would prefer to have this article using the singular or plural.  Some high-quality sources use one and other high-quality sources use the other.   WhatamIdoing (talk) 17:24, 12 February 2024 (UTC)
 
 Alaskapox
 
 *
-Is probably[https://pageviews.wmcloud.org/?project=en.wikipedia.org&amp;platform=all-access&amp;agent=user&amp;redirects=0&amp;range=latest-30&amp;pages=Alaskapox_virus] going to need eyes.  () 05:10, 14 February 2024 (UTC)
+Is probably[https://pageviews.wmcloud.org/?project=en.wikipedia.org&amp;platform=all-access&amp;agent=user&amp;redirects=0&amp;range=latest-30&amp;pages=Alaskapox_virus] going to need eyes. Bon courage (talk) 05:10, 14 February 2024 (UTC)
 
 More than 50,000 page views in just the last two days.  I saw a headline yesterday about the first known death from this (kind of new) virus.  That may be driving the interest.
-It looks like  and  are keeping an eye on it.  Do you two need anything from us, or do you feel like you've got it for now?  () 16:41, 14 February 2024 (UTC)
+It looks like Clpo13 and Heroeswithmetaphors are keeping an eye on it.  Do you two need anything from us, or do you feel like you've got it for now? WhatamIdoing (talk) 16:41, 14 February 2024 (UTC)
 
 MPH efficacy &amp; trial quality
 
-There was some text in the methylphenidate article which was mostly based on fairly old (and, in my opinion, problematic) narrative reviews. More recent Cochrane reviews have seriously criticized the quality of the evidence base for methylphenidate and have said that conclusions regarding efficacy and safety must therefore be drawn very tentatively or even should not really be drawn at all. I posted about it on the MPH talk page, got no responses, and after some time removed the problematic text in the article. There's since been a bit of discussion but more input would certainly be appreciated from anyone who wants to take a look.  () 21:35, 14 February 2024 (UTC)
-commented-- () 13:58, 15 February 2024 (UTC)
+There was some text in the methylphenidate article which was mostly based on fairly old (and, in my opinion, problematic) narrative reviews. More recent Cochrane reviews have seriously criticized the quality of the evidence base for methylphenidate and have said that conclusions regarding efficacy and safety must therefore be drawn very tentatively or even should not really be drawn at all. I posted about it on the MPH talk page, got no responses, and after some time removed the problematic text in the article. There's since been a bit of discussion but more input would certainly be appreciated from anyone who wants to take a look. Feline negativity (talk) 21:35, 14 February 2024 (UTC)
+commented--Ozzie10aaaa (talk) 13:58, 15 February 2024 (UTC)
 
 Students?
 
@@ -585,24 +585,24 @@ My watchlist has suddenly lit up from new editors, at least with:
 * Low back pain
 * Stretching
 * Patient safety
-Does anyone know more?  () 15:46, 13 February 2024 (UTC)
-I don't see the standard student/university template on any of them ...-- () 13:55, 17 February 2024 (UTC)
+Does anyone know more? Bon courage (talk) 15:46, 13 February 2024 (UTC)
+I don't see the standard student/university template on any of them ...--Ozzie10aaaa (talk) 13:55, 17 February 2024 (UTC)
 
 Urticarial dermatoses
 
-Can anyone help me understand what Urticarial dermatoses is supposed to be reffering to? From my understanding dermatoses just refers to a general skin condition so it seems like this term is very broad. The closest thing I could find was Urticarial dermatitis.[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383738/]  () 03:55, 15 February 2024 (UTC)
-Good question, the article does not provide any useful information, and Google does not help much either. · · ·  : 11:43, 16 February 2024 (UTC)
-I'm wondering if it might be appropriate to redirect it to hives? There is also Urticarial syndromes which is equally undescriptive and vague.  () 16:33, 16 February 2024 (UTC)
+Can anyone help me understand what Urticarial dermatoses is supposed to be reffering to? From my understanding dermatoses just refers to a general skin condition so it seems like this term is very broad. The closest thing I could find was Urticarial dermatitis.[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383738/] CursedWithTheAbilityToDoTheMath (talk) 03:55, 15 February 2024 (UTC)
+Good question, the article does not provide any useful information, and Google does not help much either. · · · Peter Southwood (talk): 11:43, 16 February 2024 (UTC)
+I'm wondering if it might be appropriate to redirect it to hives? There is also Urticarial syndromes which is equally undescriptive and vague. CursedWithTheAbilityToDoTheMath (talk) 16:33, 16 February 2024 (UTC)
 Have you tried to track down that textbook?  That might help.  The title's in the plural, so it's a group of skin diseases.  A quick search says there is a rare disease called &quot;Neutrophilic urticarial dermatosis&quot;, which is presumably an example of a urticarial dermatosis.  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9524803/table/j_rir-2021-0030_tab_001/ lists several others.
-My impression is that it's trying to draw a distinction between something that itches (e.g., a random little itch, maybe a mosquito bite) and a longer-term skin condition that has itchiness as a significant feature.  () 18:27, 16 February 2024 (UTC)
+My impression is that it's trying to draw a distinction between something that itches (e.g., a random little itch, maybe a mosquito bite) and a longer-term skin condition that has itchiness as a significant feature. WhatamIdoing (talk) 18:27, 16 February 2024 (UTC)
 I found the textbook. Urticarial dermatoses is talked about in the chapter Urticaria and Angioedema. It is talked about in the context of a differential diagnosis. 
 &quot;It is important to distinguish urticaria from urticarial dermatoses, such as urticarial drug eruptions, eosinophilic cellulitis and bullous pemphigoid. The individual wheals of urticaria are ‘here today and gone tomorrow’ (i.e. they last less than 24 hours), whereas with urticarial dermatoses, the individual lesions last for days or longer. Although urticarial vasculitis is usually included in classifications of urticaria because the wheals resemble urticaria, it is actually an urticarial dermatosis. Clinically, the lesions last longer than 24 hours (as determined by circling and observing individual wheals), and histologically there is evidence of leukocytoclastic vasculitis.&quot;
-This definition also seems to differ from the article you were able to find which is odd.  () 20:23, 16 February 2024 (UTC)
-The text of the article is too close to the source for , so I've significantly re-written it, and added the examples from that table.  () 18:47, 17 February 2024 (UTC)
+This definition also seems to differ from the article you were able to find which is odd. CursedWithTheAbilityToDoTheMath (talk) 20:23, 16 February 2024 (UTC)
+The text of the article is too close to the source for , so I've significantly re-written it, and added the examples from that table. WhatamIdoing (talk) 18:47, 17 February 2024 (UTC)
 
 Cataract surgery nominated for FAC
 
-Just a heads-up for anyone interested, as it is within the scope of this project. Constructive comments etc. are welcome. Cheers, · · ·  : 11:47, 16 February 2024 (UTC)
+Just a heads-up for anyone interested, as it is within the scope of this project. Constructive comments etc. are welcome. Cheers, · · · Peter Southwood (talk): 11:47, 16 February 2024 (UTC)
 
 Please comment at .
 If you've never done this before, then I suggest reading the  and then picking a criteria that appeals to you, and reviewing the article (or even just a section of it) for that one thing.  For example, maybe you want to read the article and see whether it's &quot;comprehensive&quot;.  Did it leave you with unanswered questions?  Are there important sections (see the list at  for some ideas) that have been omitted?  And then, whether you see something that needs improved or if you think it's perfect just like it is, please go to  (despite the name, it's not really an archive!) and start a little subsection that says something like &quot;I read the
@@ -610,66 +610,66 @@ History
 section and I think it's well-written&quot; or &quot;I checked the sources in the
 Outcomes
 section, and I think it should be updated to use the numbers from this better source&quot; or whatever else you can do.
-Reviewing FA candidates is a lot of work overall, but many hands make light work.  Even if you think you can only contribute a little bit, we need that little bit.  () 19:00, 17 February 2024 (UTC)
+Reviewing FA candidates is a lot of work overall, but many hands make light work.  Even if you think you can only contribute a little bit, we need that little bit. WhatamIdoing (talk) 19:00, 17 February 2024 (UTC)
 
 Facial onset sensory and motor neuropathy
 
-Hello everyone, I noticed that there are 2 articles which I believe are regarding the same disease process. The two articles are: facial onset sensory and motor neuropathy and facial onset sensory and motor neuronopathy. Is there a way we can merge these two pages? Thank you.  () 01:33, 18 February 2024 (UTC)
+Hello everyone, I noticed that there are 2 articles which I believe are regarding the same disease process. The two articles are: facial onset sensory and motor neuropathy and facial onset sensory and motor neuronopathy. Is there a way we can merge these two pages? Thank you. Golan1911 (talk) 01:33, 18 February 2024 (UTC)
 
-@, have you ever tried  two articles before?    () 02:29, 18 February 2024 (UTC)
-I have not  () 03:37, 18 February 2024 (UTC)
-I think that's the right thing to do.  It's not too difficult, but it will take a bit of time.   Just follow the numbered list of steps at .  (The first one takes the longest.)  () 22:20, 18 February 2024 (UTC)
-@I merged FOSM neuropathy into FOSM neuronopathy (the more complete article), thank you for explaining the process.  () 04:18, 19 February 2024 (UTC)
-Looks good!  I moved one of the tags to its usual location.  Everything else looks good.  () 20:55, 19 February 2024 (UTC)
+@Golan1911, have you ever tried  two articles before?   WhatamIdoing (talk) 02:29, 18 February 2024 (UTC)
+I have not Golan1911 (talk) 03:37, 18 February 2024 (UTC)
+I think that's the right thing to do.  It's not too difficult, but it will take a bit of time.   Just follow the numbered list of steps at .  (The first one takes the longest.) WhatamIdoing (talk) 22:20, 18 February 2024 (UTC)
+@WhatamIdoingI merged FOSM neuropathy into FOSM neuronopathy (the more complete article), thank you for explaining the process. Golan1911 (talk) 04:18, 19 February 2024 (UTC)
+Looks good!  I moved one of the tags to its usual location.  Everything else looks good. WhatamIdoing (talk) 20:55, 19 February 2024 (UTC)
 
 initials after a physician's name meaning?Like Dr.-Doctor/New One Not Seen Before.(P.A.)? Physician's Assistant?
 
-Meaning of new medical ranking initials after the name P.A. or PA  () 07:43, 14 February 2024 (UTC)
+Meaning of new medical ranking initials after the name P.A. or PA  (talk) 07:43, 14 February 2024 (UTC)
 
 PA is Physician assistant.  See Pa#Job titles for more options.
-Note that there is a proposal in the US to not call them by the full/original name, but just to call them &quot;PAs&quot;.  They don't feel like &quot;assistant&quot; is a fair description of their abilities.  () 16:38, 14 February 2024 (UTC)
-For a similar reason, in the UK, they're known as Physician associates. Ngram, though, doesn't suggest that its yet time for a page name change.  () 04:44, 21 February 2024 (UTC)
-At least one state in the US also has an Assistant physician rank (looks like someone who finished medical school but did not attend residency after graduation).  () 07:01, 21 February 2024 (UTC)
+Note that there is a proposal in the US to not call them by the full/original name, but just to call them &quot;PAs&quot;.  They don't feel like &quot;assistant&quot; is a fair description of their abilities. WhatamIdoing (talk) 16:38, 14 February 2024 (UTC)
+For a similar reason, in the UK, they're known as Physician associates. Ngram, though, doesn't suggest that its yet time for a page name change. Klbrain (talk) 04:44, 21 February 2024 (UTC)
+At least one state in the US also has an Assistant physician rank (looks like someone who finished medical school but did not attend residency after graduation). WhatamIdoing (talk) 07:01, 21 February 2024 (UTC)
 
 Good article reassessment for Mental status examination
-Mental status examination has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the . If concerns are not addressed during the review period, the good article status may be removed from the article.  () 04:20, 25 February 2024 (UTC)
+Mental status examination has been nominated for a good article reassessment. If you are interested in the discussion, please participate by adding your comments to the . If concerns are not addressed during the review period, the good article status may be removed from the article. ~~ AirshipJungleman29 (talk) 04:20, 25 February 2024 (UTC)
 
 Polio at FAR
 
-I have nominated Polio for a . Please join the discussion on whether this article meets the . Articles are typically reviewed for two weeks. If substantial concerns are not addressed during the review period, the article will be moved to the Featured Article Removal Candidates list for a further period, where editors may declare &quot;Keep&quot; or &quot;Delist&quot; in regards to the article's featured status. The instructions for the review process are .  () 15:01, 24 February 2024 (UTC)
-thanks for post-- () 13:36, 25 February 2024 (UTC)
+I have nominated Polio for a . Please join the discussion on whether this article meets the . Articles are typically reviewed for two weeks. If substantial concerns are not addressed during the review period, the article will be moved to the Featured Article Removal Candidates list for a further period, where editors may declare &quot;Keep&quot; or &quot;Delist&quot; in regards to the article's featured status. The instructions for the review process are . Z1720 (talk) 15:01, 24 February 2024 (UTC)
+thanks for post--Ozzie10aaaa (talk) 13:36, 25 February 2024 (UTC)
 
 James Morton (baker) nominated for deletion
 
-Link: .  () 03:59, 25 February 2024 (UTC)
-commented-- () 17:03, 25 February 2024 (UTC)
+Link: . George Ho (talk) 03:59, 25 February 2024 (UTC)
+commented--Ozzie10aaaa (talk) 17:03, 25 February 2024 (UTC)
 
 WebMD
 
-The reliability of WebMD is being discussed at  -- ° 19:08, 25 February 2024 (UTC)
+The reliability of WebMD is being discussed at  -- Colin°Talk 19:08, 25 February 2024 (UTC)
 
 WikiProject links archiving
 
-Hi, External links require archiving. Some of them are . [[User:Pereoptic|Pereoptic]]    08:45, 25 February 2024 (UTC)
+Hi, External links require archiving. Some of them are . Pereoptic Talk✉️   08:45, 25 February 2024 (UTC)
 
-Sorry if this is a dumb question but what do you mean by this? I'm a fairly new editor so I'm not sure of all the technicalities.  () 23:07, 26 February 2024 (UTC)
+Sorry if this is a dumb question but what do you mean by this? I'm a fairly new editor so I'm not sure of all the technicalities. CursedWithTheAbilityToDoTheMath (talk) 23:07, 26 February 2024 (UTC)
 
 List of instruments used in endocrinology Did you know 
 
-I came across this list during the  and worked on it a bit. Everyone's contribution is welcome.  () 07:49, 25 February 2024 (UTC)
-thank you for posting-- () 23:15, 26 February 2024 (UTC)
+I came across this list during the  and worked on it a bit. Everyone's contribution is welcome. NikosGouliaros (talk) 07:49, 25 February 2024 (UTC)
+thank you for posting--Ozzie10aaaa (talk) 23:15, 26 February 2024 (UTC)
 
 Quantitative interpretation of double-blind study
 
-I just posted at  after noticing a significant discrepancy between .nl and .en wikipedias in reported efficacy of treatment with anaesthetic injections based on the same referenced study. I'm not competent to judge which is correct, so I hope someone can take a look. Cheers,  () 21:45, 22 February 2024 (UTC)
-I did a few edits[https://en.wikipedia.org/w/index.php?title=Anterior_cutaneous_nerve_entrapment_syndrome&amp;action=history] though it needs alot more...including the above mentioned issue [https://academic.oup.com/bjs/article/100/2/217/6138230?login=false] which is not MEDRS-- () 13:30, 27 February 2024 (UTC)
+I just posted at  after noticing a significant discrepancy between .nl and .en wikipedias in reported efficacy of treatment with anaesthetic injections based on the same referenced study. I'm not competent to judge which is correct, so I hope someone can take a look. Cheers, Hv (talk) 21:45, 22 February 2024 (UTC)
+I did a few edits[https://en.wikipedia.org/w/index.php?title=Anterior_cutaneous_nerve_entrapment_syndrome&amp;action=history] though it needs alot more...including the above mentioned issue [https://academic.oup.com/bjs/article/100/2/217/6138230?login=false] which is not MEDRS--Ozzie10aaaa (talk) 13:30, 27 February 2024 (UTC)
 
 Merger of  and Walking boot
 
-See discussion at .- ( /  /  /  / ) 23:34, 23 February 2024 (UTC)
-commented-- () 13:35, 24 February 2024 (UTC)
+See discussion at .-TonyTheTiger (T /  /  /  / ) 23:34, 23 February 2024 (UTC)
+commented--Ozzie10aaaa (talk) 13:35, 24 February 2024 (UTC)
 
-It would be great if more people gave an opinion at this discussion. We are trying to work out the the best name for the resulting merged article on this medical boot for treating ankle/foot injuries. One issues is that one of the choices being considered (walking boot) which is used by some US sources, is the UK term for a hiking boot and that a number of other names are also in use in the literature and advertising, including trade names. What's the best term? -- ° 08:32, 28 February 2024 (UTC)
+It would be great if more people gave an opinion at this discussion. We are trying to work out the the best name for the resulting merged article on this medical boot for treating ankle/foot injuries. One issues is that one of the choices being considered (walking boot) which is used by some US sources, is the UK term for a hiking boot and that a number of other names are also in use in the literature and advertising, including trade names. What's the best term? -- Colin°Talk 08:32, 28 February 2024 (UTC)
 
 Calcinosis cutis
 
@@ -677,9 +677,9 @@ I noticed that there are several stubs listed as subtypes of Calcinosis cutis. T
 
 Idiopathic scrotal calcinosis, Tumoral calcinosis, and Osteoma cutis have more literature and seem like more distinct disorders but the other subtypes have very little information available.
 
-I'm wondering if it would be appropriate to redirect Dystrophic calcinosis cutis, Metastatic calcinosis cutis, Iatrogenic calcinosis cutis, Traumatic calcinosis cutis, Idiopathic calcinosis cutis, Subepidermal calcified nodule to Calcinosis cutis and write a brief overview on them within the article for Calcinosis cutis.  () 03:03, 28 February 2024 (UTC)
+I'm wondering if it would be appropriate to redirect Dystrophic calcinosis cutis, Metastatic calcinosis cutis, Iatrogenic calcinosis cutis, Traumatic calcinosis cutis, Idiopathic calcinosis cutis, Subepidermal calcified nodule to Calcinosis cutis and write a brief overview on them within the article for Calcinosis cutis. CursedWithTheAbilityToDoTheMath (talk) 03:03, 28 February 2024 (UTC)
 
-Sure. Seem reasonable.  () 16:14, 28 February 2024 (UTC)
+Sure. Seem reasonable. Jaredroach (talk) 16:14, 28 February 2024 (UTC)
 
 Abderhalden–Kaufmann–Lignac syndrome VS Cystinosis
 
@@ -689,22 +689,22 @@ This article[https://ojrd.biomedcentral.com/articles/10.1186/s13023-016-0426-y] 
 
 MONDO lists Abderhalden–Kaufmann–Lignac syndrome under the name nephropathic cystinosis as a type of cystinosis.[https://monarchinitiative.org/MONDO:0100151]
 
-Any insights would be appreciated. () 01:00, 25 February 2024 (UTC)
+Any insights would be appreciated.CursedWithTheAbilityToDoTheMath (talk) 01:00, 25 February 2024 (UTC)
 
-I have recommended a merge, per my comments on the article's Talk page. &quot;Abderhalden–Kaufmann–Lignac syndrome&quot; is a deprecated term.  () 16:31, 28 February 2024 (UTC)
+I have recommended a merge, per my comments on the article's Talk page. &quot;Abderhalden–Kaufmann–Lignac syndrome&quot; is a deprecated term. Jaredroach (talk) 16:31, 28 February 2024 (UTC)
 
 A53T Mutation
 
-I'm confused about the validity of A53T Mutation as its own separate entity. To me it seems like it is more of a theory regarding Parkinson's disease than an actual disorder. If anyone could help provide some clarity or input that would be appreciated.  () 00:47, 25 February 2024 (UTC)
-might help..(case report/literature review)-- () 13:34, 25 February 2024 (UTC)
-Thank you. I read through it and it seems like A53T Mutations are found in some cases of Parkinson's disease. I'm wondering if it would be appropriate to redirect the page to Causes of Parkinson's disease?  () 16:06, 25 February 2024 (UTC)
-Have you considered  it to Alpha-synuclein?  () 04:05, 26 February 2024 (UTC)
-That would make more sense thank you!  () 04:40, 26 February 2024 (UTC)
-Careful, though, you can end up with the merged topic getting  in the target article.  () 07:56, 26 February 2024 (UTC)
+I'm confused about the validity of A53T Mutation as its own separate entity. To me it seems like it is more of a theory regarding Parkinson's disease than an actual disorder. If anyone could help provide some clarity or input that would be appreciated. CursedWithTheAbilityToDoTheMath (talk) 00:47, 25 February 2024 (UTC)
+might help..(case report/literature review)--Ozzie10aaaa (talk) 13:34, 25 February 2024 (UTC)
+Thank you. I read through it and it seems like A53T Mutations are found in some cases of Parkinson's disease. I'm wondering if it would be appropriate to redirect the page to Causes of Parkinson's disease? CursedWithTheAbilityToDoTheMath (talk) 16:06, 25 February 2024 (UTC)
+Have you considered  it to Alpha-synuclein? WhatamIdoing (talk) 04:05, 26 February 2024 (UTC)
+That would make more sense thank you! CursedWithTheAbilityToDoTheMath (talk) 04:40, 26 February 2024 (UTC)
+Careful, though, you can end up with the merged topic getting  in the target article. Jo-Jo Eumerus (talk) 07:56, 26 February 2024 (UTC)
 The page for Alpha-synuclein already mentions mutations. 
 &quot;Nevertheless, alpha-synuclein aggregates to form insoluble fibrils in pathological conditions characterized by Lewy bodies, such as Parkinson's disease, dementia with Lewy bodies and multiple system atrophy. These disorders are known as synucleinopathies. In vitro models of synucleinopathies revealed that aggregation of alpha-synuclein may lead to various cellular disorders including microtubule impairment, synaptic and mitochondrial dysfunctions, oxidative stress as well as dysregulation of Calcium signaling, proteasomal and lysosomal pathway. Alpha-synuclein is the primary structural component of Lewy body fibrils. Occasionally, Lewy bodies contain tau protein; however, alpha-synuclein and tau constitute two distinctive subsets of filaments in the same inclusion bodies. Alpha-synuclein pathology is also found in both sporadic and familial cases with Alzheimer's disease.&quot;
-I don't really think anything else needs to be added to what's already written so should I just Redirect it?  () 23:06, 26 February 2024 (UTC)
-I think that's a good step.    () 18:30, 28 February 2024 (UTC)
+I don't really think anything else needs to be added to what's already written so should I just Redirect it? CursedWithTheAbilityToDoTheMath (talk) 23:06, 26 February 2024 (UTC)
+I think that's a good step.   WhatamIdoing (talk) 18:30, 28 February 2024 (UTC)
 
 Hey everyone
 
@@ -712,134 +712,134 @@ Hi everyone!
 
 While I've been reading Wikipedia since I was a young child, I recently joined the site after years of noticing easily fixable errors and/or outdated content. 
 
-Shoutout to @ for inviting me to join this page.
+Shoutout to @WhatamIdoing for inviting me to join this page.
 
 Outside of some small 2-minute edits here and there, I've been working on revamping the pages of some of the non-profit organizations associated with harm reduction &amp; psychedelics such as Bluelight, MAPS, &amp; Erowid.
 
 I have my day job so I won't be on here too consistently, but I'm looking forward to helping out and giving back to a resource that I have learned so much from over the past couple decades. 
 
-I'm going to read up on editing conventions when I have a moment, and if anyone has any pointers on things that new editors usually miss then I would appreciate that too.  () 23:54, 26 February 2024 (UTC)
+I'm going to read up on editing conventions when I have a moment, and if anyone has any pointers on things that new editors usually miss then I would appreciate that too. BromoPhenethylamine (talk) 23:54, 26 February 2024 (UTC)
 
-Welcome BromoPhenethylamine! There's lots to be done around here, so we're glad for however much time/energy you have to volunteer. If you have questions, are looking for a collaborator for a project, or need help finding a useful task to do, please post here any time and folks will be glad to participate. Wikipedia has lived long enough to have developed a labyrinthine set of rules, unwritten norms, and guidelines, the mix of which keep us moving in the same direction. Read what you can, of course, but don't be discouraged if you miss something and get gentle pushback. Just try to learn from it, find your people, and find topics that interest you here. Happy editing!  () 02:55, 27 February 2024 (UTC)
-Welcome!  I look forward to seeing what you accomplish.  () 18:57, 28 February 2024 (UTC)
-First of all look through our policies () and guidelines (). You should carefully read the  guideline if you want to contribute to medical articles.I have examined your first edits. You used primary sources to support the main definition of Bluelight, but you should rather use secondary sources like &quot;Bluelight.org: a harm-reduction community that supports public health research&quot;. It's accessible through the [https://wikipedialibrary.wmflabs.org/about/ Wikipedia Library] and have some information that could be helpful.  () 19:58, 28 February 2024 (UTC)
+Welcome BromoPhenethylamine! There's lots to be done around here, so we're glad for however much time/energy you have to volunteer. If you have questions, are looking for a collaborator for a project, or need help finding a useful task to do, please post here any time and folks will be glad to participate. Wikipedia has lived long enough to have developed a labyrinthine set of rules, unwritten norms, and guidelines, the mix of which keep us moving in the same direction. Read what you can, of course, but don't be discouraged if you miss something and get gentle pushback. Just try to learn from it, find your people, and find topics that interest you here. Happy editing! Ajpolino (talk) 02:55, 27 February 2024 (UTC)
+Welcome!  I look forward to seeing what you accomplish. WhatamIdoing (talk) 18:57, 28 February 2024 (UTC)
+First of all look through our policies () and guidelines (). You should carefully read the  guideline if you want to contribute to medical articles.I have examined your first edits. You used primary sources to support the main definition of Bluelight, but you should rather use secondary sources like &quot;Bluelight.org: a harm-reduction community that supports public health research&quot;. It's accessible through the [https://wikipedialibrary.wmflabs.org/about/ Wikipedia Library] and have some information that could be helpful. D6194c-1cc (talk) 19:58, 28 February 2024 (UTC)
 
 Additional medical input needed at 
 
-Additional input would be greatly appreciated with the ongoing slow edit-war an IP is having at Myrmecia (ant) and Jack jumper ant.  A relevant discussion can be found at  with additional comments from the IP at .--[[User:Kevmin|Kev]][[User talk:Kevmin|min]]  22:17, 28 February 2024 (UTC)
+Additional input would be greatly appreciated with the ongoing slow edit-war an IP is having at Myrmecia (ant) and Jack jumper ant.  A relevant discussion can be found at  with additional comments from the IP at .--Kevmin  22:17, 28 February 2024 (UTC)
 
-The discussion has been blanked, but it looked unproductive, so I'm not sure anything was lost.  (Also, pinging  because of .)
+The discussion has been blanked, but it looked unproductive, so I'm not sure anything was lost.  (Also, pinging Arjayay because of this side discussion.)
 Looking at the article, I suggest two possible areas for improvement:
 * More clearly separate venom effects from allergic responses (e.g., by putting all allergy information in a separate paragraph).  Everyone is at risk for the &quot;poisonous&quot; effects; only a small fraction of people are additionally at risk for &quot;allergic&quot; effects.  I emphasize additionally because having the allergy doesn't make you immune to the poisonous aspect.
 * More clearly differentiate between being allergic and realistically being at risk of anaphylaxis.  Most people who are allergic to anything will not actually develop anaphylaxis upon a subsequent exposure.  Our inability to pre-identify who those people are is not quite the same as us believing that it really could be all of them.  
-I think what I'm looking for is something like &quot;Anyone could die from the poison, a few people are also allergic, and of those few allergic people who are exposed, a (small?  tiny?) minority of the allergic reactions are life-threatening anaphylaxis&quot;.  () 16:56, 29 February 2024 (UTC)
+I think what I'm looking for is something like &quot;Anyone could die from the poison, a few people are also allergic, and of those few allergic people who are exposed, a (small?  tiny?) minority of the allergic reactions are life-threatening anaphylaxis&quot;. WhatamIdoing (talk) 16:56, 29 February 2024 (UTC)
 
 Merge proposal - Melancholic depression into Melancholia
-See . cheers,  ( · ) 23:57, 20 February 2024 (UTC)
+See . cheers, Cas Liber (talk · ) 23:57, 20 February 2024 (UTC)
 
 
 
-*give opinion (gave mine)-- () 13:01, 1 March 2024 (UTC)
+*give opinion (gave mine)--Ozzie10aaaa (talk) 13:01, 1 March 2024 (UTC)
 
 Use of assisted reproductive technology by LGBT people
 
-Please can this article be given a once-over by members of this WikiProject to make sure that it is all  compliant? Thank you in advance 🙂  () 19:19, 3 March 2024 (UTC)
+Please can this article be given a once-over by members of this WikiProject to make sure that it is all  compliant? Thank you in advance 🙂 GnocchiFan (talk) 19:19, 3 March 2024 (UTC)
 
-I started tagging sources for you.  The main problems are with  and .  The old sources will be much easier for you to spot.  As a quick rule of thumb:  if it's from 2013 or earlier, you should try to replace it with a recent review article (preferably one that's from the last three to five years, because this is an area that is changing rapidly, and you don't want to have to update the sources every single year).  [https://pubmed.ncbi.nlm.nih.gov/?term=transgender+assisted+reproduction&amp;filter=pubt.review&amp;filter=datesearch.y_10&amp;filter=other.medline&amp;sort=date&amp;size=200 This link] is probably a good start for finding more recent review articles.  () 22:24, 3 March 2024 (UTC)
+I started tagging sources for you.  The main problems are with  and .  The old sources will be much easier for you to spot.  As a quick rule of thumb:  if it's from 2013 or earlier, you should try to replace it with a recent review article (preferably one that's from the last three to five years, because this is an area that is changing rapidly, and you don't want to have to update the sources every single year).  [https://pubmed.ncbi.nlm.nih.gov/?term=transgender+assisted+reproduction&amp;filter=pubt.review&amp;filter=datesearch.y_10&amp;filter=other.medline&amp;sort=date&amp;size=200 This link] is probably a good start for finding more recent review articles. WhatamIdoing (talk) 22:24, 3 March 2024 (UTC)
 
 Pseudoacanthosis nigricans
 
-Would it be appropriate to redirect Pseudoacanthosis nigricans to Acanthosis nigricans? There isn't much information regarding Pseudoacanthosis nigricans and I don't think it's possible to expand it much.  () 23:26, 1 March 2024 (UTC)
+Would it be appropriate to redirect Pseudoacanthosis nigricans to Acanthosis nigricans? There isn't much information regarding Pseudoacanthosis nigricans and I don't think it's possible to expand it much. CursedWithTheAbilityToDoTheMath (talk) 23:26, 1 March 2024 (UTC)
 
 *Merge to avoid confusion I think they can be merged, with a mention in Acanthosis nigricans that Pseudoacanthosis nigricans presents similarly (the skin manifestation) except without endocrinopathy (insulin resistance and hyperinsulinaemia) but with the same clinical features as AN, viz. brown-to-black, poorly defined, velvety hyperpigmentation of the skin distributed over the neck, the axillae, antecubital and popliteal fossae, and groin folds. (Predilection for areas of perspiration and/or friction due to IGF1 signalling pathways and high-affinity binding to insulin).
 My opinion is to avoid confusion Pseudoacanthosis nigricans should not be used at all. But rather specify 'acquired or inherited' and subtype the AN 'Obesity, Endocrine and metabolic disorders, particularly disorders associated with insulin resistance, Genetic syndromes with acanthosis nigricans, Familial acanthosis nigricans, Malignancy, Drug reactions'.
 However, it’s odd the Wikipedia article Pseudoacanthosis nigricans [https://en.wikipedia.org/w/index.php?title=Pseudoacanthosis_nigricans&amp;oldid=1183552263 in its current form] only mentions its association with heroine abuse. My assumption, based on first principles, would be that repeated subdermal needle injections in heroin users results in repeated damage and subsequent inflammation to surrounding dermal tissue and resultant hyperpigmentation which may mimic AN, albeit distribution would be different and AN is histologically &quot;papillomatosis and hyperkeratosis of the skin&quot;
 Quick searches do reveal that 'Pseudoacanthosis nigricans' may now also be synonymous with Obesity-associated AN which has the same pathogenesis as AN except it can be at any age since insulin resistance occurs at &gt;200% of ideal body weight, but the AN will regress with weight loss. Local S/E of insulin injection repeatedly superficially in the same spot of skin, by same pathogenesis but mimicking hyperinsulinaemia I suppose. Autoantibody related, such as autoAb to insulin receptors on cells in these areas.
 Ref: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4144206/] [https://www.uptodate.com/contents/acanthosis-nigricans?search=acanthosis%20nigrans&amp;source=search_result&amp;selectedTitle=1%7E52&amp;usage_type=default&amp;display_rank=1].
- ★ () 15:45, 2 March 2024 (UTC)
+waddie96 ★ (talk) 15:45, 2 March 2024 (UTC)
 I think the reason the page only mentions Pseudoacanthosis nigricans in the context of heroine is because that's what the original book used to create the article mentions. Acanthosis nigricans already has a section for &quot;Type III – obesity and pseudoacanthosis nigricans&quot; so would it make sense to just redirect Pseudoacanthosis nigricans to Acanthosis nigricans#Type III – obesity and pseudoacanthosis nigricans? 
-Thank you for your help!  () 23:22, 3 March 2024 (UTC)
-Yes I think redirecting to a section anchor (using ) would be perfect.  ★ () 12:00, 4 March 2024 (UTC)
- Done  ★ () 12:11, 4 March 2024 (UTC)
+Thank you for your help! CursedWithTheAbilityToDoTheMath (talk) 23:22, 3 March 2024 (UTC)
+Yes I think redirecting to a section anchor (using ) would be perfect. waddie96 ★ (talk) 12:00, 4 March 2024 (UTC)
+ Done waddie96 ★ (talk) 12:11, 4 March 2024 (UTC)
 
 Urticarial syndromes
 
-I was wondering if someone could help me with the term &quot;Urticarial syndromes&quot;. This is an incredibly vague entry and I can't find much information to back its existence as an actual separate disorder.  () 22:19, 1 March 2024 (UTC)
+I was wondering if someone could help me with the term &quot;Urticarial syndromes&quot;. This is an incredibly vague entry and I can't find much information to back its existence as an actual separate disorder. CursedWithTheAbilityToDoTheMath (talk) 22:19, 1 March 2024 (UTC)
 
-Edit: I tracked down the original textbook and it has a section called &quot;Distinctive Urticarial Syndromes&quot; which lists Muckle–Wells syndrome, Familial Mediterranean fever, and Systemic capillary leak syndrome. I feel like this would be appropriate to redirect to Hives but I'm not sure.  () 23:10, 1 March 2024 (UTC)
+Edit: I tracked down the original textbook and it has a section called &quot;Distinctive Urticarial Syndromes&quot; which lists Muckle–Wells syndrome, Familial Mediterranean fever, and Systemic capillary leak syndrome. I feel like this would be appropriate to redirect to Hives but I'm not sure. CursedWithTheAbilityToDoTheMath (talk) 23:10, 1 March 2024 (UTC)
 
 I'm a dyed-in-the-wool , so any suggestion to merge articles appeals to me, but I'm not sure that this target makes sense.  Two of the three articles don't mention hives.  OTOH, if you're looking at a
 Classification
-section in Hives (e.g., hives due to allergy, hives due to the Urticarial dermatoses, hives due to the Urticarial syndromes, Physical urticaria, etc.), I could see that being merged into that section very nicely.   () 18:57, 2 March 2024 (UTC)
-The hives article lists some of the different types under causes, would it make sense to add in a section for Urticarial syndromes under the causes and then merge? The original source listed for Urticarial syndromes is very vague so I'm not quite sure what to do with the page. Thank you for your help!  () 23:26, 3 March 2024 (UTC)
+section in Hives (e.g., hives due to allergy, hives due to the Urticarial dermatoses, hives due to the Urticarial syndromes, Physical urticaria, etc.), I could see that being merged into that section very nicely.  WhatamIdoing (talk) 18:57, 2 March 2024 (UTC)
+The hives article lists some of the different types under causes, would it make sense to add in a section for Urticarial syndromes under the causes and then merge? The original source listed for Urticarial syndromes is very vague so I'm not quite sure what to do with the page. Thank you for your help! CursedWithTheAbilityToDoTheMath (talk) 23:26, 3 March 2024 (UTC)
 Some of the
 Causes
 don't really feel like causes to me.  (Dermatographic urticaria is a disease, not an etiology.)  
-Have you had a chance to look for sources yet?  [https://www.google.com/books/edition/The_complexity_of_urticaria/F6G5EAAAQBAJ?hl=en&amp;gbpv=1&amp;pg=PA45 This book] (first column, halfway down) and [https://www.google.com/books/edition/Weedon_s_Skin_Pathology_E_Book/3_m-DwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Urticarial+syndromes%22&amp;pg=PA251&amp;printsec=frontcover this one] (second column, bottom) talk a bit about some similarities between the syndromes. [https://www.google.com/books/edition/Clinical_Allergy_and_Asthma_Management_i/pqpHEAAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Urticarial+syndromes%22&amp;pg=PA28&amp;printsec=frontcover Table 4.2 here] has a handy hierarchical list (the table above it, and the one of the next page, might also be useful for Hives#Causes).  () 06:29, 4 March 2024 (UTC)
-I'm having a hard time getting access to the sources you linked. I do think the Hives article needs some updating for sure. I mostly work with smaller articles so I'm not great with bigger topics but I'll check it out and see what can be done.  () 01:49, 5 March 2024 (UTC)
+Have you had a chance to look for sources yet?  [https://www.google.com/books/edition/The_complexity_of_urticaria/F6G5EAAAQBAJ?hl=en&amp;gbpv=1&amp;pg=PA45 This book] (first column, halfway down) and [https://www.google.com/books/edition/Weedon_s_Skin_Pathology_E_Book/3_m-DwAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Urticarial+syndromes%22&amp;pg=PA251&amp;printsec=frontcover this one] (second column, bottom) talk a bit about some similarities between the syndromes. [https://www.google.com/books/edition/Clinical_Allergy_and_Asthma_Management_i/pqpHEAAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22Urticarial+syndromes%22&amp;pg=PA28&amp;printsec=frontcover Table 4.2 here] has a handy hierarchical list (the table above it, and the one of the next page, might also be useful for Hives#Causes). WhatamIdoing (talk) 06:29, 4 March 2024 (UTC)
+I'm having a hard time getting access to the sources you linked. I do think the Hives article needs some updating for sure. I mostly work with smaller articles so I'm not great with bigger topics but I'll check it out and see what can be done. CursedWithTheAbilityToDoTheMath (talk) 01:49, 5 March 2024 (UTC)
 
 Lichenoid trikeratosis
 
-Should Lichenoid trikeratosis be merged to Lichen planus? According to DermNet &quot;Keratosis lichenoides chronica is also called Nekam disease, lichen verrucosus et reticularis, lichenoid trikeratosis, keratose lichenoide striae, porokeratosis striata lichenoides, and lichen ruber moniliformis.&quot;[https://dermnetnz.org/topics/keratosis-lichenoides-chronica]  () 04:40, 5 March 2024 (UTC)
+Should Lichenoid trikeratosis be merged to Lichen planus? According to DermNet &quot;Keratosis lichenoides chronica is also called Nekam disease, lichen verrucosus et reticularis, lichenoid trikeratosis, keratose lichenoide striae, porokeratosis striata lichenoides, and lichen ruber moniliformis.&quot;[https://dermnetnz.org/topics/keratosis-lichenoides-chronica] CursedWithTheAbilityToDoTheMath (talk) 04:40, 5 March 2024 (UTC)
 
 Proposed merge (overactive bladder)
 
-I recently proposed the merge of Treatments for overactive bladder into Overactive bladder. If anyone would like to contribute to the discussion, it is .  () 20:04, 7 March 2024 (UTC)
-commented-- () 14:44, 8 March 2024 (UTC)
+I recently proposed the merge of Treatments for overactive bladder into Overactive bladder. If anyone would like to contribute to the discussion, it is . Just-a-can-of-beans (talk) 20:04, 7 March 2024 (UTC)
+commented--Ozzie10aaaa (talk) 14:44, 8 March 2024 (UTC)
 
 Article Alerts
 
-This is a friendly reminder that  exists and would love to have some more folks bookmarking it or putting on their .  It's one-stop shopping for all the processes affecting articles tagged by this group.  A quick glance indicates that we've got about a dozen articles up for , including (unusually) several that aren't about people or businesses.  There are eleven up for , and you'll find links to the  at [[Talk:COVID-19 pandemic#rfctag|Talk:COVID-19 pandemic]] (about whether lab leaks should be mentioned), and more.  I encourage you to take a look and see if you can help out.  () 04:20, 9 March 2024 (UTC)
+This is a friendly reminder that  exists and would love to have some more folks bookmarking it or putting on their .  It's one-stop shopping for all the processes affecting articles tagged by this group.  A quick glance indicates that we've got about a dozen articles up for , including (unusually) several that aren't about people or businesses.  There are eleven up for , and you'll find links to the  at  (about whether lab leaks should be mentioned), and more.  I encourage you to take a look and see if you can help out. WhatamIdoing (talk) 04:20, 9 March 2024 (UTC)
 
 Drug-eluting stent GA
- nominated Drug-eluting stent for a Good article, and I'm . Everyone is welcome to contribute.  () 17:21, 9 March 2024 (UTC)
+Maxim Masiutin nominated Drug-eluting stent for a Good article, and I'm . Everyone is welcome to contribute. NikosGouliaros (talk) 17:21, 9 March 2024 (UTC)
 
-Thank you very much for picking the article, I will resolve all the issues and let you know in 1-2 days!  () 19:16, 9 March 2024 (UTC)
+Thank you very much for picking the article, I will resolve all the issues and let you know in 1-2 days! Maxim Masiutin (talk) 19:16, 9 March 2024 (UTC)
 
 Classification and difference between Somatic symptom disorder vs. Somatization disorder
 
-I started a conversation on  that might be of interest to members of this WikiProject. Any input is appreciated.  () 19:37, 9 March 2024 (UTC)
+I started a conversation on  that might be of interest to members of this WikiProject. Any input is appreciated. CursedWithTheAbilityToDoTheMath (talk) 19:37, 9 March 2024 (UTC)
 
-@, do you have any insight into this question?  Both articles are old (2003 and 2005) and were originally created by IPs.  () 20:40, 9 March 2024 (UTC)
+@Casliber, do you have any insight into this question?  Both articles are old (2003 and 2005) and were originally created by IPs. WhatamIdoing (talk) 20:40, 9 March 2024 (UTC)
 
 Zoonotic origins of COVID-19
 
-Zoonotic origins of COVID-19 has been nominated at Articles for Deletion. Interested editors may participate at . [[User:TarnishedPath|TarnishedPath]][[User talk:TarnishedPath|talk]] 09:48, 9 March 2024 (UTC)
+Zoonotic origins of COVID-19 has been nominated at Articles for Deletion. Interested editors may participate at . TarnishedPathtalk 09:48, 9 March 2024 (UTC)
 
-@, I wonder why you chose AFD instead of .  () 20:35, 9 March 2024 (UTC)
-I'm just more familiar with the AfD format. I'll give the other way a go if and when I make such a proposal in future. [[User:TarnishedPath|TarnishedPath]][[User talk:TarnishedPath|talk]] 03:22, 10 March 2024 (UTC)
+@TarnishedPath, I wonder why you chose AFD instead of . WhatamIdoing (talk) 20:35, 9 March 2024 (UTC)
+I'm just more familiar with the AfD format. I'll give the other way a go if and when I make such a proposal in future. TarnishedPathtalk 03:22, 10 March 2024 (UTC)
 
 Medical claims in articles like Animal-assisted therapy and Equine-assisted therapy
 
-Someone smarter than me should take a look at these articles. I cleaned them up a bit but there is more work to be done.  () 21:24, 9 March 2024 (UTC)
+Someone smarter than me should take a look at these articles. I cleaned them up a bit but there is more work to be done. Polygnotus (talk) 21:24, 9 March 2024 (UTC)
 
 I don't think I've looked at these articles for years, but my recollection of them is that both the proponents and detractors were making outlandish claims – the one side almost claiming that horse riding is the one true panacea for all chronic conditions, and the other side barely restraining themselves from claiming that no disabled kids anywhere has ever gotten any benefits whatsoever from it, not even the ordinary benefits of the physical activity inherent in it or the social and emotional benefits of bragging at school about getting to ride a horse.  It was not edifying, and I gave up.
-Given the state of civic discourse in the US, I don't have any real hope that the sources will be any better now than they were then, but if someone's willing to take it on, I think that we could do some good by writing an article that summarizes (i.e., is no longer than necessary) the middle ground (i.e., some people do this, and some people get benefits from it).   () 07:31, 10 March 2024 (UTC)
-Thank you! I love animals and I am 1000% sure they can improve most people's lives. And of course improving happiness has a measurable effect on health in many cases. Some animals (e.g. dogs, cats) are also emphatic and smart enough to partially understand the emotions of humans. But we need to follow  for all medical claims and we need to be honest about what AAT and EAT can and can't do. Having a sick person interact with an animal is often a great idea; but animal contact is not a panacea. I am probably not smart enough to write a proper article about this topic so I am hoping someone else will step up and collaborate with WhatamIdoing.  () 07:53, 10 March 2024 (UTC)
+Given the state of civic discourse in the US, I don't have any real hope that the sources will be any better now than they were then, but if someone's willing to take it on, I think that we could do some good by writing an article that summarizes (i.e., is no longer than necessary) the middle ground (i.e., some people do this, and some people get benefits from it).  WhatamIdoing (talk) 07:31, 10 March 2024 (UTC)
+Thank you! I love animals and I am 1000% sure they can improve most people's lives. And of course improving happiness has a measurable effect on health in many cases. Some animals (e.g. dogs, cats) are also emphatic and smart enough to partially understand the emotions of humans. But we need to follow  for all medical claims and we need to be honest about what AAT and EAT can and can't do. Having a sick person interact with an animal is often a great idea; but animal contact is not a panacea. I am probably not smart enough to write a proper article about this topic so I am hoping someone else will step up and collaborate with WhatamIdoing. Polygnotus (talk) 07:53, 10 March 2024 (UTC)
 
 It's that time again (Cannabis → Marijuana)
 
 See:
 * 
- () 14:18, 8 March 2024 (UTC)
-commented-- () 12:19, 10 March 2024 (UTC)
+Bon courage (talk) 14:18, 8 March 2024 (UTC)
+commented--Ozzie10aaaa (talk) 12:19, 10 March 2024 (UTC)
 
 Comment at  requested.
 
-Comment at  requested.  ★ () 15:22, 2 March 2024 (UTC)
-thanks for posting-- () 12:21, 10 March 2024 (UTC)
+Comment at  requested. waddie96 ★ (talk) 15:22, 2 March 2024 (UTC)
+thanks for posting--Ozzie10aaaa (talk) 12:21, 10 March 2024 (UTC)
 
 Medicalnewstoday website
 
-I wanted to read a source that was added with [https://en.wikipedia.org/w/index.php?title=Surgery&amp;curid=45599&amp;diff=1213088949&amp;oldid=1212709573 this] edit but when I link to the source and manage cookies, I get a message from Healthline saying we detect that you are in one of the member countries of the UK/EU/EEA, which is now subject to the General Data Protection Regulation (GDPR). Unfortunately, a tracking-free version of our full website is currently unavailable in these countries. It's the first time I've come across a website that doesn't allow me to manage cookies, but also if Medicalnewstoday IS a Healthline publication then is it not a deprecated source?  () 12:08, 11 March 2024 (UTC)
+I wanted to read a source that was added with [https://en.wikipedia.org/w/index.php?title=Surgery&amp;curid=45599&amp;diff=1213088949&amp;oldid=1212709573 this] edit but when I link to the source and manage cookies, I get a message from Healthline saying we detect that you are in one of the member countries of the UK/EU/EEA, which is now subject to the General Data Protection Regulation (GDPR). Unfortunately, a tracking-free version of our full website is currently unavailable in these countries. It's the first time I've come across a website that doesn't allow me to manage cookies, but also if Medicalnewstoday IS a Healthline publication then is it not a deprecated source? CV9933 (talk) 12:08, 11 March 2024 (UTC)
 
-Publishers can publish both reliable and unreliable sources, just like the big pharma companies all sell regulated prescription drugs and dubious nutritional supplements.  In practice, Medical News Today is likely to be more useful for business-related information than for .  () 17:53, 11 March 2024 (UTC)
+Publishers can publish both reliable and unreliable sources, just like the big pharma companies all sell regulated prescription drugs and dubious nutritional supplements.  In practice, Medical News Today is likely to be more useful for business-related information than for . WhatamIdoing (talk) 17:53, 11 March 2024 (UTC)
 
 
- () 15:33, 11 March 2024 (UTC)
+AmyEBHC (talk) 15:33, 11 March 2024 (UTC)
 
-This appears to be a request for help with .   () 18:38, 11 March 2024 (UTC)
-Yes please, what do I do?   () 21:15, 11 March 2024 (UTC)
+This appears to be a request for help with .  WhatamIdoing (talk) 18:38, 11 March 2024 (UTC)
+Yes please, what do I do?  AmyEBHC (talk) 21:15, 11 March 2024 (UTC)
 
 Draft to Mainspace when Blocked user moved it to draft, help please!
 
@@ -849,9 +849,9 @@ Hi Ponyo,
 
 It seems user Fhektii moved page Benjamin Djulbegovic to  does not appear to be responding to Talk. I want to remain polite and kind. My question is, how might I move this draft back to mainstream? I have made significant edits. Fhektii included an accusation that someone paid to put this content up. No one has paid me. I do not know the original editor(s), , I found this while looking for an obscure reference. The page in question is written about a well respected professor and oncologist. I have done my best to address any areas of concern. I emailed the Professor for a photo and he responded the same day and then, after reading the Wikipedia form, he realized that he may not own the copyright and so immediately sent a selfie instead which I then used. Thank you for any help or direction you can give to help get this page to mainspace
 
-Warmest regards, ~~~AmyEBHC  () 05:30, 11 March 2024 (UTC)[]
+Warmest regards, ~~~AmyEBHC AmyEBHC (talk) 05:30, 11 March 2024 (UTC)[reply]
 
-Hello, ,
-Benjamin Djulbegovic has been moved back to main space. It looks like there have been editors who edited the article who might have had conflicted motives.    02:11, 12 March 2024 (UTC)</segment>
+Hello, AmyEBHC,
+Benjamin Djulbegovic has been moved back to main space. It looks like there have been editors who edited the article who might have had conflicted motives. Liz  Talk! 02:11, 12 March 2024 (UTC)</segment>
 	</text>
 </file>

@@ -99,7 +99,10 @@ class XmlParser:
         no_internal_links = re.sub(r"\[\[[^]:]*?\|([^]]*?)]]", r"\1", no_internal_links)
 
         # Removing special internal links, referring to media or metadata
-        no_internal_links = re.sub(r"\[\[[^]:]*?:[^]:]*?]]", "", no_internal_links)
+        no_internal_links = re.sub(r"\[\[User[^]]*:[^]]*?\|([^]]*?)]]", r"\1", no_internal_links)
+
+        # Removing special internal links, referring to media or metadata
+        no_internal_links = re.sub(r"\[\[[^]]*?:[^]]*?]]", "", no_internal_links)
 
         # Removing titles
         no_titles = re.sub(r"\s?==+\s?", "\n", no_internal_links)
@@ -121,6 +124,9 @@ class XmlParser:
         for gallery in galleries:
             gallery.decompose()  # Remove tag and content
         no_tags = soup.text
+
+        # Removing nbsp
+        no_tags = no_tags.replace("\xa0", " ")
 
         # Remove formatting with double-single quotes (''...'')
         no_format = re.sub("''+", "", no_tags)

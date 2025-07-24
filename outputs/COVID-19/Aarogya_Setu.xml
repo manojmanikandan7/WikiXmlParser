@@ -25,7 +25,7 @@ Aarogya Setu has four sections:
 * E-pass integration (if applied for E-pass, it will be available)
 * See Recent Contacts option (allows the users to assess the risk level of their Bluetooth contacts)
 
-It tells how many COVID-19 positive cases are likely in a radius of 500 m, 1 km, 2 km, 5 km and 10 km from the user.
+It tells how many COVID-19 positive cases are likely in a radius of 500 m, 1 km, 2 km, 5 km and 10 km from the user.
 
 The app is built on a platform that can provide an application programming interface (API) so that other computer programs, mobile applications, and web services can make use of the features and data available in Aarogya Setu.
 

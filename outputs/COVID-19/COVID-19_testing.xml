@@ -84,7 +84,7 @@ The body responds to a viral infection by producing antibodies that help neutral
 
 SARS-CoV-2 antibodies' potency and protective period have not been established. Therefore, a positive antibody test may not imply immunity to a future infection. Further, whether mild or asymptomatic infections produce sufficient antibodies for a test to detect has not been established. Antibodies for some diseases persist in the bloodstream for many years, while others fade away.
 
-The most notable antibodies are IgM and IgG. IgM antibodies are generally detectable several days after initial infection, although levels over the course of infection and beyond are not well characterized. IgG antibodies generally become detectable 10–14 days after infection and normally peak around 28 days after infection. This pattern of antibody development seen with other infections, often does not apply to SARS-CoV-2, however, with IgM sometimes occurring after IgG, together with IgG or not occurring at all. Generally, however, median IgM detection occurs 5 days after symptom onset, whereas IgG is detected a median 14 days after symptom onset. IgG levels significantly decline after two or three months.
+The most notable antibodies are IgM and IgG. IgM antibodies are generally detectable several days after initial infection, although levels over the course of infection and beyond are not well characterized. IgG antibodies generally become detectable 10–14 days after infection and normally peak around 28 days after infection. This pattern of antibody development seen with other infections, often does not apply to SARS-CoV-2, however, with IgM sometimes occurring after IgG, together with IgG or not occurring at all. Generally, however, median IgM detection occurs 5 days after symptom onset, whereas IgG is detected a median 14 days after symptom onset. IgG levels significantly decline after two or three months.
 
 Genetic tests verify infection earlier than antibody tests. Only 30% of those with a positive genetic test produced a positive antibody test on day 7 of their infection.
 
@@ -180,13 +180,9 @@ Required testing levels are a function of disease spread. The more the cases, th
 WHO recommends increasing testing until fewer than 10% are positive in any given jurisdiction.
 
 United States
-[[File:United States tests for SARS CoV-2 - May 11, 2020.jpg|thumb|upright=1.35|Number of tests done per day in the US, .
-Blue: CDC lab
-Orange: Public health lab
-Gray: Data incomplete due to reporting lag
-Not shown: Testing at private labs; total exceeded 100,000 per day by 27 March.]]
 
-Economist Paul Romer reported that the US has the technical capacity to scale up to 20 million tests per day, which is his estimate of the scale needed to fully remobilize the economy. The Edmond J. Safra Center for Ethics estimated on 4 April 2020 that this capacity could be available by late July 2020. Romer pointed to single-molecule real-time sequencing equipment from Pacific Biosciences and to the Ion Torrent Next-Generation Sequencing equipment from ThermoFisher Scientific. According to Romer, &quot;Recent research papers suggest that any one of these has the potential to scale up to millions of tests per day.&quot; This plan requires removing regulatory hurdles. Romer estimated that $100 billion would cover the costs.
+
+Economist Paul Romer reported that the US has the technical capacity to scale up to 20 million tests per day, which is his estimate of the scale needed to fully remobilize the economy. The Edmond J. Safra Center for Ethics estimated on 4 April 2020 that this capacity could be available by late July 2020. Romer pointed to single-molecule real-time sequencing equipment from Pacific Biosciences and to the Ion Torrent Next-Generation Sequencing equipment from ThermoFisher Scientific. According to Romer, &quot;Recent research papers suggest that any one of these has the potential to scale up to millions of tests per day.&quot; This plan requires removing regulatory hurdles. Romer estimated that $100 billion would cover the costs.
 
 Romer also claimed that high test accuracy is not required if tests are administered frequently enough. He ran model simulations in which 7% of the population is tested every day using a test with a 20% false negative rate and a 1% false positive rate. The average person would be tested roughly every two weeks. Those who tested positive would go into quarantine. Romer's simulation indicated that the fraction of the population that is infected at any given time (known as the attack rate) peaks reaches roughly 8% in about thirty days before gradually declining, in most runs reaching zero at 500 days, with cumulative prevalence remaining below 20%.
 
@@ -258,7 +254,7 @@ RT-PCR is the most commonly used diagnostic test. PCR tests by nasopharyngeal sw
 
 In one study, the positivity rate was highest at week one (100%), followed by 89.3%, 66.1%, 32.1%, 5.4% and zero by week six since symptom onset.
 
-Sensitivity is also a function of the number of PCR cycles, as well as time and temperature between sample collection and analysis. A cycle threshold of 20 cycles would be adequate to detect SARS-Cov-2 in a highly infective person. Cycle thresholds above 34 are increasingly likely to give false positives outside of high biosafety level facilities.
+Sensitivity is also a function of the number of PCR cycles, as well as time and temperature between sample collection and analysis. A cycle threshold of 20 cycles would be adequate to detect SARS-Cov-2 in a highly infective person. Cycle thresholds above 34 are increasingly likely to give false positives outside of high biosafety level facilities.
 
 In July 2020, Anthony Fauci of the US NIH indicated that positive results obtained from RT-PCR tests run at more than 35 cycles were almost always &quot;just dead nucleotides&quot;. In August 2020, it was reported that, &quot;In three sets of testing data that include cycle thresholds, compiled by officials in Massachusetts, New York and Nevada ... most tests set the limit at 40 [cycles], a few at 37&quot; and that the CDC was examining the use of cycle threshold measures &quot;for policy decisions,&quot; On 21 July 2021, the CDC, in their &quot;Real-Time RT-PCR Diagnostic Pan: Instructions for Use&quot;, indicated tests results should be determined at 40 cycles.
 
@@ -304,7 +300,7 @@ The number of those infected with coronavirus and inpatients has increased in Ju
 
 Russia
 
-In April 2020, Russia tested 3 million people and had 183,000 positive results. On 28 April Anna Popova, head of Federal Service for Surveillance in Healthcare (Roszdravnadzor) stated that 506 laboratories were testing; that 45% of those who tested positive had no symptoms; that 5% of patients had a severe form; and 40% of infections were from family members. Illness improved from six days to one day after symptoms appeared. Antibody testing was carried out on 3,200 Moscow doctors, finding 20% immunity.
+In April 2020, Russia tested 3 million people and had 183,000 positive results. On 28 April Anna Popova, head of Federal Service for Surveillance in Healthcare (Roszdravnadzor) stated that 506 laboratories were testing; that 45% of those who tested positive had no symptoms; that 5% of patients had a severe form; and 40% of infections were from family members. Illness improved from six days to one day after symptoms appeared. Antibody testing was carried out on 3,200 Moscow doctors, finding 20% immunity.
 
 Singapore
 

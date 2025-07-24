@@ -8,7 +8,7 @@
 A &quot;subunit&quot; vaccine doesn't contain the whole pathogen, unlike live attenuated or inactivated vaccine, but contains only the antigenic parts such as proteins, polysaccharides or peptides. Because the vaccine doesn't contain &quot;live&quot; components of the pathogen, there is no risk of introducing the disease, and is safer and more stable than vaccines containing whole pathogens.
 Other advantages include being well-established technology and being suitable for immunocompromised individuals. Disadvantages include being relatively complex to manufacture compared to some vaccines, possibly requiring adjuvants and booster shots, and requiring time to examine which antigenic combinations may work best.
 
-The first recombinant subunit vaccine was produced in the mid-1980s to protect people from Hepatitis B. Other recombinant subunit vaccines licensed include Engerix-B (hepatitis B), Gardasil 9 (Human Papillomavirus), Flublok (influenza), Shingrix (Herpes zoster) and Nuvaxovid (Coronavirus disease 2019).
+The first recombinant subunit vaccine was produced in the mid-1980s to protect people from Hepatitis B. Other recombinant subunit vaccines licensed include Engerix-B (hepatitis B), Gardasil 9 (Human Papillomavirus), Flublok (influenza), Shingrix (Herpes zoster) and Nuvaxovid (Coronavirus disease 2019).
 
 After injection, antigens trigger the production of antigen-specific antibodies, which are responsible for recognising and neutralising foreign substances. Basic components of recombinant subunit vaccines include recombinant subunits, adjuvants and carriers. Additionally, recombinant subunit vaccines are popular candidates for the development of vaccines against infectious diseases (e.g. tuberculosis, dengue).
 
@@ -77,7 +77,7 @@ The processes involved in primary immune response are as follows:
 
 # Pre-exposure to the antigens present in vaccines elicits a primary response. After injection, antigens will be ingested by antigen-presenting cells (APCs), such as dendritic cells and macrophages, via phagocytosis.
 # The APCs will travel to lymph nodes, where immature B cells and T cells are present.
-# Following antigen processes by APCs, antigens will bind to either MHC class I receptors or MHC class II receptors on the cell surface of the cells based on their compositional and structural features to form complexes.
+# Following antigen processes by APCs, antigens will bind to either MHC class I receptors or MHC class II receptors on the cell surface of the cells based on their compositional and structural features to form complexes.
 # Antigen presentation occurs, in which T cell receptors attach to the antigen-MHC complexes, initiating clonal expansion and differentiation, and hence the conversion of naive T cells to cytotoxic T cells (CD8+) or helper T cells (CD4+).
 # Cytotoxic CD8+ cells can directly destroy the infected cells containing the antigens that were presented to them by the APCs by releasing lytic molecules, while helper CD4+ cells are responsible for the secretion of cytokines that activates B cells and cytotoxic T cells.
 # B cells can undergo activation in the absence of T cells via the B cell receptor signalling pathway.
@@ -161,7 +161,7 @@ Disadvantages
 * It is not easy to supervise conjugation chemistry which leads to noncontinuous variation
 
 Adverse effects and contraindications
-Recombinant subunit vaccines are safe for administration. However, mild local reactions, including induration and swelling of the injection site, along with fever, fatigue and headache may be encountered after vaccination. Occurrence of severe hypersensitivity reactions and anaphylaxis is rare, but can possibly lead to deaths of individuals. Adverse effects can vary among populations depending on their physical health condition, age, gender and genetic predisposition.
+Recombinant subunit vaccines are safe for administration. However, mild local reactions, including induration and swelling of the injection site, along with fever, fatigue and headache may be encountered after vaccination. Occurrence of severe hypersensitivity reactions and anaphylaxis is rare, but can possibly lead to deaths of individuals. Adverse effects can vary among populations depending on their physical health condition, age, gender and genetic predisposition.
 
 Recombinant subunit vaccines are contraindicated to people who have experienced allergic reactions and anaphylaxis to antigens or other components of the vaccines previously. Furthermore, precautions should be taken when administering vaccines to people who are in diseased state and during pregnancy, in which their injections should be delayed until their conditions become stable and after childbirth respectively.
 
@@ -177,7 +177,7 @@ It has been shown that primary 3-dose vaccination of healthy individuals is asso
 
 Human Papillomavirus (HPV)
 
-Cervarix, GARDASIL and GARDASIL9 are three recombinant subunit vaccines licensed for the protection against HPV infection. They differ in the strains which they protect the patients from as Cervarix confers protection against type 16 and 18, Gardasil confers protection against type 6, 11, 16 and 18, and Gardasil 9 confers protection against type 6, 11, 16, 18, 31, 33, 45, 52, 58 respectively.  The vaccines contain purified VLP of the major capsid L1 protein produced by recombinant Saccharomyces cerevisiae.
+Cervarix, GARDASIL and GARDASIL9 are three recombinant subunit vaccines licensed for the protection against HPV infection. They differ in the strains which they protect the patients from as Cervarix confers protection against type 16 and 18, Gardasil confers protection against type 6, 11, 16 and 18, and Gardasil 9 confers protection against type 6, 11, 16, 18, 31, 33, 45, 52, 58 respectively.  The vaccines contain purified VLP of the major capsid L1 protein produced by recombinant Saccharomyces cerevisiae.
 
 It has been shown in a 2014 systematic quantitative review that the bivalent HPV vaccine (Cervarix) is associated with pain (OR 3.29; 95% CI: 3.00–3.60), swelling (OR 3.14; 95% CI: 2.79–3.53) and redness (OR 2.41; 95% CI: 2.17–2.68) being the most frequently reported adverse effects. For Gardasil, the most frequently reported events were pain (OR 2.88; 95% CI: 2.42–3.43) and swelling (OR 2.65; 95% CI: 2.0–3.44).
 
@@ -186,7 +186,7 @@ Gardasil was discontinued in the U.S. on May 8, 2017, after the introduction of 
 Influenza
 Flublok Quadrivalent is a licensed recombinant subunit vaccine for active immunisation against influenza. It contains HA proteins of four strains of influenza virus purified and extracted using the Baculovirus-insect expression system. The four viral strains are standardised annually according to United States Public Health Services (USPHS) requirements.
 
-Flublok Quadrivalent has a comparable safety profile to traditional trivalent and quadrivalent vaccine equivalents. Flublok is also associated with less local reactions (RR = 0.94, 95% CI 0.90–0.98, three RCTs, FEM, I2 = 0%, low‐ certainty evidence) and higher risk of chills (RR = 1.33, 95% CI 1.03–1.72, three RCTs, FEM, I2 = 14%, low‐certainty evidence).
+Flublok Quadrivalent has a comparable safety profile to traditional trivalent and quadrivalent vaccine equivalents. Flublok is also associated with less local reactions (RR = 0.94, 95% CI 0.90–0.98, three RCTs, FEM, I2 = 0%, low‐ certainty evidence) and higher risk of chills (RR = 1.33, 95% CI 1.03–1.72, three RCTs, FEM, I2 = 14%, low‐certainty evidence).
 
 Herpes Zoster
 SHINGRIX is a licensed recombinant subunit vaccine for protection against Herpes Zoster, whose risk of developing increases with decline of varicella zoster virus (VZV) specific immunity. The vaccine contains VZV gE antigen component extracted from CHO cells, which is to be reconstituted with adjuvant suspension AS01B.
