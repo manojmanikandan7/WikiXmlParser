@@ -78,7 +78,7 @@ class XmlParser:
         # TODO: Elaborated steps
 
         # Removing all infoboxes
-        no_infoboxes = re.sub(r"(?s){{(#invoke:)?(Infobox|reflist).*?\n.*?\n}}", "", txt)
+        no_infoboxes = re.sub(r"(?s){{(#invoke:)?(Infobox|reflist|WikiProject|User|Press).*?\n.*?\n}}", "", txt)
 
         # Removing all tables
         no_tables = re.sub(r"(?s){\|.*?\n.*?\n\|}", "", no_infoboxes)
@@ -95,6 +95,7 @@ class XmlParser:
         no_internal_links = re.sub(r"\[\[([^]:|]*?)]]", r"\1", no_format_patterns)
 
         # Preserving internal link text with references to other articles
+        # TODO: Add pattern recognition for [[User:...|name]]
         no_internal_links = re.sub(r"\[\[[^]:]*?\|([^]]*?)]]", r"\1", no_internal_links)
 
         # Removing special internal links, referring to media or metadata
