@@ -25,11 +25,11 @@ Mavrilimumab is a human monoclonal antibody that inhibits human granulocyte macr
 
 In January 2021, the UK National Health Service issued guidance that the immune modulating drugs tocilizumab and sarilumab were beneficial when given promptly to people with COVID-19 admitted to intensive care, following research which found a reduction in the risk of death by 24%.
 
- Tocilizumab 
+Tocilizumab
 
 
 
- Anticoagulants 
+Anticoagulants
 Medications to prevent blood clotting have been suggested for treatment, and anticoagulant therapy with low-molecular-weight heparin appears to be associated with better outcomes in severe COVID-19 showing signs of coagulopathy (elevated D-dimer). Several anticoagulants have been tested in Italy, with low-molecular-weight heparin being widely used to treat patients, prompting the Italian Medicines Agency to publish guidelines on its use.
 
 Scientists have identified an ability of heparin to bind to the spike protein of the SARS-CoV-2 virus, neutralising it, and proposed the drug as a possible antiviral.
@@ -41,7 +41,7 @@ The anticoagulant dipyridamole is proposed as a treatment for COVID-19, and a cl
 Antidepressants
 Many antidepressants have anti-inflammatory properties. An observational study in Paris area hospitals found that COVID-19 patients admitted to the hospital who were already taking an antidepressant had 44% less risk of intubation or death. The potential mechanisms how fluvoxamine and fluoxetin are contributing to prevent the development of severe respiratory symptoms of COVID-19 by protecting the type 2 lung alveolar cells have been summarized in a review in March 2022.
 
- Fluvoxamine 
+Fluvoxamine
 
 
 In October 2021, the TOGETHER trial, a large clinical trial in Brazil, reported that treating high-risk outpatients with an early diagnosis of COVID-19 with 100 mg fluvoxamine twice daily for 10 days reduced by up to about 65% the risk of hospitalization. The effect was reduced to about 32% with low adherence, possibly due to intolerance. There was also a reduction in the number of deaths by up to about 90% with high adherence. The drug was studied because of its anti-inflammatory effects, but the mechanism of action against COVID-19 remains uncertain.
@@ -52,12 +52,12 @@ On 23 December, under very low certainty evidence, the Ontario clinical practice
 
 In May 2022, based on a review of available scientific evidence, the US Food and Drug Administration (FDA) declined a request to issue an Emergency Use Authorization (EUA) for fluvoxamine to treat COVID-19, saying that the data were not sufficient to conclude that it may be effective in treating non-hospitalized people with COVID-19 to prevent serious illness or hospitalization. University of Minnesota professor David Boulware, who filed the EUA application, said that the standard that they were holding for fluvoxamine was a different standard than the other big pharma trials, with Paxlovid and molnupiravir and the monoclonals.
 
- Antioxidants 
+Antioxidants
 
- Acetylcysteine (NAC) 
+Acetylcysteine (NAC)
 Acetylcysteine is being considered as a possible treatment for COVID-19.
 
- Antiparasitics 
+Antiparasitics
 The idea of repurposing host-directed drugs for antiviral therapy has experienced a renaissance. In some cases the research has highlighted fundamental limitations to their use for the treatment of acute RNA virus infections. Antiparasitics that have been investigated include chloroquine, hydroxychloroquine, mefloquine, ivermectin, and atovaquone.
 
 
@@ -65,10 +65,10 @@ The idea of repurposing host-directed drugs for antiviral therapy has experience
 Chloroquine and hydroxychloroquine
 
 
- Ivermectin 
+Ivermectin
 
 
- Antivirals 
+Antivirals
 Research is focused on repurposing approved antiviral drugs that have been previously developed against other viruses, such as MERS-CoV, SARS-CoV, and West Nile virus. These include favipiravir, remdesivir, ribavirin, triazavirin, and umifenovir.
 
 The combination of artesunate/pyronaridine was found to have an inhibitory effect on SARS-CoV-2 in vitro tests using Hela cells. Artesunate/pyronaridine showed a virus titer inhibition rate of 99% or more after 24 hours, while cytotoxicity was also reduced. A preprint published in July 2020, reported that pyronaridine and artesunate exhibit antiviral activity against SARS-CoV-2 and influenza viruses using human lung epithelial (Calu-3) cells. It is in phase II clinical trial in South Korea and in South Africa.
@@ -83,7 +83,7 @@ Coronaviruses species possess an intrinsic resistance to ribavirin.
 
 Sofosbuvir/daclatasvir is a drug combination developed to treat hepatitis C. In October 2020, a meta-analysis found a significantly lower risk of all-cause mortality with the drug combination when given to hospitalized patients.
 
- Favipiravir 
+Favipiravir
 Favipiravir is an antiviral drug approved for the treatment of influenza in Japan. There is limited evidence suggesting that, compared to other antiviral drugs, favipiravir might improve outcomes for people with COVID-19, but more rigorous studies are needed before any conclusions can be drawn.
 
 Chinese clinical trials in Wuhan and Shenzhen claimed to show that favipiravir was &quot;clearly effective&quot;. Of 35 patients in Shenzhen tested negative in a median of 4 days, while the length of illness was 11 days in the 45 patients who did not receive it. In a study conducted in Wuhan on 240 patients with pneumonia half were given favipiravir and half received umifenovir. The researchers found that patients recovered from coughs and fevers faster when treated with favipiravir, but that there was no change in how many patients in each group progressed to more advanced stages of illness that required treatment with a ventilator.
@@ -97,7 +97,7 @@ In June 2020, India approved the use of a generic version of favipravir called F
 On 26 May 2021, a systematic review found a 24% greater chance of clinical improvement when administered in the first seven days of hospitalization, but no statistically significant reduction in mortality for any of the groups, including hospitalized patients and those with mild or moderate symptoms.
 
 Lopinavir/ritonavir
-
+[[File:Cells-09-01267-g001.png|thumb|Genome of SARS-CoV-2: the grey wedges show where 3CLpro the main coronavirus protease cleaves the polyprotein.]]
 In March 2020, the main protease (3CLpro) of the SARS-CoV-2 virus was identified as a target for post-infection drugs. The enzyme is essential for processing the replication-related polyprotein. To find the enzyme, scientists used the genome published by Chinese researchers in January 2020 to isolate the main protease. Protease inhibitors approved for treating human immunodeficiency viruses (HIV) – lopinavir and ritonavir – have preliminary evidence of activity against the coronaviruses, SARS and MERS. As a potential combination therapy, they are used together in two Phase III arms of the 2020 global Solidarity project on COVID-19. A preliminary study in China of combined lopinavir and ritonavir found no effect in people hospitalized for COVID-19.
 
 One study of lopinavir/ritonavir (Kaletra), a combination of the antivirals lopinavir and ritonavir, concluded that &quot;no benefit was observed&quot;. The drugs were designed to inhibit HIV from replicating by binding to the protease. A team of researchers at the University of Colorado are trying to modify the drugs to find a compound that will bind with the protease of SARS-CoV-2. There are criticisms within the scientific community about directing resources to repurposing drugs specifically developed for HIV/AIDS because such drugs are unlikely to be effective against a virus lacking the specific HIV-1 protease they target. The WHO included lopinavir/ritonavir in the international Solidarity trial.
@@ -112,26 +112,28 @@ Remdesivir
 
 
 
- Immunomodulatory treatments 
- Baricitinib 
+Immunomodulatory treatments
+
+Baricitinib
 
 
 In May 2022, the US Food and Drug Administration (FDA) approved barictinib for the treatment of COVID-19 in hospitalized adults requiring supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Barictinib is the first immunomodulatory treatment for COVID-19 to receive FDA approval.
 
 In the United States, barictinib is authorized under an emergency use authorization (EUA) for the treatment of COVID-19 in hospitalized people aged 2 to less than 18 years of age who require supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation.
 
- Immunosuppressants 
- Anakinra 
+Immunosuppressants
+
+Anakinra
 
 
 In December 2021, anakinra (Kineret) was authorized in the European Union for the treatment of COVID-19 in adults with pneumonia requiring supplemental oxygen (low or high flow oxygen) and who are at risk of developing severe respiratory failure, as determined by blood levels of a protein called suPAR (soluble urokinase plasminogen activator receptor) of at least 6 ng per ml.&quot;
 
- Interferons 
+Interferons
 Drugs with immune modulating effects that may prove useful in COVID-19 treatment include type I Interferons such as Interferon-β, peginterferon alpha-2a and -2b.
 
 IFN-β 1b have been shown in an open label randomised controlled trial in combination with lopinavir/ ritonavir and ribavirin to significantly reduce viral load, alleviate symptoms and reduce cytokine responses when compared to lopinavir/ ritonavir alone. IFN-β will be included in the international Solidarity Trial in combination with the HIV drugs Lopinavir and Ritonavir. as well as the REMAP-CAP Finnish biotech firm Faron Pharmaceuticals continues to develop INF-beta for ARDS and is involved in worldwide initiatives against COVID-19, including the Solidarity trial. UK biotech firm Synairgen started conducting trials on IFN-β, a drug that was originally developed to treat COPD.
 
- Steroids 
+Steroids
 Systemic corticosteroids have a small but statistically significant beneficial effect in reducing 30-day all-cause mortality in individuals hospitalized with COVID-19.
 
 Budesonide
@@ -140,9 +142,9 @@ Administration of this inhaled steroid early in the course of COVID-19 infection
 Ciclesonide
 Ciclesonide, an inhaled corticosteroid for asthma, was identified as a candidate antiviral in an in vitro drug screening assay done in South Korea. It has been used for treatment of pre-symptomatic COVID-19 patients and is undergoing clinical trials.
 
- Dexamethasone 
+Dexamethasone
 
-thumb|upright=0.8|A vial of dexamethasone for injection
+
 Dexamethasone is a corticosteroid medication in use for multiple conditions such as rheumatic problems, skin diseases, asthma and chronic obstructive lung disease among others. A multi-center, randomized controlled trial of dexamethasone in treating acute respiratory distress syndrome (ARDS), published in February 2020, showed reduced need for mechanical ventilation and mortality. Dexamethasone is only helpful in people requiring supplemental oxygen. Following an analysis of seven randomized trials, the WHO recommends the use of systemic corticosteroids in guidelines for treatment of people with severe or critical illness, and that they not be used in people that do not meet the criteria for severe illness.
 
 On 16 June, the Oxford University RECOVERY Trial issued a press release announcing preliminary results that the drug could reduce deaths by about a third in participants on ventilators and by about a fifth in participants on oxygen; it did not benefit patients who did not require respiratory support. The researchers estimated that treating 8 patients on ventilators with dexamethasone saved one life, and treating 25 patients on oxygen saved one life. Several experts called for the full dataset to be published quickly to allow wider analysis of the results. A preprint was published on 22 June and the peer-reviewed article appeared on 17 July.
@@ -170,7 +172,7 @@ For a composite end point of preventing ICU admission, need for mechanical venti
 Vitamins
 
 
- Vitamin C 
+Vitamin C
 
 
 
@@ -180,11 +182,11 @@ Supplementation with vitamin C, has been suggested as part of the supportive man
 
 Three meta-analyses of people hospitalized with severe COVID-19 - with a high overlap in the clinical trials being included - reported a significant reduction in the risk of all-cause, in-hospital mortality with the administration of vitamin C relative to no vitamin C. There were no significant differences in ventilation incidence, hospitalization duration or length of intensive care unit stay between the two groups. The majority of the trials used intravenous administration of the vitamin. Acute kidney injury was lower in people treated with vitamin C treatment. There were no differences in the frequency of other adverse events due to the vitamin. All three journal articles concluded that further large-scale studies are needed to affirm its mortality benefits before issuing updated guidelines and recommendations.
 
- Vitamin D 
+Vitamin D
 
 
 
-thumb|upright=0.8|Oral vitamin D tablets
+
 
 During the COVID-19 pandemic, there has been interest in vitaminD status and supplements, given the significant overlap in the risk factors for severe COVID-19 and vitaminD deficiency. These include obesity, older age, and Black or Asian ethnic origin, and it is notable that vitaminD deficiency is particularly common within these groups.
 
@@ -200,13 +202,13 @@ The effects of oral vitamin D supplementation on the need for intensive care uni
 
 Calcifediol, which is 25-hydroxyvitamin D, is more quickly activated, and has been used in several trials. Review of the published results suggests that calcifediol supplementation may have a protective effect on the risk of ICU admissions in COVID-19 patients.
 
- Minerals 
+Minerals
 
 
- Zinc 
+Zinc
 The National Institutes of Health (NIH) COVID-19 Treatment Guidelines states &quot;there is insufficient evidence to recommend either for or against the use of zinc for the treatment of COVID-19&quot; and that &quot;the Panel recommends against using zinc supplementation above the recommended dietary allowance for the prevention of COVID-19, except in a clinical trial (BIII).&quot;
 
- Others 
+Others
 * Antibiotics: Some antibiotics that have been identified as potentially repurposable as COVID-19 treatments, including:
 ** Broad-spectrum antibiotics: In 2021, the importance of drug repurposing for COVID-19 led to the establishment of broad-spectrum antibiotics.  Broad-spectrum therapeutics are effective against multiple types of pathogens. Such drugs have been suggested as potential emergency treatments for future pandemics.
 ** Teicoplanin,
@@ -229,10 +231,10 @@ The National Institutes of Health (NIH) COVID-19 Treatment Guidelines states &qu
 Found ineffective
 The use of aspirin, hydroxychloroquine, azithromycin, and colchicine were found ineffective against COVID-19. The use of the combination of lopinavir and ritonavir together was found ineffective against COVID-19. The use of the combination of etesevimab and bamlanivimab together was found ineffective against the Omicron variant.
 
- References 
+References
 
 
- Further reading 
+Further reading
 
 * 
 * 
@@ -245,7 +247,7 @@ The use of aspirin, hydroxychloroquine, azithromycin, and colchicine were found 
 * 
 
 
- External links 
+External links
 * 
 * 
 * 

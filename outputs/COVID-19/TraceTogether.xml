@@ -11,8 +11,9 @@ The app has raised significant concerns about the privacy of those who use the a
 
 On 9 February 2023, the system was deactivated after the authorities determined that the system was no longer required and closed down on 10 January 2024.
 
- TraceTogether app 
- Technology 
+TraceTogether app
+
+Technology
 
 
 The app utilises a custom protocol, BlueTrace, which allows for a distributed approach whereby participating devices exchange proximity information whenever an app detects another device with the TraceTogether app installed. The protocol, and reference app implementations of it, were also open sourced as BlueTrace and OpenTrace respectively.
@@ -27,7 +28,7 @@ To trace users the Ministry of Health (MOH) issues time sensitive anonymous temp
 
 The usage of the app had been limited by the technical limitations of needing to have the application to run in the foreground on iOS devices, and battery drain, but these problems had been reportedly addressed in the 2.1 version of the app released on 3 July 2020, and version 2.1.3 of 5 Aug added informational, work pass and SafeEntry QR features.
 
- Release timeline 
+Release timeline
 The app was released on 20 March 2020, following 8 weeks of development by Singapore's Government Technology Agency in collaboration with Ministry of Health (MOH).
 
 
@@ -40,7 +41,7 @@ On 7 December 2020, market research firm Gartner crowned TraceTogether as the As
 
 With the discontinuation of the system, the app has been removed from all official mobile app stores.
 
- Uptake 
+Uptake
 During the release of the app, Minister for National Development Lawrence Wong, a co-chair of the multi-ministry Covid task force, explained that for TraceTogether to be effective, at least three-quarters – if not everyone – of the population had to install it, and had to turn on their Bluetooth function to ensure the app was running.
 
 On 10 April 2020, approximately 3 weeks after its release, about one million people had downloaded the app, which translated to about one in six of the resident population at the time. This percentage increased to 17% of the population in May 2020.
@@ -53,38 +54,38 @@ As of 14 December 2020, following the release of the token, adoption rate of the
 
 On 11 May 2021, Balakrishnan revealed that the adoption rate had exceeded 92%, with 4,923,054 individuals aged above six. On 19 January 2022, the Smart Nation and Digital Government Office indicated that &quot;almost all of Singapore's population above the age of six&quot; are using the system. There were about 3,000 users, or 0.056% of the registered users, who deregistered for reasons such as expats leaving the country, people who have died, or people opting out over data security reasons.
 
- Effectiveness 
+Effectiveness
 With TraceTogether complementing manual contact tracing effort, the contact tracing teams has improved their efficiency by reducing the time taken to identify and quarantine a close contact from four days to less than two days. More than 10% of close contacts identified by TraceTogether turned positive during quarantine period, the percentage may be low due to Singapore mandating mask-wearing since 14 April 2020. It was reported on 22 April 2021 that TraceTogether system had identified at least 75 persons who had to be placed under quarantine, but would likely not have been picked up through a manual contact tracing process.
 
- TraceTogether Token 
-thumb|A TraceTogether token
+TraceTogether Token
+
 On 7 June 2020, Minister-in-Charge of the Smart Nation Initiative Vivian Balakrishnan announced that the government would be distributing a physical device, named TraceTogether Token, to augment the app. The TraceTogether Token is designed primarily to support Singapore residents who do not own a smartphone, mainly some elderly, children aged seven and above or residents with workplace restriction. The physical token helps to increase the optimal number of users required for the contact tracing system to work well, which was 75% of the population. With the issuance of the device, the government aimed to achieve at least 70% of the population using either the TraceTogether Token or app.
 
 Upon the announcement of the physical device, there was a public backlash against the physical device initiative, with a petition launched to protest against the development of the device over concerns about potential privacy issues. The Singapore People's Party also released a statement regarding the privacy concerns and about the potential abuse of the data.
 
 Similar to the app, the TraceTogether Token utilises BlueTooth to exchange signals with other TraceTogether Tokens or the mobile app. After encrypting the data of what devices or apps are near by, the device stores up to 25 days of information before deletion. The device is designed for those who have no smartphone, which consisted of about 5% of the population. It is designed to be waterproof and its battery life is about six months. There are no physical buttons on the device, and it has a green/red light indicator for battery life and/or to indicate a fault. The device does not have GPS functionality, and access to the data remains restricted among the civil service.
-thumb|A TraceTogether token vending machine at Kitchener Complex
+
 The physical device was made available for collection from 14 September 2020.
 
 A 26 October 2020 report indicated that there was a higher than expected demand after the news of mandatory usage of TraceTogether was released. Authorities also did not expect that residents would travel to different distribution points island-wide to collect the tokens and had suspended collection for a day on 28 October 2020 to rework the distribution strategy. The collection of the token at the community centres could only be made by residents in the respective constituencies, and distribution was done on a rolling basis at the constituency level, with the last remaining community centres reopened for collection only on 23 December 2020. A Straits Times editor, Irene Tham advocated on 30 October 2020 for the tokens to be distributed first and mandate the usage later. Tham also suggested a similar queue system to that of telcos registering customers and assigning time slots could be adopted to avoid overcrowding at the collection points as it was noted that a crowd formed and lasted for a couple of hours at Marsiling Community Centre for a couple of hours even after that distribution strategy was reworked.
 
 The distribution strategy would subsequently be changed from manned counter operations to token dispensing vending machines from 31 August 2021 onwards.
 
- Mandatory usage of TraceTogether 
-thumb|An automatic self-check-in station at Paya Lebar Square requiring the use of TraceTogether
+Mandatory usage of TraceTogether
+
 Downloading, installing, registering the TraceTogether app and scanning in/out using the TraceTogether-only SafeEntry (TT-only SE) has been made mandatory for all Singaporeans and at all places such as cinemas, restaurants, workplaces, schools and shopping malls for contact tracing purposes. This includes the device called SafeEntry Gateway (Check in and check out) to enable users to scan in and out. In addition, TraceTogether also shows vaccination status and pre-event testing (PET) status whether the person test positive or negative for COVID-19.
 
 All other methods of checking in through SafeEntry such as either the phone camera, NRIC or Singpass app are all removed since the second lockdown on 17 May 2021.
 
- Use by commercial organisations to deny access 
+Use by commercial organisations to deny access
 In early May 2021, some businesses including ComfortDelGro Driving Centre, Royal Caribbean Cruises and Dream Cruises were reported to have denied entry to students and passengers whose TraceTogether app displayed &quot;possible exposure&quot;, despite the Ministry of Health (MOH) affirming that such persons were at low risk and not restricted from continuing with their regular activities. This was effected by requiring customers to show the ‘Covid Health Status’ section of the app or the ‘history’ tab, despite the app data being originally intended only for personal reference. The Singapore Tourism Board subsequently issued a statement that &quot;cruise lines should adhere to the guidance from the MOH and the SNDGO regarding the use of data from the TraceTogether app&quot;, while the cruise companies reversed or changed the ban to an advisory &quot;encouraging&quot; affected passengers to postpone their sailing dates.
 
- Scale back and deactivation 
+Scale back and deactivation
 With the easing of the Covid Omicron wave, the Disease Outbreak Response System Condition was lowered from orange state to yellow state on 26 April 2022. Additionally, the usage of TraceTogether system would be limited to large events with 500 participants, food and beverages outlets, and nightlife entertainment establishments with dancing facilities.
 
 The distribution of the tokens was scaled back from 1 July 2022 as the demand for the token fell. On 9 February 2023, authorities announced that the system was no longer required. The public was encouraged to return the tokens at the community centres in a month-long exercise from 13 February 2023. The TraceTogether app (as well as SafeEntry app) could be uninstalled from handphones as well. Authorities had also announced that the data collected through the system was deleted from their servers.
 
- Privacy 
+Privacy
 
 The BlueTrace protocol is designed to preserve the privacy of users, but in contrast to other implementations, the TraceTogether app is not anonymous as participants have to register using their phone number and national registration number or other evidence of residency.
 
@@ -99,14 +100,15 @@ The main privacy concern relating to the BlueTrace protocol is due to the use of
 
 In Parliament on 2 February 2021, it was revealed that the police could request the data after 25 days under certain unspecified exceptions.
 
- Controversy over police access 
- Access under the Criminal Procedure Code 
+Controversy over police access
+
+Access under the Criminal Procedure Code
 On 4 January 2021, Minister of State for Home Affairs Desmond Tan revealed in Parliament that TraceTogether data could be accessed by the police for criminal investigations under the Criminal Procedure Code, which contradicted previous assurances by Minister Balakrishnan and others that the data would be used only for contact tracing. This disclosure followed investigations triggered by an inquiry from a member of the public in October 2020, and the filing of a parliamentary question by MP Christopher de Souza in early December 2020, with the 3-month delay attributed to deliberations over the possibility of excluding TraceTogether data from the Criminal Procedure Code.
 
- Access during the May 2020 murder investigation 
+Access during the May 2020 murder investigation
 On 5 January 2021, Minister Balakrishnan updated Parliament that the police had to the best of his knowledge by that point in time accessed contact tracing data once in the case of a murder investigation. Following questions from Leader of the Opposition Pritam Singh and Non-Constituency MP Leong Mun Wai, Minister Desmond Tan explained in Parliament on 2 February 2021 that this had happened in May 2020 during the course of the Punggol Field murder investigation, where the police tried to but failed to obtain the TraceTogether data from the suspect Surajsrikan Diwakar Mani Tripathi, who did not install the app in his phone. In the aftermath, Surajsrikan was found guilty of murder and sentenced to life imprisonment with 15 strokes of the cane on 15 September 2022.
 
- Reactions 
+Reactions
 There was significant backlash to the announcement, despite Balakrishnan's explanation and acceptance of full responsibility. Some observers attributed this to the fact that the clarification was made 9 months after the data had already been used, and only in response to direct and repeated parliamentary questioning. Privacy concerns were raised by various experts with former Nominated Member of Parliament and Associate Professor of Law Eugene Tan saying that &quot;the news came across as the Government backtracking on its earlier assurance that TraceTogether would only be used for contact tracing&quot; and &quot;clearly undermines their trust and credibility, and could undermine its future efforts .... to keep COVID-19 under control&quot;.
 
 Following the announcement, some users deleted the app or left the token at home, while others disabled their phone's Bluetooth or selected the “Pause Tracking” function after checking in. In the month of the disclosure (January 2021), 350 people requested that their contact tracing data be erased from the government's servers, with the number increasing to more than 1,100 by April.
@@ -119,13 +121,13 @@ The backlash prompted the Government to introduce the COVID-19 (Temporary Measur
 
 Singapore's reversal of initial promises regarding police access to TraceTogether data was cited as one of the reasons for resistance to the Hong Kong's COVID-19 contact-tracing application, LeaveHomeSafe.
 
- See also 
+See also
 * SafeEntry
 
- Notes 
+Notes
 
 
- References 
+References
 
 
 

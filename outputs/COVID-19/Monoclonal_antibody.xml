@@ -3,16 +3,14 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-18T08:23:20Z" sourceCorpus="COVID-19" filename="315043" title="Monoclonal_antibody" url="https://en.wikipedia.org/wiki/Monoclonal_antibody">
 	<text>
-		<segment id="id315043">300px|thumb|right|A general representation of the method used to produce monoclonal antibodies
-
-A monoclonal antibody (mAb, more rarely called moAb) is an antibody produced from a cell lineage made by cloning a unique white blood cell. All subsequent antibodies derived this way trace back to a unique parent cell.
+		<segment id="id315043">A monoclonal antibody (mAb, more rarely called moAb) is an antibody produced from a cell lineage made by cloning a unique white blood cell. All subsequent antibodies derived this way trace back to a unique parent cell.
 
 Monoclonal antibodies are identical and can thus have monovalent affinity, binding only to a particular epitope (the part of an antigen that is recognized by the antibody). In contrast, polyclonal antibodies are mixtures of antibodies derived from multiple plasma cell lineages which each bind to their particular target epitope. Artificial antibodies known as bispecific monoclonal antibodies can also be engineered which include two different antigen binding sites (FABs) on the same antibody.
 
 It is possible to produce monoclonal antibodies that specifically bind to almost any suitable substance; they can then serve to detect or purify it. This capability has become an investigative tool in biochemistry, molecular biology, and medicine. Monoclonal antibodies are used in the diagnosis of illnesses such as cancer and infections and are used therapeutically in the treatment of e.g. cancer and inflammatory diseases.
 
 
- History 
+History
 In the early 1900s, immunologist Paul Ehrlich proposed the idea of a Zauberkugel – &quot;magic bullet&quot;, conceived of as a compound which selectively targeted a disease-causing organism, and could deliver a toxin for that organism. This underpinned the concept of monoclonal antibodies and monoclonal drug conjugates. Ehrlich and Élie Metchnikoff received the 1908 Nobel Prize for Physiology or Medicine for providing the theoretical basis for immunology.
 
 By the 1970s, lymphocytes producing a single antibody were known, in the form of multiple myeloma – a cancer affecting B-cells. These abnormal antibodies or paraproteins were used to study the structure of antibodies, but it was not yet possible to produce identical antibodies specific to a given antigen. In 1973, Jerrold Schwaber described the production of monoclonal antibodies using human–mouse hybrid cells. This work remains widely cited among those using human-derived hybridomas. In 1975, Georges Köhler and César Milstein succeeded in making fusions of myeloma cell lines with B cells to create hybridomas that could produce antibodies, specific to known antigens and that were immortalized. They and Niels Kaj Jerne shared the Nobel Prize in Physiology or Medicine in 1984 for the discovery.
@@ -22,10 +20,10 @@ In 1988, Gregory Winter and his team pioneered the techniques to humanize monocl
 The translational work needed to implement these ideas is credited to Lee Nadler. As explained in an NIH article, &quot;He was the first to discover monoclonal antibodies directed against human B-cell–specific antigens and, in fact, all the known human B-cell–specific antigens were discovered in his laboratory. He is a true translational investigator, since he used these monoclonal antibodies to classify human B-cell leukemia and lymphomas as well as to create therapeutic agents for patients. . . More importantly, he was the first in the world to administer a monoclonal antibody to a human (a patient with B-cell lymphoma).&quot;
 
 Production
-upright=0.9|thumb|right|Looking at slides of cultures of cells that make monoclonal antibodies
-upright=0.9|thumb|right|Monoclonal antibodies can be grown in unlimited quantities in flasks.
 
-upright=0.9|thumb|right|Bathing prepared slides in a solution
+
+
+
 
 Hybridoma development
 
@@ -40,7 +38,7 @@ The hybridomas can be grown indefinitely in a suitable cell culture medium. They
 
 The medium must be enriched during in vitro selection to further favour hybridoma growth. This can be achieved by the use of a layer of feeder fibrocyte cells or supplement medium such as briclone. Culture-media conditioned by macrophages can be used. Production in cell culture is usually preferred as the ascites technique is painful to the animal. Where alternate techniques exist, ascites is considered unethical.
 
- Novel mAb development technology 
+Novel mAb development technology
 Several monoclonal antibody technologies have been developed recently, such as phage display, single B cell culture, single cell amplification from various B cell populations and single plasma cell interrogation technologies. Different from traditional hybridoma technology, the newer technologies use molecular biology techniques to amplify the heavy and light chains of the antibody genes by PCR and produce in either bacterial or mammalian systems with recombinant technology. One of the advantages of the new technologies is applicable to multiple animals, such as rabbit, llama, chicken and other common experimental animals in the laboratory.
 
 Purification
@@ -66,22 +64,22 @@ Displacement chromatography has been used to identify and characterize these oft
 Recombinant
 The production of recombinant monoclonal antibodies involves repertoire cloning, CRISPR/Cas9, or phage display/yeast display technologies. Recombinant antibody engineering involves antibody production by the use of viruses or yeast, rather than mice. These techniques rely on rapid cloning of immunoglobulin gene segments to create libraries of antibodies with slightly different amino acid sequences from which antibodies with desired specificities can be selected. The phage antibody libraries are a variant of phage antigen libraries. These techniques can be used to enhance the specificity with which antibodies recognize antigens, their stability in various environmental conditions, their therapeutic efficacy and their detectability in diagnostic applications. Fermentation chambers have been used for large scale antibody production.
 
- Chimeric antibodies 
+Chimeric antibodies
 
 
 While mouse and human antibodies are structurally similar, the differences between them were sufficient to invoke an immune response when murine monoclonal antibodies were injected into humans, resulting in their rapid removal from the blood, as well as systemic inflammatory effects and the production of human anti-mouse antibodies (HAMA).
 
 Recombinant DNA has been explored since the late 1980s to increase residence times. In one approach called &quot;CDR grafting&quot;, mouse DNA encoding the binding portion of a monoclonal antibody was merged with human antibody-producing DNA in living cells. The expression of this &quot;chimeric&quot; or &quot;humanised&quot; DNA through cell culture yielded part-mouse, part-human antibodies.
 
- Human antibodies 
-thumb|Approaches have been developed to isolate human monoclonal antibodies.
+Human antibodies
+
 
 Ever since the discovery that monoclonal antibodies could be generated, scientists have targeted the creation of fully human products to reduce the side effects of humanised or chimeric antibodies. Several successful approaches have been proposed: transgenic mice, phage display and single B cell cloning.
 
- Cost 
+Cost
 Monoclonal antibodies are more expensive to manufacture than small molecules due to the complex processes involved and the general size of the molecules, all in addition to the enormous research and development costs involved in bringing a new chemical entity to patients. They are priced to enable manufacturers to recoup the typically large investment costs, and where there are no price controls, such as the United States, prices can be higher if they provide great value. Seven University of Pittsburgh researchers concluded, &quot;The annual price of mAb therapies is about $100,000 higher in oncology and hematology than in other disease states&quot;, comparing them on a per patient basis, to those for cardiovascular or metabolic disorders, immunology, infectious diseases, allergy, and ophthalmology.
 
- Applications 
+Applications
 
 Diagnostic tests
 
@@ -96,9 +94,9 @@ Therapeutic uses
 
 Therapeutic monoclonal antibodies act through multiple mechanisms, such as blocking of targeted molecule functions, inducing apoptosis in cells which express the target, or by modulating signalling pathways.
 
- Cancer treatment 
+Cancer treatment
 One possible treatment for cancer involves monoclonal antibodies that bind only to cancer-cell-specific antigens and induce an immune response against the target cancer cell. Such mAbs can be modified for delivery of a toxin, radioisotope, cytokine or other active conjugate or to design bispecific antibodies that can bind with their Fab regions both to target antigen and to a conjugate or effector cell. Every intact antibody can bind to cell receptors or other proteins with its Fc region.
- MAbs approved by the FDA for cancer include:
+[[Image:Monoclonal antibodies.svg|frame|Monoclonal antibodies for cancer. ADEPT, antibody directed enzyme prodrug therapy; ADCC: antibody dependent cell-mediated cytotoxicity; CDC: complement-dependent cytotoxicity; MAb: monoclonal antibody; scFv, single-chain Fv fragment.]] MAbs approved by the FDA for cancer include:
 
 * Alemtuzumab
 * Bevacizumab
@@ -125,7 +123,7 @@ Examples of therapeutic monoclonal antibodies
 Monoclonal antibodies for research applications can be found directly from antibody suppliers, or through use of a specialist search engine like CiteAb. Below are examples of clinically important monoclonal antibodies.
 
 
- COVID-19 
+COVID-19
 In 2020, the monoclonal antibody therapies bamlanivimab/etesevimab and casirivimab/imdevimab were given emergency use authorizations by the US Food and Drug Administration to reduce the number of hospitalizations, emergency room visits, and deaths because of COVID-19. In September 2021, the Biden administration purchased billion worth of Regeneron monoclonal antibodies at $2,100 per dose to curb the shortage.
 
 As of December 2021, in vitro neutralization tests indicate monoclonal antibody therapies (with the exception of sotrovimab and tixagevimab/cilgavimab) were not likely to be active against the Omicron variant.
@@ -134,7 +132,7 @@ Over 2021–22, two Cochrane reviews found insufficient evidence for  using neut
 
 In March 2024, pemivibart, a monoclonal antibody drug, received an emergency use authorization from the US FDA for use as pre-exposure prophylaxis to protect certain moderately to severely immunocompromised individuals against COVID-19.
 
- Side effects 
+Side effects
 Several monoclonal antibodies, such as bevacizumab and cetuximab, can cause different kinds of side effects. These side effects can be categorized into common and serious side effects.
 
 Some common side effects include:
@@ -173,19 +171,19 @@ Among the possible serious side effects are:
 * Mucositis
 
 
- See also 
+See also
 * List of monoclonal antibodies
 
- References 
+References
 
 
- Further reading 
+Further reading
 
 * 
 * 
 
 
- External links 
+External links
 
 * 
 * [http://www.antibodypedia.com Antibodypedia], open-access virtual repository publishing data and commentary on any antibodies available to the scientific community.
@@ -209,12 +207,12 @@ Navboxes
 
 
 
- 
 
 
 
 
 
- </segment>
+
+</segment>
 	</text>
 </file>

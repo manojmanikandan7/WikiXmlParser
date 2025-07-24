@@ -3,7 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-15T04:41:15Z" sourceCorpus="COVID-19" filename="64302080" title="RECOVERY_Trial" url="https://en.wikipedia.org/wiki/RECOVERY_Trial">
 	<text>
-		<segment id="id64302080">alt=RECOVERY: Randomized Evaluation of COVID-19 Therapy|thumb|RECOVERY Trial logo
+		<segment id="id64302080">[[File:Recovery-logo-chosen-mar-2020.jpg|alt=RECOVERY: Randomized Evaluation of COVID-19 Therapy|thumb|RECOVERY Trial logo]]
 
 
 The Randomised Evaluation of COVID-19 Therapy (RECOVERY Trial) is a large-enrollment clinical trial of possible treatments for people in the United Kingdom admitted to hospital with severe COVID-19 infection. The trial was later expanded to Indonesia, Nepal and Vietnam. The trial has tested ten interventions on adults: eight repurposed drugs, one newly developed drug and convalescent plasma.
@@ -14,10 +14,10 @@ The RECOVERY Trial is a large-scale, randomized controlled trial. It is an &quot
 The very fast setting up of the trial was crucial for the fast-developing COVID-19 pandemic.
 Martin Landray, one of the trial's creators, said in March 2021 &quot;I think it has set a new standard for what can be delivered and not just for pandemics. It would be a travesty if we went back to a situation where it takes years sometimes to get a trial off the ground.&quot;
 
- Enrollment 
+Enrollment
 When people who have been hospitalised with COVID-19 are enrolled in the trial, they are automatically randomized to receive trial treatments. If any treatment is contra-indicated (or positively indicated) for that patient, or is not available, then that treatment is not included in the randomization process. The main randomization stage has three parts, so that patients might be allocated none, one, two or three of the trial treatments. If their disease progresses, there may also be a second randomization.
 
- Goals 
+Goals
 The primary objective of the trial is to &quot;provide reliable estimates of the effect of study treatments on all-cause mortality at 28 days after first randomization&quot;.
 
 The trial protocol was developed in March 2020. The design minimizes the administrative load on hospital staff, who at the time were facing the prospect of overwhelming numbers of COVID-19 admissions.
@@ -55,10 +55,11 @@ The trial is run by the Nuffield Departments of Population Health and of Medicin
 The trial began in March 2020. As of March 2021 the trial had enrolled more than 40,000 COVID-19 participants admitted to hospitals in the UK;  the estimated primary completion date was December 2021, and the estimated study completion date was December 2031.
 
 Results
+
 Dexamethasone
 
 
-thumb|Mortality over 28 days for 1007 COVID-19 patients on mechanical ventilation at time of randomisation: 324 patients who received dexamethasone (red) compared to 683 who received standard hospital care (black)
+[[File:RECOVERY Trial Dexamethasone ventilated.jpg|thumb|Mortality over 28 days for 1007 COVID-19 patients on mechanical ventilation at time of randomisation: 324 patients who received dexamethasone (red) compared to 683 who received standard hospital care (black)]]
 
 In June 2020, preliminary results were published in a preprint showing that low-dose dexamethasone treatment reduced the death rate by one third in hospitalized people needing ventilators due to severe COVID-19 infection, and by one fifth in people treated with oxygen therapy. There was no benefit (and the possibility of harm) among people who did not require oxygen. The preliminary report was subsequently published in The New England Journal of Medicine.
 
@@ -74,7 +75,7 @@ Other countries granted specific approval for the drug as part of standard medic
 A pre-print study, which was awarded Health Data Research UK Open Access Publication of the Month for August 2020, found that the discovery would save approximately 650,000 lives globally over the course of six months.
 
 Limitations of dexamethasone result
-thumb|right|Mortality over 28 days for 1535 COVID-19 patients not receiving oxygen at time of randomisation: 501 patients who received dexamethasone (red) compared to 1034 who received standard hospital care (black)
+[[File:RECOVERY Trial Dexamethasone Unassisted.jpg|thumb|right|Mortality over 28 days for 1535 COVID-19 patients not receiving oxygen at time of randomisation: 501 patients who received dexamethasone (red) compared to 1034 who received standard hospital care (black)]]
 John Fletcher, research editor at the BMJ, noted that there were &quot;limitations and causes of concern&quot; in the dexamethasone results.
 * Around a third of patients in the trial were still in hospital at the end of the 28-day trial period, so their final outcomes were not known.
 * As an immunosuppressive drug, there are fears that dexamethasone could make the illness worse, and prolong the infection in patients where the immune system has not yet overreacted and caused inflammation.

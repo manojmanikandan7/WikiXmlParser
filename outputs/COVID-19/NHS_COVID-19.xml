@@ -9,7 +9,7 @@ Two versions of the app were created. The first was commissioned by NHSX and dev
 
 A 2023 study estimated that in its first year of use, the app's contact tracing function prevented an estimated 1 million cases, and 9,600 deaths.
 
- Description 
+Description
 The app allowed users to:
 * See the alert level of their local authority area (in Wales) or information about restrictions (in England); to enable this, the user must enter the first half of their postcode
 * &quot;Check in&quot; at places displaying an NHS QR code poster (no longer required by legislation after 26 January 2022, removed from the app the next month)
@@ -19,13 +19,14 @@ The app allowed users to:
 * If asked to self-isolate, receive information and a daily &quot;countdown&quot;.
 At first, &quot;close contact&quot; was defined as being within 2 metres for 15 minutes, or within 4 metres for a longer time. These time durations were reduced from 29 October 2020, to as little as three minutes when the other person is at their most infectious, i.e. soon after they begin showing symptoms.
 
- Implementation 
+Implementation
 The Android app was coded in Kotlin, and the iOS app in Swift. The backend used Java and is deployed to Amazon Web Services using Terraform. The code of the app and back-end is open-source and available on GitHub.
 
 Context
 The app was part of the UK's test and trace programme which was chaired by Dido Harding; from 12 May 2020 Tom Riordan, chief executive of Leeds City Council, led the tracing effort.
 
- First phase and cancellation 
+First phase and cancellation
+
 Description
 In March 2020, NHSX commissioned a contact tracing app to monitor the spread in the United Kingdom of the coronavirus disease 2019 (COVID-19) in the 2020 pandemic, developed by the Pivotal division of American software company VMware. The app used a centralised approach, in contrast to the Google / Apple contact tracing project. NHSX consulted ethicists and GCHQ's National Cyber Security Centre (NCSC) about the privacy aspects.
 
@@ -35,38 +36,38 @@ If a user was unwell, they could tell the app about symptoms which are character
 
 By June 2020, £11.8 million had been spent on the app; in 2020–21, £35 million was spent on the app.
 
- Deployment 
+Deployment
 The first public trial of the app began on the Isle of Wight on 5 May 2020 and by 11 May it had been downloaded 55,000 times.
 
 When the first national contact tracing schemes were launched – Test, Trace, Protect in Wales on 13 May, then on 28 May NHS Test and Trace in England, and Test and Protect in Scotland – the app was not ready to be included. Replying to a question at the government's daily briefing on 8 June, Hancock was unable to give a date for rollout of the app in England, saying it would be brought in &quot;when it's right to do so&quot;. On 17 June, Lord Bethell, junior minister for Innovation at the Department of Health and Social Care, said &quot;we're seeking to get something going before the winter ... it isn't a priority for us at the moment&quot;.
 
 On 18 June, Health Secretary Matt Hancock announced development would switch to the Apple/Google system after admitting that Apple's restrictions on usage of Bluetooth prevented the app from working effectively. At the same press briefing Dido Harding, leader of the UK's test and trace programme, said &quot;What we've done in really rigorously testing both our own Covid-19 app and the Google-Apple version is demonstrate that none of them are working sufficiently well enough to be actually reliable to determine whether any of us should self-isolate for two weeks [and] that's true across the world&quot;.
 
- Concerns 
+Concerns
 The first, ultimately rejected, version of the app was subject to privacy concerns, the government backtracking on initial statements that the data collected from the app would not be shared outside the NHS. Matthew Gould, CEO of NHSX, the government department responsible for the app, said the data would be accessible to other organisations, but did not disclose which. Data collected would not necessarily be anonymised and would be held in a centralised repository. Over 150 of the UK's security and privacy experts warned the app's data could be used by 'a bad actor (state, private sector, or hacker)' to spy on citizens. Fears were discussed by the House of Commons' Human Rights Select Committee about plans for the app to record user location data. Parliament's Joint Committee on Human Rights said this version of the app should not be released without proper privacy protections.
 
 The second version of the app, released nationwide, addressed these concerns by employing a decentralised framework, the Apple/Google Exposure Notification system. Under this system, users remain pseudonymous: a person diagnosed with COVID-19 does not know which people are informed about an encounter, and contacted persons do not receive any information about the person diagnosed with COVID-19.
 
 The functionality of the app was also questioned in late April and early May 2020, as the software's use of Bluetooth required the app to be constantly running, meaning users could not use other apps or lock their device if the app was to function properly. The developers of the app were said to have found a way of working around this restriction.
 
- Related contracts 
+Related contracts
 Faculty – a company linked to Cambridge Analytica – provided research and modelling to NHSX in support of the response to the pandemic. Palantir, also linked to Cambridge Analytica, provided their data management platform. These contracts began in February and March respectively.
 
- Second phase 
-thumb|A venue poster showing a QR code to use with the NHS COVID-19 app
+Second phase
+
 As outlined on cancellation of the first app on 18 June 2020, the Department of Health and Social Care published on 30 July a brief description of the &quot;next phase&quot; app. Users would be able to scan a QR code at venues they visit, and later be notified if they had visited a place which was the source of a number of infections; the app would also assist with identifying symptoms and ordering a test. By using the Exposure Notification system from Apple and Google, personal data would be decentralised. Zuhlke Engineering Ltd, the UK branch of Swiss-based Zühlke Group, used 70 staff to complete the development of the app in 12 weeks.
 
 Zuhlke Engineering was awarded &quot;Development Team of the Year&quot; title at UK IT Industry awards in November 2021 for development of NHS COVID-19 application.
 
- Timeline 
+Timeline
 Testing of the app by NHS volunteer responders, and selected residents of the Isle of Wight and the London Borough of Newham, began around 13 August. The app was made available to the public (aged 16 or over) in England and Wales on 24 September.
 
 An updated app released on 29 October, in part from collaboration with the Alan Turing Institute, improved the accuracy of measurements of the distance between the user's phone and other phones. At the same time, the duration threshold for determining exposure was reduced; this was expected to lead to an increase in the number of users told to self-isolate.
 
 An update to the app in April 2021, timed to coincide with easing of restrictions on hospitality businesses, was blocked by Apple and Google. It was intended that users who tested positive would be asked to share their history of visited venues, to assist in warning others, but this would have contravened assurances by Apple and Google that location data from devices would not be shared.
 
- Statistics and effectiveness 
-thumb|Estimated numbers of cases, hospitalisations, and deaths averted as a result of contact tracing through the app.
+Statistics and effectiveness
+[[File:Epidemiological impacts of the NHS COVID-19 app in England and Wales throughout its first year, fig 6.png|thumb|Estimated numbers of cases, hospitalisations, and deaths averted as a result of contact tracing through the app.]]
 The app was downloaded six million times on the first day it was generally available (24 September 2020), and after a little over three days the total exceeded 10 million.
 
 After approximately two weeks the app had been downloaded around 16 million times, and Sky News reported that only one alert for an outbreak linked to a venue had been sent. After five weeks, around 29 October, there had been 19 million downloads; this was said to equate to around 40% of adults with access to a compatible smartphone, which Dido Harding stated was &quot;a better performance than any other country where downloading isn't compulsory&quot;.
@@ -77,26 +78,26 @@ The app's effectiveness was evaluated in a February 2021 report by a group of st
 
 In August 2021, the Office for Statistics Regulation reviewed the statistics published by the Department of Health and Social Care, relating to Test and Trace as well as (for the first time) the app. This resulted in a letter from the Director General for Regulation which called for more detail to be published on the quality of statistics about the app, in view of limitations arising from the anonymity granted to app users.
 
- Interoperability 
+Interoperability
 At first there was no link between the app and those of other jurisdictions, but by November 2020 agreements were reached to allow exchange of data with the apps used in Gibraltar, Jersey, Northern Ireland and Scotland; those apps were also based on the Apple/Google system.
 
- Defects and limitations 
+Defects and limitations
 At first, users found they could not enter a positive infection test into the app if the test had been arranged outside the app, such as tests carried out as part of surveys or by NHS hospitals or clinics. This issue was addressed quickly, and from 27 September users could request a code from NHS Test and Trace which they could use to log a positive result. However, the app remained unable to recognise negative results from these tests.
 
 It was reported that preparations for the update to the app in late October uncovered a configuration error in the initial version: the threshold for the time spent near an infectious person had been too high, leading to fewer alerts to users.
 
 Privacy safeguards meant that people notified by the app to self-isolate could not claim the £500 Test and Trace Support Payment under the scheme which began on 28 September 2020. (The payment is made to employed people who are asked to isolate, if they cannot work at home and are receiving certain state benefits or have a low income.) This was rectified on 10 December.
 
-  The 2021 &quot;pingdemic&quot; 
-thumb|right|The &quot;pingdemic&quot; resulted in members of the workforce going into self-isolation, contributing to stock shortages in supermarkets
+ The 2021 &quot;pingdemic&quot;
+
 During the UK's third wave of COVID-19 in June and July 2021, when social distancing rules started to be relaxed and close contacts were increasing, the number of people being notified by the app and asked to self-isolate increased sharply. The term pingdemic – a play on ping, meaning notification, and pandemic – became popular in the UK's media as many people, including the Prime Minister and other senior ministers, were affected.
 
 In late July, the government responded by expanding the list of critical occupations, adding sectors including waste disposal, the food industry and transport. These workers who are close contacts of infected people are exempt from self-isolation but should take daily COVID-19 tests. Further changes were made on 16 August: contacts of infected people no longer have to isolate if they are under the age of 18 or if they had their second vaccine dose at least 14 days previously. Instead, they are advised to take a PCR test.
 
- Decommissioning 
+Decommissioning
 In March 2023, it was reported in the Guardian that the NHS COVID-19 app would be decommissioned due to decreasing demand and the end of lockdown restrictions, though vaccine passport functions would remain available in the NHS app. The final version was released on 24 April and it was closed on 27 April.
 
- Key people 
+Key people
 Within NHSX, the project was led by CEO Matthew Gould and Geraint Lewis. Around 17 June, Gould and Lewis returned to their other duties, and Simon Thompson – chief product officer at online supermarket Ocado and a former Apple executive – was brought in to manage the project. In October, Thompson was replaced by Gaby Appleton, on a six-month secondment from a directorship at academic publisher Elsevier.
 
 In October 2020, Randeep Sidhu held the post of 'head of product' for the app.

@@ -3,7 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-03-29T15:28:19Z" sourceCorpus="COVID-19" filename="66342323" title="COVID-19_vaccination_in_Italy" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Italy">
 	<text>
-		<segment id="id66342323">thumb|Map of Italy showing total cumulative vaccination numbers per region as of 20th of January 2020.The COVID-19 vaccination campaign in Italy is a mass immunization campaign that was put in place by the Italian government in order to respond to the ongoing COVID-19 pandemic. It started on 27 December 2020, together with most countries in the European Union.
+		<segment id="id66342323">The COVID-19 vaccination campaign in Italy is a mass immunization campaign that was put in place by the Italian government in order to respond to the ongoing COVID-19 pandemic. It started on 27 December 2020, together with most countries in the European Union.
 
 The vaccination campaign was managed by the Ministry of Health and the special commissioner Domenico Arcuri until 1 March 2021, when he was replaced by Army General Francesco Paolo Figliuolo.
 
@@ -18,10 +18,10 @@ In the second phase of the campaign, elderly people and public service personnel
 Vaccines
 The Pfizer–BioNTech COVID-19 vaccine was authorized by the European Commission on 21 December 2020, on the same day after receiving recommendation for granting conditional marketing authorization by the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA).
 
- Vaccines on order 
+Vaccines on order
 
 
- Vaccines distribution 
+Vaccines distribution
 
  #invoke:Chart | bar-chart
 | height = 250
@@ -42,15 +42,16 @@ Vaccines in trial stage
 
 
 
- Chronology 
- December 2020 
+Chronology
+
+December 2020
 The Italian vaccination campaign was coordinated and agreed with the European Union (EU). The EU countries, as per previous agreements, received the vaccine provisions according to a centralized plan developed by the European Commission.
 
 On 30 December 2020, 359,775 doses of vaccine were delivered by Pfizer–BioNTech.
 
 On 31 December 2020, 110,175 doses of vaccine were delivered by Pfizer–BioNTech.
 
- January 2021 
+January 2021
 From 30 December 2020 to 1 January 2021, 469,950 doses of vaccine were delivered by Pfizer-BioNTech.
 
 On 6 January 2021, the European Medicines Agency (EMA) gave its authorization for the Moderna vaccine. At 8 pm on 7 January 2021, 379,910 people were vaccinated in Italy.
@@ -80,7 +81,7 @@ The delay in vaccine supply is delaying the vaccination campaign. On 29 January 
 
 The European Union is in sharp confrontation with AstraZeneca on the timing and quantity of vaccine supplies. This leads to a serious delay in the Italian and European vaccination campaign.
 
- February 2021 
+February 2021
 On 2 February 2021, the vaccination campaign is slowing sharply due to a lack of deliveries of vaccines by pharmaceutical companies.
 
 On 6 February 2021, the first 249,600 doses of the AstraZeneca vaccine arrived in Italy.
@@ -132,7 +133,7 @@ AIFA has cautiously suspended distribution to vaccination centers pending inform
 
 On 22 April 2021, Johnson &amp; Johnson vaccine started to administration in Italy.
 
- May 2021 
+May 2021
 On 1 May 2021, Italy reached 20 million administered vaccine doses. At this point, the country had vaccinated 14 million with at least a single dose and 6 million are fully vaccinated.
 
 On 2 May 2021, two anti-vaxxers were arrested and charged with terrorism offences for the firebombing at the Brescia vaccination centre.
@@ -141,33 +142,33 @@ On 10 May 2021, a nurse accidentally injected a patient with 6 doses of Pfizer B
 
 On 22 May 2021, Italy reached 30 million administered vaccine doses. At this point, the country has 9.9 million people vaccinated with a double dose.
 
- June 2021 
+June 2021
 On 1 June 2021, Italy reached 35 million administered vaccine doses. At this point, the country has 12 million people vaccinated with a double dose.
 
 On 10 June 2021, Italy reached 40 million administered vaccine doses.
 
 On 28 June 2021, Italy reached 50 million administered vaccine doses.
 
- July 2021 
+July 2021
 On 16 July 2021, Italy reached 60 million administered vaccine doses.
 At this point, the country has 25 million people vaccinated with a double dose.
 
- August 2021 
+August 2021
 On 5 August 2021, Italy reached 70 million administered vaccine doses.
 
- September 2021 
+September 2021
 On 9 September 2021, Italy reached 80 million administered vaccine doses.
 
 On 4 November 2021, The President of the Italian Republic, Sergio Mattarella, received the third dose of the vaccine in the Spallanzani Hospital.
 
- December 2021 
+December 2021
 On 9 December 2021, Italy reached 100 million administered vaccine doses.
 The pediatric mRNA vaccine Comirnaty (Pfizer) authorized by the European Medicines Agency (EMA) and the Italian Medicines Agency (AIFA) is reserved for children aged 5–11.
 
 On 16 December 2021, the vaccinations for children with the pediatric vaccine began.
 
 On 27 December 2021, exactly one year from the start of the vaccination campaign, Italy administered 108 million doses.
- January 2022 
+January 2022
 
 Vaccinations in Italy
 
@@ -211,18 +212,6 @@ Vaccinations by age groups
 
 
 References
-
-
-
-
-
-
-Italy
-
-
-
-
-
 
 </segment>
 	</text>

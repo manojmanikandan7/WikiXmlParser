@@ -9,7 +9,7 @@ As with all other implementations of EN, it uses Bluetooth to broadcast and rece
 
 Although the COVID Alert app was downloaded over six million times, only roughly 57,000 positive cases had been reported into the system—leading some critics to dismiss it as a failure. The app was officially discontinued on June 17, 2022.
 
- History 
+History
 On June 18, 2020, Prime Minister Justin Trudeau announced that the federal government would partner with enterprise technology company BlackBerry Limited and ecommerce firm Shopify to develop a voluntary, anonymous contact tracing app to manage the COVID-19 pandemic in Canada. The app was developed by the COVID Shield project, an open source reference implementation backed by volunteer employees of Shopify and the Linux Foundation Public Health initiative, and the Canadian Digital Service, with BlackBerry providing security guidance.
 
 On July 23, after a delay from an originally-anticipated soft launch in early-July, Canadian Digital Service announced that it would begin beta testing the COVID Alert app in Ontario.
@@ -18,7 +18,7 @@ The app officially launched on July 31 in Ontario; Trudeau stated that the app d
 
 On June 17, 2022, COVID Alert was discontinued. Health Canada cited that provinces phasing out widespread PCR testing had limited its use. Manitoba had already discontinued the app in March 2022 pursuant to its lifting of public health orders.
 
- Adoption 
+Adoption
 By October 2020, all but two Canadian provinces had adopted COVID Alert with full support for reporting. In unsupported regions, the app can be used to receive notifications of possible COVID-19 exposures involving users who reside in a supported region, but users cannot send reports of their own positive infections.
 
 The app was not adopted widely; as of February 2022 the app had over 6.8 million downloads, but only 57,704 cases were actually reported via the app. Newfoundland and Labrador's health minister John Haggie argued in December 2021 that the app had been &quot;abandoned&quot; by the federal government, and claimed that the government had ceased updating the online dashboard measuring usage of the app. These claims were disputed by officials.
@@ -26,25 +26,25 @@ The app was not adopted widely; as of February 2022 the app had over 6.8 million
 Colin Furness of the University of Toronto argued that the design and implementation of the app likely made it feel &quot;creepy&quot; to end-users, and that he &quot;would have favoured a design that was more transparent, that was less hermetically sealed to make sure that people had as little information as possible.&quot;
 
 
- Non-adoption 
+Non-adoption
 
- Alberta 
+Alberta
 Alberta had already deployed its own encounter logging app, ABTraceTogether (which was based upon Singapore's TraceTogether app and the BlueTrace protocol), in May 2020. The province described it as the first of its kind in North America. In comparison to COVID Alert, it provided contact tracing details directly to Alberta Health Services, but could not run in the background on iPhone due to iOS limitations (requiring it to be open and in the foreground in order to operate correctly). The app faced criticism over this limitation, as well as over possible privacy concerns, with calls for the provincial government to migrate to COVID Alert instead, so as to assure more efficient operation on iOS and interoperability with other provinces.
 
 In August 2020, the Alberta government accused federal officials of &quot;interfering&quot; with its ability to work with Apple on releasing updates to ABTraceTogether in order to address these shortcomings. Later in the month, the province announced plans to &quot;migrate&quot; ABTraceTogether users to COVID Alert, but this did not actually occur. In October 2020, members of the United Conservative Party (UCP) were heard ridiculing COVID Alert as &quot;Trudeau's app&quot; during Question Period, prompting Mayor of Calgary Naheed Nenshi to call for the province to adopt the app, and warn against the &quot;politicization of public health&quot;. In an October 30 radio interview, Prime Minister Trudeau called upon the UCP government of Premier Jason Kenney to adopt the app, and suggested that Alberta residents download it so that it could still detect exposures from individuals from outside of the province, and to be ready if it were to be adopted.
 
 On November 6, Premier Kenney stated that Alberta would not adopt COVID Alert, stating that the province would no longer be able to operate ABTraceTogether if it did, and that the latter was &quot;from our view, simply a better and more effective public health tool&quot;.
 
- British Columbia 
+British Columbia
 British Columbia did not adopt COVID Alert, with provincial health officer Bonnie Henry stating that the app would require &quot;modifications&quot; in order to be used in the province, citing issues such as how long the app stored contact tracing data. Henry suggested an approach based on using check-ins to identify exposures by locations and timeframes. A provincial official stated that use of the app &quot;would add significant challenges to [contact tracers'] work, without supporting B.C.'s ability to trace and identify COVID cases&quot;.
 
- Deprecation 
+Deprecation
 * Manitoba deprecated COVID Alert on March 15, 2022, with the lifting of all remaining public health orders. As of the latter date, the province's health care system no longer generated the keys needed to report positive cases.
 
- References 
+References
 
 
- External links 
+External links
 * 
 * 
 * 

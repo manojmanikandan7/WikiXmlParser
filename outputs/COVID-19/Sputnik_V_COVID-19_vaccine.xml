@@ -43,7 +43,7 @@ Emergency mass-distribution of the vaccine began in December 2020 in countries i
 
 The Gam-COVID-Vac vaccine itself is available in two forms: frozen (vaccine storage: below −18 °C) and liquid (vaccine storage: from +2 to +8 °C, produced a little). In addition to the main vaccine, vaccines and its derivatives were registered: Gam-COVID-Vac-Lyo (, no data on use), Sputnik Light (, used for revaccination, as well as vaccination of foreigners in Russia), Gam-COVID-Vac-M (, for vaccination of adolescents 12–17 years old).
 
- Medical uses 
+Medical uses
 The vaccine can be formulated in two ways: as a ready-to-use solution in water that is frozen at the common home-freezer storage temperature of  or lower, and as a freeze-dried (lyophilized) powder, &quot;Gam-COVID-Vac-Lyo&quot;, which can be stored at . The freeze-dried powder must be reconstituted with sterile water before use. The lyophilized formulation of Gam-COVID-Vac is similar to the smallpox vaccine, circumventing the need for continuous &quot;colder chain&quot; or cold-chain storage – as required for the Pfizer–BioNTech and Moderna vaccines – and allowing transportation to remote locations with reduced risk of vaccine spoilage.
 
 The first dose (based on Ad26) is administered on the first day, and the second dose (based on Ad5) is administered on the 21st day to boost immune response. Both doses are administered into the deltoid muscle.
@@ -75,7 +75,7 @@ Adverse effects
 Side effects are mostly mild and similar to other adenovirus vector vaccines such as the Oxford-AstraZeneca and the Janssen vaccines. However, unlike the Oxford-AstraZeneca and Janssen vaccines evidence does not suggest a risk of vaccine-induced immune thrombotic thrombocytopenia. However, a report from Argentina published in the New England Journal of Medicine described fatal vaccine-induced thrombocytopenia and thrombosis in a young woman after receipt of Sputnik-V.
 
 Pharmacology
-thumb|right|200px|Sputnik V vaccination certificate issued in Moscow Gostiny Dvor vaccination point
+
 Gam-COVID-Vac is a viral vector vaccine based on two recombinant replication-defective human adenoviruses: Ad26 (serotype 26) and Ad5 (serotype 5) replicated in HEK 293 cells. The viruses contain the gene that encodes the full-length spike protein (S) of SARS-CoV-2 to stimulate an immune response. Adenoviral vectors for expression of the SARS-CoV-2 spike protein have also been used in two other COVID-19 vaccines. One is the Janssen COVID-19 vaccine, which utilizes the Ad26COV2 viral vector based on the human virus Ad26. For this vaccine, the cell line PER.C6 is used to replicate the vector. Another one, the Oxford–AstraZeneca COVID‑19 vaccine, uses chimpanzee adenovirus (ChAdOx1) as the vector. For both the Oxford-AstraZeneca COVID-19 and Gam-COVID-Vac vaccines the producer cells for the production of non-replicating adenoviral vectors were obtained from the HEK 293 cell line. Each dose of Gam-COVID-Vac contains (1.0 ± 0.5) × 10 virus particles.
 
 Both Ad26 and Ad5 were modified to remove the E1 gene to prevent replication outside the HEK 293 cells. For the production of the vaccine, to propagate adenoviral vectors in which the E1 gene was deleted, HEK 293 cells are used, which express several adenoviral genes, including E1. However, although rare, homologous recombination between the inserted cellular sequence and the vector sequence can restore the replication capacity to the vector, with less than 100 replicating adenovirus particles per dose of the vaccine.
@@ -95,7 +95,7 @@ The other ingredients (excipients) are the same, both quantitatively and qualita
 No adjuvants and no other components or ingredients should be included in the vaccine.
 
 Manufacturing
-thumb|Pharmaceutical company União Quimica started production of Sputnik V in Brazil in January 2021.
+
 
 Large quantities of both adenoviruses are produced by HEK 293 cells that have the E1 gene necessary for viral replication. Rarely, Ad5 can acquire the E1 gene from the HEK 293 cells, restoring its ability to replicate. Gamaleya has set an acceptable limit of 5,000 replicating virus particles per vaccine dose, and quality control documents state that tested batches contain less than 100 replicating virus particles per dose.
 
@@ -110,7 +110,7 @@ An agreement for the production of over 100million doses of vaccine in India was
 On 28 February 2022, as a result of the 2022 Russian invasion of Ukraine, the United States placed RDIF and its chief executive on its list of sanctioned Russian entities and people. The European Union, Ukraine, United Kingdom and Australia followed later in February and in March. This significantly reduces vaccine's future commercial prospects.
 
 History
-300px|thumb|Package and Vial for the first dose
+
 The Gam-COVID-Vac vaccine was developed by a cellular microbiologists team of the government-backed Gamaleya Research Institute of Epidemiology and Microbiology. The group was led by MD and RAS associate member Denis Logunov, who also worked on vaccines for the Ebolavirus and the MERS-coronavirus.
 
 In May 2020, the Gamaleya Research Institute of Epidemiology and Microbiology announced that it had developed the vaccine without serious side effects. By August 2020, phases I and II of two clinical trials (involving 38 patients each) were completed. Only one of them used the formulation which later obtained marketing authorization under limited conditions. This vaccine was given the trade name &quot;Sputnik V&quot;, after the world's first artificial satellite.
@@ -120,11 +120,12 @@ During preclinical and clinical trials, 38 participants who received one or two 
 On 12 June 2021, developers announced that they had developed and tested a nasal vaccine for children aged 8 to 12, with no side effects found, and that they expected to release it on 15 September 2021.
 
 Clinical trials
+
 Phase I–II
 A phase I safety trial began on 18 June 2020. On 4 September 2020, data on 76 participants in a phase I–II trial were published, indicating preliminary evidence of safety and an immune response. The results were challenged by international vaccine scientists as being incomplete, suspicious, and unreliable when identical data were reported for many of the trial participants, but the authors responded that there was a small sample size of nine, and the measured results of titration could only take discrete values (800, 1600, 3200, 6400). Coupled with the observation that values tended to reach a plateau after three to four weeks, they contend that it is not unlikely that several participants would show identical results for days 21 to 28.
 
 Phase III
-thumb| Sputnik V, efficacy for different conditions. The error bars indicate the confidence interval containing the efficacy with 95% probability.
+
 In early November 2020, Israel Hadassah Medical Center director-general Zeev Rotstein stated that Hadassah's branch in Moscow's Skolkovo Innovation Center was collaborating on a phase III clinical trial.
 
 The ongoing phase III study is a randomised, double-blind, placebo-controlled, multi-centre clinical trial involving 40,000 volunteers in Moscow, and is scheduled to run until May 2021. In 2020–2021, phase III clinical studies were also being conducted in Belarus, UAE, India, Kazakhstan and Venezuela.
@@ -197,17 +198,18 @@ On April 29, 2021, the developers of Sputnik V said that Anvisa admitted not tes
 On June 4, Anvisa approved exceptional imports of Sputnik V, restricting it mainly to healthy adults and limiting it to only 1% of the population of 6 importing states, in order to manage risks through control and supervision of side effects. Anvisa said that the concern with replicating viruses has not been fully resolved, but that additional documents received indicate a substantially reduced acceptable amount. The new parameter would be in an FDA manual, which was not found. Anvisa also said that impurity and quality controls are insufficient and that the manufacturing plants must undergo corrections to meet WHO quality standards. As of 16 June, the same import conditions were extended to a total of 13 states. On August 5, the consortium of northeastern Brazilian states, corresponding to 7 of the 13 states, suspended the import of 37 million doses due to the restrictions imposed by Anvisa. These doses will supply Mexico, Argentina and Bolivia.
 
 Further development
+
 Heterologous prime-boost vaccination
 
 On 21 December 2020 the Russian Direct Investment Fund (RDIF), the Gamaleya National Center, AstraZeneca and R-Pharm signed an agreement aimed at the development and implementation of a clinical research program to assess the immunogenicity and safety of the combined use of one of the components of the Sputnik V vaccine developed by the Gamaleya Center, and one of the components of the Oxford–AstraZeneca vaccine. The study program will last 6 months in several countries, and it is planned to involve 100 volunteers in each study program. On 9 February 2021, the Ministry of Health of the Republic of Azerbaijan allowed clinical studies in the country for the combined use of the Oxford–AstraZeneca vaccine and Sputnik Light, stating that the trials would begin before the end of February 2021. On February 20, 2021, in the official Sputnik V Twitter account it was stated that clinical trials have already started.
 
- Society and culture 
+Society and culture
 
- Economics 
+Economics
 
- In Russia 
-thumb|Medical worker in Moscow with the vaccine
-thumb|Vaccination of military personnel and civilian specialists of the Northern Fleet with the second component of the drug &quot;Gam-COVID-Vac&quot; (&quot;Sputnik V&quot;)
+In Russia
+
+
 The vaccine is free of charge to users in Russia and Kazakhstan. The cost per dose would be less than US$10 (US$20 for the required two doses) on international markets, much less than the cost of mRNA vaccines from other manufacturers. Kirill Dmitriev, head of the fund, told reporters that over 1billion doses of the vaccine are expected to be produced in 2021 outside of Russia.
 
 The head of the Gamaleya Research Institute Alexander Ginzburg estimated that it would take 9–12 months to vaccinate the vast majority of the Russian population, assuming in-country resources were adequate.
@@ -231,8 +233,8 @@ In May 2021 Sergei Sobyanin complained that only 1.3 million Moscow residents ou
 
 In June 2021, with the increase in Delta variant cases, several Russian city governments introduced strict measures to overcome vaccine hesitancy, such as requiring vaccine QR codes from customers in cafes.
 
- Outside of Russia 
-thumb|In dark green are the countries that approved Sputnik V vaccine against COVID-19. In light green are the countries that have shown interest in obtaining the vaccine. Light blue indicates current or future producers and dark blue the country origin of vaccine design (Russia).
+Outside of Russia
+
 Russia is pursuing deals to supply its vaccine abroad.
 
 According to the Russian Direct Investment Fund, they had received orders for more than 1.2billion doses of the vaccine as of December 2020. Over 50 countries had made requests for doses, with supplies for the global market being produced by partners in India, Brazil, China, South Korea, Hungary, and other countries. In August 2020, according to the Russian authorities, there were at least 20 countries that wanted to obtain the vaccine.
@@ -249,13 +251,13 @@ Due to the delay in shipping of doses from Italy and the European Union, San Mar
 
 April 14, 2021, Armenia agreed with Russia on purchase of 1 million doses of coronavirus vaccines Sputnik V. This was the decision of Armenian health minister Anahit Avanesyan. The Armenian authorities have begun negotiations with Russia on the production of the Sputnik V coronavirus vaccine. Head of the Armenian Ministry of Health Anahit Avanesyan stated this at a press conference on March 12, 2021.
 
- Public opinion polls 
+Public opinion polls
 An opinion poll of Canadians conducted by Léger in August 2020 found that a majority (68%) would not take the Russian vaccine if offered a free dose, compared to 14% who said they would take it.
 When Americans were asked the same question, 59% would not take the Russian vaccine if offered a free dose, compared to 24% who said they would take it. In June 2021, according to a poll conducted by  (German Eastern Business Association), a majority (60%) of Germans would use the Russian vaccine Sputnik V if they had the opportunity to do so. With 71% approval, the values in East Germany are significantly higher, but with 58% of the respondents there is also a solid majority in West Germany. 38% of respondents, on the other hand, would not want to use Sputnik V.
 
 In July 2020, opinion polls suggested around 90% of the Russian population had doubts about the vaccine but by September this had dropped to around half the Russian population. In May 2021, the Levada Center released a poll of 1,614 respondents from 50 regions which showed that 26% of Russians were prepared to be vaccinated with Sputnik V, while 62% were not prepared to be vaccinated. Ten percent of respondents had already been vaccinated.
 
- Resale controversy 
+Resale controversy
 Under a resale arrangement, the Russian Direct Investment Fund (RDIF) offered Abu Dhabi-based firm, Aurugulf Health Investments the exclusive rights to sell the Sputnik V coronavirus vaccine. According to media reports, the vaccine was intended to be sold to a host of countries at huge premiums. As per documents reviewed by the Moscow Times, Emirati Sheikh Ahmed Dalmook al-Maktoum, a Dubai royal, worked as the middleman for reselling millions of Sputnik V vaccine doses to countries in dire need of COVID-19 vaccine at a higher premium.
 Corporate registry data showed that one of the two entities controlling Aurugulf is Royal Group, a conglomerate headed by UAE national security advisor, Sheikh Tahnoon bin Zayed al-Nahyan. Acquired documents, interviews with officials and buyer data showed that countries like Pakistan, Guyana, which were on the receiving end of the vaccine from the UAE, were coerced to pay more than double the price advertised by Russia.
 The same deal was further used for reselling 1 million Sputnik V vaccine doses by the Emirati royal Sheikh Ahmed Dalmook al-Maktoum to Kenya for huge mark-ups. However, the deal eventually failed as Nairobi learnt of the first shipment consisting of 75,000 doses not coming directly from Russia.
@@ -282,19 +284,19 @@ A study published by the Journal of Medical Internet Research analyzed the datas
 See also
 * List of Russian drugs
 
- References 
+References
 Reflist|refs=
 
 
 
 
 
- Further reading 
+Further reading
 
 * 
 
 
- External links 
+External links
 
 
 * 

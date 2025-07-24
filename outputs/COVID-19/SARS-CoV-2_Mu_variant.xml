@@ -9,15 +9,16 @@ The WHO said the variant has mutations that indicate a risk of resistance to the
 
 Under the simplified naming scheme proposed by the World Health Organization, B.1.621 was labeled &quot;Mu variant&quot;, and was considered a variant of interest (VOI), but not a variant of concern.
 
- Classification 
- Naming 
+Classification
+
+Naming
 In January 2021, the lineage was first documented in Colombia and was named as lineage B.1.621.
 
 On July 1, 2021, Public Health England (PHE) named lineage B.1.621 VUI-21JUL-1.
 
 On August 30, 2021, the World Health Organization (WHO) named lineage B.1.621 Mu variant.
 
- Mutations 
+Mutations
 The Mu genome has a total number of 21 mutations, including 9 amino acid mutations, all of which are in the virus's spike protein code: T95I, Y144S, Y145N, R346K, E484K or the escape mutation, N501Y, D614G, P681H, and D950N.  It has an insertion of one amino acid at position 144/145 of the spike protein, giving a total mutation YY144–145TSN. That mutation is conventionally notated as Y144S and Y145N because insertions would break a lot of comparison tools. It also features a frame-shift deletion of four nucleotides in ORF3a that generates a stop codon two amino acids. The mutation is labeled as V256I, N257Q, and P258*. The list of defining mutations are: S: T95I, Y144S, Y145N, R346K, E484K, N501Y, D614G, P681H, and D950N; ORF1a: T1055A, T1538I, T3255I, Q3729R; ORF1b: P314L, P1342S; N: T205I, ORF3a: Q57H, V256I, N257Q, P258*; ORF8: T11K, P38S, S67F. Mutations in viruses are not new. All viruses, including SARS-CoV-2, undergo change over time. Most of these changes are inconsequential, but some can alter properties to make these viruses more virulent or escape the treatment or vaccines.
 
 On August 31, 2021, the WHO released an update which stated that the &quot;Mu variant has a constellation of mutations that indicate potential properties of immune escape&quot;, noting that preliminary studies showed some signs of this but that &quot;this needs to be confirmed by further studies.&quot;
@@ -26,15 +27,16 @@ One such study conducted in a lab in Rome tested the effectiveness of sera colle
 
 
 
- History 
- August 2021 
+History
+
+August 2021
 August 6:
 * Reuters reported that seven vaccinated elderly residents of a nursing home in the town of Zaventem in Belgium died after contracting the Mu variant.
 
 August 30:
 * Japan confirmed its first two cases of the Mu variant. The variant was detected in a woman in her 40s who arrived on June 26 from the United Arab Emirates. Another woman in her 50s who arrived in Japan on July 5 from the UK also had the Mu variant. Both patients were asymptomatic.
 
- September 2021 
+September 2021
 September 2:
 * The Central Epidemic Command Center (CECC) announced Taiwan's first ever case of the Mu variant. The patient is a Taiwanese woman in her 60s who returned from the United States and already had 2 doses of the Pfizer vaccine. She had received the first dose of the Pfizer vaccine in the United States on July 5 and the second on July 26. When she returned to Taiwan on August 3, she did not report any symptoms, but a test administered at the airport revealed that she was positive for COVID-19.
 * Guatemala reported its first two cases of the Mu variant in two female patients, aged 19 and 25. Both patients had no travel and vaccination history. The patients reside in the central department of Guatemala, where the capital, Guatemala City, is located.
@@ -66,19 +68,19 @@ September 16:
 September 18:
 * Finland detected its first cases of the Mu variant in the country.
 
- Statistics 
+Statistics
 
 
- See also 
+See also
 
 * COVID-19 pandemic in Colombia
 * Variants of SARS-CoV-2: Alpha, Beta, Gamma, Delta, Epsilon, Zeta, Eta, Theta, Iota, Kappa, Lambda, Omicron
 
 
- References 
+References
 
 
- External links 
+External links
 * [https://www.gisaid.org/hcov19-variants/ Tracking of Variants: VOI Mu GH (B.1.621+B.1.621.1) first detected in Colombia]
 * [https://outbreak.info/situation-reports/Mu?loc=USA&amp;loc=USA_US-CA&amp;loc=Worldwide&amp;overlay=false&amp;selected=Worldwide Mu Variant Report]
 * [https://cov-lineages.org/lineage.html?lineage=B.1.621 PANGO lineages: New Variant Report - Report on global distribution of lineage B.1.621]
@@ -86,7 +88,7 @@ September 18:
 
 
 
-S012
+
 </segment>
 	</text>
 </file>

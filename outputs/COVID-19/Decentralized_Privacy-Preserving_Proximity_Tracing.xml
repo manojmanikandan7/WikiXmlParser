@@ -13,33 +13,33 @@ The DP-3T SDK and calibration apps intend to support the Apple/Google API as soo
 
 On the 21 April 2020, the Swiss Federal Office of Public Health announced that the Swiss national coronavirus contact tracing app will be based on DP-3T. On the 22 April 2020, the Austrian Red Cross, leading on the national digital contact tracing app, announced its migration to the approach of DP-3T. Estonia also confirmed that their app would be based on DP-3T. On April 28, 2020, it was announced that Finland was piloting a version of DP-3T called &quot;Ketju&quot;. In Germany, a national app is being built upon DP-3T by SAP SE and Deutsche Telekom alongside CISPA, one of the organisations that authored the protocol. As of September 30, 2020, contact tracing apps using DP-3T are available in Austria, Belgium, Croatia, Germany, Ireland, Italy, the Netherlands, Portugal and Switzerland.
 
- Overview 
+Overview
 The DP-3T protocol works off the basis of Ephemeral IDs (EphID), semi-random rotating strings that uniquely identify clients. When two clients encounter each other, they exchange EphIDs and store them locally in a contact log. Then, once a user tests positive for infection, a report is sent to a central server. Each client on the network then collects the reports from the server and independently checks their local contact logs for an EphID contained in the report. If a matching EphID is found, then the user has come in close contact with an infected patient, and is warned by the client. Since each device locally verifies contact logs, and thus contact logs are never transmitted to third parties, the central reporting server cannot by itself ascertain the identity or contact log of any client in the network. This is in contrast to competing protocols like PEPP-PT, where the central reporting server receives and processes client contact logs.
 
- Ephemeral ID 
-thumb|A diagram demonstrating how the different components of the Ephemeral ID algorithm feed into each other
+Ephemeral ID
+
 Similar to the TCN Protocol and its Temporary Contact Numbers, the DP-3T protocol makes use of 16 byte Ephemeral IDs (EphID) to uniquely identify devices in the proximity of a client. These EphIDs are logged locally on a receiving client's device and are never transmitted to third parties.
 
 To generate an EphID, first a client generates a secret key that rotates daily (SK_t) by computing SK_t = H(SK_{t-1}), where H() is a cryptographic hash function such as SHA-256. SK_0 is calculated by a standard secret key algorithm such as Ed25519. The client will use SK_t during day t to generate a list of EphIDs. At the beginning of the day, a client generates a local list of size n=(24*60)/l new EphIDs to broadcast throughout the day, where l is the lifetime of an EphID in minutes. To prevent malicious third parties from establishing patterns of movement by tracing static identifiers over a large area, EphIDs are rotated frequently. Given the secret day key SK_t, each device computes S\_EphID(BK) = PRG(PRF(SK_t, BK)), where BK is a global fixed string, PRF() is a pseudo-random function like HMAC-SHA256, and PRG() is a stream cipher producing n * 16 bytes. This stream is then split into 16-byte chunks and randomly sorted to obtain the EphIDs of the day.
 
- Technical specification 
-The DP-3T protocol is made up of two separate responsibilities, tracking and logging close range encounters with other users (device handshake), and the reporting of those encounters such that other clients can determine if they have been in contact with an infected patient (infection reporting). Like most digital contact tracing protocols, the device handshake uses Bluetooth Low Energy to find and exchange details with local clients, and the infection reporting stage uses HTTPS to upload a report to a central reporting server. Additionally, like other decentralized reporting protocols, the central reporting server never has access to any client's contact logs; rather the report is structured such that clients can individually derive contact from the report.
+Technical specification
+The DP-3T protocol is made up of two separate responsibilities, tracking and logging close range encounters with other users (device handshake), and the reporting of those encounters such that other clients can determine if they have been in contact with an infected patient (infection reporting). Like most digital contact tracing protocols, the device handshake uses Bluetooth Low Energy to find and exchange details with local clients, and the infection reporting stage uses HTTPS to upload a report to a central reporting server. Additionally, like other [[:Category:Digital contact tracing protocols with decentralized reporting|decentralized reporting protocols]], the central reporting server never has access to any client's contact logs; rather the report is structured such that clients can individually derive contact from the report.
 
- Device handshake 
+Device handshake
 In order to find and communicate with clients in proximity of a device, the protocol makes use of both the server and client modes of Bluetooth LE, switching between the two frequently. In server mode the device advertises its EphID to be read by clients, with clients scanning for servers. When a client and server meet, the client reads the EphID and subsequently writes its own EphID to the server. The two devices then store the encounter in their respective contact logs in addition to a coarse timestamp and signal strength. The signal strength is later used as part of the infection reporting process to estimate the distance between an infected patient and the user.
 
- Infection reporting 
+Infection reporting
 When reporting infection, there exists a central reporting server controlled by the local health authority. Before a user can submit a report, the health authority must first confirm infection and generate a code authorizing the client to upload the report. The health authority additionally instructs the patient on which day their report should begin (denoted as t). The client then uploads the pair SK_t and t to the central reporting server, which other clients in the network download at a later date. By using the same algorithm used to generate the original EphIDs, clients can reproduce every EphID used for the period past and including t, which they then check against their local contact log to determine whether the user has been in close proximity to an infected patient.
 
 In the entire protocol, the health authority never has access to contact logs, and only serve to test patients and authorize report submissions.
 
- Epidemiological analysis 
+Epidemiological analysis
 When a user installs a DP-3T app, they are asked if they want to opt in to sharing data with epidemiologists. If the user consents, when they are confirmed to have been within close contact of an infected patient the respective contact log entry containing the encounter is scheduled to be sent to a central statistics server. In order to prevent malicious third parties from discovering potential infections by detecting these uploads, reports are sent at regular intervals, with indistinguishable dummy reports sent when there is no data to transmit.
 
- Health authority cooperation 
+Health authority cooperation
 To facilitate compatibility between DP-3T apps administered by separate health authorities, apps maintain a local list of the regions a user has visited. Regions are large areas directly corresponding to health authority jurisdiction; the exact location is not recorded. The app will later connect these regions to their respective foreign central reporting server, and fetch reports from these servers in addition to its normal home reporting server. Apps will also submit reports to these foreign reporting servers if the user tests positive for infection.
 
- Attacks on DP-3T and criticism 
+Attacks on DP-3T and criticism
 Cryptography and security scholar Serge Vaudenay, analyzing the security of DP-3T argued that:
  of what they were intended to. Specifically, sick and reported people may be deanonymized, private encounters may be revealed, and people may be coerced to reveal the private data they collect. |sign=Serge Vaudenay|source=
 Vaudenay's work presents several attacks against DP-3T and similar systems. In response, the DP-3T group claim that out of twelve risks Vaudenay presents, eight are also present in centralized systems, three do not work, and one, which involves physical access to the phone, works but can be mitigated.
@@ -51,16 +51,16 @@ Tang surveys the major digital contact tracing systems and shows that DP-3T is s
 
 Theoretical attacks on DP-3T have been simulated showing that persistent tracking of users of the first version of the DP-3T system who have voluntarily uploaded their identifiers can be made easy to any 3rd party who can install a large fleet of Bluetooth Low Energy devices. This attack leverages the linkability of a user during a day, and therefore is possible on within a day on all users of some centralized systems such as the system proposed in the United Kingdom, but does not function on 'unlinkable' versions of DP-3T where infected users' identifiers are not transmitted using a compact representation such as a key or seed.
 
- See also 
+See also
 * BlueTrace
 * TCN Protocol
 * Pan-European Privacy-Preserving Proximity Tracing
 * Google / Apple contact tracing project
 
- References 
+References
 
 
- External links 
+External links
 * [https://github.com/DP-3T DP-3T Github]
 
 
@@ -72,6 +72,6 @@ Theoretical attacks on DP-3T have been simulated showing that persistent trackin
 
 
 
-*</segment>
+</segment>
 	</text>
 </file>

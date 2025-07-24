@@ -15,13 +15,13 @@ In August 2020, the app launched publicly for a phased roll-out in the state of 
 
 At the end of 2020, the Covid Watch nonprofit closed, but the Covid Watch app and related open source technologies continue to be implemented for public health departments by the WeHealth organization.
 
- History 
+History
 
 As the pandemic began its outbreak in North America, on February 19, 2020, Stanford University PhD candidate and DOE CSGF Fellow Tina White made a public Effective Altruism (EA) forum post about researching smartphone technology like GPS to alert people privately of COVID-19 exposure. This post got the attention of James Petrie at University of Waterloo who had started writing an academic paper on Overleaf on February 7, 2020, exploring private, decentralized methods using MAC addresses. The two researchers began the research collaboration between Stanford and Waterloo, which formed into the nonprofit Covid Watch.
 
 Anonymous, decentralized Bluetooth exposure alerts first publicly appeared on March 2, 2020, when CW's James Petrie posted a PDF describing the privacy model in CW public slack channels, shared with researchers and collaborators worldwide. Covid Watch's description of the technology and procedure for anonymous exposure alerts was shared widely on social media and on the original Covid Watch blog written by Rhys Fenwick. On March 10, 2020, Tina White reached out to Apple engineers to describe BLE anonymous contact tracing technology and background issues on iOS.
 
-thumb|A description of the CEN Protocol: the first anonymous, decentralized Bluetooth exposure notification protocol to be published online in Covid Watch's whitepaper on 20 March 2020 and open sourced on the Covid Watch GitHub 17 March 2020.
+[[File:CEN Protocol.png|thumb|A description of the CEN Protocol: the first anonymous, decentralized Bluetooth exposure notification protocol to be published online in Covid Watch's whitepaper on 20 March 2020 and open sourced on the Covid Watch GitHub 17 March 2020.]]
 
 Covid Watch developer Zsombor Szabo built the first open source, decentralized, anonymous exposure alert protocol called the CEN Protocol. On March 12, 2020, Zsombor Szabo pushed his first commit to GitHub, laying the foundations of the CW app, completing a proof of concept on March 17 and sharing the video of the working technology on YouTube. Finally, on March 20, 2020, the CW team published a White Paper describing the CEN / TCN protocol. 
 
@@ -33,7 +33,7 @@ On April 6, Henry de Valence of the Zcash Foundation publishes a comparison of C
 
 On April 28, 2020, CW implemented the TCN protocol in a fully functional anonymous exposure alert app with Android bridging, first available in Apple TestFlight via the Stanford App Store. In May 2020, Covid Watch launched the first calibration and beta testing pilot of the GAEN protocol in the United States at the University of Arizona.
 
- References 
+References
 
 </segment>
 	</text>

@@ -3,17 +3,14 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-05-29T21:44:47Z" sourceCorpus="COVID-19" filename="63495620" title="Open-source_ventilator" url="https://en.wikipedia.org/wiki/Open-source_ventilator">
 	<text>
-		<segment id="id63495620">thumb|400px|The Open Source Ventilator's OpenLung project, an open source, low-resource, quick-deployment mechanical ventilator design utilizes a bag valve mask (BVM or Ambu-bag) as a core component.
-thumb|Mechanics of the OpenLung ventilator
-
-An open source ventilator is a disaster-situation ventilator made using a freely licensed (open-source) design, and ideally, freely available components and parts (open source hardware). Designs, components, and parts may be anywhere from completely reverse-engineered or completely new creations, components may be adaptations of various inexpensive existing products, and special hard-to-find and/or expensive parts may be 3D-printed instead of purchased. As of early 2020, the levels of documentation and testing of open source ventilators was well below scientific and medical-grade standards.
+		<segment id="id63495620">An open source ventilator is a disaster-situation ventilator made using a freely licensed (open-source) design, and ideally, freely available components and parts (open source hardware). Designs, components, and parts may be anywhere from completely reverse-engineered or completely new creations, components may be adaptations of various inexpensive existing products, and special hard-to-find and/or expensive parts may be 3D-printed instead of purchased. As of early 2020, the levels of documentation and testing of open source ventilators was well below scientific and medical-grade standards.
 
 One small, early prototype effort was the Pandemic Ventilator created in 2008 during the resurgence of H5N1 avian influenza that began in 2003, so named &quot;because it is meant to be used as a ventilator of last resort during a possible avian (bird) flu pandemic.&quot;
 
- Quality assessment 
+Quality assessment
 The policy of using both free and open source software (FOSS) and open source hardware theoretically allows community-wide peer-review and correction of bugs and faults in open source ventilators, which is not available in closed source hardware development. In early 2020 during the COVID-19 pandemic, a review of open source ventilators stated that &quot;the tested and peer-reviewed systems lacked complete documentation and the open systems that were documented were either at the very early stages of design ... and were essentially only basically tested ...&quot; The author speculated that the pandemic would motivate development that would significantly improve the open source ventilators, and that much work, policies, regulations, and funding would be needed for the open source ventilators to achieve medical-grade standards.
 
- Design requirements 
+Design requirements
 
 A number of features are required for an invasive mechanical ventilator to be safely used on a patient:
 * a way of measuring and controlling the volume pumped and the breath rate to avoid volutrauma;
@@ -24,7 +21,7 @@ A number of features are required for an invasive mechanical ventilator to be sa
 
 The requirements for non-invasive ventilation are less strict.
 
- COVID-19 pandemic 
+COVID-19 pandemic
 
 On March 16, 2020, the Open Source Ventilator Ireland (OSV) group was formed initially with the goal of building a focus team in Ireland to begin development on what was termed the “Field Emergency Ventilator (FEV)”. Inspired by the initial efforts of the Open Source Medical Supplies (OSCMS), which initially focused on developing open ventilators but quickly refocusing mainly on the local production of Personal Protective Experiment (PPE). OSV Ireland partnered with the OpenLung team in Canada, who were developing and publishing open source designs via GitLab. The group quickly grew amassing volunteer engineers, designers and medical professionals with the goal of developing new, low resource medical interventions to support a perceived lack of mechanical ventilation equipment globally. The well-known Bag Valve Mask (BVM) quickly became the core functional component of their design, with the goal of utilizing 3D printed and traditionally manufactured components for localized assembly of the systems to maximise potential manufacturing capabilities around the globe. The Open Source Ventilator Ireland (OSV) group evolved into TeamOSV, to fully incorporate both ventilator and other covid related medical equipment. 
 
@@ -45,7 +42,7 @@ A major worldwide design effort began during the COVID-19 pandemic after a Hacka
 On March 19, the MakAir open source ventilator project was started by a team of software engineers in France, using 3D printing to quickly iterate on a prototype, with the goal of letting an established manufacturer produce the final ventilators for a cost nearing €2,000. The team built a working prototype in one month, at the end of which a successful 12 hour ventilation test on a pig was performed. The project received official support from the French Army's investment branch, Agence Innovation Défense of Direction générale de l'armement, granting the project €426,000 to help fund clinical trials. Groupe SEB agreed to manufacture the MakAir ventilator in their facilities in Vernon, France. As of December 2020, the MakAir ventilator project is still active on the engineering side, with full support for both pressure and volume controlled ventilation modes, and on the medical side with ongoing clinical trials at CHU Nantes on human patients.
 
 On March 20, 2020, Irish Health Services began reviewing the designs from the Open Source Ventilator Ireland project. A prototype is being designed and tested in Colombia.
-thumb|right|MIT E-Vent Unit 002 Setup, design by MIT
+
 The University of Minnesota Bakken Medical Device Center initiated a collaboration with various companies to bring a ventilator alternative to the market that works as a one-armed robot and replaces the need for manual ventilation in emergency situations. The Coventor device was developed in a very short time and approved on April 15, 2020, by the FDA, only 30 days after conception. The mechanical ventilator is designed for use by trained medical professionals in intensive care units and easy to operate. It has a compact design and is relatively inexpensive to manufacture and distribute. The cost is only about 4% of a normal ventilator. In addition, this device does not require pressurized oxygen or air supply, as is normally the case. A first series is manufactured by Boston Scientific. The plans are to be freely available online to the general public without royalties.
 
 The Polish company Urbicum reports successful testing of a 3D-printed, open source prototype device called VentilAid. The makers describe it as a last resort device when professional equipment is missing. The design is publicly available. The first Ventilaid prototype requires compressed air to run.
@@ -77,17 +74,17 @@ Israeli engineers created an open source ventilator
 Disaster-relief provisions
 On March 24, 2020, the U.S. Secretary of Health and Human Services (HHS) enacted Emergency Use Authorizations to allow the use of additional devices, including: &quot;Ventilators, positive pressure breathing devices modified for use as ventilators (collectively referred to as 'ventilators'), ventilator tubing connectors, and ventilator accessories.&quot; This was done in accordance with its February 4 declaration for medical countermeasures against the coronavirus disease 2019, and the equipment is subject to the FDA's &quot;criteria for safety, performance and labeling.&quot;
 
- See also 
+See also
 * 
 
- References 
+References
 Reflist|refs=
 
 
 
 
 
- External links 
+External links
 
 * An [https://web.archive.org/web/20200326091215/https://gitlab.com/open-source-ventilator/OpenLung/-/issues/76 overview] of open source ventilator initiatives and open regulatory standards.
 * [https://opensourceventilator.ie Open Source Ventilator community] and other COVID supplies, with 2000+ members; 8th design iteration as of March 26.

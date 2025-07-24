@@ -11,13 +11,13 @@ The protocol, like BlueTrace and the Google / Apple contact tracing project, use
 
 The TCN protocol received notoriety as one of the first widely released digital contact tracing protocols alongside BlueTrace, the Exposure Notification framework, and the Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT) project. It also stood out for its incorporation of blockchain technology, and its influence over the Google/Apple project.
 
- Overview 
+Overview
 The TCN protocol works off the basis of Temporary Contact Numbers (TCN), semi-random identifiers derived from a seed. When two clients encounter each other, a unique TCN is generated, exchanged, and then locally stored in a contact log. Then, once a user tests positive for infection, a report is sent to a central server. Each client on the network then collects the reports from the server and independently checks their local contact logs for a TCN contained in the report. If a matching TCN is found, then the user has come in close contact with an infected patient, and is warned by the client. Since each device locally verifies contact logs, and thus contact logs are never transmitted to third parties, the central reporting server cannot by itself ascertain the identity or contact log of any client in the network. This is in contrast to competing protocols like BlueTrace, where the central reporting server receives and processes client contact logs.
 
- Temporary contact numbers 
+Temporary contact numbers
 The entire protocol is based on the principle of temporary contact numbers (TCN), a unique and anonymous 128-bit identifier generated deterministically from a seed value on a client device. TCNs are used to identify people with which a user has come in contact, and the seed is used to compactly report infection to a central reporting server. TCN reports are authenticated to be genuine by a secret held only by the client.
 
- Generation 
+Generation
 
 To generate a TCN, first a report authorization key (RAK) and report verification key (RVK) are created as the signing and verification keys of a signature scheme (RAK-RVK pair). In the reference implementation this pair is created using the Ed25519 signature scheme. Then, using the RAK an initial temporary contact key (TCK) is generated using the algorithm 
 tck_{0} = H\_tck(rak)
@@ -35,9 +35,9 @@ le\_u16()
 H\_tcn()
  is the SHA-256 hash function as 
 H\_tcn(s) = SHA256(\text{b'H}\_\text{TCN'}||s)[0:128]
-. The following diagram demonstrates the key derivation process:centerTCNs are unique to each device encounter, and RAK-RVK pairs are cycled at regular intervals to allow a client to report only specific periods of contact.
+. The following diagram demonstrates the key derivation process:TCNs are unique to each device encounter, and RAK-RVK pairs are cycled at regular intervals to allow a client to report only specific periods of contact.
 
- Reporting 
+Reporting
 When a client wishes to submit a report for the TCN indices 
 s &gt; 0
  to 
@@ -74,38 +74,38 @@ tcn_{e} = H\_tcn(le\_u16(e) || tck_{e})
 \end{array}
 This is used by client devices to check their local contact logs for potential encounters with the infected patient, but has the dual benefit of verifying reports since false reports will never produce matching TCNs.
 
- Memo 
+Memo
 In the report structure, the memo is a space for freeform messages that differ between TCN implementations. The section is between 2 and 257 bytes, and made up of a tag identifying the specific implementation, as well as a data and data length pair. It is formatted as  
 memo = tag || len(data) || data
 . The data is standardized for different tags, and can be as follows:
 
 
- Technical specification 
+Technical specification
 The protocol can be divided into two responsibilities: an encounter between two devices running TCN apps, and the notification of potential infection to users that came in contact with a patient. For the purposes of this specification, these areas are named the encounter handshake, and infection reporting. The encounter handshake runs on Bluetooth LE and defines how two devices acknowledge each other's presence. The infection reporting is built on HTTPS and defines how infection notices are distributed among clients.
 
- Encounter handshake 
+Encounter handshake
 When two devices come within range of each other, they exchange a handshake containing TCNs. In order to achieve this the encounter handshake operates in two modes (both with two sub-modes), broadcast oriented and connection oriented. Broadcast oriented operates using the modes broadcaster and observer, while connection oriented operates using peripheral and central. The two modes are used to circumvent certain device limitations, particularly in regard to iOS restrictions in place before version 13.4. In both modes the protocol is identified with the 16 bit UUID .
 
 In broadcast mode, a broadcaster advertises a 16-byte TCN using the service data field of the advertisement data. The observer reads the TCN from this field. In connection-oriented mode, the peripheral advertises using the UUID. The service exposes a read and writeable packet for sharing TCNs. After sharing a TCN, the central disconnects from the peripheral.
 
- Infection reporting 
+Infection reporting
 When a user tests positive for infection, they upload a signed report, allowing the past 14 days of encounters to be calculated, to a central server. On a regular basis, client devices download reports from the server and check their local contact logs using the verification algorithm. If there is a matching record, the app notifies the user to potential infection.
 
- TCN Coalition 
+TCN Coalition
 On 5 April 2020, the global TCN Coalition was founded by Covid Watch and other groups that had coalesced around what was essentially the same approach and largely overlapping protocols, with the goal to reduce fragmentation, and enable global interoperability of tracing and alerting apps, a key aspect of achieving widespread adoption. The TCN Coalition also helped establish the Data Rights for Digital Contact Tracing and Alerting framework, which functions as a bill of rights for users of such apps.
 
 Currently the protocol is used by TCN Coalition members CoEpi and Covid Watch, and was likely a source of inspiration for the similar Google / Apple contact tracing project.
 
- See also 
+See also
 
 * BlueTrace
 * Google / Apple contact tracing project
 *Pan-European Privacy-Preserving Proximity Tracing
 
- References 
+References
 
 
- External links 
+External links
 * [https://covid-watch.org/ Covid Watch] 
 * [https://tcn-coalition.org/ TCN Coalition] 
 * [https://github.com/TCNCoalition/TCN Specification and reference implementation]

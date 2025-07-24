@@ -3,8 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-17T15:40:31Z" sourceCorpus="COVID-19" filename="49197" title="Antiviral_drug" url="https://en.wikipedia.org/wiki/Antiviral_drug">
 	<text>
-		<segment id="id49197">thumb|Antiretroviral drugs for HIV
-Antiviral drugs are a class of medication used for treating viral infections. Most antivirals target specific viruses, while a broad-spectrum antiviral is effective against a wide range of viruses. Antiviral drugs are a class of antimicrobials, a larger group which also includes antibiotic (also termed antibacterial), antifungal and antiparasitic drugs, or antiviral drugs based on monoclonal antibodies. Most antivirals are considered relatively harmless to the host, and therefore can be used to treat infections. They should be distinguished from virucides, which are not medication but deactivate or destroy virus particles, either inside or outside the body. Natural virucides are produced by some plants such as eucalyptus and Australian tea trees.
+		<segment id="id49197">Antiviral drugs are a class of medication used for treating viral infections. Most antivirals target specific viruses, while a broad-spectrum antiviral is effective against a wide range of viruses. Antiviral drugs are a class of antimicrobials, a larger group which also includes antibiotic (also termed antibacterial), antifungal and antiparasitic drugs, or antiviral drugs based on monoclonal antibodies. Most antivirals are considered relatively harmless to the host, and therefore can be used to treat infections. They should be distinguished from virucides, which are not medication but deactivate or destroy virus particles, either inside or outside the body. Natural virucides are produced by some plants such as eucalyptus and Australian tea trees.
 
 Medical uses
 Most of the antiviral drugs now available are designed to help deal with HIV, herpes viruses, the hepatitis B and C viruses, and influenza A and B viruses.
@@ -127,14 +126,14 @@ One of the best-known of this class of drugs are interferons, which inhibit vira
 
 A more specific approach is to synthesize antibodies, protein molecules that can bind to a pathogen and mark it for attack by other elements of the immune system. Once researchers identify a particular target on the pathogen, they can synthesize quantities of identical &quot;monoclonal&quot; antibodies to link up that target. A monoclonal drug is now being sold to help fight respiratory syncytial virus in babies, and antibodies purified from infected individuals are also used as a treatment for hepatitis B.
 
- Antiviral drug resistance 
+Antiviral drug resistance
 Antiviral resistance can be defined by a decreased susceptibility to a drug caused by changes in viral genotypes. In cases of antiviral resistance, drugs have either diminished or no effectiveness against their target virus. The issue inevitably remains a major obstacle to antiviral therapy as it has developed to almost all specific and effective antimicrobials, including antiviral agents.
 
 The Centers for Disease Control and Prevention (CDC) inclusively recommends anyone six months and older to get a yearly vaccination to protect them from influenza A viruses (H1N1) and (H3N2) and up to two influenza B viruses (depending on the vaccination). Comprehensive protection starts by ensuring vaccinations are current and complete. However, vaccines are preventative and are not generally used once a patient has been infected with a virus. Additionally, the availability of these vaccines can be limited based on financial or locational reasons which can prevent the effectiveness of herd immunity, making effective antivirals a necessity.
 
 The three FDA-approved neuraminidase antiviral flu drugs available in the United States, recommended by the CDC, include: oseltamivir (Tamiflu), zanamivir (Relenza), and peramivir (Rapivab). Influenza antiviral resistance often results from changes occurring in neuraminidase and hemagglutinin proteins on the viral surface. Currently, neuraminidase inhibitors (NAIs) are the most frequently prescribed antivirals because they are effective against both influenza A and B. However, antiviral resistance is known to develop if mutations to the neuraminidase proteins prevent NAI binding. This was seen in the H257Y mutation, which was responsible for oseltamivir resistance to H1N1 strains in 2009. The inability of NA inhibitors to bind to the virus allowed this strain of virus with the resistance mutation to spread due to natural selection. Furthermore, a study published in 2009 in Nature Biotechnology emphasized the urgent need for augmentation of oseltamivir stockpiles with additional antiviral drugs including zanamivir. This finding was based on a performance evaluation of these drugs supposing the 2009 H1N1 'Swine Flu' neuraminidase (NA) were to acquire the oseltamivir-resistance (His274Tyr) mutation, which is currently widespread in seasonal H1N1 strains.
 
- Origin of antiviral resistance 
+Origin of antiviral resistance
 The genetic makeup of viruses is constantly changing, which can cause a virus to become resistant to currently available treatments. Viruses can become resistant through spontaneous or intermittent mechanisms throughout the course of an antiviral treatment. Immunocompromised patients, more often than immunocompetent patients, hospitalized with pneumonia are at the highest risk of developing oseltamivir resistance during treatment. Subsequent to exposure to someone else with the flu, those who received oseltamivir for &quot;post-exposure prophylaxis&quot; are also at higher risk of resistance.
 
 The mechanisms for antiviral resistance development depend on the type of virus in question. RNA viruses such as hepatitis C and influenza A have high error rates during genome replication because RNA polymerases lack proofreading activity. RNA viruses also have small genome sizes that are typically less than 30 kb, which allow them to sustain a high frequency of mutations. DNA viruses, such as HPV and herpesvirus, hijack host cell replication machinery, which gives them proofreading capabilities during replication. DNA viruses are therefore less error prone, are generally less diverse, and are more slowly evolving than RNA viruses. In both cases, the likelihood of mutations is exacerbated by the speed with which viruses reproduce, which provides more opportunities for mutations to occur in successive replications. Billions of viruses are produced every day during the course of an infection, with each replication giving another chance for mutations that encode for resistance to occur.
@@ -143,10 +142,10 @@ Multiple strains of one virus can be present in the body at one time, and some o
 
 Antiviral resistance has been reported in antivirals for herpes, HIV, hepatitis B and C, and influenza, but antiviral resistance is a possibility for all viruses. Mechanisms of antiviral resistance vary between virus types.
 
- Detection of antiviral resistance 
+Detection of antiviral resistance
 National and international surveillance is performed by the CDC to determine effectiveness of the current FDA-approved antiviral flu drugs. Public health officials use this information to make current recommendations about the use of flu antiviral medications. WHO further recommends in-depth epidemiological investigations to control potential transmission of the resistant virus and prevent future progression. As novel treatments and detection techniques to antiviral resistance are enhanced so can the establishment of strategies to combat the inevitable emergence of antiviral resistance.
 
- Treatment options for antiviral resistant pathogens 
+Treatment options for antiviral resistant pathogens
 If a virus is not fully wiped out during a regimen of antivirals, treatment creates a bottleneck in the viral population that selects for resistance, and there is a chance that a resistant strain may repopulate the host. Viral treatment mechanisms must therefore account for the selection of resistant viruses.
 
 The most commonly used method for treating resistant viruses is combination therapy, which uses multiple antivirals in one treatment regimen. This is thought to decrease the likelihood that one mutation could cause antiviral resistance, as the antivirals in the cocktail target different stages of the viral life cycle. This is frequently used in retroviruses like HIV, but a number of studies have demonstrated its effectiveness against influenza A, as well. Viruses can also be screened for resistance to drugs before treatment is started. This minimizes exposure to unnecessary antivirals and ensures that an effective medication is being used. This may improve patient outcomes and could help detect new resistance mutations during routine scanning for known mutants. However, this has not been consistently implemented in treatment facilities at this time.
@@ -166,6 +165,7 @@ The United States Food and Drug Administration approved DAAs on the basis of a s
 Despite its historical roots in hepatitis C research, the term &quot;direct-acting antivirals&quot; is becoming more broadly used to also include other anti-viral drugs with a direct viral target such as aciclovir (against herpes simplex virus), letermovir (against cytomegalovirus), or AZT (against human immunodeficiency virus). In this context it serves to distinguish these drugs from those with an indirect mechanism of action such as immune modulators like interferon alfa. This difference is of particular relevance for potential drug resistance mutation development.
 
 Public policy
+
 Use and distribution
 Guidelines regarding viral diagnoses and treatments change frequently and limit quality care. Even when physicians diagnose older patients with influenza, use of antiviral treatment can be low. Provider knowledge of antiviral therapies can improve patient care, especially in geriatric medicine. Furthermore, in local health departments (LHDs) with access to antivirals, guidelines may be unclear, causing delays in treatment. With time-sensitive therapies, delays could lead to lack of treatment.
 Overall, national guidelines, regarding infection control and management, standardize care and improve healthcare worker and patient safety. Guidelines, such as those provided by the Centers for Disease Control and Prevention (CDC) during the 2009 flu pandemic caused by the H1N1 virus, recommend, among other things, antiviral treatment regimens, clinical assessment algorithms for coordination of care, and antiviral chemoprophylaxis guidelines for exposed persons. Roles of pharmacists and pharmacies have also expanded to meet the needs of public during public health emergencies.
@@ -196,7 +196,7 @@ References
 
 
 
- 
+
 </segment>
 	</text>
 </file>

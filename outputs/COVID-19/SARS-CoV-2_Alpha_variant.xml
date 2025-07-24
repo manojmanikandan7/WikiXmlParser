@@ -3,7 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-18T00:51:40Z" sourceCorpus="COVID-19" filename="66147797" title="SARS-CoV-2_Alpha_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant">
 	<text>
-		<segment id="id66147797">|map = thumb|upright=1.5|Total number of B.1.1.7 sequences by country as of 25 March 2021
+		<segment id="id66147797">|map = [[File:B.1.1.7 Cases by country as of 25 Mar 2021.svg|thumb|upright=1.5|Total number of B.1.1.7 sequences by country as of 25 March 2021
 
 Legend:
 
@@ -14,7 +14,7 @@ Legend:
 
 
 
-
+]]
 
 
 
@@ -27,6 +27,7 @@ On 2 February 2021, Public Health England reported that they had detected &quot;
 The Alpha variant disappeared in late 2021 as a result of competition from even more infectious variants. In March 2022, the World Health Organization changed its designation to &quot;previously circulating variant of concern&quot;.
 
 Classification
+
 Names
 The variant is known by several names. Outside the UK it is sometimes referred to as the UK variant or British variant or English variant, despite the existence of other, less common, variants first identified in UK, such as Eta variant (lineage B.1.525). Within the UK, it is commonly referred to as the Kent variant after Kent, where the variant was found.
 
@@ -65,6 +66,7 @@ On  2 February 2021, Public Health England reported that they had detected &quot
 On 5 March 2021, it was reported that a B.1.1.7 lineage with the E484K mutation has been detected in two US patients (in Oregon and New York states). Researchers thought that the E484K mutation in the Oregon variant arose independently.
 
 Characteristics
+
 Transmissibility
 The transmissibility of the Alpha variant (lineage B.1.1.7) had generally been found to be substantially higher than that of pre-existing SARS-CoV-2 variants. The variant was discovered by a team of scientists at COG-UK whose initial results found transmissibility was 70% (50-100%) higher. A study by the Centre for the Mathematical Modelling of Infectious Diseases at the London School of Hygiene &amp; Tropical Medicine reported that the variant was 43 to 90% (range of 95% credible intervals, 38 to 130%) more transmissible than pre-existing variants in the United Kingdom, depending on the method used to assess increases in transmissibility. Similar increases in the transmissibility of lineage B.1.1.7 were measured in Denmark, Switzerland, and the United States. Furthermore, a simple model to account for the rapid rise of lineage B.1.1.7 in several countries and the world found that the variant is 50% more transmissible than the local wild type in these three countries and across the world as whole.  Another study concluded that it was 75% (70%–80%) more transmissible in the UK between October and November 2020. A later study suggested that these earlier estimates overestimated the transmissibility of the variant and that the transmissibility increase was on the lower ends of these ranges.
 
@@ -95,21 +97,21 @@ Genetic sequencing of VOC-202012/01 has shown a Q27stop mutation which &quot;tru
 Referring to amino-acid position 501 inside the spike protein, Chand et al. concluded that &quot;it is possible that variants at this position affect the efficacy of neutralisation of virus&quot;, but noted that &quot;[t]here is currently no neutralisation data on N501Y available from polyclonal sera from natural infection&quot;. The HV 69–70 deletion has, however, been discovered &quot;in viruses that eluded the immune response in some immunocompromised patients&quot;, and has also been found &quot;in association with other  changes&quot;.
 
 Epidemiology
-thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in Denmark, the Netherlands, the United Kingdom, Portugal, Switzerland, and Ireland.refn|Data sources:
+[[File:Covid-19 VOC-202012-01 odds ratio curves by country.png|thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in Denmark, the Netherlands, the United Kingdom, Portugal, Switzerland, and Ireland.refn|Data sources:
 * Denmark:
 * The Netherlands:
 * Portugal:
 * Switzerland:
 * The United Kingdom:
 * Ireland:
- The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 7.6% per day for Denmark).
+ The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 7.6% per day for Denmark).]]
 
-thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in the United Kingdom, countries in the UK, and regions of England.refn|Data sources:
+[[File:Covid-19 VOC-202012-01 odds ratio curves by UK region.png|thumb|400px|Test determined growth curves on a logarithmic scale, for development of the Alpha variant (lineage B.1.1.7) share among all coronavirus positive samples in the United Kingdom, countries in the UK, and regions of England.refn|Data sources:
 * UK national (2021-01-21):
 * South-East England (2020-12-31):
 * UK countries (2021-01-29):
 * England regions (2021-01-15):
- The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 8.6% per day for the UK).
+ The slopes noted in brackets, are the relative exponential growth rate per day (e.g. 8.6% per day for the UK).]]
 
 Cases of the Alpha variant (lineage B.1.1.7) were estimated to be under-reported by most countries as the most commonly used tests do not distinguish between this variant and other SARS-CoV-2 variants, and as many SARS-CoV-2 infections are not detected at all. RNA sequencing is required for detection of this variant, although RT-PCR test for specific variants through what has been named &quot;spike-gene target failure&quot; (SGTF) or &quot;spike-gene drop out&quot; for the spike (S) gene in a subset of RT-PCR assays (e.g., TaqPath COVID-19 RT-PCR assay, ThermoFisher). Though existing in a few other variants of SARS-CoV-2, the HV 69–70 deletion in the spike protein is present in the vast majority of B.1.1.7 genomes, which enables the delta-PCR test to be used as a proxy test for the lineage—or as a supplementing first-screening test before conducting the whole-genome sequencing.
 Another example of a RT-PCR test intended to detect specific variants is the one detecting all genomes with the N501Y mutation (e.g., Alpha, Gamma variant, and Beta variant), which is now also being used as a first-step screening tool ahead of genome sequencing by several laboratories/countries (e.g. by some parts of France).
@@ -131,7 +133,7 @@ The variant became dominant for:
 * Wales in week 2 of 2021.
 * Ireland in week 2 of 2021.
 In Bulgaria, genome sequencing found the variant to be dominant with 52.1% in week 4, followed by 73.4% in week 9.
-thumb|400px|Distribution of the SARS-CoV-2 virus variants after entering Germany
+
 Also in Slovakia, a RT-PCR Multiplex DX test capable of detecting the 2 deletions specific for lineage B.1.1.7 (ΔH69/ΔV70 and ΔY144), first found the variant nationwide in 74% of cases on 3 February (week 5), followed by 72% of cases on 15 February (week 7), and it then grew to 90% of cases on 3 March (week 9). The same test found earlier on 8 January prevalence of the variant at a rate of 36% in the Michalovce District and 29% in Nitra.
 
 In Israel, the variant was first time detected by genome sequencing 23 December 2020. Leumit Health Care Services however analysed with the proxy test RT-PCR (SGTF) and found the variant at a rate of 3‑4% on 15 December. The national Ministry of Health estimated based on genome sequencing, that the prevalence of the variant became dominant (70%) on 6 February followed by 90% on 16 February.
@@ -154,7 +156,7 @@ In Belgium, genome sequencing of samples selected randomly after excluding all s
 
 In France, scientists accurately forecast the Alpha variant (VOC-202012/01) would likely become dominant nationwide around week 8–11 of 2021. A nationwide survey of randomly selected positive COVID-19 samples first analysed by a RT-PCR screening test and subsequently confirmed by genome sequencing, revealed that the variant grew from a share of 3.3% (388/11916) on 7–8 January (week 1) to 13.3% (475/3561) on 27 January (week 4), followed by 44.3% (273/615) on 16 February (week 7). In week 8, the variant was found to have a dominant share of 56.4% (758/1345) according to the interpretable results of a weekly genome sequencing survey comprising 0.9% of all COVID-19 positive tests, or 59.5% according to a variant-specific RT-PCR survey testing 54% of all the COVID-19 positive tests. In week 10, the variant was found to have a share of 71.9% according to a variant-specific RT-PCR survey testing 56.9% of all the COVID-19 positive tests. The spread of the variant differed regionally for the 96 departments located in Metropolitan France for week 10, with 91 departments over 50% and 5 departments with 30%-50% (of which the Moselle department in particular was notable due to finding a high 38.3% rate of the competing Beta variant, that - despite having declined from a dominant 54.4% value in week 8 - still was significantly above the 5.0% national average for this specific variant).
 
-In Austria, Agentur für Gesundheit und Ernährungssicherheit (AGES) collected data from N501Y RT-PCR specific tests combined with subsequent genome sequencing analysis, and found that the variant grew from 7.2% (week 1) to a dominant 61.3% (week 8), followed by 61.2% in week 9 and 48.3% in week 10. If all N501Y positive tests had been analysed further by genome sequencing, then these listed shares could have been even higher, for example they could have been as mcuh as: 2.4% higher for week 1, 23.0% higher for week 7, 4.0% higher for week 8, 6.8% higher for week 9 and 25.4% higher for week 10. The competing Beta variant was only found nationwide in 0.3% of the positive cases in week 10, and for the region Tyrol - where it had been most prevalent - its share declined from 24.5% in week 4 to just 1.9% in week 10. Regionally Alpha was found to be dominant with over 50% for 7 out of 9 regions, with the only two exceptions being Tyrol and Vorarlberg.
+In Austria, [[w:de:Agentur für Gesundheit und Ernährungssicherheit|Agentur für Gesundheit und Ernährungssicherheit (AGES)]] collected data from N501Y RT-PCR specific tests combined with subsequent genome sequencing analysis, and found that the variant grew from 7.2% (week 1) to a dominant 61.3% (week 8), followed by 61.2% in week 9 and 48.3% in week 10. If all N501Y positive tests had been analysed further by genome sequencing, then these listed shares could have been even higher, for example they could have been as mcuh as: 2.4% higher for week 1, 23.0% higher for week 7, 4.0% higher for week 8, 6.8% higher for week 9 and 25.4% higher for week 10. The competing Beta variant was only found nationwide in 0.3% of the positive cases in week 10, and for the region Tyrol - where it had been most prevalent - its share declined from 24.5% in week 4 to just 1.9% in week 10. Regionally Alpha was found to be dominant with over 50% for 7 out of 9 regions, with the only two exceptions being Tyrol and Vorarlberg.
 
 In Germany, the largest and probably most representative national survey published by the Robert Koch Institute (entitled RKI-Testzahlerfassung), determined the share of circulating COVID-19 variants for the latest week by analysing 53,272 COVID-19 positive samples either by genome sequencing or RT-PCR proxy tests, with data collected on a voluntary basis from 84 laboratories from the university / research / clinical / outpatient sector - spread evenly across the nation. The survey did not utilize data weights or data selection criteria to ensure existence of geographical representativity, but might still be regarded as somewhat representative for the national average due to its big sample seize. According to the RKI-Testzahlerfassung survey, the variant grew from a share of 2.0% (week 2) to a dominant share of 54.5% (week 9), followed by 63.5% in week 10. In comparison, the competing Beta variant was only found nationwide in 0.9% of the positive cases in week 10.
 
@@ -220,6 +222,7 @@ The following additional countries did not report variant shares, but are likely
 The GISAID database of all sequenced COVID-19 genomes, calculates for each country for the past four weeks an average &quot;Relative Variant Genome Frequency&quot; for submitted samples. Those observed frequencies are however subject to sampling and reporting biases, and do not represent exact variant share prevalence due to absence of statistical representativity.
 
 Countries reporting a first case
+
 December 2020
 Cases of the variant began to be reported globally during December, being reported in Denmark, Belgium, the Netherlands, Australia and Italy. Shortly after, several other countries confirmed their first cases, the first of whom were found in Iceland and Gibraltar, then Singapore, Israel and Northern Ireland on 23 December, Germany and Switzerland on 24 December, and the Republic of Ireland and Japan confirmed on 25 December.
 
@@ -259,13 +262,14 @@ The N501Y mutation arose independently multiple times in different locations:
 * In October 2020, another highly transmissible variant of concern termed lineage B.1.351 (501Y.V2, Beta variant) was first time detected by genome sequencing in Nelson Mendela Bay (South Africa). Phylogeographic analysis suggests this lineage emerged already in July or August 2020.
 * In December 2020, another highly transmissible variant termed lineage P.1 (501Y.V3, Gamma variant) was detected in Manaus (Brazil).
 
- Statistics 
+Statistics
 
- Table 
+Table
 
 
- Graphics 
- Confirmed cases by countries 
+Graphics
+
+Confirmed cases by countries
 * Note: The graphs presented here are only viewable by computers and some phones. If you cannot view it on your cell phone, switch to desktop mode from your browser.
 * Data provided by various sources, such as; governmental, press or officials are updated every week since their last publication.
 Switcher
@@ -391,6 +395,7 @@ Switcher
 
 
 History
+
 Detection
 
 The Alpha variant (lineage B.1.1.7) was first detected in early December 2020 by analysing genome data with knowledge that the rates of infection in Kent were not falling despite national restrictions.
@@ -448,7 +453,7 @@ External links
 
 
 
-S001
+
 
 </segment>
 	</text>

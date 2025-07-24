@@ -16,18 +16,18 @@ The app has been promoted by billboard and broadcast advertisements, e.g. in coo
 
 The German government has announced that the app would no longer exchange tracing information as of April 30, 2023 &amp; would enter hibernation as of June 1, 2023.
 
- Effectiveness 
+Effectiveness
 Experts believe that time saved by using the app can be critical for improving the effectiveness contact tracing efforts.
 
 Some virologists say when at least 60% of people in Germany use it, it would be very effective.
 
- Functioning 
-thumb|The app issues a warning notification if the phone user has been in contact with someone who has tested positive. Here the message is in English.
+Functioning
+
 The app works with the Exposure Notification Framework (what is implemented in Google Play Services for Android and in iOS) by using Bluetooth to exchange codes with app users that are within 1.5 meters of each other for a period of at least 10 minutes.
 
 Anyone who tests positive for COVID-19 can share this information voluntarily with the app. Other app users are then notified about when, how long and at what distance they had contact with the infected person within a 14-day period. Testing is available for persons on a voluntary basis. 
 
- Server architecture 
+Server architecture
 Based on the Client–server model five servers are operated within the app backend:
 * the Corona-Warn-App server. It stores the authorized keys of infected users, referred to as diagnosis keys, from the past 14 days in its database. Stored diagnosis keys are grouped into regularly updated blocks which are transmitted to the Content Delivery Network. This interface supplies the keys for the app clients to download and locally compute a potential exposure risk.
 * the Verification server. It is responsible for documenting the approval of the user to share their positive test result with the app and also to verify the test result.
@@ -37,7 +37,7 @@ Based on the Client–server model five servers are operated within the app back
 
 By the distribution of the data on different servers the decoupling of the data becomes possible and results in an obstructed tracing of the app users.
 
- Report of a positive COVID-19 test 
+Report of a positive COVID-19 test
 The app provides a function to warn other app users by uploading their positive test result on a voluntarily and anonymous basis to the Corona-Warn-App server.
 
 In case the local public health authority or test laboratory is already connected to the app system, the user receives a QR-Code when the swab specimen is taken that can be scanned in the app. After scanning the QR-Code und the user getting authorized by the Verification server, the app receives an individual Registration token which gets stored locally and with which the status and the result of the test can be checked manually as well as automatically.
@@ -46,20 +46,20 @@ If the local public health authority or test laboratory is not connected to the 
 
 In both cases, the user can upload their diagnosis keys of the last 14 days to the Corona-Warn-App server in case their consent to share the information is given. The Corona-Warn-App server then verifies the uploaded keys by asking the Verification server if the keys are valid and if they are, the Corona-Warn-App server stores them in its database.
 
- Privacy 
+Privacy
 The use of the app is voluntary. The app implements decentralized data storage to ensure data privacy.
 
 Employers can require that Corona-Warn be installed on company phones, but can not compel its use on private phones.
 
- Funding 
+Funding
 The open source app, which costs €20 million to develop is intended to supplement human contact tracing efforts, which Germany put in place during the early stages of the COVID-19 pandemic in Germany. In August 2022, a spokesperson for the German ministry of health announced that the total costs including all additional developments are now estimated to be closer to €150m.
 
- Interoperability 
+Interoperability
 At its start the app only worked in Germany, and Jens Spahn,  than Federal Minister of Health (CDU), has said the development of a Europe-wide system is a future goal. With the update published on 19 October 2020 the app supports key-exchanges with the EU Interoperability Gateway and is therefore able to communicate with contact tracing apps from Ireland and Italy. Austria, Belgium, Czech Republic, Croatia, Cyprus, Denmark, Finland, Ireland, Italy, Latvia, Malta, Netherlands, Norway, Poland, Slovenia, Spain and Switzerland had joined the gateway as well and are also able to exchange keys with Corona-Warn-App.
 
 The app can be downloaded in many App stores outside of Germany. However, as of August 2021, the app is still unavailable for those of notable national German minorities like Turks, Russians or Ukrainians, who use App stores of their home countries.
 
- Software variants 
+Software variants
 An unofficial Corona-Warn-App has been released on F-Droid, making the app available without proprietary components on Android phones.
 
 Literature

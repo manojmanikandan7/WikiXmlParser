@@ -5,7 +5,7 @@
 	<text>
 		<segment id="id63683133">COVIDSafe was a digital contact tracing app released by the Australian Government on 26 April 2020 to help combat the ongoing COVID-19 pandemic. The app was intended to augment traditional contact tracing by automatically tracking encounters between users and later allowing a state or territory health authority to warn a user they have come within  with an infected person for 15 minutes or more. To achieve this, it used the BlueTrace and Herald protocol, originally developed by the Singaporean Government and VMWare respectively, to passively collect an anonymised registry of near contacts. The efficacy of the app was questioned over its lifetime, ultimately identifying just 2 confirmed cases by the time it was decommissioned on 16 August 2022.
 
- History 
+History
 COVIDSafe first began development in late March, shortly after the Morrison government showed interest in Singapore's TraceTogether app. Development of the app was publicly announced on 14 April 2020, with plans to release it for Android and iOS within a fortnight. The app had a budget of over ,  of which went to Amazon Web Services (AWS) for hosting, development, and support. The announcement was immediately met with concerns over the privacy implications of the app and confusion over its distribution. For many, it was unclear if the app would be a feature of the existing Coronavirus Australia app or completely separate. Adding to the confusion, many news reports used images of Coronavirus Australia in their articles, and the COVIDSafe website linked to the Coronavirus Australia apps for a short time after release.
 
 The app launched on 26 April 2020. However, there were early reports that some users had problems with the sign-up. For example, those  who entered their phone number during sign-up received the following message: &quot;Error verifying phone number. Please check your details and try again.&quot;
@@ -52,7 +52,7 @@ On 2 December 2021, NSW and Victorian health officials admitted to The Guardian 
 
 On 16 August 2022, the incumbent Albanese Government decommissioned the app, shutting down remaining infrastructure and removing it from Google Play and the Apple App Store. The total cost of the app over its lifetime rounded out to $21 million, with $10 million going to development costs alone.
 
- Contact tracing 
+Contact tracing
 
 
 The app is built on the BlueTrace protocol originally developed by the Singaporean Government. A stated priority of the protocol was the preservation of privacy. In accordance with this, personal information is only collected once at the point of registration and subsequently used purely to contact potentially infected patients. Additionally, users are able to opt out at any time, clearing all personal information. The contact tracing mechanism is executed locally on an individual's device using Bluetooth, storing all encounters in a contact history log chronicling contact for the past 21 days. Users in contact logs are identified using anonymous time-shifting &quot;temporary IDs&quot; issued by a central Department of Health (DoH) server. Consequently, a user's identity and contact patterns cannot be determined by anyone not authorised by the DoH. Furthermore, since temporary IDs change on a regular basis, malicious third parties cannot track users by observing log entries over time.
@@ -61,7 +61,7 @@ Once a user tests positive for infection, the DoH requests their contact log. If
 
 Although the app is commonly described as only logging encounters longer than 15 minutes and closer than , the app actually indiscriminately logs most encounters. It is only once the health authority receives a contact log that it is filtered to encounters within those parameters.
 
- Reporting centralisation 
+Reporting centralisation
 BlueTrace's employment of a centralised reporting architecture has created concerns over its privacy implications. Under a centralised report processing protocol, a user must upload their entire contact log to a health authority administered server, where the health authority is then responsible for matching the log entries to contact details, ascertaining potential contact, and ultimately warning users of potential contact. In contrast, the Exposure Notification framework and other decentralised reporting protocols, while still having a central reporting server, delegate the responsibility of processing logs to clients on the network. Instead of a client uploading their contact history, it uploads a number from which encounter tokens can be derived by individually. Clients then check these tokens against their local contact logs to determine if they have come in contact with an infected patient. Inherent in the fact the protocol never allows the government access to contact logs, this approach has major privacy benefits. However, this method also presents some issues, primarily the lack of human in the loop reporting, leading to a higher occurrence of false positives. Decentralised reporting protocols are also less mature than their centralised counterparts.
 
 Multiple images
@@ -75,21 +75,21 @@ Multiple images
 | caption2 = An overview of how different parties interact under a decentralised protocol
 
 
- Protocol change to Exposure Notification 
+Protocol change to Exposure Notification
 During the 6 May 2020 Senate Select Committee public hearing on COVID-19 and the COVIDSafe app, the Digital Transformation Agency (DTA) announced they were looking into transitioning the protocol from BlueTrace to the Google and Apple developed Exposure Notification framework (ENF). The change was proposed to resolve the outstanding issues related to performance of third-party protocols on iOS devices. Unlike BlueTrace, the Exposure Notification frameworks runs at the operating system level with special privileges not available to any third-party frameworks. The adoption of the framework is endorsed by multiple technology experts.
 
 Transitioning from BlueTrace to ENF presented several issues, most notably that, as the app cannot run both protocols simultaneously, any protocol change would be a hard cut between versions. This would result in the app no longer functioning for any users who had not yet updated to the ENF version of the app. Additionally, the two protocols are almost completely incompatible, meaning the vast majority - all but the UI - of the COVIDSafe app would have to be redeveloped. Similarly, because of the change from a centralised reporting mechanism to a decentralised one, very little of the existing server software would be usable. The role of state and territory health authorities in the process would also change significantly, as they would no longer be responsible for determining and contacting encounters. This change would involve retraining health officials and penning new agreements with states and territories.
 
 Up until at least 18 June 2020, the DTA was experimenting with ENF, however in an interview with The Project held on 28 June 2020, Deputy Chief Medical Officer Dr Nick Coatsworth stated COVIDSafe would &quot;absolutely not&quot; transition to ENF. He reasoned the government would never transition to any contact tracing solution without human-in-the-loop reporting, something that no decentralised protocol can support.
 
- Issues 
+Issues
 
- Issues on iOS 
+Issues on iOS
 Versions 1.0 and 1.1 of COVIDSafe for iOS did not scan for other devices when the application was placed in the background, resulting in far fewer recorded contacts than was possible. This was later corrected in version 1.2. Additionally, until the 18 June 2020 update, a bug existed where locked iOS devices were unable to fetch new temporary IDs. Devices collected 24–48 hour pools of temporary IDs in advance, meaning a device could easily exhaust its pool unless the phone was unlocked specifically when the app was scheduled to replenish the pool.
 
 Additionally, all third-party digital contact tracing protocols experience degraded performance on iOS devices, particularly when the device is locked or the app is not in the foreground. This is a characteristic of the operating system, stemming from how iOS manages its battery life and resource priority. The Android app does not experience these issues because Android is more permissive with background services and the app can request the operating system to disable battery optimisation.
 
- Country calling code restrictions 
+Country calling code restrictions
 COVIDSafe requires an Australia mobile number to register, meaning foreigners in Australia need a local SIM card. Initially, residents of Norfolk Island, an external territory of Australia, were unable to register with the app as they used a different country code to mainland Australia, +672 instead of +61. The Australian government released an update resolving the issue on 18 June 2020.
 
 Privacy concerns
@@ -103,7 +103,7 @@ Australia's Inspector-General of Intelligence and Security reported that several
 
 In June 2021 the state government of Western Australia &quot;was forced to introduce legislation&quot; when Western Australian police used data collected by the COVID SafeWA app for purposes other than contact tracing. Police stated that their use of this data was lawful, and that they could not stop using this data in criminal investigations while lawful to do so. Police Commissioner Chris Dawson defended this by pointing out that the &quot;terms and conditions stated data could be accessed for a lawful reason&quot; and while he accepts &quot;people don't always read fine print on insurance policies or whatever,&quot; their use of the data in these circumstances was lawful.
 
- Attorney General privacy impact assessment 
+Attorney General privacy impact assessment
 On 25 May 2020, the Attorney General report and subsequent response by the Department of Health was released, the following recommendations were made:
 * Release the Privacy Impact Assessment and the app source code
 * Major changes should be reviewed for privacy impact
@@ -126,7 +126,7 @@ On 25 May 2020, the Attorney General report and subsequent response by the Depar
 
 In the Department of Health's response, they agreed to all suggestions with exception to &quot;rectification of personal information&quot;. Rather than building a process to do so, a user could uninstall and reinstall the app to change their personal information. A process to formally correct information was to be introduced later.
 
- Independent analysis 
+Independent analysis
 On 29 May 2020, a group of independent security researchers including Troy Hunt, Kate Carruthers, Matthew Robbins, and Geoffrey Huntley released an informal report raising a number of issues discovered in the decompiled app. Their primary concerns were two flaws in the implementation of the protocol that could potentially allow malicious third parties to ascertain static identifiers for individual clients. Importantly, all issues raised in the report were related to incidental leaking of static identifiers during the encounter handshake. To date, no code has been found that intentionally tracks the user beyond the scope of contact tracing, nor code that transmits a user's encounter history to third parties without the explicit consent of the user. Additionally, despite the flaws discovered through their analysis, many prominent security researchers publicly endorse the app.
 
 The first issue was located in , the class responsible for advertising to other BlueTrace clients. The bug occurred with a supposedly random, regularly changing three-byte string included in that was, in fact, static for the entire lifetime of an app instance. This string was included with all handshakes performed by the client. In OpenTrace this issue did not occur, as value changes every 180 seconds. While likely not enough entropy to identify individual clients, especially in a densely populated area, when used in combination with other static identifiers (such as the phone's model) it could have been used by malicious actors to determine the identity of users. This issue was addressed in the 13 May 2020 update.
@@ -135,20 +135,20 @@ The second issue was located in , the class responsible for managing BLE periphe
 
 Other issues more inherent to the protocol include the transmission of device model as part of the encounter payload, and issues where static device identifiers could be returned when running in GATT mode. Many of these are unfixable without redesigning the protocol, however they, like the other issues, pose no major privacy or security concerns to users.
 
- Legislation 
+Legislation
 
 The Biosecurity Determination 2020, made with the authority of the Biosecurity Act 2015, governs how data collected by the COVIDSafe app is stored, submitted, and processed. Later a separate bill was introduced to codify this determination, the Privacy Amendment (Public Health Contact Information) Bill 2020. The determination and bill makes it illegal for anyone to access COVIDSafe app data without both the consent of the device owner and being an employee or contractor of a state or territory health authority. Collected data may be used only for the purpose of contact tracing or anonymous statistical analysis, and data also cannot be stored on servers residing outside Australia, nor can it be disclosed to persons outside Australia. Additionally, all data must be destroyed once the pandemic has concluded, overriding any other legislation requiring data to be retained for a certain period of time. The bill also ensures no entity may compel someone to install the app. Despite this there have been reports of multiple businesses attempting to require employees to use the app.
 
- See also 
+See also
 * COVID-19 apps
 * Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015
 * 
 
- References 
+References
 
 
 
- External links 
+External links
 * [https://github.com/AU-COVIDSafe GitHub]
 * [http://parlview.aph.gov.au/mediaPlayer.php?videoID=499974&amp;operation_mode=parlview Senate Select Committee on COVID-19 Public Hearing on COVIDSafe, 2020-05-06] ([https://www.youtube.com/watch?v=m-Pgdw5bTvE YouTube])
 * [https://www.youtube.com/watch?v=U3dN99ljgD4 COVIDSafe App Teardown &amp; Panel Discussion]

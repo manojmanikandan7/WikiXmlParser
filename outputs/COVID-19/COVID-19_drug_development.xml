@@ -11,7 +11,7 @@ In March 2020, the WHO initiated the &quot;SOLIDARITY Trial&quot; in 10 countrie
 
 Drug development is a multistep process, typically requiring more than five years to assure safety and efficacy of the new compound.  Several national regulatory agencies, such as the EMA and the FDA, approved procedures to expedite clinical testing. By June 2021, dozens of potential post-infection therapies were in the final stage of human testing – Phase III–IV clinical trials.
 
- Background 
+Background
 
 Drug development is the process of bringing a new infectious disease vaccine or therapeutic drug to the market once a lead compound has been identified through the process of drug discovery. It includes laboratory research on microorganisms and animals, filing for regulatory status, such as via the FDA, for an investigational new drug to initiate clinical trials on humans, and may include the step of obtaining regulatory approval with a new drug application to market the drug. The entire process – from concept through preclinical testing in the laboratory to clinical trial development, including Phase I–III trials – to approved vaccine or drug normally takes more than a decade.
 
@@ -24,7 +24,7 @@ The success rate for Phase II trials to advance to Phase III (for all diseases) 
 Phase III trials for COVID-19 involve hundreds-to-thousands of hospitalized participants, and test effectiveness of the treatment to reduce effects of the disease, while monitoring for adverse effects at the optimal dose, such as in the multinational Solidarity and Discovery trials.
 
 Candidates
-thumb|upright=1.7|Evidence network of COVID-19 clinical trials of 15 therapeutic candidates. Circles represent interventions or intervention groups (categories). Lines between two circles indicate comparisons in clinical trials.According to one source (as of August 2020), diverse categories of preclinical or early-stage clinical research for developing COVID-19 therapeutic candidates included:
+According to one source (as of August 2020), diverse categories of preclinical or early-stage clinical research for developing COVID-19 therapeutic candidates included:
 * antibodies (81 candidates)
 * antivirals (31 candidates)
 * cell-based compounds (34 candidates)
@@ -37,7 +37,7 @@ Numerous candidate drugs under study as &quot;supportive&quot; treatments to rel
 
 
 
- Repurposed drug candidates 
+Repurposed drug candidates
 
 Drug repositioning (also called drug repurposing) – the investigation of existing drugs for new therapeutic purposes – is one line of scientific research followed to develop safe and effective COVID-19 treatments. Several existing antiviral medications, previously developed or used as treatments for Severe acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS), HIV/AIDS, and malaria, are being researched as COVID-19 treatments, with some moving into clinical trials.
 
@@ -47,59 +47,62 @@ Clinical trials using repurposed, generally safe, existing drugs for hospitalize
 
 In March 2020, the United States Centers for Disease Control and Prevention (CDC) issued a physician advisory concerning remdesivir for people hospitalized with pneumonia caused by COVID-19: &quot;While clinical trials are critical to establish the safety and efficacy of this drug, clinicians without access to a clinical trial may request remdesivir for compassionate use through the manufacturer for patients with clinical pneumonia.&quot;
 
- Novel antibody drugs 
+Novel antibody drugs
 
- Convalescent plasma 
-right|thumb|Convalescent plasma collected at a blood donor center during the COVID-19 pandemic.
+Convalescent plasma
+
 Passive immunization with convalescent plasma or hyperimmune serum has been proposed as a potential treatment for COVID-19. As of May 2021, there is strong evidence that convalescent plasma treatment is not associated with clinical improvements for people with moderate or severe disease and does not decrease the risk of dying. The potential for adverse effects associated with convalescent plasma treatment is unknown.
 
 In the United States, the FDA has granted temporary authorization to convalescent plasma (plasma from the blood of people who have recovered from COVID-19, which thus contains antibodies against SARS-CoV-2) as an experimental treatment in cases where the person's life is seriously or immediately threatened. As of May 2021, at least 12 randomized controlled trials on the effectiveness of convalescent plasma treatment were published in peer-reviewed medical journals. In addition, as of May 2021, 100 additional trials were 'ongoing' and 33 studies were reported as 'competed' but not yet published.
 
 Argentina, Brazil, Costa Rica, and Mexico have pursued development of antisera. Brazil began development of an equine hyperimmune serum, obtained by inoculating horses with recombinant SARS-CoV-2 spike protein, in mid-2020. A consortium of Instituto Vital Brazil, UFRJ, the Oswaldo Cruz Foundation and the D'Or Institute for Research and Education in Rio de Janeiro began preclinical trials in May 2020, while Instituto Butantan in São Paulo completed animal testing in September. In December 2020, Argentina granted emergency authorization to CoviFab, a locally developed formulation of equine hyperimmune serum, for use in cases of moderate to severe COVID-19, based on the initial results of a single phase 2/3 trial which suggested reductions in mortality, ICU admission, and mechanical ventilation requirements in patients who received the serum. This was harshly criticized by the Argentine Intensive Care Society, which stated that the trial failed to achieve its primary or secondary endpoints and did not demonstrate any statistically significant differences between the serum and placebo groups.
 
- Bamlanivimab/etesevimab 
+Bamlanivimab/etesevimab
 
 
- Bebtelovimab 
+Bebtelovimab
 
 
- Casirivimab/imdevimab 
+Casirivimab/imdevimab
 
 
- Pemivibart 
+Pemivibart
 
 
- Regdanvimab 
+Regdanvimab
 
 
- Sotrovimab 
+Sotrovimab
 
 
- Tixagevimab/cilgavimab 
+Tixagevimab/cilgavimab
 
 
- Vilobelimab 
+Vilobelimab
 
 
- Novel viral replication inhibitors 
- Molnupiravir 
+Novel viral replication inhibitors
+
+Molnupiravir
 
 
- Novel protease inhibitors 
- Ensitrelvir 
+Novel protease inhibitors
+
+Ensitrelvir
 
 
- Nirmatrelvir/ritonavir 
+Nirmatrelvir/ritonavir
 
 
- Other 
- Sabizabulin 
+Other
+
+Sabizabulin
 
 
- Planning and coordination 
+Planning and coordination
 
 
- Early planning 
+Early planning
 Over 2018–20, new initiatives to stimulate vaccine and antiviral drug development included partnerships between governmental organizations and industry, such as the European Innovative Medicines Initiative, the US Critical Path Initiative to enhance innovation of drug development, and the Breakthrough Therapy designation to expedite development and regulatory review of promising candidate drugs. To accelerate refinement of diagnostics for detecting COVID-19 infection, a global diagnostic pipeline tracker was formed.
 
 According to a tracker of clinical trial progress on potential therapeutic drugs for COVID-19 infections, 29 Phase II–IV efficacy trials were concluded in March 2020 or scheduled to provide results in April from hospitals in China – which experienced the first outbreak of COVID-19 in late 2019. Seven trials were evaluating repurposed drugs already approved to treat malaria, including four studies on hydroxychloroquine or chloroquine phosphate. Repurposed antiviral drugs make up most of the Chinese research, with 9 Phase III trials on remdesivir across several countries due to report by the end of April. Other potential therapeutic candidates under pivotal clinical trials concluding in March–April are vasodilators, corticosteroids, immune therapies, lipoic acid, bevacizumab, and recombinant angiotensin-converting enzyme 2, among others.
@@ -145,11 +148,11 @@ A clinical trial design in progress may be modified as an &quot;adaptive design&
 Adaptive COVID-19 Treatment Trial
 The US National Institute of Allergy and Infectious Diseases (NIAID) initiated an adaptive design, international Phase III trial (called &quot;ACTT&quot;) to involve up to 800 hospitalized COVID-19 people at 100 sites in multiple countries. Beginning with use of remdesivir as the primary treatment over 29 days, the trial definition of its adaptive protocol states that &quot;there will be interim monitoring to introduce new arms and allow early stopping for futility, efficacy, or safety. If one therapy proves to be efficacious, then this treatment may become the control arm for comparison(s) with new experimental treatment(s).&quot;
 
- Operation Warp Speed 
+Operation Warp Speed
 
 
 
- RECOVERY Trial 
+RECOVERY Trial
 
 A large-scale, randomized controlled trial named the RECOVERY Trial was set up in March 2020, in the UK to test possible treatments for COVID-19. It is run by the Nuffield Departments of Public Health and of Medicine at the University of Oxford and is testing five repurposed drugs and also convalescent plasma. The trial enrolled more than 11,500 COVID-19 positive participants in the U.K by June 2020.
 
@@ -159,28 +162,28 @@ On 16 June the trial group released a statement that dexamethasone had been show
 
 By the end of June 2020, the trial had published findings regarding hydroxychloroquine and dexamethasone. It had also announced results for lopinavir/ritonavir which were published in October 2020. The lopinavir-ritonavir and hydroxychloroquine arms were closed to new entrants after being shown to be ineffective. Dexamethasone was closed to new adult entries after positive results and by November 2020, was open to child entries.
 
- PANORAMIC trial 
+PANORAMIC trial
 
 
 Launched in December 2021, the PANORAMIC trial will test the effectiveness of molnupiravir and nirmatrelvir/ritonavir in preventing hospitalisation and helping faster recovery for people aged over 50 and those at higher risk due to underlying health conditions. PANORAMIC is sponsored by the University of Oxford and funded by the National Institute for Health Research (NIHR). As of March 2022 has over 16,000 people enrolled as participants making it the largest study into COVID-19 antivirals.
 
- See also 
+See also
 
 * Cost of drug development
 * COVID Moonshot
 
 
 
- References 
+References
 
 
- Further reading 
+Further reading
 * 
 * 
 * 
 * 
 
- External links 
+External links
 
 * [https://www.who.int/teams/blueprint/covid-19 R&amp;D Blueprint and COVID-19], World Health Organization
 * [https://www.niaid.nih.gov/diseases-conditions/coronaviruses Coronaviruses by US National Institute for Allergy and Infectious Diseases]
@@ -192,7 +195,7 @@ Launched in December 2021, the PANORAMIC trial will test the effectiveness of mo
 
 
 
- 
+
 
 
 

@@ -3,7 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2024-09-10T20:51:24Z" sourceCorpus="COVID-19" filename="68051984" title="SARS-CoV-2_Epsilon_variant" url="https://en.wikipedia.org/wiki/SARS-CoV-2_Epsilon_variant">
 	<text>
-		<segment id="id68051984">thumb|upright=1.5|Countries with confirmed cases of Epsilon variant as of 1 July 2021 (GISAID)
+		<segment id="id68051984">[[File:Epsilon variant countries.svg|thumb|upright=1.5|Countries with confirmed cases of Epsilon variant as of 1 July 2021 (GISAID)
 
 Legend:
 
@@ -13,34 +13,34 @@ Legend:
 
 
 
-
+]]
 
 Epsilon variant, also known as CAL.20C and referring to two PANGO lineages B.1.427 and B.1.429, is one of the variants of SARS-CoV-2, the virus that causes COVID-19. It was first detected in California, USA in July 2020.
 
 As of March 2022, Epsilon is considered as a previously circulating variant of interest by the WHO. It is considered a variant being monitored by the CDC.
 
- Mutations 
+Mutations
 The variant has five defining mutations (I4205V and D1183Y in the ORF1ab gene, and S13I, W152C, L452R in the spike protein's S-gene), of which the L452R (previously also detected in other unrelated lineages) was of particular concern. B.1.429 is possibly more transmissible than previous variants circulating locally, but further study is necessary to confirm this. Centers for Disease Control and Prevention (CDC) has listed B.1.429 and the related B.1.427 as &quot;variants of concern&quot;, and cites a preprint for saying that they exhibit a ~20% increase in viral transmissibility, that they have a &quot;Significant impact on neutralization by some, but not all&quot; therapeutics that have been given Emergency Use Authorization (EUA) by the Food and Drug Administration (FDA) for treatment or prevention of COVID-19, and that they moderately reduce neutralization by plasma collected by people who have previously been infected by the virus or who have received a vaccine against the virus. In May 2021, the World Health Organization (WHO) gave the variant the name 'Epsilon variant'.
 
 
 
 
- History 
+History
 Epsilon (CAL.20C) was first observed in July 2020 by researchers at the Cedars-Sinai Medical Center, California, in one of 1,230 virus samples collected in Los Angeles County from the start of the COVID-19 epidemic. It was not detected again until September when it reappeared among samples in California, but numbers remained very low until November. In November 2020, the Epsilon variant accounted for 36 percent of samples collected at Cedars-Sinai Medical Center, and by January 2021, the Epsilon variant accounted for 50 percent of samples. In a joint press release by University of California, San Francisco, California Department of Public Health, and Santa Clara County Public Health Department, it was announced that the variant was also detected in multiple counties in Northern California. From November to December 2020, the frequency of the variant in sequenced cases from Northern California rose from 3% to 25%. A preprint describes CAL.20C as belonging to Nextstrain clade 20C and contributing approximately 36% of samples, while an emerging variant from the 20G clade accounts for some 24% of the samples in a study focused on Southern California. However, in the US as a whole, the 20G clade predominated as of January 2021. Following the increasing numbers of Epsilon in California, the variant has been detected at varying frequencies in most US states. Small numbers have been detected in other countries in North America, and in Europe, Asia and Australia. As of July 2021, the Epsilon variant had been detected in 45 countries, according to GISAID. After an initial increase, its frequency rapidly decreased from February 2021 as it was being outcompeted by the more transmissible Alpha variant. In April, Epsilon remained relatively frequent in parts of northern California, but it had virtually disappeared from the south of the state and had never been able to establish itself elsewhere; only 3.2% of all cases in the United States were Epsilon, whereas by then more than two-thirds were Alpha.
 
- Statistics 
+Statistics
 
 
- See also 
+See also
 
 * Variants of SARS-CoV-2: Alpha, Beta, Gamma, Delta, Zeta, Eta, Theta, Iota, Kappa, Lambda, Mu, Omicron
 
- References 
+References
 
 
 
 
 
-S5</segment>
+</segment>
 	</text>
 </file>

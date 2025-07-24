@@ -3,11 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-06-25T04:09:54Z" sourceCorpus="COVID-19" filename="66426813" title="History_of_COVID-19_vaccine_development" url="https://en.wikipedia.org/wiki/History_of_COVID-19_vaccine_development">
 	<text>
-		<segment id="id66426813">thumb|COVID‑19 vaccine research samples in a NIAID lab freezer (30 January 2020)
-
-
-
-SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2), the virus that causes COVID-19, was isolated in late 2019.  Its genetic sequence was published on 11 January 2020, triggering an urgent international response to prepare for an outbreak and hasten the development of a preventive COVID-19 vaccine. Since 2020, vaccine development has been expedited via unprecedented collaboration in the multinational pharmaceutical industry and between governments. By June 2020, tens of billions of dollars were invested by corporations, governments, international health organizations, and university research groups to develop dozens of vaccine candidates and prepare for global vaccination programs to immunize against COVID‑19 infection.  According to the Coalition for Epidemic Preparedness Innovations (CEPI), the geographic distribution of COVID‑19 vaccine development shows North American entities to have about 40% of the activity, compared to 30% in Asia and Australia, 26% in Europe, and a few projects in South America and Africa.
+		<segment id="id66426813">SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2), the virus that causes COVID-19, was isolated in late 2019.  Its genetic sequence was published on 11 January 2020, triggering an urgent international response to prepare for an outbreak and hasten the development of a preventive COVID-19 vaccine. Since 2020, vaccine development has been expedited via unprecedented collaboration in the multinational pharmaceutical industry and between governments. By June 2020, tens of billions of dollars were invested by corporations, governments, international health organizations, and university research groups to develop dozens of vaccine candidates and prepare for global vaccination programs to immunize against COVID‑19 infection.  According to the Coalition for Epidemic Preparedness Innovations (CEPI), the geographic distribution of COVID‑19 vaccine development shows North American entities to have about 40% of the activity, compared to 30% in Asia and Australia, 26% in Europe, and a few projects in South America and Africa.
 
 In February 2020, the World Health Organization (WHO) said it did not expect a vaccine against SARS‑CoV‑2 to become available in less than 18 months. Virologist Paul Offit commented that, in hindsight, the development of a safe and effective vaccine within 11 months was a remarkable feat. The rapidly growing infection rate of COVID‑19 worldwide during 2020 stimulated international alliances and government efforts to urgently organize resources to make multiple vaccines on shortened timelines, with four vaccine candidates entering human evaluation in March (see ).
 
@@ -27,7 +23,7 @@ Since 2020, vaccine development has been expedited via unprecedented collaborati
 
 Commitment to first-in-human testing of a vaccine candidate represents a substantial capital cost for vaccine developers, estimated to be from million to million for a typical PhaseI trial program, but possibly as much as million. For comparison, during the Ebola virus epidemic of 2013–16, there were 37 vaccine candidates in urgent development  with only one becoming a licensed vaccine at a total cost to confirm efficacy in PhaseII–III trials of about billion.
 
- International organizations 
+International organizations
 
 Access to COVID‑19 Tools (ACT) Accelerator
 
@@ -39,13 +35,13 @@ Canada announced million in funding for 96 vaccine research projects at Canadian
 
 China provided low-rate loans to a vaccine developer through its central bank and &quot;quickly made land available for the company&quot; to build production plants. As of June 2020, six of the eleven COVID‑19 vaccine candidates in early-stage human testing were developed by Chinese organizations. Three Chinese vaccine companies and research institutes are supported by the government for financing research, conducting clinical trials, and manufacturing the most promising vaccine candidates, prioritizing rapid evidence of efficacy over safety. On 18 May, China had pledged billion to support overall efforts by the WHO for programs against COVID‑19. On 22 July, China announced plans to provide a US$1 billion loan to make its vaccine accessible for Latin America and the Caribbean. On 24 August, Chinese Premier Li Keqiang announced it would provide Cambodia, Laos, Myanmar, Thailand, and Vietnam priority access to the vaccine once it was distributed.
 
-thumb|upright=1.4|US Government Accountability Office diagram comparing a traditional vaccine development timeline to a safe, possible expedited method timeline.
+
 
 Great Britain formed a COVID‑19 vaccine task force in April 2020, to stimulate local efforts for accelerated development of a vaccine through collaborations of industry, universities, and government agencies. It encompassed every phase of development from research to manufacturing. The vaccine development initiatives at the University of Oxford and Imperial College of London were financed with million.
 
 In the United States, the Biomedical Advanced Research and Development Authority (BARDA), a federal agency funding disease-fighting technology, announced investments of nearly billion to support American COVID‑19 vaccine development and manufacture of the most promising candidates. On 16 April, BARDA made a million investment in vaccine developer Moderna and its partner, Johnson &amp; Johnson. BARDA has earmarked an additional billion for development. It will have a role in other programs for development of six to eight vaccine candidates destined for clinical study into 2021 by companies such as Sanofi Pasteur and Regeneron. On 15 May, the government announced funding for a fast-track program called Operation Warp Speed to place multiple vaccine candidates into clinical trials by the fall of 2020 and manufacture 300million doses of a licensed vaccine by January 2021. The project's chief advisor is Moncef Slaoui and its chief operating officer is General Gustave Perna. In June, the Warp Speed team said it would work with seven companies developing vaccine candidates: Moderna, Johnson &amp; Johnson, Merck, Pfizer, the University of Oxford in collaboration with AstraZeneca, and two others, although Pfizer later stated that &quot;all the investment for R&amp;D was made by Pfizer at risk.&quot;
 
- Pharmaceutical companies 
+Pharmaceutical companies
 Large pharmaceutical companies with experience in making vaccines at scale, including Johnson &amp; Johnson, AstraZeneca, and GlaxoSmithKline (GSK), formed alliances with biotechnology companies, governments, and universities to accelerate progression to an effective vaccine. To combine financial and manufacturing capabilities for a pandemic with adjuvanted vaccine technology, GSK joined with Sanofi in an uncommon partnership of multinational companies to support accelerated vaccine development.
 
 By June 2020, tens of billions of dollars were invested by corporations, governments, international health organizations, and university research groups to develop dozens of vaccine candidates and prepare for global vaccination programs to immunize against COVID‑19 infection. The corporate investment and need to generate value for public shareholders raised concerns about a &quot;market-based approach&quot; in vaccine development, costly pricing of eventual licensed vaccines, preferred access for distribution first to affluent countries, and sparse or no distribution to where the pandemic is most aggressive, as predicted for densely populated, impoverished countries unable to afford vaccinations. The collaboration of the University of Oxford with AstraZeneca (a global pharmaceutical company based in the UK) raised concerns about price and sharing of eventual profits from international vaccine sales, arising from whether the British government and university as public partners had commercialization rights. AstraZeneca stated that initial pricing of its vaccine would not include a profit margin for the company while the pandemic was still expanding.
@@ -56,7 +52,7 @@ Development
 CEPI classifies development stages for vaccines as &quot;exploratory&quot; (planning and designing a candidate, having no evaluation in vivo), &quot;preclinical&quot; (in vivo evaluation with preparation for manufacturing a compound to test in humans), or initiation of PhaseI safety studies in healthy people. Some 321 total vaccine candidates were in development as either confirmed projects in clinical trials or in early-stage &quot;exploratory&quot; or &quot;preclinical&quot; development, as of September.
 
 Early development
-thumb|NIAID (NIH) scientist researching COVID‑19 vaccine examines agar plate. (30 January 2020)
+
 
 After a coronavirus was isolated in December 2019, its genetic sequence was published on 11 January 2020, triggering an urgent international response to prepare for an outbreak and hasten development of a preventive vaccine.
 
@@ -68,7 +64,7 @@ Cyber-espionage efforts
 In July 2020, the UK's National Cyber Security Centre, the Canadian Communications Security Establishment, and the U.S.'s Homeland Security Department Cybersecurity and Infrastructure Security Agency, and the National Security Agency (NSA) issued a joint statement saying that Russian state-backed hackers, specifically Cozy Bear (APT29) were attempting to steal COVID‑19 treatment and vaccine research from academic and pharmaceutical institutions in other countries. Russia denied the claim, but has a history of cyber-espionage and cyberattacks on foreign targets. In November 2020, Microsoft reported that the Russian state-sponsored hacking group Fancy Bear (APT28) and North Korean state-sponsored hacking groups nicknamed &quot;Zinc&quot; and &quot;Cerium&quot; had been implicated in recent cyberattacks against researchers developing a COVID-19 vaccine (including in Canada, France, India, South Korea, and the U.S.) as well as against the World Health Organization, and that the cyberattackers had used both brute force and phishing techniques to compromise computer systems. Microsoft reported that at least nine healthcare institutions were targeted, and that some attempts were successful. In February 2021, South Korean's National Intelligence Service gave a closed-door briefing to members of the South Korean parliament about North Korean efforts to steal COVID-19 vaccine technology from Pfizer.
 
 Preclinical research
-thumb|NIAID (NIH) scientist researching COVID‑19 vaccine. (30 January 2020)
+
 
 In April 2020, the WHO issued a statement representing dozens of vaccine scientists around the world, pledging collaboration to speed development of a vaccine against COVID‑19. The WHO coalition is encouraging international cooperation between organizations developing vaccine candidates, national regulatory and policy agencies, financial contributors, public health associations, and governments, for eventual manufacturing of a successful vaccine in quantities sufficient to supply all affected regions, particularly low-resource countries.
 
@@ -76,7 +72,7 @@ Industry analysis of past vaccine development shows failure rates of 84–90%. B
 
 To assess the potential for vaccine efficacy, unprecedented computer simulations and new COVID‑19-specific animal models are being developed multinationally. Of the confirmed active vaccine candidates, about 70% are being developed by private companies, with the remaining projects under development by academic, government coalitions, and health organizations.  Historically, the probability of success for an infectious disease vaccine candidate to pass preclinical barriers and reach PhaseI of human testing is 41–57%.
 
- Challenges 
+Challenges
 The rapid development and urgency of producing a vaccine for the COVID‑19 pandemic may increase the risks and failure rate of delivering a safe, effective vaccine. One study found that between 2006 and 2015, the success rate of obtaining approval from PhaseI to successful PhaseIII trials was 16.2% for vaccines, and CEPI indicates a potential success rate of only 10% for vaccine candidates in 2020 development.
 
 Research at universities is obstructed by physical distancing and closing of laboratories.
@@ -92,7 +88,7 @@ Prior to the pandemic, ADE was observed in animal studies of laboratory rodents 
 However,  there have been no observed incidences with vaccines for COVID-19 in trials with nonhuman primates, in clinical trials with humans, or following the widespread use of approved vaccines.
 
 Trials
-thumb|Volunteer receives CoronaVac injection during Phase III trial by Sinovac in Indonesia.
+
 
 In April 2020, the WHO published an &quot;R&amp;D Blueprint (for the) novel Coronavirus&quot; (Blueprint). The Blueprint documented a &quot;large, international, multi-site, individually randomized controlled clinical trial&quot; to allow &quot;the concurrent evaluation of the benefits and risks of each promising candidate vaccine within 3–6 months of it being made available for the trial.&quot; The Blueprint listed a Global Target Product Profile (TPP) for COVID‑19, identifying favorable attributes of safe and effective vaccines under two broad categories: &quot;vaccines for the long-term protection of people at higher risk of COVID‑19, such as healthcare workers&quot;, and other vaccines to provide rapid-response immunity for new outbreaks. The international TPP team was formed to 1) assess the development of the most promising candidate vaccines; 2) map candidate vaccines and their clinical trial worldwide, publishing a frequently updated &quot;landscape&quot; of vaccines in development; 3) rapidly evaluate and screen for the most promising candidate vaccines simultaneously before they are tested in humans; and 4) design and coordinate a multiple-site, international randomized controlled trialthe &quot;Solidarity trial&quot; for vaccinesto enable simultaneous evaluation of the benefits and risks of different vaccine candidates under clinical trials in countries where there are high rates of COVID‑19 disease, ensuring fast interpretation and sharing of results around the world. The WHO vaccine coalition will prioritize which vaccines should go into Phase II and III clinical trials, and determine harmonized PhaseIII protocols for all vaccines achieving the pivotal trial stage.
 
@@ -118,18 +114,18 @@ Proposed challenge studies
 
 Challenge studies are a type of clinical trial involving the intentional exposure of the test subject to the condition tested, an approach that can significantly accelerate vaccine development. Human challenge studies may be ethically controversial because they involve exposing test subjects to dangers beyond those posed by potential side effects of the substance being tested. Challenge studies have been used for diseases less deadly than COVID‑19 infection, such as common influenza, typhoid fever, cholera, and malaria. The World Health Organization developed a guidance document with criteria for conducting COVID‑19 challenge studies in healthy people, including scientific and ethical evaluation, public consultation and coordination, selection and informed consent of the participants, and monitoring by independent experts. Beginning in January 2021, dozens of young adult volunteers will be deliberately infected with COVID‑19 in a challenge trial conducted in a London hospital under management by the British government COVID‑19 Vaccine Taskforce. Once an infection dose of COVID‑19 is identified, two or more of the candidate COVID‑19 vaccines will be tested for effectiveness in preventing infection.
 
- Authorizations and licensure 
+Authorizations and licensure
 At the beginning of the COVID‑19 pandemic in 2020, the WHO issued a guideline as an Emergency Use Listing of new vaccines, a process derived from the 2013–16 Ebola epidemic. It required that a vaccine candidate developed for a life-threatening emergency be manufactured using GMP and that it complete development according to WHO prequalification procedures.
 
 Even as new vaccines are developed during the COVID‑19 pandemic, licensure of COVID‑19 vaccine candidates requires submission of a full dossier of information on development and manufacturing quality. In the UK and the EU, companies may use a &quot;rolling review process&quot;, supplying data as they become available during Phase III trials, rather than developing the full documentation over months or years at the end of clinical research, as is typical. This rolling process allows the UK's regulator (MHRA) and the European Committee for Medicinal Products for Human Use to evaluate clinical data in real time, enabling a promising vaccine candidate to be approved on a rapid timeline by both the UK's MHRA and the European Medicines Agency (EMA). A rolling review process for the Moderna vaccine candidate was initiated in October by Health Canada and the EMA, and in November in Canada for the Pfizer-BioNTech candidate.
 
- Early authorizations in China and Russia 
+Early authorizations in China and Russia
 On 24 June 2020, China approved the CanSino vaccine for limited use in the military and two inactivated virus vaccines for emergency use in high-risk occupations. On 11 August 2020, Russia announced the approval of its Sputnik V vaccine for emergency use, though one month later only small amounts of the vaccine had been distributed for use outside of the phase 3 trial. In September, the United Arab Emirates approved emergency use of the Sinopharm BIBP vaccine for healthcare workers, followed by similar emergency use approval from Bahrain in November.
 
- First authorizations of RNA vaccines 
+First authorizations of RNA vaccines
 In the United States, an Emergency Use Authorization (EUA) is &quot;a mechanism to facilitate the availability and use of medical countermeasures, including vaccines, during public health emergencies, such as the current COVID‑19 pandemic.&quot; Once an EUA is issued by the FDA, the vaccine developer is expected to continue the Phase III clinical trial to finalize safety and efficacy data, leading to application for licensure (approval) in the United States. In mid-2020, concerns that the FDA might grant a vaccine EUA before full evidence from a Phase III clinical trial was available raised broad concerns about the potential for lowered standards in the face of political pressure. On 8 September 2020, nine leading pharmaceutical companies involved in COVID‑19 vaccine research signed a letter, pledging that they would submit their vaccines for emergency use authorization only after Phase III trials had demonstrated safety and efficacy.
 
-thumb|Pfizer-BioNTech COVID-19 vaccine.
+
 
 The Pfizer-BioNTech partnership submitted an EUA request to the FDA for the mRNA vaccine BNT162b2 (active ingredient tozinameran) on 20 November 2020. On 2 December 2020, the United Kingdom's Medicines and Healthcare products Regulatory Agency (MHRA) gave temporary regulatory approval for the Pfizer–BioNTech vaccine, becoming the first country to approve this vaccine and the first country in the Western world to approve the use of any COVID‑19 vaccine. On 8 December 2020, 90-year-old Margaret Keenan received the vaccine at University Hospital Coventry, becoming the first person known to be vaccinated outside of a trial, as the UK's vaccination programme began. However, other vaccines had been given earlier in Russia. On 11 December 2020, the US Food and Drug Administration (FDA) granted an Emergency Use Authorization (EUA) for the Pfizer-BioNTech vaccine. On 19 December 2020, the Swiss Agency for Therapeutic Products (Swissmedic) approved the Pfizer-BioNTech vaccine for regular use, two months after receiving the application. This was the first authorization by a stringent regulatory authority under a standard procedure for any COVID‑19 vaccine. On 23 December, a 90-year-old Lucerne resident became the first person to receive the vaccine in continental Europe.
 
@@ -137,17 +133,17 @@ As of December 2020, many countries and the European Union have authorized or ap
 
 Moderna submitted a request for an EUA for mRNA-1273 to the FDA on 30 November 2020. On 18 December 2020, the FDA granted an EUA for the Moderna vaccine.
 
- United Kingdom 
+United Kingdom
 The UK Medicines and Healthcare products Regulatory Agency (MHRA) gave the first approval to the Oxford/AstraZeneca vaccine on 30 December 2020, as its second vaccine to enter the national rollout under a conditional and temporary authorization to supply.
 
- Australia 
+Australia
 In October 2020, the Australian Therapeutic Goods Administration (TGA) granted provisional determinations to AstraZeneca Pty Ltd in relation to its COVID‑19 vaccine, ChAdOx1-S [recombinant] and to Pfizer Australia Pty Ltd in relation to its COVID‑19 vaccine, BNT162b2 [mRNA]. Janssen Cilag Pty Ltd was granted a provisional determination in relation to its COVID‑19 vaccine, Ad26.COV2.S, in November 2020.
 
 On 24 January 2021, the TGA granted provisional approval to Pfizer Australia Pty Ltd for Comirnaty.
 
 On 24 June 2021, the TGA granted provisional determination to Moderna Australia Pty Ltd for Elasomeran.
 
- European Union 
+European Union
 In October 2020, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) started 'rolling reviews' of the vaccines known as COVID‑19 Vaccine AstraZeneca (ChAdOx1-SARS-CoV-2) and Pfizer-BioNTech COVID‑19 Vaccine (BNT162b2). The EMA released an update on the status of its rolling review of the COVID‑19 Vaccine AstraZeneca in December 2020, after the UK granted a temporary authorization of supply for the vaccine.
 
 In November 2020, the EMA published a safety monitoring plan and guidance on risk management planning (RMP) for COVID‑19 vaccines. The plan outlines how relevant new information emerging after the authorization and uptake of COVID‑19 vaccines in the pandemic situation will be collected and promptly reviewed. All RMPs for COVID‑19 vaccines will be published on the EMA's website. The EMA published guidance for developers of potential COVID‑19 vaccines on the clinical evidence to include in marketing authorization applications.
@@ -174,21 +170,21 @@ In March 2021, the CHMP started a rolling review of Sputnik V (Gam-COVID-Vac). T
 
 In May 2021, the CMMP started evaluating the use of Comirnaty to include young people aged 12 to 15, and it started a rolling review of Sinovac COVID-19 Vaccine. The EU applicant for Sinovac is Life'On S.r.l.
 
- References 
+References
 
 
- Further reading 
+Further reading
 * 
 * 
 
- External links 
+External links
 * 
 * 
 
 
 
 
- 
+
 </segment>
 	</text>
 </file>

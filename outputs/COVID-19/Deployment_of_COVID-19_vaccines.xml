@@ -3,11 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-06-19T22:27:47Z" sourceCorpus="COVID-19" filename="66426614" title="Deployment_of_COVID-19_vaccines" url="https://en.wikipedia.org/wiki/Deployment_of_COVID-19_vaccines">
 	<text>
-		<segment id="id66426614">thumb|upright=1.2|Share of population fully vaccinated against COVID19 relative to a country's total population. See date on map.
-thumb|upright=1.2|Share of population which has received at least one dose of a COVID19 vaccine relative to a country's total population. See date on map.
-thumb|upright=1.2|COVID19 vaccine doses administered per 100 people by country. See date on map.
-
-, 13.53billion COVID-19 vaccine doses have been administered worldwide, with 70.6 percent of the global population having received at least one dose.  While 4.19million vaccines were then being administered daily, only 22.3 percent of people in low-income countries had received at least a first vaccine by September 2022, according to official reports from national health agencies, which are collated by Our World in Data.
+		<segment id="id66426614">, 13.53billion COVID-19 vaccine doses have been administered worldwide, with 70.6 percent of the global population having received at least one dose.  While 4.19million vaccines were then being administered daily, only 22.3 percent of people in low-income countries had received at least a first vaccine by September 2022, according to official reports from national health agencies, which are collated by Our World in Data.
 
 During a pandemic on the rapid timeline and scale of COVID-19 cases in 2020, international organizations like the World Health Organization (WHO) and Coalition for Epidemic Preparedness Innovations (CEPI), vaccine developers, governments, and industry evaluated the distribution of the eventual vaccine(s). Individual countries producing a vaccine may be persuaded to favor the highest bidder for manufacturing or provide first-class service to their own country. Experts emphasize that licensed vaccines should be available and affordable for people at the frontlines of healthcare and in most need.
 
@@ -15,11 +11,11 @@ In April 2020, it was reported that the UK agreed to work with 20 other countrie
 
 The WHO had set out the target to vaccinate 40% of the population of all countries by the end of 2021 and 70% by mid-2022, but many countries missed the 40% target at the end of 2021.
 
- Distribution 
+Distribution
 Note about table in this section: Number and percentage of people who have received at least one dose of a COVID-19 vaccine (unless noted otherwise). May include vaccination of non-citizens, which can push totals beyond 100% of the local population. Table is updated daily by a bot.
 
 
- Phased distribution 
+Phased distribution
 Many countries have implemented phased distribution plans that prioritize those at highest risk of complications such as the elderly and those at high risk of exposure and transmission such as healthcare workers.
 
 In the United States, the Advisory Committee on Immunization Practices (ACIP) of the Centers for Disease Control and Prevention (CDC) voted in December 2020, that the first doses of the vaccine should be prioritized for healthcare workers and residents and staff of nursing homes. ACIP recommended that the second phase of distribution (Phase 1b) include persons aged ≥75 years and non-healthcare frontline essential workers such as those employed in grocery stores, restaurants, military, law enforcement, fire departments, retail, sanitation, schools, public transportation, self-storage, hotels, warehousing, and news media. However, states control the final plans for prioritization, distribution, and logistics of vaccinating everyone as supply becomes available.
@@ -33,17 +29,17 @@ Some countries used accelerated dose 1 plans with extended dose 2 intervals afte
 Mixed series
 The use of the different vaccines in a two-shot regimen is not widespread; there is no data on the efficacy of mixed series for COVID-19 vaccines but such series are not expected to be unsafe or ineffective. The US Centers for Disease Control and Prevention (CDC) recommends the use of a mixed series only in exceptional circumstances, such as where a second dose of the same vaccine cannot be delivered in a reasonable timeframe. In Canada, authorities were investigating the effectiveness of a mixed series and ultimately recommended the use of a first shot consisting of the Oxford-AstraZeneca COVID-19 vaccine, followed by one of the mRNA vaccines. In June 2021, German authorities recommended using mRNA vaccines as a second shot after an AstraZeneca shot in younger people as a precaution to avoid a rare blood clotting side effect associated with the AstraZeneca vaccine. Thailand began mixing-and-matching doses of the AstraZeneca and Sinovac vaccines in July 2021 amid concerns about the Sinovac vaccine's long-term protection.
 
- Equitable access 
+Equitable access
 
 
-thumb|left|Health officials distribute the Moderna COVID-19 vaccine to frontline health workers and first responders in Baltimore County, Maryland, United States.
+
 During 2020, as the COVID‑19 pandemic escalated globally and vaccine development intensified, the World Health Organization (WHO) COVAX facility adopted the motto &quot;No one is safe unless everyone is safe&quot; to emphasize the need for equitable vaccination. The facility set a goal of supplying COVID‑19 vaccines to nearly 100 low-to-middle income countries that could not afford them. COVAX sought to fundraise  to purchase and deliver vaccines to participating countries in proportion to their populations. On 18 December 2020, the facility announced agreements with vaccine manufacturers to supply 1.3billion doses for 92 low-middle income countries in the first half of 2021.
 
 Yet, by mid-December, some 16 countries representing only 14% of the world's population had preordered more than 10billion vaccine doses or about 51% of the available world supply. Specifically, Canada, Australia, and Japan  having only 1% of the world's COVID‑19 cases  had collectively reserved some 1billion vaccine doses, while the COVAX facility had reserved only a few hundred million doses. At the Group of Seven summit in June 2021, the United States promised to distribute 500million vaccine doses internationally; this distribution began on 17 August.
 
 Preorders from rich countries were made during 2020 with 13 different vaccine manufacturers, whereas those for low-to-middle income countries were made primarily for the Oxford–AstraZeneca COVID-19 vaccine, which is lowest in cost and has no special refrigeration needs.
 
-thumb|World Health Organization communication describing factors involved in National Plans for Vaccines
+
 The CEPI, the WHO, and charitable vaccine organizations, such as the Gates Foundation and GAVI, raised over  during the first half of 2020, to fund vaccine development and preparedness for vaccinations, particularly for children in under-developed countries. CEPI, which was created to monitor fair distribution of infectious disease vaccines to low- and middle-income countries, has recommended considering manufacturing capacity, financing and purchasing, and releasing vaccine developers from liability. Despite opposition from some vaccine manufacturers, CEPI revised its February 2020 equitable access policy to apply specifically to its COVID‑19 vaccine funding:
 
 # &quot;prices for vaccines will be set as low as possible for territories that are or may be affected by an outbreak of a disease for which CEPI funding was used to develop a vaccine;
@@ -60,15 +56,15 @@ As of March 2021, the United States had ordered twice the necessary doses to cov
 
 In late November 2021 the World Health Organization published, &quot;it is vitally important that inequities in access to COVID-19 vaccines are urgently addressed to ensure that vulnerable groups everywhere, including health workers and older persons, receive their first and second doses, alongside equitable access to treatment and diagnostics.&quot; Inequalities in vaccine distribution facilitate the emergence of new variants like SARS-CoV-2 Omicron variant.
 
- Concerns 
+Concerns
 An analysis conducted in late 2020 of premarket vaccine purchase commitments indicated that wealthy countries may receive their vaccines in 2020–21 while developing countries may be excluded from vaccinations until 2023–24. Data from April 2021 comports with this expectation since 25% of the population in high income countries have been vaccinated compared to only 0.2% in low income countries.
 
 The head of the World Health Organization said on 4 August 2021 that rich countries had administered about 100 doses per 100 people while poor countries had administered only about 1.5 doses for every 100 people, and therefore, in his estimation, it was important to prioritize vaccination in poor countries before offering booster vaccines in rich countries. The WHO Director General Tedros Adhanom Ghedreyesus raised concerns about rich countries hoarding vaccines at the expense of citizens in poorer nations who wait for vaccines to either become available or are donated. The WHO Regional Office of Africa highlighted vaccine discard in African countries, after Nigeria destroyed about 1 million donated doses of AstraZeneca vaccine after being donated with only a few weeks till expiration. Other countries such as Malawi, and South Sudan have either destroyed expired or close to expiring vaccines or paused donated shipments due to expiration concerns.
 
- Discarding 
+Discarding
 It is estimated that least 215 million doses of COVID-19 vaccines purchased by EU countries have been discarded as per 2023, based on vaccine prices reported in the media.
 
- Intellectual property 
+Intellectual property
 The first polio vaccine was never patented; some have argued that similar treatment of an effective COVID‑19 vaccine could enable fair distribution.
 
 Initially, negotiations at the World Trade Organization (WTO) on the issue of waiving patent rights were blocked for months by resistance by the US, Switzerland, Norway, and the EU. Initially one observer considered the US position unlikely to change, but as of April 2021 the US administration was discussing the issue and then reversed course and announced its support for a patent waiver for COVID-19 vaccines on 5 May 2021. 400 non-profit organizations and 115 members of the European Commission have signed a letter urging the United States and Europe to side with the WTO members in the global south.
@@ -108,7 +104,7 @@ As restrictions on vaccine eligibility were lowered in the United States, wealth
 
 In the European Union, several travel agencies offered &quot;vaccine vacations&quot;. The Maldives also offered vaccines as part of holiday travel packages.
 
- Cost 
+Cost
 An effective vaccine for COVID‑19 could save trillions of dollars in global economic impact, according to economists Arnab Acharya and Sanjay Reddy who advocate suspending patent protections for vaccines temporarily and compensating the affected companies. Any price tag in the billions would therefore look small in comparison. In early stages of the pandemic, it was not known if it would be possible to create a safe, reliable and affordable vaccine for this virus, and it was not known exactly how much the vaccine development could cost. Even with several vaccines on the market, the antigenicity changes in new variants of the virus mean that the billions of dollars could still be invested without success.
 
 Before an effective vaccine was developed, it was clear that billions of doses would need to be manufactured and distributed worldwide. In April 2020, the Gates Foundation estimated that manufacturing and distribution could cost as much as . Gates also admitted &quot;Ideally, there would be global agreement about who should get the vaccine first, but given how many competing interests there are, this is unlikely to happen&quot;. From Phase I clinical trials, 84–90% of vaccine candidates fail to make it to final approval during development, and from Phase III, 25.7% failthe investment by a manufacturer in a vaccine candidate may exceed  and end with millions of useless doses given advanced manufacturing agreements. In the case of the Oxford-AstraZeneca COVID-19 vaccine, 97% of this came from taxpayer money.
@@ -117,7 +113,7 @@ As of November 2020, companies subsidized under the United States' Operation War
 
 
 Supply chain
-thumb|Moderna vaccine box packed with insulation and cold packs
+
 
 Deploying a COVID‑19 vaccine may require worldwide transport and tracking of 10–19billion vial doses, an effort readily becoming the largest supply chain challenge in history. As of September 2020, supply chain and logistics experts expressed concern that international and national networks for distributing a licensed vaccine were not ready for the volume and urgency, due mainly to deterioration of resources during 2020 pandemic lockdowns and downsizing that degraded supply capabilities. Globally, supplies critical to vaccine research and development are increasingly scarce due to international competition or national sequestration.
 
@@ -157,7 +153,7 @@ In September 2020, Grand River Aseptic Manufacturing agreed with Johnson &amp; J
 
 Cold chain
 
-thumb|COVID‑19 vaccine shipment protected by thermal wrapping while in transit. (Delta, 16 December 2020)
+
 Different vaccines have different shipping and handling requirements. For example, the Pfizer-BioNTech COVID‑19 vaccine must be shipped and stored between , must be used within five days of thawing, and has a minimum order of 975 doses, making it unlikely to be rolled out in settings other than large, well-equipped hospitals. The Moderna vaccine vials require storage above  and between . Once refrigerated, the Moderna vaccine can be kept between  for up to 30 days.
 
 Vaccines (and adjuvants) are inherently unstable during temperature changes, requiring cold chain management throughout the entire supply chain, typically at temperatures of . Because COVID‑19 vaccine technologies are varied among several novel technologies, there are new challenges for cold chain management, with some vaccines that are stable while frozen but liable to heat, while others should not be frozen at all, and some are stable across temperatures. Failure to maintain cold chain temperature stability results in damage that can reduce or even eliminate vaccine efficacy. Sinopharm and Sinovac's vaccines are examples of inactivated vaccines which can be transported using existing cold chain systems at .
@@ -167,7 +163,7 @@ modRNA vaccine technologies in development may be more difficult to manufacture 
 After a vaccine vial is punctured to administer a dose, it is viable for only six hours, then must be discarded, requiring attention to local management of cold storage and vaccination processes. Because the COVID‑19 vaccine will likely be in short supply for many locations during early deployment, vaccination staff will have to avoid spoilage and waste, which typically are as much as 30% of the supply. The cold chain is further challenged by the type of local transportation for the vaccines in rural communities, such as by motorcycle or delivery drone, need for booster doses, use of diluents, and access to vulnerable populations, such as healthcare staff, children and the elderly.
 
 Air and land transport
-thumb|Boxes of AstraZeneca's COVID-19 vaccine from India are delivered in Brazil (January 2021).
+
 Coordination of international air cargo is an essential component of time- and temperature-sensitive distribution of COVID‑19 vaccines, but, as of September 2020, the air freight network is not prepared for multinational deployment. &quot;Safely delivering COVID‑19 vaccines will be the mission of the century for the global air cargo industry. But it won't happen without careful advance planning. And the time for that is now. We urge governments to take the lead in facilitating cooperation across the logistics chain so that the facilities, security arrangements and border processes are ready for the mammoth and complex task ahead,&quot; said IATA's Director General and CEO, Alexandre de Juniac, in September 2020.
 
 For the severe reduction in passenger air traffic during 2020, airlines downsized personnel, trimmed destination networks, and put aircraft into long-term storage. As the lead agencies for procurement and supply of the COVID‑19 vaccine within the WHO COVAX facility, GAVI and UNICEF are preparing for the largest and fastest vaccine deployment ever, necessitating international air freight collaboration, customs and border control, and possibly as many as 8,000 cargo planes to deliver just one vaccine dose to multiple countries.
@@ -175,7 +171,7 @@ For the severe reduction in passenger air traffic during 2020, airlines downsize
 Two of the first approved vaccines, Pfizer and BioNTech's Pfizer-BioNTech COVID‑19 vaccine and Moderna's mRNA-1273, must be kept cold during transport. Keeping the temperatures sufficiently low is accomplished with specially designed containers and dry ice, but dry ice is only allowed in limited quantities on airplanes as the gases released via sublimation may be toxic. In the United States, the Federal Aviation Administration (FAA) limits the amount of dry ice on a Boeing 777-224 to , but it temporarily allowed United Airlines to transport up to —nearly 1million doses—between Brussels and Chicago. The Centers for Disease Control and Prevention (CDC) tasked McKesson Corporation with vaccine distribution in the U.S.; the company handled all major vaccines except Pfizer's. American Airlines, Boeing, and Delta Air Lines are also working to increase dry ice transportation capacity, and American, Delta, and United each operate their own cold storage networks in the US. FedEx and UPS have installed ultra-cold freezers at air cargo hubs in Europe and North America, and UPS can manufacture  of dry ice per hour.
 
 Security and corruption
-thumb|Federal police escort COVID-19 vaccine shipment in Brazil (January 2021).
+
 Medicines are the world's largest fraud market, worth some $200billion per year, making the widespread demand for a COVID‑19 vaccine vulnerable to counterfeit, theft, scams, and cyberattacks throughout the supply chain. The vaccine has been referred to as &quot;the most valuable asset on earth&quot;; Interpol called it &quot;liquid gold&quot; and warned of an &quot;onslaught of all types of criminal activity&quot;. Anticorruption, transparency, and accountability safeguards are being established to reduce and eliminate corruption of COVID‑19 vaccine supplies. Absence of harmonized regulatory frameworks among countries, including low technical capacity, constrained access, and ineffective capability to identify and track genuine vs. counterfeit vaccines, may be life-threatening for vaccine recipients, and would potentially perpetuate the COVID‑19 pandemic. Tracking system technologies for packaging are being used by manufacturers to trace vaccine vials across the supply chain, and to use digital and biometric tools to assure security for vaccination teams. In December 2020, Interpol warned that organized crime could infiltrate the vaccine supply chain, steal product through physical means, and data theft, or even offer counterfeit vaccine kits. Further, vaccines which require constant freezing temperatures are also susceptible to sabotage.
 
 GPS devices will be used in the United States to track the vaccines. In Colorado, the vaccine shipments will be escorted by Colorado State Patrol officers from Denver International Airport to the state's eight distribution points; the exact plans are confidential and law enforcement will &quot;maintain a low-key profile&quot;.
@@ -198,7 +194,7 @@ Border processes for efficient handling and customs clearance within individual 
 * Facilitating flexible operations for efficient national deployment
 * Granting arrival priority to maintain vaccine temperature requirements
 
- Tailored vaccination strategies 
+Tailored vaccination strategies
 During a pandemic wave, rapid vaccination of those driving virus dissemination (the socially active) and vaccination of those at highest risk (the elderly, often socially less active) are two desirable goals that are at odds in the setting of limited vaccine supply. However, the recent study (published in 2022) on the national COVID-19 vaccination schedules in 29 countries (EU, UK, and Israel) shows that all researched schedules prioritized criteria referring to higher risk (being over 65 years old and/or having coexisting health conditions) over the criteria referring to virus dissemination (occupation and/or housing conditions). Postponing a second vaccine dose (the first is more important for avoiding a severe disease course) to allow faster access to the first dose for more persons has been chosen as deployment strategies in some countries. Using a reduced mRNA vaccine dose in the younger, who have a lower disease risk, a stronger immune response to the vaccination but are key drivers of pandemic waves, may allow reaching more persons faster, with vaccination strategy models predicting a significant reduction of nation-wide case load and deaths. On the other side, protection of some groups, e.g. the elderly or the immunosuppressed may require additional booster doses. Concerns regarding the impact of vaccination in pregnancy, compounded through miss information disseminated through numerous sources including social media platforms, led to poor uptake in this group, despite evidence COVID-19 vaccination has no detrimental impact on live birth or miscarriage.
 
 Liability
@@ -209,7 +205,7 @@ In the European Union, the COVID‑19 vaccines are licensed under a Conditional 
 
 Pfizer has been criticised for demanding far-reaching liability waivers and other guarantees from countries such as Argentina and Brazil, which go beyond what was expected from other countries such as the US (above).
 
- See also 
+See also
 columns-list|colwidth=30em|
 ;Africa
 * Algeria
@@ -290,11 +286,11 @@ columns-list|colwidth=30em|
 * Peru
 
 
- Notes 
+Notes
 
 
 
- References 
+References
 
 
 
@@ -302,7 +298,7 @@ columns-list|colwidth=30em|
 
 
 
- 
+
 
 
 </segment>

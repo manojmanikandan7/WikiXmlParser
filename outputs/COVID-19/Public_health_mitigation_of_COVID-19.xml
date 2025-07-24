@@ -3,34 +3,31 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-05-27T21:29:14Z" sourceCorpus="COVID-19" filename="65339945" title="Public_health_mitigation_of_COVID-19" url="https://en.wikipedia.org/wiki/Public_health_mitigation_of_COVID-19">
 	<text>
-		<segment id="id65339945">thumb|upright=1.5|Goals of mitigation include delaying and reducing peak burden on healthcare (flattening the curve) and lessening overall cases and health impact. Moreover, progressively greater increases in healthcare capacity (raising the line) such as by increasing bed count, personnel, and equipment, help to meet increased demand.
- thumb|upright=1.5|Mitigation attempts that are inadequate in strictness or duration—such as premature relaxation of distancing rules or stay-at-home orders—can allow a resurgence after the initial surge and mitigation.
-
-Part of managing an infectious disease outbreak is trying to delay and decrease the epidemic peak, known as flattening the epidemic curve. This decreases the risk of health services being overwhelmed and provides more time for vaccines and treatments to be developed. Non-pharmaceutical interventions that may manage the outbreak include personal preventive measures such as hand hygiene, wearing face masks, and self-quarantine; community measures aimed at physical distancing such as closing schools and cancelling mass gathering events; community engagement to encourage acceptance and participation in such interventions; as well as environmental measures such surface cleaning. It has also been suggested that improving ventilation and managing exposure duration can reduce transmission.
+		<segment id="id65339945">Part of managing an infectious disease outbreak is trying to delay and decrease the epidemic peak, known as flattening the epidemic curve. This decreases the risk of health services being overwhelmed and provides more time for vaccines and treatments to be developed. Non-pharmaceutical interventions that may manage the outbreak include personal preventive measures such as hand hygiene, wearing face masks, and self-quarantine; community measures aimed at physical distancing such as closing schools and cancelling mass gathering events; community engagement to encourage acceptance and participation in such interventions; as well as environmental measures such surface cleaning. It has also been suggested that improving ventilation and managing exposure duration can reduce transmission.
 
 During early outbreaks, speed and scale were considered key to mitigation of COVID-19, due to the fat-tailed nature of pandemic risk and the exponential growth of COVID-19 infections. For mitigation to be effective, (a) chains of transmission must be broken as quickly as possible through screening and containment, (b) health care must be available to provide for the needs of those infected, and (c) contingencies must be in place to allow for effective rollout of (a) and (b).
 
 By May 2023, in most countries restrictions had been lifted and everyday life had returned to how it was before the pandemic due to improvement in the pandemic's situation.
 
 
- Initial containment measures 
+Initial containment measures
 
 More drastic actions aimed at containing the outbreak were taken in China once the severity of the outbreak became apparent, such as quarantining entire cities or imposing strict travel bans. Other countries also adopted a variety of measures aimed at limiting the spread of the virus, including resorting to states of emergency. South Korea introduced the mass screening and localised quarantines and issued alerts on the movements of infected individuals. Singapore provided financial support for those infected who quarantined themselves and imposed large fines for those who failed to do so. Taiwan increased face mask production and penalised hoarding of medical supplies. The zero-COVID approach aims to prevent viral transmission, using a number of different measures, including vaccination and non-pharmaceutical interventions such as contact-tracing and quarantine. Different combinations of measures are used during the initial containment phase, when the virus is first eliminated from a region, and the sustained containment phase, when the goal is to prevent reestablishment of viral transmission within the community. Experts differentiate between zero-COVID, which is an elimination strategy, and mitigation strategies that attempt to lessen the effects of the virus on society, but which still tolerate some level of transmission within the community. These initial strategies can be pursued sequentially or simultaneously during the acquired immunity phase through natural and vaccine-induced immunity.
 
- Costs and challenges 
+Costs and challenges
 Simulations for Great Britain and the United States show that mitigation (slowing but not stopping epidemic spread) and suppression (reversing epidemic growth) have major challenges. Optimal mitigation policies might reduce peak healthcare demand by two-thirds and deaths by half, but still result in hundreds of thousands of deaths and overwhelmed health systems. Suppression can be preferred but needs to be maintained for as long as the virus is circulating in the human population (or until a vaccine becomes available), as transmission otherwise quickly rebounds when measures are relaxed. Until now, the evidence for public health (nonpharmaceutical) interventions such as social distancing, school closure, and case isolation comes mainly from epidemiological compartmental models and, in particular, agent-based models (ABMs). Such models have been criticized for being based on simplifying and unrealistic assumptions. Still, they can be useful in informing decisions regarding mitigation and suppression measures in cases when ABMs are accurately calibrated. An Argentinian modelling study asserted that complete lockdowns and healthcare system overextension could be avoided if 45 percent of asymptomatic patients were detected and isolated. Long-term intervention to suppress the pandemic has considerable social and economic costs.
 
- Efficacy 
+Efficacy
 
 
 In August 2020, a working paper by the National Bureau of Economic Research (NBER) questioned major effects of many mitigation and suppression measures. The authors compared the development of casualties connected to SARS-CoV-2 until July 2020, in 25 US states and 23 countries that had counted more than 1.000 overall deaths each. From the date a state passed a threshold of 25 deaths, the statistical study observed a largely uniform development, independently from type and time frame of governmental interactions. Thus, the growth rate of casualties dropped to zero within 20–30 days, and the variability between regions was low, except at the beginning of the epidemics. The authors computed the effective reproduction number Reff with the aid of different models like the SIR model, and found it hovering around one everywhere after the first 30 days of the epidemic. Hence, they did not find evidence for an influence of lockdowns, travel restrictions or quarantines on virus transmission. For contradicting studies, they assume an omitted variable bias. Candidates for ignored effects could be voluntary social distancing, the structure of social interaction networks (some people contact more networks faster than others), and a natural tendency of an epidemics to spread quickly at first and slow down, which has been observed in former Influenza pandemics, but not yet completely understood. The reviewer Stephen C. Miller concludes “that human interaction does not conform to simple epidemiological models”.
 
 Many reviews find high efficacy of mitigation measures such as vaccines, face masks and social distancing. For instance, a systematic review and meta-analysis found that mask-wearing cuts the incidence of COVID-19 by 53% overall. The efficacy may also be substantially higher, especially if certain types of masks are worn or under specific conditions and settings.
 
- Contact tracing 
+Contact tracing
 
-thumb|Manual contact tracing via mandatory traveler health forms at New York City's LaGuardia Airport in August 2020.
-thumb|150px|The contact tracing app &quot;Corona-Warn-App&quot;
+
+
 
 Contact tracing is an important method for health authorities to determine the source of infection and to prevent further transmission. The use of location data from mobile phones by governments for this purpose has prompted privacy concerns, with Amnesty International and more than a hundred other organisations issuing a statement calling for limits on this kind of surveillance.
 
@@ -48,14 +45,14 @@ In February 2020, China launched a mobile app to deal with the disease outbreak.
 
 Big data analytics on cellphone data, facial recognition technology, mobile phone tracking, and artificial intelligence are used to track infected people and people whom they contacted in South Korea, Taiwan, and Singapore. In March 2020, the Israeli government enabled security agencies to track mobile phone data of people supposed to have coronavirus. According to the Israeli government, the measure was taken to enforce quarantine and protect those who may come into contact with infected citizens. The Association for Civil Rights in Israel, however, said the move was &quot;a dangerous precedent and a slippery slope&quot;. Also in March 2020, Deutsche Telekom shared aggregated phone location data with the German federal government agency, Robert Koch Institute, to research and prevent the spread of the virus. Russia deployed facial recognition technology to detect quarantine breakers. Italian regional health commissioner Giulio Gallera said he has been informed by mobile phone operators that &quot;40% of people are continuing to move around anyway&quot;. The German Government conducted a 48-hour weekend hackathon, which had more than 42,000 participants. Three million people in the UK used an app developed by King's College London and Zoe to track people with COVID-19 symptoms. The president of Estonia, Kersti Kaljulaid, made a global call for creative solutions against the spread of coronavirus.
 
- Health care 
+Health care
 
 
-An army-constructed field hospital outside Östra sjukhuset (Eastern hospital) in Gothenburg, Sweden, contains temporary intensive care units for COVID-19 patients.|thumb
+
 
 Increasing capacity and adapting healthcare for the needs of COVID-19 patients is described by the WHO as a fundamental outbreak response measure. The ECDC and the European regional office of the WHO have issued guidelines for hospitals and primary healthcare services for shifting of resources at multiple levels, including focusing laboratory services towards COVID-19 testing, cancelling elective procedures whenever possible, separating and isolating COVID-19 positive patients, and increasing intensive care capabilities by training personnel and increasing the number of available ventilators and beds. In addition, in an attempt to maintain physical distancing, and to protect both patients and clinicians, in some areas non-emergency healthcare services are being provided virtually.
 
- Research and development 
+Research and development
 There are research-based developments that aim to mitigate COVID-19 spread beyond vaccines, repurposed and new medications and similar conventional measures.
 
 Researchers investigate for safe ways of public transport during the COVID-19 pandemic.
@@ -70,14 +67,14 @@ Researchers report the development of chewing gums that could mitigate COVID-19 
 
 On 23 April 2020, NASA reported building, in 37 days, a ventilator (called VITAL). On April 30, NASA reported receiving fast-track approval for emergency use by the United States Food and Drug Administration for the new ventilator. , 26 manufacturers around the world have been licensed to make the device. The COVID-19 pandemic increased the demand for oxygen concentrators. During the pandemic open source oxygen concentrators were developed, locally manufactured – with prices below imported products – and used, especially during a COVID-19 pandemic wave in India. Due to capacity limitations in the standard supply chains, some manufacturers are 3D printing healthcare material such as nasal swabs and ventilator parts. In one example, when an Italian hospital urgently required a ventilator valve, and the supplier was unable to deliver in the timescale required, a local startup received legal threats due to alleged patent infringement after reverse-engineering and printing the required hundred valves overnight.
 
- Living with COVID-19 
+Living with COVID-19
 
 
- See also 
+See also
 * Treatment and management of COVID-19#Prevention of onward transmission
 * Impact of the COVID-19 pandemic on science and technology
 
- References 
+References
 
 
 </segment>

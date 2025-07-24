@@ -5,8 +5,6 @@
 	<text>
 		<segment id="id63319438">
 
-thumb|320px|How COVID19 vaccines work. The video shows the process of vaccination, from injection with RNA or viral vector vaccines, to uptake and translation, and on to immune system stimulation and effect.
-
 
 A COVID19 vaccine is a vaccine intended to provide acquired immunity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID19).
 
@@ -25,10 +23,8 @@ The 2023 Nobel Prize in Physiology or Medicine was awarded to Katalin Karikó an
 
 
 
- Background 
+Background
 
-thumb|A US airman receiving a COVID19 vaccine, December 2020
-thumb|upright=1.2|Map of countries by approval status
 
  (or equivalent) granted, mass vaccination underway
 
@@ -41,8 +37,8 @@ Vaccines that use an inactive or weakened virus that has been grown in eggs typi
 
 As multiple COVID19 vaccines have been authorized or licensed for use, real-world vaccine effectiveness (RWE) is being assessed using case control and observational studies. A study is investigating the long-lasting protection against SARS-CoV-2 provided by the mRNA vaccines.
 
- Vaccine technologies 
-thumb|300x300px|A conceptual diagram showing three vaccine types for forming SARS‑CoV‑2 proteins to prompt an immune response: (1) RNA vaccine; (2) subunit vaccine; (3) viral vector vaccine
+Vaccine technologies
+[[File:Vaccine candidate mechanisms for SARS-CoV-2 (49948301838).jpg|thumb|300x300px|A conceptual diagram showing three vaccine types for forming SARS‑CoV‑2 proteins to prompt an immune response: (1) RNA vaccine; (2) subunit vaccine; (3) viral vector vaccine]]
 
  The initial focus of SARS-CoV-2 vaccines was on preventing symptomatic, often severe, illness. Most of the first COVID19 vaccines were two-dose vaccines, with the exception single-dose vaccines Convidecia and the Janssen COVID‑19 vaccine, and vaccines with three-dose schedules, Razi Cov Pars and Soberana.
 
@@ -52,7 +48,7 @@ Platforms developed in 2020 involved nucleic acid technologies (nucleoside-modif
 
 Many vaccine technologies being developed for COVID19 use &quot;next-generation&quot; strategies for precise targeting of COVID19 infection mechanisms. Several of the synthetic vaccines use a 2P mutation to lock the spike protein into its prefusion configuration, stimulating an adaptive immune response to the virus before it attaches to a human cell. Vaccine platforms in development may improve flexibility for antigen manipulation and effectiveness for targeting mechanisms of COVID19 infection in susceptible population subgroups, such as healthcare workers, the elderly, children, pregnant women, and people with weakened immune systems.
 
- mRNA vaccines 
+mRNA vaccines
 
 
 
@@ -67,7 +63,7 @@ In May 2025, a different version of the Moderna COVID-19 vaccine, with the trade
 
 In June 2025, the European Medicines Agency announced that they are making data from the marketing authorization applications for COVID19 mRNA vaccines Comirnaty and Spikevax publicly available.
 
- Adenovirus vector vaccines 
+Adenovirus vector vaccines
 
 
 These vaccines are examples of non-replicating viral vector vaccines using an adenovirus shell containing DNA that encodes a SARS‑CoV‑2 protein. The viral vector-based vaccines against COVID19 are non-replicating, meaning that they do not make new virus particles but rather produce only the antigen that elicits a systemic immune response.
@@ -80,14 +76,14 @@ Sputnik V uses Ad26 for its first dose, which is the same as Janssen's only dose
 
 In August 2021, the developers of Sputnik V proposed, in view of the Delta case surge, that Pfizer test the Ad26 component (termed its 'Light' version) as a booster shot.
 
- Inactivated virus vaccines 
+Inactivated virus vaccines
 
 
 Inactivated vaccines consist of virus particles that are grown in culture and then killed using a method such as heat or formaldehyde to lose disease-producing capacity while still stimulating an immune response.
 
 Inactivated virus vaccines authorized in China include the Chinese CoronaVac and the Sinopharm BIBP and WIBP vaccines; there is also the Indian Covaxin, the Russian CoviVac, the Kazakh vaccine QazVac, and the Iranian COVIran Barekat. Vaccines in clinical trials include the Valneva COVID19 vaccine.
 
- Subunit vaccines 
+Subunit vaccines
 
 
 Subunit vaccines present one or more antigens without introducing whole pathogen particles. The antigens involved are often protein subunits, but they can be any molecule fragment of the pathogen.
@@ -96,33 +92,33 @@ The authorized vaccines of this type include the peptide vaccine EpiVacCorona, Z
 
 The V451 vaccine was in clinical trials that were terminated after it was found that the vaccine may potentially cause incorrect results for subsequent HIV testing.
 
- Virus-like particle vaccines 
+Virus-like particle vaccines
 
 
 The authorized vaccines of this type include the Novavax COVID‑19 vaccine.
 
- Other types 
+Other types
 Additional types of vaccines that are in clinical trials include multiple DNA plasmid vaccines, at least two lentivirus vector vaccines, a conjugate vaccine, and a vesicular stomatitis virus displaying the SARS‑CoV‑2 spike protein.
 
 Scientists investigated whether existing vaccines for unrelated conditions could prime the immune system and lessen the severity of COVID19 infections. There is experimental evidence that the BCG vaccine for tuberculosis has non-specific effects on the immune system, but there is no evidence that this vaccine is effective against COVID19.
 
- List of authorized vaccines 
+List of authorized vaccines
 
 
 
 
- Delivery methods 
+Delivery methods
 Most coronavirus vaccines are administered by intramuscular injection, with further vaccine delivery methods being studied for future coronavirus vaccines.
 
- Intranasal 
+Intranasal
 Intranasal vaccines target mucosal immunity in the nasal mucosa, which is a portal for viral entry into the body. These vaccines are designed to stimulate nasal immune factors, such as IgA. In addition to inhibiting the virus, nasal vaccines provide ease of administration because no needles (or needle phobia) are involved.
 
 A variety of intranasal COVID19 vaccines are undergoing clinical trials. The first authorised intranasal vaccine was Razi Cov Pars in Iran at the end of October 2021. The first viral component of Sputnik V vaccine was authorised in Russia as Sputnik Nasal in April 2022. In September 2022, India and China approved two nasal COVID19 vaccines (iNCOVACC and Convidecia), which may (as boosters) also reduce transmission (potentially via sterilizing immunity). In December 2022, China approved a second intranasal vaccine as a booster, trade name Pneucolin.
 
- Autologous 
+Autologous
 Aivita Biomedical is developing an experimental autologous dendritic cell COVID19 vaccine kit where the vaccine is prepared and incubated at the point-of-care using cells from the intended recipient. The vaccine is undergoing small phase I and phase II clinical studies.
 
- Universal vaccine 
+Universal vaccine
 
 A universal coronavirus vaccine would be effective against all coronaviruses and possibly other viruses. The concept was publicly endorsed by NIAID director Anthony Fauci, virologist Jeffery K. Taubenberger, and David M. Morens. In March 2022, the White House released the &quot;National COVID19 Preparedness Plan&quot;, which recommended accelerating the development of a universal coronavirus vaccine.
 
@@ -130,14 +126,14 @@ One attempt at such a vaccine is being developed at the Walter Reed Army Institu
 
 Another strategy is to attach vaccine fragments from multiple strains to a nanoparticle scaffold. One theory is that a broader range of strains can be vaccinated against by targeting the receptor-binding domain, rather than the whole spike protein.
 
- Formulation 
+Formulation
 , eleven of the vaccine candidates in clinical development use adjuvants to enhance immunogenicity. An immunological adjuvant is a substance formulated with a vaccine to elevate the immune response to an antigen, such as the COVID19 virus or influenza virus. Specifically, an adjuvant may be used in formulating a COVID19 vaccine candidate to boost its immunogenicity and efficacy to reduce or prevent COVID19 infection in vaccinated individuals. Adjuvants used in COVID19 vaccine formulation may be particularly effective for technologies using the inactivated COVID19 virus and recombinant protein-based or vector-based vaccines. Aluminum salts, known as &quot;alum&quot;, were the first adjuvant used for licensed vaccines and are the adjuvant of choice in some 80% of adjuvanted vaccines. The alum adjuvant initiates diverse molecular and cellular mechanisms to enhance immunogenicity, including the release of proinflammatory cytokines.
 
 In June 2024, the US Food and Drug Administration advised the manufacturers of the licensed and authorized COVID-19 vaccines that the COVID-19 vaccines (2024-2025 Formula) for use in the United States beginning in fall 2024 should be monovalent JN.1 vaccines.
 
 As of May 2025, the World Health Organization recommends that monovalent JN.1 or KP.2 vaccines remain appropriate vaccine antigens and that monovalent LP.8.1 is a suitable alternative vaccine antigen. The European Medicines Agency recommends updating COVID-19 vaccines to target LP.8.1 for the 2025/2026 vaccination campaign.
 
- Planning and development 
+Planning and development
 
 Since January 2020, vaccine development has been expedited via unprecedented collaboration in the multinational pharmaceutical industry and between governments.
 
@@ -153,7 +149,7 @@ Multiple steps along the entire development path are evaluated, including:
 * optimal manufacturing for scaling to billions of doses, and
 * dissemination of the licensed vaccine.
 
- Challenges 
+Challenges
 There have been several unique challenges with COVID19 vaccine development.
 
 Timelines for conducting clinical researchnormally a sequential process requiring yearsare being compressed into safety, efficacy, and dosing trials running simultaneously over months, potentially compromising safety assurance. For example, Chinese vaccine developers and the Chinese Center for Disease Control and Prevention began their efforts in January 2020, and by March they were pursuing numerous candidates on short timelines.
@@ -164,7 +160,7 @@ Vaccines must progress through several phases of clinical trials to test for saf
 
 Clinical trial organizers may also encounter people unwilling to be vaccinated due to vaccine hesitancy or disbelief in the science of the vaccine technology and its ability to prevent infection. As new vaccines are developed during the COVID19 pandemic, licensure of COVID19 vaccine candidates requires submission of a full dossier of information on development and manufacturing quality.
 
- Organizations 
+Organizations
 Internationally, the Access to COVID‑19 Tools Accelerator is a G20 and World Health Organization (WHO) initiative announced in April 2020. It is a cross-discipline support structure to enable partners to share resources and knowledge. It comprises four pillars, each managed by two to three collaborating partners: Vaccines (also called &quot;COVAX&quot;), Diagnostics, Therapeutics, and Health Systems Connector. The WHO's April 2020 &quot;R&amp;D Blueprint (for the) novel Coronavirus&quot; documented a &quot;large, international, multi-site, individually randomized controlled clinical trial&quot; to allow &quot;the concurrent evaluation of the benefits and risks of each promising candidate vaccine within 3–6 months of it being made available for the trial.&quot; The WHO vaccine coalition will prioritize which vaccines should go into PhaseII andIII clinical trials and determine harmonized PhaseIII protocols for all vaccines achieving the pivotal trial stage.
 
 National governments have also been involved in vaccine development. Canada announced funding for 96 projects for the development and production of vaccines at Canadian companies and universities, with plans to establish a &quot;vaccine bank&quot; that could be used if another coronavirus outbreak occurs, support clinical trials, and develop manufacturing and supply chains for vaccines.
@@ -177,25 +173,25 @@ In the United States, the Biomedical Advanced Research and Development Authority
 
 Large pharmaceutical companies with experience in making vaccines at scale, including Johnson &amp; Johnson, AstraZeneca, and GlaxoSmithKline (GSK), formed alliances with biotechnology companies, governments, and universities to accelerate progress toward effective vaccines.
 
- Clinical research 
+Clinical research
 
 
 
- Post-vaccination complications 
+Post-vaccination complications
 
 
 
- History 
+History
 In November 2021, the full nucleotide sequences of the AstraZeneca and Pfizer/BioNTech vaccines were released by the UK Medicines and Healthcare products Regulatory Agency in response to a freedom of information request.
 
 In June 2025, the European Medicines Agency announced that they are making data from the marketing authorization applications for COVID19 mRNA vaccines Comirnaty and Spikevax publicly available.
 
- Effectiveness 
-thumb|upright=1.35|Death rates from COVID-19 for unvaccinated Americans substantially exceeded those who were vaccinated, with bivalent boosters further reducing the death rate.
-thumb|upright=1.35|Researchers have estimated that COVID-19 vaccines saved around 20 million lives globally in the first year of vaccine availability.
+Effectiveness
+
+
 An analysis involving more than 20 million adults found that vaccinated people had a lower risk of long COVID compared to those who had not had a COVID-19 vaccine.
 
- Duration of immunity 
+Duration of immunity
 As of 2021, available evidence shows that fully vaccinated individuals and those previously infected with SARS-CoV-2 have a low risk of subsequent infection for at least six months. There is insufficient data to determine an antibody titer threshold that indicates when an individual is protected from infection. Multiple studies show that antibody titers are associated with protection at the population level, but individual protection titers remain unknown. For some populations, such as the elderly and the immunocompromised, protection levels may be reduced after both vaccination and infection. Available evidence indicates that the level of protection may not be the same for all variants of the virus.
 
 As of December 2021, there are no FDA-authorized or approved tests that providers or the public can use to determine if a person is protected from infection reliably.
@@ -204,23 +200,23 @@ As of March 2022, elderly residents' protection against severe illness, hospital
 
 The US Centers for Disease Control and Prevention (CDC) recommends a fourth dose of the Pfizer mRNA vaccine  for &quot;certain immunocompromised individuals and people over the age of 50&quot;.
 
- Immune evasion by variants 
+Immune evasion by variants
 In contrast to other investigated prior variants, the SARS-CoV-2 Omicron variant and its BA.4/5 subvariants have evaded immunity induced by vaccines, which may lead to breakthrough infections despite recent vaccination. Nevertheless, vaccines are thought to provide protection against severe illness, hospitalizations, and deaths due to Omicron.
 
- Vaccine adjustments 
+Vaccine adjustments
 
 
 
- Effectiveness against transmission 
+Effectiveness against transmission
 As of 2022, fully vaccinated individuals with breakthrough infections with the SARS-CoV-2 delta (B.1.617.2) variant were found to have a peak viral load similar to unvaccinated cases and could transmit infection in household settings.
 
- Mix and match 
+Mix and match
 According to studies, the combination of two different COVID19 vaccines, also called heterologous vaccination, cross-vaccination, or the mix-and-match method, provides protection equivalent to that of mRNA vaccines, including protection against the Delta variant. Individuals who receive the combination of two different vaccines produce strong immune responses, with side effects no worse than those caused by standard regimens.
 
- Drug interactions 
+Drug interactions
 Methotrexate reduces the immune response to COVID-19 vaccines, making them less effective. Pausing methotrexate for two weeks following COVID-19 vaccination may result in improved immunity. Not taking the medicine for two weeks might result in a minor increase of inflammatory disease flares in some people.
 
- Adverse events 
+Adverse events
 
 For most people, the side effects, also called adverse effects, from COVID19 vaccines are mild and can be managed at home. The adverse effects of the COVID19 vaccination are similar to those of other vaccines, and severe adverse effects are rare. Adverse effects from the vaccine are higher than placebo, but placebo arms of vaccine trials still reported adverse effects that can be attributed to the nocebo effect.
 
@@ -250,8 +246,9 @@ Documented rare serious effects include:
 
 There are rare reports of subjective hearing changes, including tinnitus, after vaccination.
 
- Society and culture 
- Distribution 
+Society and culture
+
+Distribution
 
 Note about the table in this section: number and percentage of people who have received at least one dose of a COVID19 vaccine (unless noted otherwise). May include vaccination of non-citizens, which can push totals beyond 100% of the local population. The table is updated daily by a bot.
 
@@ -262,42 +259,42 @@ Gallery
 |height=240
 |align=center
 |File:World map of share of people who received at least one dose of COVID-19 vaccine by country.png
-|Share of people who have received at least one dose of a COVID-19 vaccine relative to a country's total population. The date is on the map. Commons source.
+|Share of people who have received at least one dose of a COVID-19 vaccine relative to a country's total population. The date is on the map. [[commons:File:World map of share of people who received at least one dose of COVID-19 vaccine by country.png|Commons source]].
 |File:World map of COVID-19 vaccination doses administered per 100 people by country or territory.png
 
-|COVID-19 vaccine doses administered per 100 people by country. The date is on the map. Commons source.
+|COVID-19 vaccine doses administered per 100 people by country. The date is on the map. [[commons:File:World map of share of people who received at least one dose of COVID-19 vaccine by country.png|Commons source]].
 
 
- Access 
+Access
 
 
 Countries have extremely unequal access to the COVID19 vaccine. Vaccine equity has not been achieved or even approximated. The inequity has harmed both countries with poor access and countries with good access.
 
 Nations pledged to buy doses of the COVID19 vaccines before the doses were available. Though high-income nations represent only 14% of the global population, as of 15 November 2020, they had contracted to buy 51% of all pre-sold doses. Some high-income nations bought more doses than would be necessary to vaccinate their entire populations.
-thumb|Production of the Sputnik V vaccine in Brazil, January 2021
+
 In January 2021, WHO Director-General Tedros Adhanom Ghebreyesus warned of problems with equitable distribution: &quot;More than 39 million doses of vaccine have now been administered in at least 49 higher-income countries. Just 25 doses have been given in one lowest-income country. Not 25 million; not 25 thousand; just 25.&quot;
 
-thumb|left |Inside of a vaccination center in Brussels, Belgium, February 2021
+
 In March 2021, it was revealed that the US attempted to convince Brazil not to purchase the Sputnik V COVID19 vaccine, fearing &quot;Russian influence&quot; in Latin America. Some nations involved in long-standing territorial disputes have reportedly had their access to vaccines blocked by competing nations; Palestine has accused Israel of blocking vaccine delivery to Gaza, while Taiwan has suggested that China has hampered its efforts to procure vaccine doses.
 
 A single dose of the COVID19 vaccines by AstraZeneca would cost 47 Egyptian pounds (EGP), and the authorities are selling them for between 100 and 200 EGP. A report by the Carnegie Endowment for International Peace cited the poverty rate in Egypt as around 29.7 percent, which constitutes approximately 30.5 million people, and claimed that about 15 million Egyptians would be unable to gain access to the luxury of vaccination. A human rights lawyer, Khaled Ali, launched a lawsuit against the government, forcing them to provide vaccinations free of charge to all members of the public.
 
-thumb|COVID19 vaccination for children aged 12–14 in Bhopal, India
+
 According to immunologist Anthony Fauci, mutant strains of the virus and limited vaccine distribution pose continuing risks, and he said, &quot;we have to get the entire world vaccinated, not just our own country.&quot; Edward Bergmark and Arick Wierson are calling for a global vaccination effort and wrote that the wealthier nations' &quot;me-first&quot; mentality could ultimately backfire because the spread of the virus in poorer countries would lead to more variants, against which the vaccines could be less effective.
 
 In March 2021, the United States, Britain, European Union member states, and some other members of the World Trade Organization (WTO) blocked a push by more than eighty developing countries to waive COVID19 vaccine patent rights in an effort to boost production of vaccines for poor nations. On 5 May 2021, the US government under President Joe Biden announced that it supports waiving intellectual property protections for COVID19 vaccines. The Members of the European Parliament have backed a motion demanding the temporary lifting of intellectual property rights for COVID19 vaccines.
 
-thumb|An elderly man receiving a second dose of the CoronaVac vaccine in Brazil in April 2021
+
 In a meeting in April 2021, the World Health Organization's emergency committee addressed concerns of persistent inequity in global vaccine distribution. Although 9 percent of the world's population lives in the 29 poorest countries, these countries had received only 0.3% of all vaccines administered as of May 2021. In March 2021, Brazilian journalism agency Agência Pública reported that the country vaccinated about twice as many people who declare themselves white than black and noted that mortality from COVID19 is higher in the black population.
 
 In May 2021, UNICEF made an urgent appeal to industrialized nations to pool their excess COVID19 vaccine capacity to make up for a 125-million-dose gap in the COVAX program. The program mostly relied on the Oxford–AstraZeneca COVID‑19 vaccine produced by the Serum Institute of India, which faced serious supply problems due to increased domestic vaccine needs in India from March to June 2021. Only a limited amount of vaccines can be distributed efficiently, and the shortfall of vaccines in South America and parts of Asia is due to a lack of expedient donations by richer nations. International aid organizations have pointed at Nepal, Sri Lanka, and the Maldives, as well as Argentina, Brazil, and some parts of the Caribbean, as problem areas where vaccines are in short supply. In mid-May 2021, UNICEF was also critical of the fact that most proposed donations of Moderna and Pfizer vaccines were not slated for delivery until the second half of 2021 or early in 2022.
 
-thumb|left|COVID19 mass vaccination queue in Finland, June 2021
+
 In July 2021, the heads of the World Bank Group, the International Monetary Fund, the World Health Organization, and the World Trade Organization said in a joint statement: &quot;As many countries are struggling with new variants and a third wave of COVID19 infections, accelerating access to vaccines becomes even more critical to ending the pandemic everywhere and achieving broad-based growth. We are deeply concerned about the limited vaccines, therapeutics, diagnostics, and support for deliveries available to developing countries.&quot; In July 2021, The BMJ reported that countries had thrown out over 250,000 vaccine doses as supply exceeded demand and strict laws prevented the sharing of vaccines. A survey by The New York Times found that over a million doses of vaccine had been thrown away in ten U.S. states because federal regulations prohibit recalling them, preventing their redistribution abroad. Furthermore, doses donated close to expiration often cannot be administered quickly enough by recipient countries and end up having to be discarded. To help overcome this problem, the Prime Minister of India, Narendra Modi, announced that they would make their digital vaccination management platform, CoWIN, open to the global community. He also announced that India would also release the source code for the contact tracing app Aarogya Setu for developers around the world. Around 142 countries, including Afghanistan, Bangladesh, Bhutan, the Maldives, Guyana, Antigua and Barbuda, St. Kitts and Nevis, and Zambia, expressed their interest in the application for COVID management.
 
 Amnesty International and Oxfam International have criticized the support of vaccine monopolies by the governments of producing countries, noting that this is dramatically increasing the dose price by five times and often much more, creating an economic barrier to access for poor countries. Médecins Sans Frontières (Doctors without Borders) has also criticized vaccine monopolies and repeatedly called for their suspension, supporting the TRIPS waiver. The waiver was first proposed in October 2020 and has support from most countries, but was delayed by opposition from the EU (especially Germany; major EU countries such as France, Italy, and Spain support the exemption), the UK, Norway, and Switzerland, among others. MSF called for a Day of Action in September 2021 to put pressure on the WTO Minister's meeting in November, which was expected to discuss the TRIPS IP waiver.
 
-thumb|left|A drive-through COVID19 vaccination center in Iran, August 2021
+
 In August 2021, to reduce unequal distribution between rich and poor countries, the WHO called for a moratorium on booster doses at least until the end of September. However, in August, the United States government announced plans to offer booster doses eight months after the initial course to the general population, starting with priority groups. Before the announcement, the WHO harshly criticized this type of decision, citing the lack of evidence for the need for boosters, except for patients with specific conditions. At this time, vaccine coverage of at least one dose was 58% in high-income countries and only 1.3% in low-income countries, and 1.14 million Americans had already received an unauthorized booster dose. US officials argued that waning efficacy against mild and moderate disease might indicate reduced protection against severe disease in the coming months. Israel, France, Germany, and the United Kingdom have also started planning boosters for specific groups. In September 2021, more than 140 former world leaders and Nobel laureates, including former President of France François Hollande, former Prime Minister of the United Kingdom Gordon Brown, former Prime Minister of New Zealand Helen Clark, and Professor Joseph Stiglitz, called on the candidates to be the next German chancellor to declare themselves in favor of waiving intellectual property rules for COVID19 vaccines and transferring vaccine technologies. In November 2021, nursing unions in 28 countries filed a formal appeal with the United Nations over the refusal of the UK, EU, Norway, Switzerland, and Singapore to temporarily waive patents for COVID19 vaccines.
 
 During his first international trip, the President of Peru, Pedro Castillo, spoke at the seventy-sixth session of the United Nations General Assembly on 21 September 2021, proposing the creation of an international treaty signed by world leaders and pharmaceutical companies to guarantee universal vaccine access, arguing that &quot;The battle against the pandemic has shown us the failure of the international community to cooperate under the principle of solidarity.&quot;
@@ -308,7 +305,7 @@ Despite the extremely rapid development of effective mRNA and viral vector vacci
 
 While vaccines substantially reduce the probability and severity of infection, it is still possible for fully vaccinated people to contract and spread COVID19. Public health agencies have recommended that vaccinated people continue using preventive measures (wear face masks, social distance, wash hands) to avoid infecting others, especially vulnerable people, particularly in areas with high community spread. Governments have indicated that such recommendations will be reduced as vaccination rates increase and community spread declines.
 
- Economics 
+Economics
 boxquote|text=Moreover, an unequal distribution of vaccines will deepen inequality and exaggerate the gap between rich and poor and will reverse decades of hard-won progress on human development.|source =
 United Nations, COVID vaccines: Widening inequality and millions vulnerable|width = 33%|align = right
 
@@ -316,7 +313,7 @@ Vaccine inequity damages the global economy, disrupting the global supply chain.
 
 The International Monetary Fund sees the vaccine divide between rich and poor nations as a serious obstacle to a global economic recovery. Vaccine inequity disproportionately affects refuge-providing states, as they tend to be poorer, and refugees and displaced people are economically more vulnerable even within those low-income states, so they have suffered more economically from vaccine inequity.
 
- Liability 
+Liability
 Several governments agreed to shield pharmaceutical companies like Pfizer and Moderna from negligence claims related to COVID19 vaccines (and treatments), as in previous pandemics, when governments also took on liability for such claims.
 
 In the US, these liability shields took effect on 4 February 2020, when the US Secretary of Health and Human Services, Alex Azar, published a notice of declaration under the Public Readiness and Emergency Preparedness Act (PREP Act) for medical countermeasures against COVID19, covering &quot;any vaccine, used to treat, diagnose, cure, prevent, or mitigate COVID19, or the transmission of SARS-CoV-2 or a virus mutating therefrom&quot;. The declaration precludes &quot;liability claims alleging negligence by a manufacturer in creating a vaccine, or negligence by a health care provider in prescribing the wrong dose, absent willful misconduct.&quot; In other words, absent &quot;willful misconduct&quot;, these companies cannot be sued for money damages for any injuries that occur between 2020 and 2024 from the administration of vaccines and treatments related to COVID19. The declaration is effective in the United States through 1October 2024.
@@ -331,46 +328,34 @@ On 13 December 2022, the governor of Florida, Ron DeSantis, said that he would p
 
 In November 2023, the US state of Texas sued Pfizer under section 17.47 of the Texas Deceptive Trade Practices Act, alleging that the company misled the public about its COVID-19 vaccine by hiding risks while making false claims about its effectiveness. In June 2024, the US state of Kansas similarly sued Pfizer under the Kansas Consumer Protection Act, making similar allegations.
 
- Controversy 
+Controversy
 In June 2021, a report revealed that the UB-612 vaccine, developed by the US-based Covaxx, was a for-profit venture initiated by Blackwater founder Erik Prince. In a series of text messages to Paul Behrends, the close associate recruited for the Covaxx project, Prince described the profit-making possibilities of selling the COVID19 vaccines. Covaxx provided no data from the clinical trials on safety or efficacy it conducted in Taiwan. The responsibility of creating distribution networks was assigned to an Abu Dhabi-based entity, which was mentioned as &quot;Windward Capital&quot; on the Covaxx letterhead but was actually Windward Holdings. The firm's sole shareholder, who handled &quot;professional, scientific and technical activities&quot;, was Erik Prince. In March 2021, Covaxx raised $1.35 billion in a private placement.
 
- Misinformation and hesitancy 
-thumb|After the December 2020 introduction of COVID vaccines, a partisan gap in death rates developed, indicating the effects of vaccine skepticism. As of March 2024, more than 30 percent of Republicans had not received a Covid vaccine, compared with less than 10 percent of Democrats.
+Misinformation and hesitancy
+[[File:202003- Cumulative county COVID-19 death rates - by share of votes for Donald Trump.svg |thumb|After the December 2020 introduction of COVID vaccines, a partisan gap in death rates developed, indicating the effects of vaccine skepticism. As of March 2024, more than 30 percent of Republicans had not received a Covid vaccine, compared with less than 10 percent of Democrats.]]
 
 The United States Department of Defense (DoD) undertook a disinformation campaign in the Philippines, later expanded to Central Asia and the Middle East, which sought to discredit China, in particular its Sinovac vaccine, disseminating hashtags of #ChinaIsTheVirus and posts claiming that the Sinovac vaccine contained gelatin from pork and therefore was haram or forbidden for purposes of Islamic law.
 
- See also 
+See also
 
 * COVID‑19 drug development
 * COVID‑19 drug repurposing research
 
- Notes 
+Notes
 
 
- References 
+References
 
 
- Further reading 
+Further reading
 
-* 
-* 
-* 
-* 
-
-
- Vaccine protocols 
-* 
-* 
-* 
 * 
 * 
 * 
 * 
 
- External links 
 
-
-* 
+Vaccine protocols
 * 
 * 
 * 
@@ -379,12 +364,24 @@ The United States Department of Defense (DoD) undertook a disinformation campaig
 * 
 * 
 
+External links
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 
 
 
 
- 
+
+
 </segment>
 	</text>
 </file>

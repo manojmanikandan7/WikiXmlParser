@@ -12,6 +12,7 @@ Non-interoperability with applications in European countries
 There is an agreement between EU countries to make applications compatible. However, there is no legal basis for the SwissCovid application to be part of this portal even though technically speaking it is ready, according to Sang-Ill Kim, head of the digital transformation department of the Federal Office of Public Health.
 
 Criticism
+
 Not full open source and dependence on Google and Apple
 In June 2020, researchers Serge Vaudenay and Martin Vuagnoux published a critical analysis of the application, noting that it relies heavily on Google and Apple's exposure notification system, which is integrated into their respective Android and iOS operating systems. Since Google and Apple have not released the full source code of this system, this would call into question the truly open source nature of the application. The researchers note that the dp3t collective, which includes the developers of the application, has asked Google and Apple to release their code. Moreover, they criticize the official description of the application and its functionalities, as well as the adequacy of the legal basis for its effective operation.
 

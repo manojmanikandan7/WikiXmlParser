@@ -14,8 +14,8 @@ Experts have differentiated between zero-COVID, which was an elimination strateg
 
 Advocates of zero-COVID pointed to the far lower death rates and higher economic growth in countries that pursued elimination during the first year of the pandemic (i.e., prior to widespread vaccination) compared with countries that pursued mitigation, and argued that swift, strict measures to eliminate the virus allowed a faster return to normal life. Opponents of zero-COVID argued that, similar to the challenges faced with the flu or the common cold, achieving the complete elimination of a respiratory virus like SARS-CoV-2 may not have been a realistic goal. To achieve zero-COVID in an area with high infection rates, one review estimated that it would take three months of strict lockdown.
 
- Elimination vs. mitigation 
-thumb|upright=1.2|Goals of mitigation include delaying and reducing peak burden on healthcare (flattening the curve) and lessening overall cases and health impact. In contrast, zero-COVID strategies aimed to completely eliminate the virus and return to normal social and economic activities.
+Elimination vs. mitigation
+
 Epidemiologists have differentiated between two broad strategies for responding to the COVID-19 pandemic: mitigation and elimination. Mitigation strategies (also commonly known as &quot;flattening the curve&quot;) aimed to reduce the growth of an epidemic and to prevent the healthcare system from becoming overburdened, yet still accepted a level of ongoing viral transmission within the community. By contrast, elimination strategies (commonly known as &quot;zero-COVID&quot;) aimed to completely stop the spread of the virus within the community, which was seen as the optimal way to allow the resumption of normal social and economic activity. In comparison with mitigation strategies, elimination involved stricter short-term measures to completely eliminate the virus, followed by milder long-term measures to prevent a return of the virus.
 
 After elimination of COVID-19 from a region, zero-COVID strategies required stricter border controls in order to prevent reintroduction of the virus, more rapid identification of new outbreaks, and better contact tracing to end new outbreaks. Advocates of zero-COVID argued that the costs of these measures were lower than the economic and social costs of long-term social distancing measures and increased mortality incurred by mitigation strategies.
@@ -27,35 +27,35 @@ Containment measures
 
 The zero-COVID approach aimed to prevent viral transmission using a number of different measures, including vaccination and non-pharmaceutical interventions such as contact tracing and quarantine. Successful containment or suppression reduced the basic reproduction number of the virus below the critical threshold. Different combinations of measures were used during the initial containment phase, when the virus was first eliminated from a region; and the sustained containment phase, when the goal was to prevent reestablishment of viral transmission within the community.
 
- Lockdowns 
+Lockdowns
 
 Lockdowns encompassed measures such as closures of non-essential businesses, stay-at-home orders, and movement restrictions. During lockdowns, governments were typically required to supply basic necessities to households. Lockdown measures were commonly used to achieve initial containment of the virus. In China, lockdowns of specific high-risk communities were also sometimes used to suppress new outbreaks.
 
- Quarantine for travelers 
+Quarantine for travelers
 
-thumb|IgM Testing Lab at Frankfurt Airport for travelers to China
+
 In order to prevent reintroduction of the virus into zero-COVID regions after initial containment had been achieved, quarantine for incoming travelers was commonly used. As each infected traveler could seed a new outbreak, the goal of travel quarantine was to intercept the largest possible percentage of infected travelers.
 
 International flights to China were heavily restricted, and incoming travelers were required to undergo PCR testing and quarantine in designated hotels and facilities. In order to facilitate quarantine for travelers, China constructed specialized facilities at its busiest ports of entry, including Guangzhou and Xiamen. New Zealand and Australia also established managed isolation and quarantine facilities for incoming travelers.
 
 Through November 2020, border quarantine measures prevented nearly 4,000 infected international travelers from entering the wider community within China. Each month, hundreds of travelers who tested negative before flying to China subsequently tested positive while undergoing quarantine after arrival.
 
- Contact tracing, quarantine, and isolation 
+Contact tracing, quarantine, and isolation
 
-thumb|upright=1.1|Transmission chains
+
 Contact tracing involved identifying people who have been exposed to (or &quot;came into close contact with&quot;) an infected person. Public health workers then isolated the known infected person and attempted to locate all of those exposed persons, and quarantine them until they either were unlikely to be infectious or received several negative tests. Various studies argued that early detection and isolation of infected people was the single most effective measure for preventing transmission of SARS-CoV-2. &quot;Quarantine&quot; referred to the separation of exposed persons who could have possibly been infected from the rest of society, while &quot;isolation&quot; referred to the separation of persons who were known to be infected.
 
 In China, when an infected person was identified, all close contacts were required to undergo a 14-day quarantine alongside multiple rounds of PCR testing. In order to minimize the risk that these close contacts posed for outbreak containment, China implemented quarantine in centralized facilities for those deemed to be at the highest-risk of infection. Secondary close contacts (contacts of close contacts) are sometimes required to quarantine at home.
 
 The widespread use of smartphones enabled more rapid &quot;digital&quot; contact tracing. In China, &quot;health code&quot; applications were used to facilitate the identification of close contacts, via analysis of Bluetooth logs which show proximity between devices. Taiwan also made use of digital contact tracing, notably to locate close contacts of passengers who disembarked from the Diamond Princess cruise ship, the site of an early outbreak in February 2020.
 
- Routine testing of key populations 
+Routine testing of key populations
 
 In China, routine PCR testing was carried out on all patients who present with fever or respiratory symptoms. In addition, various categories of workers, such as medical staff and workers who handle imported goods, were regularly tested.
 
 In China, routine testing of key populations identified index patients in a number of outbreaks, including outbreaks in Beijing, Shanghai, Dalian, Qingdao, and Manchuria. In some cases, index patients had been discovered while asymptomatic, limiting the amount of onward transmission into the community.
 
- Community-wide screening 
+Community-wide screening
 
 An additional tool for identifying cases outside of known transmission chains was community-wide screening, in which populations of specific neighborhoods or cities were PCR tested. In China, community-wide PCR testing was carried out during outbreaks in order to identify infected people, including those without symptoms or known contact with infected people. Community-wide screening was intended to rapidly isolate infected people from the general population, and to allow a quicker return to normal economic activity. China first carried out community-wide screening from 14 May to 1 June 2020 in Wuhan, and used this technique in subsequent outbreaks. In outbreaks in June 2020 in Beijing and July 2020 in Dalian, community screening identified 26% and 22% of infections, respectively. In order to test large populations quickly, China commonly used pooled testing, combining five to ten samples before testing, and retesting all individuals in each batch that tested positive.
 
@@ -64,7 +64,7 @@ Zero-COVID implementation by region
 
 Australia
 
-thumb|COVID-19 travel restrictions for Australians and permanent residents
+
 The first confirmed case in Australia was identified on 25 January 2020, in Victoria, when a man who had returned from Wuhan, Hubei Province, China, tested positive for the virus. A human biosecurity emergency was declared on 18 March 2020. Australian borders were closed to all non-residents on 20 March, and returning residents were required to spend two weeks in supervised quarantine hotels from 27 March.  Many individual states and territories also closed their borders to varying degrees, with some remaining closed until late 2020, and continuing to periodically close during localised outbreaks.
 
 Social distancing rules were introduced on 21 March, and state governments started to close &quot;non-essential&quot; services.  &quot;Non-essential services&quot; included social gathering venues such as pubs and clubs but unlike many other countries did not include most business operations such as construction, manufacturing and many retail categories.
@@ -77,16 +77,17 @@ Bhutan
 
 As of January 2022, Bhutan was following a Zero-COVID strategy. The country enforced lockdowns on districts (dzongkhags) whenever local cases of COVID-19 were detected, and health personnel isolated elderly people and others with comorbidities who were in close contact with those COVID-19 cases. However, the Omicron variant challenged Bhutan's elimination strategy, and the country abandoned it in mid-April, instead focusing on hospitalization rates.
 
- Canada (Atlantic and Northern) 
+Canada (Atlantic and Northern)
 
 
-
+[[File:Atlantic Bubble, 21 August 2020.jpg|thumb|Traveling inside the Atlantic Bubble: a New Brunswick checkpoint on the Trans-Canada Highway, when entering from Nova Scotia in August 2020. ]]
 The virus was confirmed to have reached Canada on 27 January 2020, after an individual who had returned to Toronto from Wuhan, Hubei, China, tested positive. The first case of community transmission in Canada was confirmed in British Columbia on 5 March. In March 2020, as cases of community transmission were confirmed, all of Canada's provinces and territories declared states of emergency. Provinces and territories have, to varying degrees, implemented prohibitions on gatherings, closures of non-essential businesses and restrictions on entry with Atlantic Canada and the three Canadian Territories adopting a COVID-Zero approach. On 24 June 2020, it was announced that the four Atlantic provinces: New Brunswick, Prince Edward Island, Nova Scotia, and Newfoundland and Labrador had come to an agreement of creating a free-travel bubble while maintaining low case numbers inside, effective 3 July 2020. In late November 2020, mounting cases led to the disbandment of the Atlantic Bubble, with each of the Atlantic provinces maintaining their own travel restrictions and Zero-COVID policies after the bubble burst. Throughout 2020 and 2021, infection rates and deaths in the Atlantic provinces remained low, especially compared to the more populated areas of Canada which did not implement COVID-Zero. The appearance of the Delta and Omicron variants led to the successive abandonment of COVID-Zero in Atlantic Canada at the end of 2021.
 
- China 
+China
+
 Mainland
 
-thumb|upright|During the early months of the COVID-19 pandemic, all passengers entering or exiting mainland China in Beijing, Shanghai, and Guangdong were required to write a health declaration which asked whether they had been to Hubei Province.
+
 China was the first country to experience the COVID-19 pandemic. The first cluster of pneumonia patients was discovered in late December 2019 in Wuhan, Hubei Province, and a public notice on the outbreak was distributed on 31 December 2019.
 
 On 23 January 2020, the Chinese government banned travel to and from Wuhan, and began implementing strict lockdowns in Wuhan and other cities throughout China. These measures suppressed transmission of the virus below the critical threshold, bringing the basic reproduction number of the virus to near zero. On 4 February 2020, around two weeks after the beginning of the lockdowns in Hubei province, case counts peaked in the province and began to decline thereafter. The outbreak remained largely concentrated within Hubei province, with over 80% of cases nationwide through 22 March 2020 occurring there.
@@ -107,7 +108,7 @@ Nationwide protests broke out in late November 2022 amid growing discontent amon
 
 Hong Kong
 
-thumb|Tong Ming Street Park COVID-19 testing center
+
 
 The virus was first confirmed to have spread to Hong Kong on 23 January 2020. On 5 February, after a five-day strike by front-line medical workers, the Hong Kong government closed all but three border control points – Hong Kong International Airport, Shenzhen Bay Control Point, and Hong Kong–Zhuhai–Macau Bridge Control Point remaining open. Hong Kong was relatively unscathed by the first wave of the COVID-19 outbreak. Some experts believe the habit of wearing masks in public since the SARS epidemic of 2003 may have helped keep its confirmed infections rates low. In a study published in April 2020 in the Lancet, the authors expressed their belief that border restrictions, quarantine and isolation, social distancing, and behavioural changes likely all played a part in the containment of the disease up to the end of March.
 
@@ -127,9 +128,9 @@ Montserrat
 
 The British territory and Caribbean island of Montserrat used a Zero-COVID strategy, using testing and quarantine on inbound travelers to prevent localized outbreaks. It had suffered just 175 cases and two deaths as of April 2022. From 31 December 2021, Montserrat suffered its first major outbreak, with 67 locally transmitted infections and one death. On 1 March 2022, the ministry of health declared the outbreak to be over, having gone 31 days without a locally transmitted case. In October 2022, Montserrat ended measures.
 
- New Zealand 
+New Zealand
 
-upright=0.7|thumb|An Emergency Mobile Alert sent at 18:30 on 25 March 2020, informing of the imminent move to Alert Level 4.
+[[File:Emergency Mobile Alert NZ, COVID-19, 25 March 2020.jpg|upright=0.7|thumb|An Emergency Mobile Alert sent at 18:30 on 25 March 2020, informing of the imminent move to Alert Level 4.]]
 
 New Zealand reported its first case of COVID-19 on 28 February 2020. From 19 March, entry into New Zealand was limited to citizens and residents, and the country began quarantining new arrivals in converted hotels on 10 April.
 
@@ -141,17 +142,17 @@ Additional small outbreaks led to temporary restrictions in parts of New Zealand
 
 The country moved to a nationwide lockdown on 17 August 2021, after the detection of one new local case outside of quarantine in Auckland. Over the following weeks, Auckland remained under lockdown as cases rose, while most of the rest of the country progressively eased restrictions. On 4 October 2021, the government of New Zealand announced that it was transitioning away from its zero-COVID strategy, arguing that the Delta variant made elimination infeasible.
 
- North Korea 
+North Korea
 North Korea also reportedly follows an &quot;elimination strategy&quot;.
 
 
- Scotland and Northern Ireland 
+Scotland and Northern Ireland
 
 Scotland, led by its devolved government, pursued an &quot;elimination&quot; COVID-19 strategy starting from April 2020. The Scottish government's approach diverged with that of the central British government in April 2020, after a UK-wide lockdown began being lifted. Scotland pursued a slower approach to lifting the lockdown than other nations of the UK, and expanded a &quot;test and trace&quot; system. Although Northern Ireland also pursued the strategy and Scottish First Minister Nicola Sturgeon advocated for the approach to be adopted by the whole of the UK, the central British government pursued a different mitigation strategy that applied to England, with commentators noting that this combined with an open Anglo-Scottish border could undermine Scotland's attempts at elimination.
 
- Singapore 
+Singapore
 
-thumb|An automatic self-check-in station at Paya Lebar Square mall implemented to facilitate contact tracing.
+
 Singapore recorded its first COVID-19 case on 23 January 2020. With that, many Singaporeans had purchased and worn masks when not at home; practiced social distancing and on 7 February 2020, Singapore raised the Disease Outbreak Response System Condition (DORSCON) level from Yellow to Orange in response to additional local cases of uncertain origin. On 3 April 2020, a stringent set of preventive measures collectively called the &quot;circuit breaker lockdown&quot; was announced.  Stay-at-home order and cordon sanitaire were  implemented as a preventive measure by the Government of Singapore in response on 7 April 2020. The measures were brought into legal effect by the Minister for Health with the COVID-19 (Temporary Measures) (Control Order) Regulations 2020, published on 7 April 2020.
 
 The country introduced what was considered one of the world's largest and best-organised epidemic control programmes. The &quot;Control Order&quot; implemented various measures such as; mass testing the population for the virus, isolating any infected people as well as introducing contact tracing apps and strictly quarantining those they had close contact with those infected. All non-essential workplaces closed, with essential workplaces remaining open. All schools transitioned to home-based learning. All food establishments were only allowed to offer take-away, drive-thru and delivery of food. Non-essential advertising at shopping centres are not allowed to be shown or advertised and only advertising from essential service offers and safe management measures such as mask wearing and social distancing are allowed.
@@ -160,14 +161,14 @@ These measures helped to prevent these lockdowns after the end of the circuit br
 
 South Korea
 
-thumb|A drive-through testing site in South Korea
+
 The first case in South Korea was announced on 20 January 2020. On 4 February 2020, in order to help prevent spread of the disease, South Korea began denying entry to foreigners traveling from China. Various other measures have been taken: mass testing the population, isolating infected people, and trace and quarantine of those they had contact with. The rapid and extensive testing undertaken by South Korea has been judged successful in limiting the spread of the outbreak, without using drastic measures. There was no general lockdown of businesses in South Korea, with supermarkets and other retailers remaining open. However, schools, universities, cinemas, and gyms were closed soon after the outbreaks, with schools and universities having online classes.
 
 The government is providing citizens with information in Korean, English, Chinese, and Japanese on how to not become infected and how to prevent spreading the disease as part of its &quot;K-Quarantine&quot; measures. This includes information on cough etiquette, when and how to wear a face mask, and the importance of physical distancing and staying at home. The South Korean government has also been sending daily emergency notifications, detailing information on locations with reported infections and other status updates related to the pandemic. Infected South Koreans are required to go into isolation in government shelters. Their phones and credit card data are used to trace their prior movements and find their contacts. People who are determined to have been near the infected individual receive phone alerts with information about their prior movements.
 
- Taiwan 
+Taiwan
 
-thumb|upright|Body temperature checkpoint at National Taiwan Normal University
+
 
 Due to its extensive cultural and economic exchanges with mainland China, Taiwan was initially expected to be at high risk of developing a large-scale outbreak of COVID-19.
 
@@ -197,7 +198,7 @@ Tonga has followed a Zero-COVID policy, but more than a year and a half into the
 
 Vietnam
 
-thumb|A Vietnamese COVID shopping coupon, it is used to manage the number of people entering market or supermarket.
+
 The virus was first confirmed to have spread to Vietnam on 23 January 2020, when two Chinese people in Ho Chi Minh City tested positive for the virus.  In response  the government issued a diagnostic and management guidelines for COVID-19, providing instructions on contact tracing and 14-day isolation. Health authorities began monitoring body temperatures at border gates and started detection and contact tracing, with orders for the mandatory isolation of infected people and anyone they had come into contact with.
 
 In 2020, Vietnam was cited by global media as having one of the best-organized epidemic control programs in the world, along the lines of other highlights such as Taiwan and South Korea. This success has been attributed to several factors, including a well-developed public health system, a decisive central government, and a proactive containment strategy based on comprehensive testing, tracing, and quarantining. However, instead of relying on medicine and technology, the Vietnamese state security apparatus has adopted a widespread public surveillance system along with a public well-respected military force.
@@ -206,11 +207,12 @@ Starting in April 2021, Vietnam experienced its largest outbreak to date, with o
 
 In September 2021, Vietnam abandoned its zero-COVID strategy, after a three-month lockdown of Ho Chi Minh City caused major economic disruption in the city and failed to contain the outbreak. The country shifted to a phased reopening and more flexible approach while expanding its vaccination programme.
 
- Reception 
- Support 
+Reception
+
+Support
 Proponents of the zero-COVID strategy argued that successful execution reduced the number of nationwide lockdowns needed, since the main goal was focused on the elimination of the virus. When the virus was eliminated, people would be at ease given that COVID-19 caused a lot of health impacts. As such, healthcare and economic costs were lower under a zero-COVID strategy because the elimination of the virus allowed new outbreaks to be easily monitored and curtailed, and that there was less economic disruption since only certain areas were affected, which could be easily monitored. This resulted in a situation that was less costly to society, that it reduced dependence on pharmaceutical interventions such as vaccines, and that it increased quality of life and life expectancy as there would have been fewer citizens contracting COVID-19.
 
- Opposition 
+Opposition
 Chinese virologist Guan Yi had criticized the Chinese government's zero-COVID measures, telling Phoenix Hong Kong Channel that, if the government persisted with the policy for a handful of cases, the economy would have suffered. The implementation of the zero-COVID policy in China resulted in multiple business closures, citywide lockdowns, and stay-at-home notices in order to prevent the spread of COVID-19. This resulted in loss of revenue and production, leading to an economic contraction in the country. Guan had advocated for increased vaccination and research into the efficacy of homegrown vaccines against new variants, as the vaccines would prevent death and reduce the impact of COVID-19, which could enable people to swiftly recover without interruption from COVID-19.
 
 Other opponents of the zero-COVID strategy argued that the strategy caused the economy to suffer, that before vaccinations were common, elimination strategies lowered herd immunity, that zero-COVID is not sustainable, and that newer variants such as the Omicron variant were so transmissible that the zero-COVID strategy was no longer feasible.
@@ -228,10 +230,10 @@ See also
 * Protective sequestration
 * Use and development of software for COVID-19 pandemic mitigation
 
- Explanatory notes 
+Explanatory notes
 
 
- References 
+References
 
 
 Further reading

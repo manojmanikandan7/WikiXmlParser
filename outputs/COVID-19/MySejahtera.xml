@@ -3,8 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-06-02T07:02:01Z" sourceCorpus="COVID-19" filename="67815910" title="MySejahtera" url="https://en.wikipedia.org/wiki/MySejahtera">
 	<text>
-		<segment id="id67815910">thumb|A QR code in one of Lotus's stores used for contact tracing purposes is scannable using the MySejahtera app.
-MySejahtera is a mobile application developed by Entomo Malaysia (formerly KPISoft Malaysia) and the Government of Malaysia to manage the COVID-19 outbreak in Malaysia. It can be used to conduct contact tracing, self-quarantine, and also book COVID-19 vaccination appointments.
+		<segment id="id67815910">MySejahtera is a mobile application developed by Entomo Malaysia (formerly KPISoft Malaysia) and the Government of Malaysia to manage the COVID-19 outbreak in Malaysia. It can be used to conduct contact tracing, self-quarantine, and also book COVID-19 vaccination appointments.
 
 History
 MySejahtera was developed by Entomo Malaysia (formerly KPISoft Malaysia), a local developer founded by Anuar Rozhan and Raveenderan Ramamoothie, with strategic cooperation from the National Security Council (NSC), the Ministry of Health (MOH), the Malaysian Administrative Modernisation and Management Planning Unit (MAMPU), the Malaysian Communications and Multimedia Commission (MCMC), and the Ministry of Science and Technology (MOSTI). Launched by then Health Minister Adham Baba on 20 April 2020, the MySejahtera app can be downloaded from the App Store, Google Play, Huawei AppGallery, and the Gallery of Malaysian Government Mobile Applications (GAMMA).
@@ -28,12 +27,12 @@ On 5 July 2024, the Health Ministry ended its policy of requiring COVID-19 posit
 Contact tracing
 The main function of the MySejahtera app is to assist the department in managing and mitigating the COVID-19 outbreak, enable users to monitor their health condition throughout the COVID-19 outbreak, assist users in getting treatment immediately if they are diagnosed with COVID-19 disease, and locate the nearest health facilities for COVID-19 screening and treatment. It is also widely used in the country for checking in when visiting a new place via the QR code scanning method, and is now also used for COVID-19 vaccine registrations. MySJ Trace is an extension of MySejahtera that uses Bluetooth Low Energy to scan for other users in proximity and alert the user if they have had contact with a COVID-19 patient.
 
- See also 
+See also
 * COVID-19 vaccination in Malaysia
 * COVID-19 apps
 * Volunteer Smartphone Patrol
 
- References 
+References
 
 
 

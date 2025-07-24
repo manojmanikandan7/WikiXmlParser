@@ -10,8 +10,8 @@ Lineage B.1.617 has three sublineages according to the PANGO nomenclature:
 * B.1.617.2 (Delta variant), first detected in India in late 2020
 * B.1.617.3, first observed in January 2021
 
- Mutations 
-thumb|SARS-CoV-2 'spike' protein
+Mutations
+
 Here are some of the common mutations present in the spike protein of lineage B.1.617. Not all sublineages of B.1.617 share the same mutations:
 * L452R. The substitution at position 452, a leucine-to-arginine substitution, confer stronger affinity of the spike protein for the ACE2 receptor and decreased recognition capability of the immune system. These mutations, when taken individually, are not unique to the variant; rather, their simultaneous occurrence is. This mutation is present in all three sublineages of B.1.617.
 * T478K. The substitution at position 478, a threonine-to-lysine substitution, is only found in lineage B.1.617.2.
@@ -19,18 +19,18 @@ Here are some of the common mutations present in the spike protein of lineage B.
 * D614G. The substitution at position 614, an aspartic acid-to-glycine substitution, is shared with other highly transmissible lineages like B.1.1.7, B.1.351 and P.1.
 * P681R. The substitution at position 681, a proline-to-arginine substitution, which, according to William A. Haseltine, may boost cell-level infectivity of the variant &quot;by facilitating cleavage of the S precursor protein to the active S1/S2 configuration&quot;. This mutation is present in all three sublineages of B.1.617.
 
- History 
+History
 The first B.1.617 genome sequence was submitted to GISAID in fall 2020 according to one source. The team at PANGO behind manually curating the phylogenetic tree of SARS-CoV-2 noted the earliest sequence was from 7 December 2020. They proposed a new designation for the variant containing the mutations at the spike protein including G142D, L452R, E484Q, D614G, P681R among others and this variant went to be assigned PANGO lineage B.1.617 on 1 April 2021. They revised the phylogenetic tree to include three sublineages of B.1.617 on 21 April 2021 after noticing that not all genome sequences being assigned by the PANGOLIN tool contained the same set of mutations.
 
 Up until mid-April 2021, India submitted the most B.1.617 genomes, followed in frequency by UK and the US. Based on genome information, lineage B.1.617 was first detected in the UK on 22 February 2021, and in the US on 23 February 2021.
 
 After detecting 77 cases of lineage B.1.617 in the UK in mid-April 2021, Public Health England designated the lineage as a variant under investigation. In less than two months, the Delta variant would go on to become the dominant variant in the UK with researchers stating early evidence suggested there may be an increased risk of hospitalization for Delta compared to the previously dominant Alpha variant.
 
- References 
+References
 
 
 
 
-lineage B.1.617</segment>
+</segment>
 	</text>
 </file>

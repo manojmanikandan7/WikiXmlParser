@@ -21,7 +21,7 @@ Many vaccine candidates use adjuvants to enhance immunogenicity, as part of the 
 
 Status
 
- Clinical trials 
+Clinical trials
 
 The clinical trial process typically consists of three phases, each following the success of the prior phase. Trials are doubly blind in that neither the researcher nor the subject know whether they receive the vaccine or a placebo. Each phase involves randomly-selected subjects who are randomly assigned to serve either as recipients are controls:
 * Phase I trials test primarily for safety and preliminary dosing in healthy subjects. Dozens of subjects.
@@ -35,7 +35,7 @@ The table below shows various vaccine candidates and the phases which they had c
 
 
 
- Homologous prime-boost vaccination 
+Homologous prime-boost vaccination
 
 In July 2021, the U.S. Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC) issued a joint statement reporting that a booster dose is not necessary for those who have been fully vaccinated.
 
@@ -45,7 +45,7 @@ In October 2021, the FDA and the CDC authorized the use of either homologous or 
 
 
 
- Heterologous prime-boost vaccination 
+Heterologous prime-boost vaccination
 
 The World Health Organization (WHO) defines heterologous prime-boost immunization as the &quot;administration of two different vectors or delivery systems expressing the same or overlapping antigenic inserts.&quot; A heterologous scheme can sometimes be more immunogenic than some homologous schemes.
 
@@ -68,7 +68,7 @@ On 16 December, WHO recommendations on heterologous vaccinations suggested a gen
 
 
 Efficacy
-thumb|upright=1.2|Cumulative incidence curves for symptomatic COVID-19 infections after the first dose of the Pfizer–BioNTech vaccine (tozinameran) or placebo in a double-blind clinical trial (red: placebo; blue: tozinameran)
+[[File:BNT162b2 vaccine efficacy data.png|thumb|upright=1.2|Cumulative incidence curves for symptomatic COVID-19 infections after the first dose of the Pfizer–BioNTech vaccine (tozinameran) or placebo in a double-blind clinical trial (red: placebo; blue: tozinameran)]]
 
 Vaccine efficacy is the reduction in risk of getting the disease by vaccinated participants in a controlled trial compared with the risk of getting the disease by unvaccinated participants. An efficacy of 0% means that the vaccine does not work (identical to placebo). An efficacy of 50% means that there are half as many cases of infection as in unvaccinated individuals.
 
@@ -84,7 +84,7 @@ Ranges below are 95% confidence intervals unless indicated otherwise, and all va
 
 Effectiveness
 
-thumb |Death rates for unvaccinated Americans substantially exceed those who were vaccinated, with bivalent boosters further reducing the death rate.
+
 
 Evidence from vaccine use during the pandemic shows vaccination can reduce infection and is most effective at preventing severe COVID-19 symptoms and death, but is less good at preventing mild COVID-19. Efficacy wanes over time but can be maintained with boosters. In 2021, the CDC reported that unvaccinated people were 10 times more likely to be hospitalized and 11 times more likely to die than fully vaccinated people.
 
@@ -124,8 +124,6 @@ A US study of 46,079 pregnancies concluded that COVID vaccination is safe and do
 
 Variants
 
-
-thumb|279x279px|World Health Organization video describing how variants proliferate in unvaccinated areas
 
 
 The interplay between the SARS-CoV-2 virus and its human hosts was initially natural but is now being altered by the prompt availability of vaccines. The potential emergence of a SARS-CoV-2 variant that is moderately or fully resistant to the antibody response elicited by the COVID-19 vaccines may necessitate modification of the vaccines. The emergence of vaccine-resistant variants is more likely in a highly vaccinated population with uncontrolled transmission. Trials indicate many vaccines developed for the initial strain have lower efficacy for some variants against symptomatic COVID-19. , the US Food and Drug Administration believed that all FDA authorized vaccines remained effective in protecting against circulating strains of SARS-CoV-2.
@@ -173,8 +171,8 @@ COVID-19 vaccine effectiveness was studied in adults without immunocompromising 
 Effect of neutralizing antibodies
 One study found that the in vitro concentration (titer) of neutralizing antibodies elicited by a COVID-19 vaccine is a strong correlate of immune protection. The relationship between protection and neutralizing activity is nonlinear. A neutralization as low as  of the level of convalescence results in 50% efficacy against severe disease, with  resulting in 50% efficacy against detectable infection. Protection against infection quickly decays, leaving individuals susceptible to mild infections, while protection against severe disease is largely retained and much more durable. The observed half-life of neutralizing titers was 65 days for mRNA vaccines (Pfizer–BioNTech, Moderna) during the first 4 months, increasing to 108 days over 8 months. Greater initial efficacy against infection likely results in a higher level of protection against serious disease in the long term (beyond 10 years, as seen in other vaccines such as smallpox, measles, mumps, and rubella), although the authors acknowledge that their simulations consider only protection from neutralizing antibodies and ignore other immune protection mechanisms, such as cell-mediated immunity, which may be more durable. This observation also applies to efficacy against variants and is particularly significant for vaccines with a lower initial efficacy; for example, a 5-fold reduction in neutralization would indicate a reduction in initial efficacy from 95% to 77% against a specific variant, and from a lower efficacy of 70% to 32% against that variant. For the Oxford–AstraZeneca vaccine, the observed efficacy is below the predicted 95% confidence interval. It is higher for Sputnik V and the convalescent response, and is within the predicted interval for the other vaccines evaluated (Pfizer–BioNTech, Moderna, Janssen, CoronaVac, Covaxin, Novavax).
 
- Drug interactions 
-thumb|325x325px|Methotrexate might reduce the effectiveness of COVID-19 vaccines.
+Drug interactions
+
 Methotrexate reduces the immune response to COVID-19 vaccines, making them less effective. Pausing methotrexate for two weeks following COVID-19 vaccination may result in improved immunity. Not taking the medicine for two weeks might result in a minor increase of inflammatory disease flares in some people.
 
 Side effects
@@ -190,7 +188,7 @@ References
 
 
 
- 
+
 </segment>
 	</text>
 </file>

@@ -9,7 +9,7 @@ Attenuated vaccines stimulate a strong and effective immune response that is lon
 
 Development
 
- Attenuated viruses 
+Attenuated viruses
 Viruses may be attenuated using the principles of evolution with serial passage of the virus through a foreign host species, such as:
 * Tissue culture
 * Embryonated eggs (often chicken)
@@ -19,10 +19,10 @@ The initial virus population is applied to a foreign host. Through natural genet
 
 Viruses may also be attenuated via reverse genetics. Attenuation by genetics is also used in the production of oncolytic viruses.
 
- Attenuated bacteria 
+Attenuated bacteria
 Bacteria is typically attenuated by passage, similar to the method used in viruses. Gene knockout guided by reverse genetics is also used.
 
- Administration 
+Administration
 Attenuated vaccines can be administered in a variety of ways:
 * Injections:
 ** Subcutaneous (e.g. measles, mumps and rubella vaccine, varicella vaccine, yellow fever vaccine)
@@ -40,7 +40,7 @@ Attenuated vaccines are “weakened” versions of pathogens (virus or bacteria)
 
 In T-cell dependent activation of B cells, B cells first recognize and present the antigen on MHCII receptors. T-cells can then recognize this presentation and bind to the B cell, resulting in clonal proliferation. This also helps IgM and plasma cells production as well as immunoglobulin switching. On the other hand, T-cell independent activation of B cells is due to non-protein antigens. This can lead to production of IgM antibodies. Being able to produce a B-cell response as well as memory killer T cells is a key feature of attenuated virus vaccines that help induce a potent immunity.
 
- Safety 
+Safety
 Live-attenuated vaccines are safe and stimulate a strong and effective immune response that is long-lasting. Given that pathogens are attenuated, it is extremely rare for pathogens to revert to their pathogenic form and subsequently cause disease. Additionally, amongst the five WHO-recommended live attenuated vaccines (tuberculosis, oral polio, measles, rotavirus, and yellow fever), severe adverse reactions are extremely rare.
 
 Individuals with severely compromised immune systems (e.g., HIV-infection, chemotherapy, immunosuppressive therapy, lymphoma, leukemia, combined immunodeficiencies) typically should not receive live-attenuated vaccines as they may not be able to produce an adequate and safe immune response. Household contacts of immunodeficient individuals are still able to receive most attenuated vaccines since there is no increased risk of infection transmission, with the exception being the oral polio vaccine.
@@ -51,14 +51,14 @@ Some live attenuated vaccines have additional common, mild adverse effects due t
 
 Compared to inactivated vaccines, live-attenuated vaccines are more prone to immunization errors as they must be kept under strict conditions during the cold chain and carefully prepared (e.g., during reconstitution).
 
- History 
+History
 The history of vaccine development started with the creation of the smallpox vaccine by Edward Jenner in the late 18th century. Jenner discovered that inoculating a human with an animal pox virus would grant immunity against smallpox, a disease considered to be one of the most devastating in human history. Although the original smallpox vaccine is sometimes considered to be an attenuated vaccine due to its live nature, it was not strictly-speaking attenuated since it was not derived directly from smallpox. Instead, it was based on the related and milder cowpox disease. The discovery that diseases could be artificially attenuated came in the late 19th century when Louis Pasteur was able to derive an attenuated strain of chicken cholera. Pasteur applied this knowledge to develop an attenuated anthrax vaccine and demonstrating its effectiveness in a public experiment. The first rabies vaccine was subsequently produced by Pasteur and Emile Roux by growing the virus in rabbits and drying the affected nervous tissue.
 
 The technique of cultivating a virus repeatedly in artificial media and isolating less virulent strains was pioneered in the early 20th century by Albert Calmette and Camille Guérin who developed an attenuated tuberculosis vaccine called the BCG vaccine. This technique was later used by several teams when developing the vaccine for yellow fever, first by Sellards and Laigret, and then by Theiler and Smith. The vaccine developed by Theiler and Smith proved to be hugely successful and helped establish recommended practices and regulations for many other vaccines. These include the growth of viruses in primary tissue culture (e.g., chick embryos), as opposed to animals, and the use of the seed stock system which uses the original attenuated viruses as opposed to derived viruses (done to reduce variance in vaccine development and decrease the chance of adverse effects). The middle of the 20th century saw the work of many prominent virologists including Sabin, Hilleman, and Enders, and the introduction of several successful attenuated vaccines, such as those against polio, measles, mumps, and rubella.
 
 Advantages and disadvantages
 
- Advantages 
+Advantages
 * Accurately imitate natural infections.
 * Are effective at evoking both strong antibody and cell-mediated immune reactions.
 * Can elicit long-lasting or life-long immunity.
@@ -67,15 +67,16 @@ Advantages and disadvantages
 * Cost-effective (compared to some other health interventions).
 * Can have strong beneficial non-specific effects.
 
- Disadvantages 
+Disadvantages
 * In rare cases, particularly when there is inadequate vaccination of the population, natural mutations during viral replication, or interference by related viruses, can cause an attenuated virus to revert to its wild-type form or mutate to a new strain, potentially resulting in the new virus being infectious or pathogenic.
 * Often not recommended in pregnancy or for severely immunocompromised patients due to the risk of potential complications.
 * Live strains typically require advanced maintenance, such as refrigeration and fresh media, making transport to remote areas difficult and costly.
 
- List of attenuated vaccines 
+List of attenuated vaccines
 
- Currently in-use 
- Bacterial vaccines 
+Currently in-use
+
+Bacterial vaccines
 * Anthrax vaccine
 * Cholera vaccine
 * Plague vaccine
@@ -83,7 +84,7 @@ Advantages and disadvantages
 * Tuberculosis vaccine
 * Typhoid vaccine
 
- Viral vaccines 
+Viral vaccines
 * Live attenuated influenza vaccine (LAIV)
 * Japanese encephalitis vaccine
 * Measles vaccine
@@ -99,12 +100,12 @@ Advantages and disadvantages
 * Yellow fever vaccine
 * Zoster/shingles vaccine
 
- In development 
+In development
 
- Bacterial vaccines 
+Bacterial vaccines
 * Enterotoxigenic Escherichia coli vaccine
 
- Viral vaccines 
+Viral vaccines
 * Tick-borne encephalitis vaccine
 * COVID-19
 
@@ -123,6 +124,6 @@ External links
 
 
 
- </segment>
+</segment>
 	</text>
 </file>

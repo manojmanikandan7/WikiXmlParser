@@ -3,9 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-17T23:15:37Z" sourceCorpus="COVID-19" filename="63204759" title="COVID-19_testing" url="https://en.wikipedia.org/wiki/COVID-19_testing">
 	<text>
-		<segment id="id63204759">alt=CDC 2019-nCoV Laboratory Test Kit.jpg|thumb|upright=1.3|The US CDC's COVID-19 laboratory test kit
-
-COVID-19 testing involves analyzing samples to assess the current or past presence of SARS-CoV-2, the virus that causes COVID-19 and is responsible for the COVID-19 pandemic. The two main types of tests detect either the presence of the virus or antibodies produced in response to infection. Molecular tests for viral presence through its molecular components are used to diagnose individual cases and to allow public health authorities to trace and contain outbreaks. Antibody tests (serology immunoassays) instead show whether someone once had the disease. They are less useful for diagnosing current infections because antibodies may not develop for weeks after infection. It is used to assess disease prevalence, which aids the estimation of the infection fatality rate.
+		<segment id="id63204759">COVID-19 testing involves analyzing samples to assess the current or past presence of SARS-CoV-2, the virus that causes COVID-19 and is responsible for the COVID-19 pandemic. The two main types of tests detect either the presence of the virus or antibodies produced in response to infection. Molecular tests for viral presence through its molecular components are used to diagnose individual cases and to allow public health authorities to trace and contain outbreaks. Antibody tests (serology immunoassays) instead show whether someone once had the disease. They are less useful for diagnosing current infections because antibodies may not develop for weeks after infection. It is used to assess disease prevalence, which aids the estimation of the infection fatality rate.
 
 Individual jurisdictions have adopted varied testing protocols, including whom to test, how often to test, analysis protocols, sample collection and the uses of test results. This variation has likely significantly impacted reported statistics, including case and test numbers, case fatality rates and case demographics. Because SARS-CoV-2 transmission occurs days after exposure (and before onset of symptoms), there is an urgent need for frequent surveillance and rapid availability of results.
 
@@ -15,7 +13,7 @@ Test analysis is often performed in automated, high-throughput, medical laborato
 
 Methods
 
-thumb|upright=1.6|Explanation of the underlying pathophysiology pertaining to diagnosis of COVID-19
+
 
 Positive viral tests indicate a current infection, while positive antibody tests indicate a prior infection. Other techniques include a CT scan, checking for elevated body temperature, checking for low blood oxygen level, and detection by trained dogs.
 
@@ -35,7 +33,7 @@ The combined technique has been described as real-time RT-PCR or quantitative RT
 
 Average sensitivity for rapid molecular tests depend on the brand. For ID NOW, the average sensitivity was 73.0% with an average specificity of 99.7%; for Xpert Xpress the average sensitivity was 100% with an average specificity of 97.2%.
 
-In a diagnostic test, sensitivity is a measure of how well a test can identify true positives and specificity is a measure of how well a test can identify true negatives. For all testing, both diagnostic and screening, there is usually a trade-off between sensitivity and specificity, such that higher sensitivities will mean lower specificities and vice versa. thumb|350x350px|Sensitivity and Specificity A 90% specific test will correctly identify 90% of those who are uninfected, leaving 10% with a false positive result.
+In a diagnostic test, sensitivity is a measure of how well a test can identify true positives and specificity is a measure of how well a test can identify true negatives. For all testing, both diagnostic and screening, there is usually a trade-off between sensitivity and specificity, such that higher sensitivities will mean lower specificities and vice versa.  A 90% specific test will correctly identify 90% of those who are uninfected, leaving 10% with a false positive result.
 
 Samples can be obtained by various methods, including a nasopharyngeal swab, sputum (coughed up material), throat swabs, deep airway material collected via suction catheter or saliva. Drosten et al. remarked that for 2003 SARS, &quot;from a diagnostic point of view, it is important to note that nasal and throat swabs seem less suitable for diagnosis, since these materials contain considerably less viral RNA than sputum, and the virus may escape detection if only these materials are tested.&quot;
 
@@ -52,15 +50,15 @@ On 4 January 2021, the US FDA issued an alert about the risk of false results, p
 Viral burden measured in upper respiratory specimens declines after symptom onset. Following recovery, many patients no longer have detectable viral RNA in upper respiratory specimens. Among those who do, RNA concentrations three days following recovery are generally below the range in which replication-competent virus has been reliably isolated. No clear correlation has been described between length of illness and duration of post-recovery shedding of viral RNA in upper respiratory specimens.
 
 
- Other molecular tests 
+Other molecular tests
 Isothermal nucleic acid amplification tests also amplify the virus's genome. They are faster than PCR because they do not involve repeated heating and cooling cycles. These tests typically detect DNA using fluorescent tags, which are read out with specialized machines.
 
 CRISPR gene editing technology was modified to perform the detection: if the CRISPR enzyme attaches to the sequence, it colors a paper strip. The researchers expect the resulting test to be cheap and easy to use in point-of-care settings. The test amplifies RNA directly, without the RNA-to-DNA conversion step of RT-PCR.
 
- Antigen tests 
-thumb|COVID-19 Antigen Rapid Test Kit; the timer is provided by the user.
-thumb|Mucus from nose or throat in a test liquid is placed onto a COVID-19 rapid antigen diagnostic test device.
-thumb|right|300px|COVID-19 rapid testing in Rwanda
+Antigen tests
+
+
+
 An antigen is the part of a pathogen that elicits an immune response. Antigen tests look for antigen proteins from the viral surface. In the case of a coronavirus, these are usually proteins from the surface spikes. SARS-CoV-2 antigens can be detected before onset of COVID-19 symptoms (as soon as SARS-CoV-2 virus particles) with more rapid test results, but with less sensitivity than PCR tests for the virus.
 
 COVID-19 rapid antigen tests are lateral flow immunoassays that detect the presence of a specific viral antigen, which indicates current viral infection. Antigen tests produce results quickly (within approximately 15–30 minutes), and most can be used at the point-of-care or as self-tests. Self-tests are rapid tests that can be taken at home or anywhere, are easy to use, and produce rapid results. Antigen tests can be performed on nasopharyngeal, nasal swab, or saliva specimens.
@@ -80,7 +78,7 @@ multiple image
  | alt1 = Machine used to analyze blood samples
  | image2 = Corona antibody test.jpg
  | alt2 = Table showing amounts of IgG and IgM antibodies detected in sample
- | footer = Left: Automated analyzer for immunoassays, used, for example, to find SARS-CoV-2 antibodies. Right: Example of quantitative results for SARS-CoV-2 antibody test.
+ | footer = Left: Automated analyzer for immunoassays, used, for example, to find SARS-CoV-2 antibodies. Right: Example of  results for SARS-CoV-2 antibody test.
 
 The body responds to a viral infection by producing antibodies that help neutralize the virus. Blood tests (also called serology tests or serology immunoassays) can detect the presence of such antibodies. Antibody tests can be used to assess what fraction of a population has once been infected, which can then be used to calculate the disease's mortality rate. They can also be used to determine how much antibody is contained in a unit of convalescent plasma, for COVID-19 treatment, or to verify if a given vaccine generates an adequate immune response.
 
@@ -90,17 +88,18 @@ The most notable antibodies are IgM and IgG. IgM antibodies are generally detect
 
 Genetic tests verify infection earlier than antibody tests. Only 30% of those with a positive genetic test produced a positive antibody test on day 7 of their infection.
 
- Antibody Test Types 
- Rapid diagnostic test (RDT) 
+Antibody Test Types
+
+Rapid diagnostic test (RDT)
 RDTs typically use a small, portable, positive/negative lateral flow assay that can be executed at point of care. RDTs may process blood samples, saliva samples, or nasal swab fluids. RDTs produce colored lines to indicate positive or negative results.
 
- Enzyme-linked immunosorbent assay (ELISA) 
+Enzyme-linked immunosorbent assay (ELISA)
 ELISAs can be qualitative or quantitative and generally require a lab. These tests usually use whole blood, plasma, or serum samples. A plate is coated with a viral protein, such as a SARS-CoV-2 spike protein. Samples are incubated with the protein, allowing any antibodies to bind to it. The antibody-protein complex can then be detected with another wash of antibodies that produce a color/fluorescent readout.
 
- Neutralization assay 
+Neutralization assay
 Neutralization assays assess whether sample antibodies prevent viral infection in test cells. These tests sample blood, plasma or serum. The test cultures cells that allow viral reproduction (e.g., Vero E6 cells). By varying antibody concentrations, researchers can visualize and quantify how many test antibodies block virus replication.
 
- Chemiluminescent immunoassay 
+Chemiluminescent immunoassay
 Chemiluminescent immunoassays are quantitative lab tests. They sample blood, plasma, or serum. Samples are mixed with a known viral protein, buffer reagents and specific, enzyme-labeled antibodies. The result is luminescent. A chemiluminescent microparticle immunoassay uses magnetic, protein-coated microparticles. Antibodies react to the viral protein, forming a complex. Secondary enzyme-labeled antibodies are added and bind to these complexes. The resulting chemical reaction produces light. The radiance is used to calculate the number of antibodies. This test can identify multiple types of antibodies, including IgG, IgM, and IgA.
 
 Neutralizing vis-à-vis binding antibodies
@@ -114,10 +113,10 @@ Studies have indicated that NAbs to the original SARS virus (the predecessor to 
 
 Other tests
 
- Sniff tests 
+Sniff tests
 Sudden loss of smell can be used to screen people on a daily basis for COVID-19. A study by the National Institutes of Health showed that those infected with SARS-CoV-2 could not smell a 25% mixture of ethanol and water. Because various conditions can lead to the loss of the sense of smell, a sniff test would not be definitive but indicate the need for a PCR test. Because the loss of the sense of smell shows up before other symptoms, there has been a call for widespread sniff testing. Health care bureaucracies have generally ignored sniff tests even though they are quick, easy and capable of being self-administered daily. This has led some medical journals to write editorials supporting the adoption of sniff testing.
 
- Imaging 
+Imaging
 Typical visible features on CT initially include bilateral multilobar ground-glass opacities with a peripheral or posterior distribution. COVID-19 can be identified with higher precision using CT than with RT-PCR.
 
 Subpleural dominance, crazy paving, and consolidation may develop as the disease evolves. Chest CT scans and chest x-rays are not recommended for diagnosing COVID-19. Radiologic findings in COVID-19 lack specificity.
@@ -148,23 +147,23 @@ Tollotest is a molecular test that detects the activity of a SARS-CoV2 protease,
 History
 
 
-thumb|upright=1.25|Timeline of total number of tests in different countries
+
 
 In January 2020, scientists from China published the first genetic sequences of SARS-CoV-2 via virological.org, a &quot;hub for prepublication data designed to assist with public health activities and research&quot;.
 
 Even once the first tests were created, the supply was limited. As a result, no countries had reliable data on the prevalence of the virus early in the pandemic. The WHO and other experts called for ramping up testing as the best way to slow the spread of the virus. Shortages of reagent and other testing supplies became a bottleneck for mass testing in the EU, the UK and the US. Early tests also encountered problems with reliability.
 
- Testing protocols 
+Testing protocols
 
- Drive-through testing 
+Drive-through testing
 In drive-through testing, the person undergoing testing remains in a vehicle while a healthcare professional approaches the vehicle and obtains a sample, all while taking appropriate precautions such as wearing personal protective equipment (PPE). Drive-through centers helped South Korea accelerate its testing program.
 
- Home collection 
+Home collection
 
-thumb|right|A USPS package containing COVID-19 tests from the fifth round of free US distributions in the fall of 2023, with instructions regarding FDA extensions of test expiration dates.
+
 In Hong Kong test subjects can stay home and receive a specimen tube. They spit into it, return it and later get the result. Additionally, by the fall of 2023, the United States had conducted six rounds of mailing free at-home COVID-19 tests to households nationwide. The rapid antigen tests, while less accurate than PCR tests, did not require mailing the tests back to labs for analysis.
 
- Pooled testing 
+Pooled testing
 
 Pooled testing can improve turnaround time, by combining a number of samples to be tested together. If the pool result is negative, all samples are negative. If the test result is positive, samples will need to be individually tested.
 
@@ -172,38 +171,38 @@ In Israel, researchers at Technion and Rambam Hospital developed a method for te
 
 Open source, multiplexed designs released by Origami Assays can test as many as 1122 patient samples using only 93 assays. These balanced designs can be run in small laboratories without robotic liquid handlers.
 
- Multi-tiered testing 
+Multi-tiered testing
 One study proposed a rapid immune response assay as a screening test, with a confirmatory nucleic acid test for diagnosis, followed by a rapid antibody test to determine course of action and assess population exposure/herd immunity.
 
- Required volume 
+Required volume
 Required testing levels are a function of disease spread. The more the cases, the more tests are needed to manage the outbreak. COVID-19 tends to grow exponentially at the beginning of an outbreak, meaning that the number of required tests initially also grows exponentially. If properly targeted testing grows more rapidly than cases, it can be contained.
 
 WHO recommends increasing testing until fewer than 10% are positive in any given jurisdiction.
 
- United States 
-thumb|upright=1.35|Number of tests done per day in the US, .
+United States
+[[File:United States tests for SARS CoV-2 - May 11, 2020.jpg|thumb|upright=1.35|Number of tests done per day in the US, .
 Blue: CDC lab
 Orange: Public health lab
 Gray: Data incomplete due to reporting lag
-Not shown: Testing at private labs; total exceeded 100,000 per day by 27 March.
+Not shown: Testing at private labs; total exceeded 100,000 per day by 27 March.]]
 
 Economist Paul Romer reported that the US has the technical capacity to scale up to 20 million tests per day, which is his estimate of the scale needed to fully remobilize the economy. The Edmond J. Safra Center for Ethics estimated on 4 April 2020 that this capacity could be available by late July 2020. Romer pointed to single-molecule real-time sequencing equipment from Pacific Biosciences and to the Ion Torrent Next-Generation Sequencing equipment from ThermoFisher Scientific. According to Romer, &quot;Recent research papers suggest that any one of these has the potential to scale up to millions of tests per day.&quot; This plan requires removing regulatory hurdles. Romer estimated that $100 billion would cover the costs.
 
 Romer also claimed that high test accuracy is not required if tests are administered frequently enough. He ran model simulations in which 7% of the population is tested every day using a test with a 20% false negative rate and a 1% false positive rate. The average person would be tested roughly every two weeks. Those who tested positive would go into quarantine. Romer's simulation indicated that the fraction of the population that is infected at any given time (known as the attack rate) peaks reaches roughly 8% in about thirty days before gradually declining, in most runs reaching zero at 500 days, with cumulative prevalence remaining below 20%.
 
- Snapshot mass-testing 
+Snapshot mass-testing
 A study found that, despite possibly suboptimal implementation, the snapshot mass-testing approach conducted by Slovakia by which ~80% of its population was tested for COVID-19 within a weekend at the end of October 2020 was thought highly efficacious, decreasing observed prevalence by 58% within one week and by 70% compared to a hypothetical scenario of no snapshot mass-testing. The significant reduction resulted from a set of complementary lockdown and quarantine measures whereby citizens who tested positive were quarantined synchronously the weeks afterwards. The country increased other countermeasures at the same time so the inference was questionable. In the following months Slovakia's COVID-19 death rate per population increased to among the highest in the world. Research on mass testing suggests that people who test negative think it is safe to travel and come in contact with infected people. In the U.S. the tracing system was overwhelmed. On 70 percent of days there were more cases than tracers had time to contact and people contacted were often uncooperative.
 
- Surveillance and screening of populations 
+Surveillance and screening of populations
 
 As of August 2020, the WHO recognizes wastewater surveillance of SARS-CoV-2 as a potentially useful source of information on the prevalence and temporal trends of COVID-19 in communities, while highlighting that gaps in research such as viral shedding characteristics should be addressed. Such aggregative testing may have detected early cases. Studies show that wastewater-based epidemiology has the potential for an early warning system and monitoring for COVID-19 infections. This may prove particularly useful once large shares of regional populations are vaccinated or recovered and do not need to conduct rapid tests while in some cases being infectious nevertheless.
 
 Available tests
-thumb|A temporary drive-in testing site for COVID-19 set up with tents in a parking lot
+
 
 Countries around the world developed tests independently and in partnership with others.
 
- Nucleic acid tests 
+Nucleic acid tests
 
 Tests are available that look for viral RNA using either polymerase chain reaction (PCR) or loop-mediated isothermal amplification (LAMP) technology.
 
@@ -211,15 +210,15 @@ Tests developed in China, France, Germany, Hong Kong, Japan, the United Kingdom,
 
 PowerChek Coronavirus looks for the &quot;E&quot; gene shared by all beta coronaviruses, and the RdRp gene specific to SARS-CoV-2.
 
-thumb|US President Donald Trump displays a COVID-19 testing kit from Abbott Laboratories in March 2020.
-thumb|Nucleic acid testing conducted using an Abbott Laboratories ID Now device
+
+
 
 Abbott Laboratories' ID Now nucleic acid test uses isothermal amplification technology. The assay amplifies a unique region of the virus's RdRp gene; the resulting copies are then detected with &quot;fluorescently-labeled molecular beacons&quot;. The test kit uses the company's &quot;toaster-size&quot; ID Now device, which is widely deployed in the US. The device can be used in laboratories or in point of care settings, and provides results in 13 minutes or less.
 
 Primerdesign offers its Genesig Real-Time PCR test system. Roche Molecular Systems offers the Cobas 6800/8800 systems; they are offered among others by the United Nations.
 
 Antigen tests
-thumb|Innova SARS-CoV-2 Antigen Rapid Qualitative Lateral Flow Test kit showing a negative result. This device has been subject to accuracy concerns and a recall in the United States.Antigen tests are readily available worldwide and have been approved by several health regulators.
+Antigen tests are readily available worldwide and have been approved by several health regulators.
 
 Quidel's &quot;Sofia2 SARS Antigen FIA&quot; is a lateral flow test that uses monoclonal antibodies to detect the virus's nucleocapsid (N) protein. The result is read out by the company's Sofia2 device using immunofluorescence. The test is simpler and cheaper but less accurate than nucleic acid tests. It can be deployed in laboratories or at point of care and gives results in 15 minutes. A false negative result occurs if the sample's antigen level is positive but below the test's detection limit, requiring confirmation with a nucleic acid test.
 
@@ -236,25 +235,25 @@ Roche offers a selective ELISA serology test.
 
 A summary review has noted that while some &quot;serological tests ... might be cheaper and easier to implement at the point of care [than RT-PCR]&quot;, and such testing can identify previously infected individuals, &quot;caution is warranted ... using serological tests for ... epidemiological surveillance&quot;. The review called for higher quality studies assessing accuracy with reference to a standard of &quot;RT-PCR performed on at least two consecutive specimens, and, when feasible, includ[ing] viral cultures.&quot; CEBM researchers have called for in-hospital 'case definition' to record &quot;CT lung findings and associated blood tests&quot; and for the WHO to produce a &quot;protocol to standardise the use and interpretation of PCR&quot; with continuous re-calibration.
 
- Accuracy 
+Accuracy
 
 
 Accuracy is measured in terms of specificity and selectivity. Test errors can be false positives (the test is positive, but the virus is not present) or false negatives, (the test is negative, but the virus is present). In a study of over 900,000 rapid antigen tests, false positives were found to occur at a rate of 0.05% or 1 in 2000.
 
- Sensitivity and specificity 
+Sensitivity and specificity
 
 Sensitivity indicates whether the test accurately identifies whether the virus is present. Each test requires a minimum level of viral load in order to produce a positive result. A 90% sensitive test will correctly identify 90% of infections, missing the other 10% (a false negative). Even relatively high sensitivity rates can produce high rates of false negatives in populations with low incidence rates.
 
-In a diagnostic test, sensitivity is a measure of how well a test can identify true positives and specificity is a measure of how well a test can identify true negatives. For all testing, both diagnostic and screening, there is usually a trade-off between sensitivity and specificity, such that higher sensitivities will mean lower specificities and vice versa. thumb|350x350px|Sensitivity and Specificity A 90% specific test will correctly identify 90% of those who are uninfected, leaving 10% with a false positive result.
+In a diagnostic test, sensitivity is a measure of how well a test can identify true positives and specificity is a measure of how well a test can identify true negatives. For all testing, both diagnostic and screening, there is usually a trade-off between sensitivity and specificity, such that higher sensitivities will mean lower specificities and vice versa.  A 90% specific test will correctly identify 90% of those who are uninfected, leaving 10% with a false positive result.
 
 Low-specificity tests have a low positive predictive value (PPV) when prevalence is low. For example, suppose incidence is 5%. Testing 100 people at random using a test that has a specificity of 95% would yield on average 5 people who are actually negative who would incorrectly test positive. Since 5% of the subjects actually are positive, another five would also test positive correctly, totaling 10 positive results. Thus, the PPV is 50%, an outcome no different from a coin toss. In this situation, assuming that the result of a second test is independent of the first test, retesting those with a first positive result increases the PPV to 94.5%, meaning that only 4.5% of the second tests would return the incorrect result, on average less than 1 incorrect result.
 
- Causes of test error 
+Causes of test error
 
 The time course of infection affects the accuracy of some tests. Samples may be collected before the virus has a chance to establish itself or after the body has begun to eliminate it. A May 2020 review of PCR-RT testing found that the median probability of a false-negative result decreased from 100% on day 1 to 67% on day 4. On the day of symptom onset, the probability was 38%, which decreased to 20% 3 days later.
 
 PCR-based test
-thumb|Detection of SARS-CoV-2 by nasal swab over six weeks in patients who experienced mild to moderate illness
+
 RT-PCR is the most commonly used diagnostic test. PCR tests by nasopharyngeal swab have a sensitivity of 73%, but systematic analysis of specificity has not been determined due to the lack of PCR studies with a control group.
 
 In one study, the positivity rate was highest at week one (100%), followed by 89.3%, 66.1%, 32.1%, 5.4% and zero by week six since symptom onset.
@@ -281,7 +280,7 @@ The WHO recommends countries that do not have testing capacity and national labo
 
 National or regional responses
 
- Iceland 
+Iceland
 Iceland managed the pandemic with aggressive contact tracing, inbound travel restrictions, testing, and quarantining, but with less aggressive lock-downs.
 
 India
@@ -290,7 +289,7 @@ India
 Italy
 Researchers tested the entire population of Vo', the site of Italy's first COVID-19 death. They tested about 3,400 people twice, at an interval of ten days. About half the people testing positive had no symptoms. All discovered cases were quarantined. Along with restricting travel to the commune, new infections were eliminated.
 
- Japan 
+Japan
 
 Unlike other Asian countries, Japan did not experience a pandemic of SARS or MERS, so the country's PCR testing system was not well developed. Japan preferentially tested patients with severe illness and their close contacts at the beginning. Japan's Novel Coronavirus Expert Meeting chose cluster measures to identify infections clusters. The Expert Meeting analyzed the outbreak from Wuhan and identified conditions leading to clusters (closed spaces, crowded spaces and close-contact), and asked people to avoid them.
 
@@ -314,7 +313,7 @@ With contact tracing, inbound travel restrictions, testing, and quarantining, Si
 Slovakia
 In October 2020 Slovakia tested 3.62 million people in a weekend, from a population of 5.4m, representing 67% of the total (or 82% of the adult population), 38,359 tested positive, representing 1.06% of those tested. The government considered the mass test would significantly assist in controlling the virus and avoid a lockdown and may repeat the exercise at a later date.
 
- South Korea 
+South Korea
 
 South Korea's broad testing approach helped reduce spread. Testing capacity, largely in private sector labs, was built up over several years by the South Korean government in the early 2000s.
 
@@ -324,16 +323,16 @@ Korea established a large scale drive-through/walk-through&quot; test testing pr
 
 The government disclosed personal information to the public via KCDC without patient consent. The authorities used digital surveillance to trace possible spread.
 
- Taiwan 
+Taiwan
 Health insurance IDs and national identification card numbers were used to trace contacts.
 
- United Arab Emirates 
+United Arab Emirates
 In January 2021, the COVID-19 testing results of the UAE came under scrutiny, as Denmark suspended the Emirati flights for five days. The European nation said that it barred the flights from the UAE due to growing suspicion of irregularities in the testing process being followed in the Gulf nation. Denmark's Minister of Transport, Benny Engelbrecht said that they were taking time to ensure that the negative tests of travelers from the Emirates were a real screening carried out appropriately.
 
- United States 
+United States
 
 
- New York State 
+New York State
 New York State's control measures consisted of PCR tests, stay-at-home measures and strengthening the healthcare system. On 29 February before its first case, the state allowed testing at the Wordsworth Center. They managed to convince the CDC to approve tests at state laboratories and the FDA to approve a test kit. As of 13 March the state was conducting more than 1,000 daily tests, growing to 10,000/day on 19 March. In April, the number exceeded 20,000. Many people queued at hospitals to get tested. On 21 March New York City health officials directed medical providers to test only those entering the hospital, for lack of PPE.
 
 USS Theodore Roosevelt
@@ -351,7 +350,7 @@ Testing strategies vary by country and over time, with some countries testing ve
 
 
 
- See also 
+See also
 * 2002–2004 SARS outbreak
 * Coronavirus breathalyzer
 * Coronavirus disease 2019
@@ -359,17 +358,17 @@ Testing strategies vary by country and over time, with some countries testing ve
 * COVID-19 pandemic
 * 
 
- References 
+References
 * 
 
 
- Further reading 
+Further reading
 
 * 
 * 
 
 
- External links 
+External links
 
 
 
@@ -377,6 +376,6 @@ Testing strategies vary by country and over time, with some countries testing ve
 
 
 
- </segment>
+</segment>
 	</text>
 </file>

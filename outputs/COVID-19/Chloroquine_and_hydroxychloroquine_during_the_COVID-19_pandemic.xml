@@ -3,9 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-15T03:59:32Z" sourceCorpus="COVID-19" filename="66938719" title="Chloroquine_and_hydroxychloroquine_during_the_COVID-19_pandemic" url="https://en.wikipedia.org/wiki/Chloroquine_and_hydroxychloroquine_during_the_COVID-19_pandemic">
 	<text>
-		<segment id="id66938719">thumb|A World Health Organization infographic that states that hydroxychloroquine does not prevent illness or death from COVID-19.
-
-Chloroquine and hydroxychloroquine are anti-malarial medications also used against some auto-immune diseases.  Chloroquine, along with hydroxychloroquine, was an early  experimental treatment for COVID-19.  Neither drug has been useful to prevent or treat SARS-CoV-2 infection. Administration of chloroquine or hydroxychloroquine to COVID-19 patients, either as monotherapies or in conjunction with azithromycin, has been associated with deleterious outcomes, such as QT prolongation. Scientific evidence does not substantiate the efficacy of hydroxychloroquine, with or without the addition of azithromycin, in the therapeutic management of COVID-19.
+		<segment id="id66938719">Chloroquine and hydroxychloroquine are anti-malarial medications also used against some auto-immune diseases.  Chloroquine, along with hydroxychloroquine, was an early  experimental treatment for COVID-19.  Neither drug has been useful to prevent or treat SARS-CoV-2 infection. Administration of chloroquine or hydroxychloroquine to COVID-19 patients, either as monotherapies or in conjunction with azithromycin, has been associated with deleterious outcomes, such as QT prolongation. Scientific evidence does not substantiate the efficacy of hydroxychloroquine, with or without the addition of azithromycin, in the therapeutic management of COVID-19.
 
 Cleavage of the SARS-CoV-2 S2 spike protein required for viral entry into cells can be accomplished by proteases TMPRSS2 located on the cell membrane, or by cathepsins (primarily cathepsin L) in endolysosomes. Hydroxychloroquine inhibits the action of cathepsin L in endolysosomes, but because cathepsin L cleavage is minor compared to TMPRSS2 cleavage, hydroxychloroquine does little to inhibit SARS-CoV-2 infection.
 
@@ -17,14 +15,14 @@ In 2021, hydroxychloroquine was part of the recommended treatment for mild cases
 
 In 2020, the speculative use of hydroxychloroquine for COVID-19 threatened its availability for people with established indications (malaria and auto-immune diseases).
 
- Background 
+Background
 Chloroquine is an anti-malarial medication that is also used against some auto-immune diseases. Hydroxychloroquine is more commonly available than chloroquine in the United States.  Hydroxychloroquine is used as a prophylactic in India.
 
 Hydroxychloroquine and chloroquine have numerous, potentially serious, side effects, such as retinopathy, hypoglycemia, or life-threatening arrhythmia and cardiomyopathy. Both drugs have extensive interactions with prescription drugs, affecting the therapeutic dose and disease mitigation. Some people have allergic reactions to these drugs. The NIH recommended against the use of a combination of hydroxychloroquine and azithromycin because of the resulting increased risk of sudden cardiac death. Widespread administration of chloroquine or hydroxychloroquine, either alone or in combination with azithromycin, among COVID-19 patients, has been associated with increased mortality due to adverse effects, including QT prolongation.
 
 In October 2021 a large network of companies selling hydroxychloroquine and ivermectin has been disclosed in the US, targeting primarily right-wing and vaccine hesitant groups through social media and conspiracy videos by anti-vaccine activists such as Simone Gold. The network had 72,000 customers who collectively paid $15 million for consultations and medications.
 
- Timeline 
+Timeline
 Chloroquine was initially recommended by Indian, Chinese, South Korean and Italian health authorities for the treatment of COVID-19, although these agencies and the US CDC noted contraindications for people with heart disease or diabetes. In February 2020, both drugs were shown to effectively reduce COVID-19 illness, but a further study concluded that hydroxychloroquine was more potent than chloroquine and had a more tolerable safety profile.
 
 On 18 March 2020, the World Health Organization (WHO) announced that chloroquine and the related hydroxychloroquine would be among the four drugs studied as part of the multinational Solidarity clinical trial.
@@ -63,26 +61,26 @@ In August 2022, a meta-analysis led by Harvard epidemiologist Miguel Hernán fou
 
 A French study published in 2024 found that the use of hydroxychloroquine may have been associated with 17,000 deaths in Belgium, Turkey, France, Italy, Spain, and the United States. This study was ultimately retracted on August 22, 2024, after &quot;the Editor-in-Chief found the conclusions of the article to be unreliable&quot;.
 
- Combined with zinc and another antibiotic 
+Combined with zinc and another antibiotic
 Due to the properties of zinc as a cofactor in the immune response for producing antibodies during viral infections, as of May 2020 it was being included among multiple-agent &quot;cocktails&quot; for investigating potential treatment of people hospitalized with COVID-19 infection. One such cocktailhydroxychloroquine combined with a high dose of zinc (as a sulfate, 220 mg (50 mg elemental Zn) per day for five days, a zinc dose ~4 times higher than the reference daily intake level) and an approved antibiotic, either azithromycin or doxycyclinebegan in May as a PhaseIV trial in New York State. However, caution was recommended about the combination of chloroquine or hydroxychloroquine with CYP3A4 inhibitors, such as azithromycin, a treatment combination found to be ineffective for preventing death in hospitalized people with COVID-19. There was preliminary evidence that combining hydroxychloroquine and azithromycin for treating non-hospitalized (&quot;outpatient&quot;) people with COVID-19 infection with multiple comorbidities was effective, but this evidence was not confirmed by later studies: co-administration of chloroquine or hydroxychloroquine with azithromycin has been associated with increased mortality due to adverse effects, including QT prolongation.
 
 Zinc deficiencywhich decreases immune capacity to defend against pathogensis common among elderly people, and may be a susceptibility factor in viral infections. The mechanism for any potential benefit of including zinc in a cocktail treatment for recovery from severe COVID-19 or any viral infection is unknown.
 
- Prophylaxis 
+Prophylaxis
 Drugs used for treatment of infectious diseases may also be considered for use for post-exposure prophylaxis. On 22 May, The Lancet published a response to criticism of the Indian government's decision to allow chemoprophylaxis with hydroxychloroquine for some high risk persons who may have had exposure to COVID. Researchers supporting prophylactic administration of hydroxychloquine note that results from human trials have suggested that hydroxychloroquine may decrease the duration of both viral shedding and symptoms if the drug is administered early.
 
 On 3 June, results were published from a randomized, double-blind, placebo-controlled trial of 821 participants which found that hydroxychloroquine did not prevent symptomatic COVID-19 illness when used for post-exposure prophylaxis. A randomized, multicenter, placebo-controlled trial amongst healthcare workers found that oral hydroxychloroquine did not help prevent COVID-19 infections when used as pre-exposure prophylaxis.
 
 British researchers are studying whether the drug is effective when used for prevention. 10,000 National Health Service (NHS) workers, along with 30,000 additional volunteers from Asia, South America, Africa, and other parts of Europe are participating in the global study. Results are expected by 2021. Known as the COPCOV trial, led by researchers at the University of Oxford - it was halted in 2021 after evidence came forward that hydroxychloroquine was not effective at either preventing COVID-19 or treating it. Several large, prestigious studies found that the drug neither halted infection nor improved outcomes.
 
- WHO trial 
+WHO trial
 Due to safety concerns and evidence of heart arrhythmias leading to higher death rates, the WHO suspended the hydroxychloroquine arm of the multinational Solidarity trial in May 2020. The WHO had enrolled 3,500 patients from 17 countries in the Solidarity trial. The research surrounding this suspension, provided by a company called Surgisphere based in Chicago, came into question due to errors in the underlying data set. The authors of the study corrected errors in the data later but initially remained firm on their conclusions. Subsequently, a retraction of the study by three of its authors was published by The Lancet on 4June 2020. The authors stated that their reason behind the retraction was because Surgisphere had failed to cooperate with an independent review of the data used for the study by not allowing any such review to take place.
 
 The WHO decided to resume the trial on 3June, after reviewing the safety concerns which had been raised. Speaking at a press briefing, WHO's director-general, Tedros Adhanom Ghebreyesus stated that the board had reviewed the available mortality data and had found &quot;no reasons to modify the trial&quot;.
 
 On 4 July, the WHO discontinued the hydroxychloroquine trial based on evidence presented at the July WHO Summit on COVID-19 research and innovation. The WHO stated that &quot;These interim trial results show that hydroxychloroquine and lopinavir/ritonavir produce little or no reduction in the mortality of hospitalized COVID-19 patients when compared to standard of care.&quot;
 
- See also 
+See also
 * COVID-19 drug repurposing research
 * 
 * Ivermectin during the COVID-19 pandemic
@@ -90,7 +88,7 @@ On 4 July, the WHO discontinued the hydroxychloroquine trial based on evidence p
 * 
 * 
 
- References 
+References
 
 
 

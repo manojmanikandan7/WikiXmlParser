@@ -11,7 +11,7 @@ Spikevax is an mRNA vaccine composed of nucleoside-modified mRNA (modRNA) encodi
 
 The safety profile of the vaccine is favorable, with common side effects including injection site pain, fatigue, and headaches. Severe reactions like anaphylaxis are exceedingly rare. Concerns regarding myocarditis, have been identified but are typically mild and manageable. The vaccine's formulation utilizes mRNA technology, encapsulated within lipid nanoparticles to ensure cellular uptake and immune system response.
 
- Medical uses 
+Medical uses
 The Moderna COVID19 vaccine is used to provide protection against infection by the SARSCoV2 virus in order to prevent COVID19.
 
 The vaccine is given by intramuscular injection into the deltoid muscle of the arm. The initial course consists of two doses. The World Health Organization (WHO) recommends an interval of eight weeks between doses.
@@ -19,7 +19,7 @@ The vaccine is given by intramuscular injection into the deltoid muscle of the a
 A third, fourth, or fifth dose can be added in some countries.
 
 Efficacy
-upright=3|thumb|Cumulative Incidence Curves for the First COVID19 Occurrence (Moderna mRNA-1273 vaccine)
+
 
 Evidence of vaccine efficacy starts about two weeks after the first dose. High efficacy is achieved with full immunization, two weeks after the second dose, and was evaluated at 94.1%: at the end of the vaccine study that led to emergency authorization in the US, there were eleven cases of COVID19 in the vaccine group (out of 15,181 people) versus 185 cases in the placebo group (15,170 people). Moreover, there were zero cases of severe COVID19 in the vaccine group, versus eleven in the placebo group. This efficacy has been described as &quot;astonishing&quot; and &quot;borderline historic&quot; for a respiratory virus vaccine, and it is similar to the efficacy of the Pfizer–BioNTech COVID-19 vaccine.
 
@@ -41,10 +41,10 @@ In August 2021, results from a study suggested that the effectiveness against in
 Specific populations
 Limited data are available on the safety of the Moderna COVID19 vaccine during pregnancy. The initial study excluded pregnant women or discontinued them from vaccination upon a positive pregnancy test. Studies in animals found no safety concerns and clinical trials are underway to evaluate the safety and efficacy of COVID19 vaccines in pregnant women. Real-world observations through the CDC v-safe tracking program have not uncovered unusual numbers of adverse events or outcomes of interest. Based on the results of a preliminary study, the US CDC recommends that pregnant women get vaccinated with the COVID19 vaccine.
 
- Adverse effects 
+Adverse effects
 
 
-thumb|upright|&quot;Moderna arm&quot;, a non-serious skin reaction rarely seen ≈7 days after injection with the Moderna vaccine.
+
 
 The World Health Organization (WHO) stated that &quot;the safety data supported a favorable safety profile&quot; and that the vaccine's AE (adverse event) profile &quot;did not suggest any specific safety concerns&quot;. The most common adverse events were pain at the injection site, fatigue, headache, myalgia (muscle pain), and arthralgia (joint pain).
 
@@ -54,10 +54,10 @@ In June 2021, the US CDC confirmed that myocarditis or pericarditis occurs in ab
 
 Additional side effects include extensive swelling of the vaccinated limb.
 
- Pharmacology 
+Pharmacology
 Moderna's technology uses a nucleoside-modified messenger RNA (modRNA) compound codenamed mRNA-1273. The mRNA-1273 drug delivery system uses a PEGylated lipid nanoparticle drug delivery (LNP) system. Once the compound is inside a human cell, the mRNA links up with the cell's endoplasmic reticulum. The mRNA-1273 is encoded to trigger the cell into making a specific protein using the cell's normal manufacturing process. The vaccine encodes a version of the spike protein with a modification called 2P, in which the protein includes two stabilizing mutations in which the original amino acids are replaced with prolines, developed by researchers at the University of Texas at Austin and the National Institute of Allergy and Infectious Diseases' Vaccine Research Center. Once the protein is expelled from the cell, it is eventually detected by the immune system, which begins generating efficacious antibodies.
 
- Chemistry 
+Chemistry
 The vaccine contains the following ingredients:
 
 The active ingredient is an mRNA sequence containing a total of 4101 nucleotides that encodes the full-length SARS-CoV-2 spike (S) glycoprotein, with two mutations (K986P and V987P) designed to stabilize the pre-fusion conformation. The sequence is further optimized by:
@@ -74,9 +74,9 @@ The vaccine mRNA is dissolved in an aqueous buffer containing tromethamine, trom
 * PEG2000-DMG (polyethylene glycol (PEG) 2000-dimyristoyl glycerol (DMG)), and
 * SM-102
 
- Manufacturing 
-thumb|An insulated shipping container with Moderna vaccine boxes ensconced by cold packs
-thumb|upright|Moderna vaccine being stored in a conventional medical freezer
+Manufacturing
+
+
 Moderna is relying extensively on contract manufacturing organizations to scale up its vaccine manufacturing process. The first step of the process—synthesis of DNA plasmids (to be used as a template for synthesis of mRNA)—has been handled by a contractor called Aldevron based in Fargo, North Dakota. For the remainder of the process, Moderna contracted with Lonza Group to manufacture the vaccine at facilities in Portsmouth, New Hampshire in the United States, and in Visp in Switzerland, and purchased the necessary lipid excipients from CordenPharma. Besides CMOs, Moderna also manufactures the vaccine at its own production facility in Norwood, Massachusetts. Another manufacturing site for the vaccines for the market outside the U.S. (since the end of 2021) is in Geleen in the Netherlands, produced by its manufacturing partner Lonza. Earlier, Lonza did produce the vaccine for the EU, U.K. and Canada at its site in Switzerland only, but had to cut projected deliveries to the U.K. and Canada earlier in 2021 due to production issues.
 
 For the tasks of filling and packaging vials (fill and finish), Moderna entered into contracts with Catalent in the United States and Laboratorios Farmacéuticos Rovi in Spain. In April 2021, Moderna expanded its agreement with Catalent to increase manufacturing output at the latter's plant in Bloomington, Indiana. The expansion will allow Catalent to manufacture up to 400 vials per minute and fill an additional 80million vials per year. Later that month, Moderna announced its plans to spend billions of dollars to boost production of its vaccines, potentially tripling the output in 2022, claiming as well that it would make no less than 800million doses in 2021. The increase in production is in part attributed to improvements made by the company in manufacturing methods.
@@ -85,18 +85,18 @@ The Moderna news followed preliminary results from the Pfizer-BioNTech vaccine c
 
 In November 2020, Nature reported that &quot;While it's possible that differences in LNP formulations or mRNA secondary structures could account for the thermostability differences [between Moderna and BioNtech], many experts suspect both vaccine products will ultimately prove to have similar storage requirements and shelf lives under various temperature conditions.&quot;
 
- History 
+History
 
 In June 2025, the European Medicines Agency announced that they are making data from the marketing authorization applications for COVID19 mRNA vaccines Comirnaty and Spikevax publicly available.
 
- Original version 
+Original version
 In January 2020, Moderna announced development of an RNA vaccine, codenamed mRNA-1273, to induce immunity to SARS-CoV-2.
 
 Moderna received million from the Biomedical Advanced Research and Development Authority (BARDA), an office of the US Department of Health and Human Services. BARDA funded 100% of the cost of bringing the vaccine to FDA licensure.
 
 The United States government provided $2.5billion in total funding for the Moderna COVID19 vaccine (mRNA-1273). Private donors also made contributions to the vaccine's development. The Dolly Parton COVID-19 Research Fund contributed $1million.
 
- Phase I–II clinical trials 
+Phase I–II clinical trials
 
 In March 2020, the phaseI human trial of mRNA-1273 began in partnership with the US National Institute of Allergy and Infectious Diseases. In April, the US Biomedical Advanced Research and Development Authority (BARDA) allocated up to $483million for Moderna's vaccine development. Plans for a phaseII dosing and efficacy trial to begin in May were approved by the US Food and Drug Administration (FDA). Moderna signed a partnership with Swiss vaccine manufacturer Lonza Group, to supply 300million doses per annum.
 
@@ -108,7 +108,7 @@ I clinical testing]]. &quot;At the 100-microgram dose, the one Moderna is advanc
 
 In September 2021, a study funded by the National Institute of Allergy and Infectious Diseases reported a strong immune response after six months, even at low doses, suggesting that more doses could be deployed from a limited vaccine supply. Six months after low-dose vaccination, 67% of participants still had memory cytotoxic T cells, suggesting that immune memory is stable. The study also found that cross-reactive T cells acquired during infection with other coronaviruses that cause the common cold increased the response to the vaccine.
 
- Phase III clinical trials 
+Phase III clinical trials
 
 Moderna and the National Institute of Allergy and Infectious Diseases began a phaseIII trial in the US in July 2020, with a plan to enroll and assign thirty-thousand volunteers to two groupsone group receiving two 100-μg doses of mRNA-1273 vaccine and the other receiving a placebo of 0.9% sodium chloride. As of 7August, more than 4,500 volunteers had enrolled.
 
@@ -126,11 +126,11 @@ In March 2021, in order to increase the span of vaccination beyond adults, Moder
 
 Additional trials were completed—NCT04796896, NCT04649151, and NCT05436834.
 
- Authorizations 
+Authorizations
 
 
 
- Expedited 
+Expedited
 As of December 2020, the Moderna COVID19 vaccine was under evaluation for emergency authorization or approval by multiple countries which would enable rapid rollout of the vaccine in the United Kingdom, the European Union (EU), Canada, and the United States.
 
 In December 2020, the Moderna COVID19 vaccine was authorized by the US Food and Drug Administration (FDA) under an emergency use authorization (EUA) for people aged 18 years of age and older. This is the first product from Moderna that has been authorized by the FDA. In June 2022, the EUA was expanded to include people aged six months through sixteen years of age. In April 2023, the authorization for the original, monovalent, version of the vaccine in the US was withdrawn. As of April 2023, only the bivalent (Original and Omicron BA.4/BA.5) version of the vaccine is authorized in the US.
@@ -151,7 +151,7 @@ In June 2021, the Moderna COVID19 vaccine was authorized for use in India by the
 
 In August 2021, Malaysia's National Pharmaceutical Regulatory Agency (NPRA) gave conditional registration for emergency use of the Moderna COVID19 vaccine.
 
- Standard 
+Standard
 In January 2021, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) recommended granting conditional marketing authorization and the recommendation was accepted by the European Commission the same day. In July 2021, the EMA extended the use of the COVID19 Vaccine Moderna to include people aged 12 to 17.
 
 In January 2021, Swissmedic granted temporary authorization for the Moderna COVID-19 mRNA Vaccine in Switzerland.
@@ -170,9 +170,9 @@ In September 2022, the CHMP of the EMA recommended converting the conditional ma
 
 In July 2025, Spikevax was fully approved in the US for use in children aged six months through eleven years of age who are at increased risk for COVID-19 disease.
 
- Boosters 
-thumb|US military personnel being administered the Moderna vaccine in December 2020
-thumb|CDC COVID-19 vaccine card showing the first Moderna shot.
+Boosters
+
+
 
 In January 2021, Moderna announced that it would offer a third dose of its vaccine to people who were vaccinated twice in its phaseI trial. The booster would be made available to participants six to twelve months after they got their second dose. The company said it may also study a third shot in participants from its phaseIII trial, if antibody persistence data warranted it. It also started testing to see if a third shot of the existing vaccine could be used to fend off the virus variants.
 
@@ -184,17 +184,17 @@ In October 2021, the European Medicines Agency (EMA) stated that people with &qu
 
 In October 2021, the US Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC) authorized the use of either homologous or heterologous vaccine booster doses. The authorization was expanded to include all adults in November 2021.
 
- Variants 
+Variants
 In January 2021, Moderna started development of a new form of its vaccine, called mRNA-1273.351, that could be used as a booster shot against the Beta variant (lineage B.1.351). In February 2021, Moderna announced that it had manufactured and shipped sufficient amounts of mRNA-1273.351 to the National Institutes of Health to run phaseI clinical trials. Moderna also investigated a multivalent booster, mRNA-1273.211, which combines a 50-50 mix of mRNA-1273 and mRNA-1273.351.
 
 A bivalent version of the vaccine containing elasomeran/imelasomeran (Spikevax bivalent Original/Omicron) was approved for use in the United Kingdom and in Australia in August 2022. It was approved for use in Canada in September 2022.
 
 In October 2022, the FDA amended the authorization for the bivalent booster to cover people aged six years of age and older. In December 2022, the FDA amended the authorization for the bivalent booster to cover people aged six months and older.
 
- XBB.1.5 monovalent vaccine 
+XBB.1.5 monovalent vaccine
 In September 2023, the FDA approved an updated a monovalent (single) component Omicron variant XBB.1.5 version of the vaccine (Spikevax 2023-2024 formula) as a single dose for individuals aged twelve years of age and older; and authorized the Moderna COVID-19 Vaccine 2023-2024 formula under emergency use for individuals aged 6 months through 11 years of age. The updated version was tested in a small human trial of 101 participants; 50 received the monovalent XBB.1.5 version, compared to 51 who received a version containing XBB.1.5, BA.4 and BA.5. All participants had previously received four doses of older formulations of the Moderna COVID-19 vaccine. The safety profile of the authorized XBB.1.5 was found to be &quot;consistent with previously authorized vaccines.&quot; The approvals and emergency authorizations for the bivalent version of the vaccine were revoked. Health Canada authorized the Moderna Spikevax COVID-19 vaccine (Omicron XBB.1.5 subvariant) (andusomeran) in September 2023. The MHRA approved the use of the Moderna (Spikevax) XBB.1.5 vaccine in September 2023.
 
- JN.1 monovalent vaccine 
+JN.1 monovalent vaccine
 In September 2024, the UK's Medicines and Healthcare products Regulatory Agency (MHRA) approved Moderna's JN.1-adapted COVID-19 vaccine for use in adults and children aged six months and older.
 
 In September 2024, the European Union authorized the Spikevax JN.1 vaccine.
@@ -203,19 +203,19 @@ In September 2024, Swissmedic authorized the Spikevax JN.1 vaccine.
 
 In September 2024, the Taiwan Food &amp; Drug Administration authorized the Spikevax JN.1 vaccine.
 
- KP.2 monovalent vaccine 
+KP.2 monovalent vaccine
 In August 2024, the FDA approved and granted emergency authorization for a monovalent Omicron KP.2 version of the Moderna COVID-19 vaccine. The approval of Spikevax (COVID-19 Vaccine, mRNA) (2024-2025 Formula) was granted to ModernaTX Inc. and the EUA amendment for the Moderna COVID-19 Vaccine (2024-2025 Formula) was issued to ModernaTX Inc.
 
- Society and culture 
+Society and culture
 About 155million doses of the Moderna COVID-19 vaccine, including about 3.1million doses in children and adolescents (below 18 years of age) were administered in the EU/EEA from authorization to 26 June 2022.
 
- Brand names 
+Brand names
 mRNA-1273 was the code name during development and testing, elasomeran is the international nonproprietary name (INN), and Spikevax is the brand name.
 
 Davesomeran is the INN for the BA.5 variant in the bivalent version of the vaccine. Andusomeran is the INN for the XBB 1.5 variant version of the vaccine.
 
- Economics 
-thumb|Kamala Harris, Vice President of the United States, receiving her second dose of the Moderna vaccination in January 2021.
+Economics
+
 
 In June 2020, Singapore signed a pre-purchase agreement for Moderna, reportedly paying a price premium in order to secure early stock of vaccines, although the government declined to provide the actual price and quantity, citing commercial sensitivities and confidentiality clauses.
 
@@ -225,10 +225,10 @@ In 2020, Moderna obtained purchase agreements for mRNA-1273 with the European Un
 
 Moderna reported revenue of million from its COVID19 vaccine in 2020, and $17.7billion in 2021.
 
- Paused vaccinations 
+Paused vaccinations
 Out of concern that the vaccine may increase the risk of myocarditis in young people under age 30, Finland, Sweden, Germany, and France recommended Moderna vaccinations not be used for this age group in October/November 2021.
 
- Controversies 
+Controversies
 
 In May 2020, after releasing partial and non-peer-reviewed results for only eight of 45 candidates in a preliminary pre-phaseI stage human trial directly to financial markets, the CEO announced on CNBC an immediate $1.25billion rights issue to raise funds for the company, at a $30billion valuation, while Stat said, &quot;Vaccine experts say Moderna didn't produce data critical to assessing COVID19 vaccine.&quot;
 
@@ -238,22 +238,22 @@ Moderna also faced criticism for failing to recruit people of color in clinical 
 
 In August 2021, the US Department of Health and Human Services announced a plan to offer a booster dose eight months after the second dose, citing evidence of reduced protection against mild and moderate disease and the possibility of reduced protection against severe disease, hospitalization, and death. Scientists and the WHO reaffirmed the lack of evidence on the need for a booster dose for healthy people and that the vaccine remains effective against severe disease months after administration. In a statement, the WHO and SAGE said that, while protection against infection may be diminished, protection against severe disease will likely be retained due to cell-mediated immunity. Research into optimal timing for boosters is still ongoing, and a booster too early may lead to less robust protection.
 
- Misinformation 
+Misinformation
 
 Videos on video-sharing platforms circulated around May 2021 showing people having magnets stick to their arms after receiving the vaccine, purportedly demonstrating the conspiracy theory that vaccines contain microchips, but these videos have been debunked.
 
 In November 2021, a White House correspondent for the conservative outlet Newsmax falsely tweeted that the Moderna vaccine contained luciferase &quot;so that you can be tracked.&quot;
 
- Patent litigation 
+Patent litigation
 The PEGylated lipid nanoparticle (LNP) drug delivery system of mRNA-1273 has been the subject of ongoing patent litigation with Arbutus Biopharma, from whom Moderna had previously licensed LNP technology. On 4September 2020, Nature Biotechnology reported that Moderna had lost a key challenge in the ongoing case.
 
- Explanatory notes 
+Explanatory notes
 
 
- References 
+References
 
 
- Further reading 
+Further reading
 * 
 * 
 * 
@@ -261,7 +261,7 @@ The PEGylated lipid nanoparticle (LNP) drug delivery system of mRNA-1273 has bee
 * 
 * 
 
- External links 
+External links
 
 
 

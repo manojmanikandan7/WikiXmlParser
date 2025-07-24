@@ -13,7 +13,7 @@ The most common side effect in healthy volunteers is raised blood levels of live
 
 The US Food and Drug Administration (FDA) considers it to be a first-in-class medication.
 
- Medical uses 
+Medical uses
 In the European Union, remdesivir is indicated for the treatment of COVID19 in adults and adolescents (aged twelve years and older with body weight at least ) with pneumonia requiring supplemental oxygen and for adults who do not require supplemental oxygen and who are at increased risk of progressing to severe COVID19.
 
 In the United States, remdesivir is indicated for the treatment of COVID19 in people 28 days of age and older and weighing at least  who are hospitalized; or not hospitalized and have mild-to-moderate COVID19, and are at high risk for progression to severe COVID19, including hospitalization or death.
@@ -24,44 +24,44 @@ In Australia, it is approved for those aged four weeks of age and older with a b
 
 In 2024, a retrospective study found treatment with the antiviral remdesivir plus dexamethasone was associated with fewer deaths in hospitalized COVID-19 patients compared to dexamethasone alone. The combination led to a 26% reduction in mortality at 14 days and a 24% reduction at 28 days.
 
- Side effects 
+Side effects
 The most common adverse effects in people treated with remdesivir were respiratory failure and blood biomarkers of organ impairment, including low albumin, low potassium, low count of red blood cells, low count of thrombocytes, and elevated bilirubin (jaundice). Other reported adverse effects include gastrointestinal distress, elevated transaminase levels in the blood (liver enzymes), infusion site reactions, and electrocardiogram abnormalities. Remdesivir may cause infusion-related reactions, including low blood pressure, nausea, vomiting, sweating or shivering.
 
 Other possible side effects of remdesivir include:
 * Infusion-related reactions. Infusion-related reactions have been seen during a remdesivir infusion or around the time remdesivir was given. Signs and symptoms of infusion-related reactions may include: low blood pressure, nausea, vomiting, sweating, and shivering.
 * Increases in levels of liver enzymes, seen in abnormal liver blood tests. Increases in levels of liver enzymes have been seen in people who have received remdesivir, which may be a sign of inflammation or damage to cells in the liver.
 
- Pharmacology 
+Pharmacology
 
- Activation 
-thumb|500px|Activation of remdesivir into its active triphosphate metabolite
+Activation
+
 Remdesivir is a protide (prodrug of nucleotide) able to diffuse into cells, where it is converted to GS-441524 monophosphate via the actions of esterases (CES1 and CTSA) and a phosphoamidase (HINT1); this in turn is further phosphorylated to its active metabolite triphosphate by nucleoside-phosphate kinases. This pathway of bioactivation is meant to occur intracellularly, but a substantial amount of remdesivir is prematurely hydrolyzed in plasma, with GS-441524 being the major metabolite in plasma, and the only metabolite remaining two hours after dosing.
 
- Mechanism of action 
+Mechanism of action
 As an adenosine nucleoside triphosphate analog (GS-443902), the active metabolite of remdesivir interferes with the action of viral RNA-dependent RNA polymerase and evades proofreading by viral exoribonuclease (ExoN), causing a decrease in viral RNA production. In some viruses, such as the respiratory syncytial virus, it causes the RNA-dependent RNA polymerases to pause, but its predominant effect (as in Ebola) is to induce an irreversible chain termination. Unlike with many other chain terminators, this is not mediated by preventing addition of the immediately subsequent nucleotide, but is instead delayed, occurring after five additional bases have been added to the growing RNA chain. For the RNA-dependent RNA polymerases of MERS-CoV, SARS-CoV-1, and SARS-CoV-2, arrest of RNA synthesis occurs after incorporation of three additional nucleotides. Hence, remdesivir is classified as a direct-acting antiviral agent that works as a delayed chain terminator.
 
- Pharmacokinetics 
+Pharmacokinetics
 
 In non-human primates, the plasma half-life of the prodrug is 20 minutes, with the main metabolite being the nucleoside, GS-441524. Two hours post injection, the main metabolite GS-441524 is present at micromolar concentrations, whilst intact Remdesivir is no longer detectable. Because of this rapid extracellular conversion to the nucleoside GS-441524, some researchers have questioned whether the active nucleotide triphosphate is truly derived from Remdesivir pro-drug removal or whether it occurs by GS-441524 phosphorylation, and whether direct administration of GS-441524 would constitute a cheaper and easier to administer COVID19 drug compared to Remdesivir. The activated nucleotide triphosphate form has sustained intracellular levels in PBMC and presumably in other cells as well.
 
- Resistance 
+Resistance
 
 Mutations in the mouse hepatitis virus RNA replicase that cause partial resistance to remdesivir were identified in 2018. These mutations make the viruses less effective in nature, and the researchers believe they will likely not persist where the drug is not being used.
 
- Interactions 
+Interactions
 Remdesivir is at least partially metabolized by the cytochrome P450 enzymes CYP2C8, CYP2D6, and CYP3A4. Blood plasma concentrations of remdesivir are expected to decrease if it is administered together with cytochrome P450 inducers such as rifampicin, carbamazepine, phenobarbital, phenytoin, primidone, and St John's wort.
 
 Using chloroquine or hydroxychloroquine with remdesivir may reduce the antiviral activity of remdesivir. Coadministration of remdesivir and chloroquine phosphate or hydroxychloroquine sulfate is not recommended based on in vitro data demonstrating an antagonistic effect of chloroquine on the intracellular metabolic activation and antiviral activity of remdesivir.
 
- Synthesis 
-right|thumb|upright=1.5|Synthesis of remdesivir in structural formulae
+Synthesis
+
 
 Remdesivir can be synthesized in multiple steps from ribose derivatives. The figure to the right is one of the synthesis routes of remdesivir invented by Chun and coauthors from Gilead Sciences.
 
 In vitro experiments
 An in vitro study of remdesivir assessing antiviral activity against SARS-CoV-2 was performed. Cells were pre-treated with the different doses of remdesivir for 1 hour, and the virus (MOI of 0.05) was subsequently added to allow infection for 2 hours. The results found that remdesivir functioned well as an inhibitor of the infection. The study was published as a letter to the editor, and as such did not undergo peer review.
 
- Manufacturing 
+Manufacturing
 Remdesivir requires &quot;70 raw materials, reagents, and catalysts&quot; to make, and approximately &quot;25 chemical steps.&quot; Some of the ingredients are extremely dangerous to humans, especially trimethylsilyl cyanide. The original end-to-end manufacturing process required 9 to 12 months to go from raw materials at contract manufacturers to finished product, but after restarting production in January 2020, Gilead Sciences was able to find ways to reduce the production time to six months.
 
 In January 2020, Gilead began working on restarting remdesivir production in glass-lined steel chemical reactors at its manufacturing plant in Edmonton, Alberta. On 2 February 2020, the company flew its entire stock of remdesivir, 100 kilograms in powder form (left over from Ebola research), to its filling plant in La Verne, California to start filling vials. The Edmonton plant finished its first new batch of remdesivir in April 2020. Around the same time, fresh raw materials began to arrive from contract manufacturers reactivated by Gilead in January.
@@ -70,26 +70,27 @@ Another challenge is getting remdesivir into patients despite the drug's &quot;p
 
 On 12 May 2020, Gilead announced that it had granted non-exclusive voluntary licenses to five generic drug companies in India and Pakistan to manufacture remdesivir for distribution to 127 countries. The agreements were structured so that the licensees can set their own prices and will not have to pay royalties to Gilead until the WHO declares an end to the COVID19 emergency or another medicine or vaccine is approved for COVID19, whichever comes first. On 23 June 2020, India granted emergency marketing approval of generic remdesivir manufactured by two Gilead licensees, Cipla and Hetero Drugs.
 
- Society and culture 
- Legal status 
+Society and culture
+
+Legal status
 Remdesivir is approved, or authorized for emergency use, to treat COVID19 in many countries. Remdesivir has been authorized for emergency use in India, Singapore, and approved for use in Japan, the European Union, the United States, and Australia for people with severe symptoms.
 
 Remdesivir is the first treatment for COVID19 to be approved by the US Food and Drug Administration (FDA). The approval by the FDA does not include the entire population that had been authorized to use remdesivir under an Emergency Use Authorization (EUA) originally issued in May 2020. In order to ensure continued access to the pediatric population previously covered under the EUA, the FDA revised the EUA for remdesivir to authorize the drug's use for treatment of suspected or laboratory-confirmed COVID19 in hospitalized pediatric patients weighing  to less than  or hospitalized pediatric patients less than twelve years of age weighing at least .
 
- Australia 
+Australia
 In July 2020, remdesivir was provisionally approved for use in Australia for use in adults and adolescents with severe COVID19 symptoms who have been hospitalized. Australia claims to have a sufficient supply of remdesivir in its national stockpile.
 
- Canada 
+Canada
 As of 11 April 2020, access in Canada was available only through clinical trials. Health Canada approved requests to treat twelve people with remdesivir under the department's special-access program (SAP). Additional doses of remdesivir are not available through the SAP except for pregnant women or children with confirmed COVID19 and severe illness.
 
 In June 2020, Health Canada received an application from Gilead for the use of remdesivir for treating COVID19. On 27 July 2020, Health Canada conditionally approved the application.
 
 In September 2020, Minister of Public Services and Procurement Anita Anand announced that Canada had entered into a deal to obtain up to 150,000 vials of remdesivir from Gilead starting in October. As of 8 October, remdesivir was still not widely available in Alberta, because Alberta Health Services was undertaking a &quot;formulary review&quot; to be completed by mid-November.
 
- Czech Republic 
+Czech Republic
 In March 2020, the drug was provisionally approved for use for COVID19 patients in a serious condition as a result of the outbreak in the Czech Republic.
 
- European Union 
+European Union
 In February 2016, orphan designation (EU/3/16/1615) was granted by the European Commission to Gilead Sciences International Ltd, United Kingdom, for remdesivir for the treatment of Ebola virus disease.
 
 In April 2020, the European Medicines Agency (EMA) provided recommendations on compassionate use of remdesivir for COVID19 in the EU.
@@ -100,19 +101,19 @@ In July 2020, the European Union granted a conditional marketing authorization f
 
 In August 2022, the European Union granted a full marketing authorization for remdesivir.
 
- Iran 
+Iran
 Remdesivir has been also produced in Iran by Barakat; Iran is planning to increase the productions of Remdesivir ampoules from 20,000 to 150,000 ampoules per month. It has also the permission of the &quot;Food and Drug Administration&quot; of MOHME
 
- Japan 
+Japan
 In May 2020, Japan's Ministry of Health, Labour and Welfare approved the drug for use in Japan, in a fast-tracked process, based on the US emergency authorization.
 
- Mexico 
+Mexico
 In October 2020, Deputy Secretary of Prevention and Health Promotion Hugo López-Gatell Ramírez stated at a news conference that Mexico would not necessarily follow the United States in approving the drug for use in Mexico. López-Gatell explained that the Federal Commission for the Protection against Sanitary Risk (Cofepris) had already twice denied the approval of remdesivir because, in that agency's view, the evidence does not suggest &quot;sufficient efficacy&quot;. In March 2020, Cofepris authorized the drug for emergency cases, advising to give continuous surveillance of the integral health of the patient.
 
- Singapore 
+Singapore
 In June 2020, Singapore's Health Sciences Authority conditionally approved the usage of remdesivir in Singapore.
 
- United States 
+United States
 In March 2020, United States President Donald Trump announced that remdesivir was available for &quot;compassionate use&quot; for people with COVID19; FDA Commissioner Stephen Hahn confirmed the statement at the same press conference. It was later revealed that Gilead had been providing remdesivir in response to compassionate use requests since 25 January. On 23 March 2020, Gilead voluntarily suspended access for compassionate use (excepting cases of critically ill children and pregnant women), for reasons related to supply, citing the need to continue to provide the agent for testing in clinical trials.
 
 In May 2020, the US Food and Drug Administration granted Gilead emergency use authorization (EUA) for remdesivir to be distributed and used by licensed healthcare providers to treat adults and children hospitalized with severe COVID19. Severe COVID19 is defined as patients with an oxygen saturation (SpO2) &lt;= 94% on room air or requiring supplemental oxygen or requiring mechanical ventilation or requiring extracorporeal membrane oxygenation (ECMO), a heart–lung bypass machine. Distribution of remdesivir under the EUA was controlled by the US government for use consistent with the terms and conditions of the EUA. Gilead supplied remdesivir to authorized distributors, or directly to a US government agency, who distributed it to hospitals and other healthcare facilities as directed by the US government, in collaboration with state and local government authorities, as needed. Gilead stated they were donating 1.5million vials for emergency use and estimated, as of April 2020, they had enough remdesivir for 140,000 treatment courses and expect to have 500,000 courses by October 2020, and one million courses by the end of 2020.
@@ -133,15 +134,15 @@ Remdesivir received approval from the US Food and Drug Administration (FDA) in O
 
 The FDA also provided emergency use authorization in 2022, for remdesivir treatment of children under age twelve who are COVIDpositive and not hospitalized, but have mild-to-moderate COVID19 with high risk of developing severe infection, including hospitalization or death.
 
- Economics 
+Economics
 In June 2020, Gilead announced that it had set the price of remdesivir at  per vial for the governments of developed countries, including the United States, and  for US private health insurance companies. The expected course of treatment is six vials over five days for a total cost of . Being a repurposed drug, the minimum production cost for remdesivir is estimated at  per day of treatment.
 
 In July 2020, the European Union secured a  () contract with Gilead, to make the drug available there in early August 2020. In October 2020, Gilead Sciences and the European Commission announced they had signed a joint procurement framework contract in which Gilead agreed to provide up to 500,000 remdesivir treatment courses over the next six months to 37 European countries. Among the contracting countries were all 27 EU member states plus the United Kingdom, &quot;Albania, Bosnia &amp; Herzegovina, Iceland, Kosovo, Montenegro, North Macedonia, Norway, and Serbia&quot;. At the time, the price per treatment course was not disclosed; Reuters reported the price was 2,070 euros, thereby implying the total value of the contract (if all 500,000 courses are ordered) is approximately €1.035 billion. Under the contract, each participating country will directly place orders with Gilead and pay Gilead directly for its own orders.
 
- Names 
+Names
 Remdesivir is the international nonproprietary name (INN) while the development code name was GS-5734.
 
- Research 
+Research
 Remdesivir was originally created and developed by Gilead Sciences in 2009, to treat hepatitis C and respiratory syncytial virus (RSV). It did not work against hepatitis C or RSV, but was then repurposed and studied as a potential treatment for Ebola virus disease and Marburg virus infections. According to the Czech News Agency, this new line of research was carried out under the direction of scientist Tomáš Cihlář. A collaboration of researchers from the Centers for Disease Control and Prevention (CDC) and Gilead Sciences subsequently discovered that remdesivir had antiviral activity in vitro against multiple filoviruses, pneumoviruses, paramyxoviruses, and coronaviruses.
 
 Preclinical and clinical research and development was done in collaboration between Gilead Sciences and various US government agencies and academic institutions.
@@ -153,9 +154,9 @@ In October 2015, the United States Army Medical Research Institute of Infectious
 
 Remdesivir was rapidly pushed through clinical trials due to the West African Ebola virus epidemic of 2013–2016, eventually being used in people with the disease. Preliminary results were promising; it was used in the emergency setting during the Kivu Ebola epidemic that started in 2018, along with further clinical trials, until August 2019, when Congolese health officials announced that it was significantly less effective than monoclonal antibody treatments such as ansuvimab and atoltivimab/maftivimab/odesivimab. The trials, however, established its safety profile.
 
- COVID-19 
+COVID-19
 
- Hospitalized patients 
+Hospitalized patients
 Remdesivir was approved for medical use in the United States in October 2020. The US Food and Drug Administration (FDA) approved remdesivir based on the agency's analysis of data from three randomized, controlled clinical trials that included participants hospitalized with mild-to-severe COVID19. The FDA granted approval and reissued the revised EUA to Gilead Sciences Inc. The FDA approved remdesivir based primarily on evidence from three clinical trials (NCT04280705, NCT04292899, and NCT04292730) of 2043 hospitalized participants with COVID19. The trials were conducted at 226 sites in 17 countries including the United States.
 
 In November 2020, the World Health Organization (WHO) updated its guideline on therapeutics for COVID19 to include a conditional recommendation against the use of remdesivir, triggered by results from the WHO Solidarity trial. Meanwhile, the Public Health Agency of Canada's COVID19 Clinical Pharmacology Task Group recommended that remdesivir only be administered to hospitalized patients as part of a randomized controlled trial due to limited information on risks and benefits.
@@ -164,24 +165,24 @@ In January 2022, the Canadian component of the WHO Solidarity Trial reported tha
 
 In September 2022, the WHO updated their guidelines to recommend use of remdesivir for both non-hospitalized and hospitalized patients. This was based on final results from the SOLIDARITY trial that showed a reduction in mortality or progression to mechanical ventilation for non-ventilated patients.
 
- Nonhospitalized outpatients 
+Nonhospitalized outpatients
 In January 2022, a study indicated that nonhospitalized people who were at high risk for COVID19 progression had an 87% lower risk of hospitalization or death after a 3-day course of intravenous remdesivir.
 
- Remdesivir/baricitinib 
+Remdesivir/baricitinib
 In May 2020, the National Institute of Allergy and Infectious Diseases (NIAID) started the Adaptive COVID19 Treatment Trial 2 (ACTT-2) to evaluate the safety and efficacy of a treatment regimen consisting of remdesivir plus baricitinib for treating hospitalized adults who have a laboratory-confirmed SARS-CoV-2 infection with evidence of lung involvement, including a need for supplemental oxygen, abnormal chest X-rays, or illness requiring mechanical ventilation.
 
 In November 2020, the US Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for the drug baricitinib, in combination with remdesivir, for the treatment of suspected or laboratory-confirmed COVID19 in hospitalized people two years of age or older requiring supplemental oxygen, invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). The data supporting the EUA for baricitinib combined with remdesivir are based on a randomized, double-blind, placebo-controlled clinical trial (ACTT-2), which was conducted by the National Institute of Allergy and Infectious Diseases (NIAID). The EUA was issued to Eli Lilly and Company.
 
- Remdesivir/interferon beta-1a 
+Remdesivir/interferon beta-1a
 In August 2020, the NIAID started the Adaptive COVID19 Treatment Trial 3 (ACTT 3) to evaluate the safety and efficacy of a treatment regimen consisting of remdesivir plus interferon beta-1a for hospitalized adults who have a laboratory-confirmed SARS-CoV-2 infection with evidence of lung involvement, including a need for supplemental oxygen, abnormal chest X-rays, or illness requiring mechanical ventilation.
 
- Veterinary uses 
+Veterinary uses
 In 2019, GS-441524 was shown to have promise for treating feline infectious peritonitis caused by a coronavirus. It has not been evaluated or approved by the US Food and Drug Administration (FDA) for the treatment of feline coronavirus or feline infectious peritonitis but has been available since 2019, through websites and social media as an unregulated black market substance. Because GS-441524 is the main circulating metabolite of remdesivir and because GS-441524 has similar potency against SARS-CoV-2 in vitro, some researchers have argued for the direct administration of GS-441524 as a COVID19 treatment.
 
- References 
+References
 
 
- External links 
+External links
 
 
 * 
