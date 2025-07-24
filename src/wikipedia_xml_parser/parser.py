@@ -78,7 +78,7 @@ class XmlParser:
         # TODO: Elaborated steps
 
         # Removing all infoboxes
-        no_infoboxes = re.sub(r"(?s){{(#invoke:)?Infobox.*?\n.*?\n}}", "", txt)
+        no_infoboxes = re.sub(r"(?s){{(#invoke:)?(Infobox|reflist).*?\n.*?\n}}", "", txt)
 
         # Removing all tables
         no_tables = re.sub(r"(?s){\|.*?\n.*?\n\|}", "", no_infoboxes)
@@ -90,8 +90,14 @@ class XmlParser:
         no_format_patterns = re.sub("}}", "", no_format_patterns)
         
         # Removing internal links formatting
+
+        # Preserving internal links with references in the same article
         no_internal_links = re.sub(r"\[\[([^]:|]*?)]]", r"\1", no_format_patterns)
+
+        # Preserving internal link text with references to other articles
         no_internal_links = re.sub(r"\[\[[^]:]*?\|([^]]*?)]]", r"\1", no_internal_links)
+
+        # Removing special internal links, referring to media or metadata
         no_internal_links = re.sub(r"\[\[[^]:]*?:[^]:]*?]]", "", no_internal_links)
 
         # Removing titles
