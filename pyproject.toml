@@ -1,5 +1,5 @@
 [project]
-name = "wiki_xml_parser"
+name = "wikipedia_xml_parser"
 version = "0.0.2"
 authors = [
   { name="Manoj Manikandan", email="manoj140805@gmail.com" },
@@ -17,7 +17,8 @@ dependencies = [
     "beautifulsoup4",
     "lxml",
     "typer",
-    "typing_extensions"
+    "typing_extensions",
+    "rich",
 ]
 
 [project.urls]
@@ -25,7 +26,7 @@ Homepage = "https://github.com/manojmanikandan7/WikiXmlParser"
 Issues = "https://github.com/manojmanikandan7/WikiXmlParser/issues"
 
 [project.scripts]
-wiki_parse = "wiki_xml_parser.cli:app"
+wiki_parse = "wikipedia_xml_parser.cli:app"
 
 [build-system]
 requires = ["hatchling >= 1.26"]
