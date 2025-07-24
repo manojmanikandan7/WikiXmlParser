@@ -27,9 +27,10 @@ class XmlParser:
         """
         return ET.parse(file)
 
-    def get_attrs(self, page: ET.Element, corpus_name: str):
+    def get_attrs(self, page: ET.Element, corpus_name: str, base_name: str):
         """
 
+        :param base:
         :param corpus_name:
         :param page:
         :return:
@@ -45,7 +46,7 @@ class XmlParser:
         title = title_parts[-1]
         title_splits = re.sub(r"\s", "_", title).split("/")
 
-        if "talk" in title_parts[0].lower():
+        if len(title_parts) > 1:
             corpus_type = "Talk"
             sub = "_Talk"
             pre = title_parts[0] + ":"
@@ -58,12 +59,11 @@ class XmlParser:
         # In this case, the page is not an archive
         if len(title_splits) < 2:
             xml_title = title_splits[0] + sub
-            url = "https://en.wikipedia.org/wiki/" + pre + title_splits[0]
+            url = f"{base_name}/{pre}{title_splits[0]}"
         else:
             title_name, archive = title_splits
             xml_title = f"{title_name}{sub}_{archive}"
-            url = "https://en.wikipedia.org/wiki/" + pre + title_name + '/' + archive
-
+            url = f"{base_name}/{pre}{title_name}/{archive}"
 
 
         return {"type": corpus_type, "date": timestamp, "sourceCorpus": corpus_name, "filename": filename, "title": xml_title, "url": url}
@@ -95,7 +95,6 @@ class XmlParser:
         no_internal_links = re.sub(r"\[\[([^]:|]*?)]]", r"\1", no_format_patterns)
 
         # Preserving internal link text with references to other articles
-        # TODO: Add pattern recognition for [[User:...|name]]
         no_internal_links = re.sub(r"\[\[[^]:]*?\|([^]]*?)]]", r"\1", no_internal_links)
 
         # Removing special internal links, referring to media or metadata
@@ -137,14 +136,15 @@ class XmlParser:
 
 
 
-    def build_tree(self, page: ET.Element, corpus_name: str):
+    def build_tree(self, page: ET.Element, corpus_name: str, base_name: str):
         """
 
+        :param base_name:
         :param page:
         :param corpus_name:
         :return:
         """
-        attrs = self.get_attrs(page, corpus_name)
+        attrs = self.get_attrs(page, corpus_name, base_name)
         file = ET.Element("file", attrs)
         text = ET.SubElement(file, "text")
         segment = ET.SubElement(text, "segment", { "id" : f"id{attrs['filename']}"})
@@ -160,11 +160,15 @@ class XmlParser:
         """
         tree = self.parse_xml(input_file)
 
+        base_name = tree.find("default:siteinfo", self.ns).find("default:base", self.ns).text
+
+        base_name = base_name.rsplit("/", 1)[0]
+
         pages = tree.findall("default:page", self.ns)
 
         for page in track(pages, "Processing..."):
 
-            title, file = self.build_tree(page, corpus_name)
+            title, file = self.build_tree(page, corpus_name, base_name)
 
             et_string = ET.tostring(file, encoding="utf-8")
 
