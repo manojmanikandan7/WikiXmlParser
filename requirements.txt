@@ -1,4 +1,4 @@
-beautifulsoup4
-typer
-typing_extensions
-rich
+beautifulsoup4 >= 4.13.4
+typer >= 0.16.0
+typing_extensions >= 4.14.1
+rich >= 14.1.0
