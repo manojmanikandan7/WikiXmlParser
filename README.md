@@ -133,3 +133,17 @@ Which should print the usage instructions
 ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 
 ```
+
+
+## Troubleshooting
+
+- If there are dependency errors while installing, try this command instead:
+  - Linux/Unix based Systems
+    ```bash
+     python3 -m pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ wikipedia-xml-parser
+    ```
+  - Windows
+    ```
+     python -m pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ wikipedia-xml-parser
+    ```
+- If there are any other errors, kindly raise an issue, with as many details as possible.
