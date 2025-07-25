@@ -71,7 +71,7 @@ Some countries used network-based location tracking instead of apps, eliminating
 
 In South Korea, a non-app-based system was used to perform contact tracing. Instead of using a dedicated app, the system gathered tracking information from a variety of sources including mobile device tracking data and card transaction data, and combined these to generate notices via text messages to potentially-infected individuals. In addition to using this information to alert potential contacts, the government has also made the location information publicly available, something permitted because of far-reaching changes to information privacy laws after the MERS outbreak in that country. This information is available to the public via a number of apps and websites.
 
-Countries including Germany considered using both centralized and privacy-preserving systems. , the details had not yet been released.
+Countries including Germany considered using both centralized and privacy-preserving systems. As of 2020|04|06, the details had not yet been released.
 
 Decentralized contact tracing
 
@@ -170,7 +170,7 @@ The official app called &quot;Corona-Warn-App&quot; was made available for downl
 The official platform in Greece against covid, called Covid Checker, is one of the first solution in Europe against COVID-19 pandemic that was approved and made available on 29 March 2020. Covid Checker is a mobile &amp; web solution designed to identify coronavirus symptoms and associated risk, provide reliable guidance, &amp; connect qualified patients with a doctor for further assistance. Covid Checker powered by Docandu was first released as a widget attached to the governmental websites such as the patt.gov.gr while few weeks later was released as an app in Google Playstore. It was developed jointly by DOCANDU, the Region of Attica  and the Medical Association of Athens.
 
 ;Ghana
-The government launched &quot;GH COVID-19 Tracker App&quot;, an Android and IOS app equipped with location tracking technology to provide detailed information about people who have been at the same event, location, country or other defined locations in order to provide accurate information to health authorities overtime to know who to screen and provide needed assistance. The app was developed by the Ministry of Communication and Technology and Ministry of Health. , the app was awaiting approval by the Google Play Store and the Apple App Store.
+The government launched &quot;GH COVID-19 Tracker App&quot;, an Android and IOS app equipped with location tracking technology to provide detailed information about people who have been at the same event, location, country or other defined locations in order to provide accurate information to health authorities overtime to know who to screen and provide needed assistance. The app was developed by the Ministry of Communication and Technology and Ministry of Health. As of 2020|04|14, the app was awaiting approval by the Google Play Store and the Apple App Store.
 
 ;Gibraltar
 The &quot;BEAT Covid Gibraltar&quot; App, based on the App from Ireland, was launched on 18 June with downloads of 15,000 by 8 August, from an estimated 20,000 phone users.

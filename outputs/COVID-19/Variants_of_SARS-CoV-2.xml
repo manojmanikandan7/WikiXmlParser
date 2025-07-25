@@ -5,7 +5,7 @@
 	<text>
 		<segment id="id66185220">Variants of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are viruses that, while similar to the original, have genetic changes that are of enough significance to lead virologists to label them separately. SARS-CoV-2 is the virus that causes coronavirus disease 2019 (COVID-19). Some have been stated, to be of particular importance due to their potential for increased transmissibility, increased virulence, or reduced effectiveness of vaccines against them. These variants contribute to the continuation of the COVID-19 pandemic.
 
-, the variants of interest as specified by the World Health Organization are JN.1, and the variants under monitoring are KP.3, KP.3.1.1, JN.1.18, LB.1, LP.8.1, NB.1.8.1 and XEC.
+As of 2025|5|23, the variants of interest as specified by the World Health Organization are JN.1, and the variants under monitoring are KP.3, KP.3.1.1, JN.1.18, LB.1, LP.8.1, NB.1.8.1 and XEC.
 
 
 
@@ -25,7 +25,7 @@ Before being allocated to this category, an emerging variant may have been label
 
 Historically, the WHO regularly listed updates on variants of concern (VOC), which are variants with an increased rate of transmission, virulence, or resistance against mitigations, like vaccines. The variant submissions from member states are then submitted to GISAID, followed by field investigations of the variant. Updated definitions, published on the 4 October 2023, add variants of interest (VOI) and variants under monitoring (VUM) to the World Health Organization's working definitions for SARS-CoV-2 variants. Other organisations such as the CDC in the United States typically define their variants of concern slightly differently; for example, the CDC de-escalated the Delta variant on 14 April 2022, while the WHO did so on 7 June 2022.
 
-, The WHO defines a VOI as a variant &quot;with genetic changes that are predicted or known to affect virus characteristics such as transmissibility, virulence, antibody evasion, susceptibility to therapeutics and detectability&quot; and that is circulating more than other variants in over one WHO region to such an extent that a global public health risk can be suggested. Furthermore, the update stated that &quot;VOIs will be referred to using established scientific nomenclature systems such as those used by Nextstrain and Pango&quot;.
+As of 2023|3|15, The WHO defines a VOI as a variant &quot;with genetic changes that are predicted or known to affect virus characteristics such as transmissibility, virulence, antibody evasion, susceptibility to therapeutics and detectability&quot; and that is circulating more than other variants in over one WHO region to such an extent that a global public health risk can be suggested. Furthermore, the update stated that &quot;VOIs will be referred to using established scientific nomenclature systems such as those used by Nextstrain and Pango&quot;.
 
 Notability criteria
 Viruses generally acquire mutations over time, giving rise to new variants. When a new variant appears to be growing in a population, it can be labelled as an &quot;emerging variant&quot;. In the case of SARS-CoV-2, new lineages often differ from one another by just a few nucleotides.
@@ -187,7 +187,7 @@ The variant has a large number of mutations, of which some are concerning. Some 
 Named Omicron by the WHO, it was identified in November 2021 in Botswana and South Africa; one case had travelled to Hong Kong, one confirmed case was identified in Israel in a traveler returning from Malawi, along with two who returned from South Africa and one from Madagascar. Belgium confirmed the first detected case in Europe on 26 November 2021 in an individual who had returned from Egypt on 11 November. Indian SARS-CoV-2 Genomics Consortium (INSACOG) in its January 2022 bulletin noted that Omicron is in community transmission in India where new cases have been rising exponentially.
 
 BA. sublineages
-According to the WHO, BA.1, BA.1.1, and BA.2 were the most common sublineages of Omicron globally . BA.2 contains 28 unique genetic changes, including four in its spike protein, compared to BA.1, which had already acquired 60 mutations since the ancestral Wuhan strain, including 32 in the spike protein. BA.2 is more transmissible than BA.1. It was causing most cases in England by mid-March 2022, and by the end of March, BA.2 became dominant in the US. , the sublineages BA.1 to BA.5 including all their descendants are classified as variants of concern by the WHO, the CDC, and the ECDC (with the latter excluding BA.3).
+According to the WHO, BA.1, BA.1.1, and BA.2 were the most common sublineages of Omicron globally . BA.2 contains 28 unique genetic changes, including four in its spike protein, compared to BA.1, which had already acquired 60 mutations since the ancestral Wuhan strain, including 32 in the spike protein. BA.2 is more transmissible than BA.1. It was causing most cases in England by mid-March 2022, and by the end of March, BA.2 became dominant in the US. As of 2022|05, the sublineages BA.1 to BA.5 including all their descendants are classified as variants of concern by the WHO, the CDC, and the ECDC (with the latter excluding BA.3).
 
 XBB sublineages
 During 2022, a number of further new strains emerged in different localities, including XBB.1.5, which evolved from the XBB strain of Omicron. The first case involving XBB in England was detected from a specimen sample taken on 10 September 2022 and further cases have since been identified in most English regions. By the end of the year, XBB.1.5 accounted for 40.5% of new cases across the US, and was the dominant strain; variant of concern BQ.1 was running at 18.3% and BQ.1.1 represented 26.9% of new cases, while the BA.5 strain was in decline, at 3.7%. At this stage, it was uncommon in many other countries, for example in the UK it was represented about 7% of new cases, according to UKHSA sequencing data. BQ.1 and BQ1.1 became known informally as &quot;cerberus&quot;.
@@ -205,7 +205,7 @@ BA.2.86 was first detected in a sample from 24July 2023, and was designated as a
 
 JN.1 (sometimes referred to as &quot;Pirola&quot;), a subvariant of BA.2.86, emerged during August 2023 in Luxembourg. By December 2023, it had been detected in 12 countries, including the UK and US. On 19 December, JN.1 was declared by the WHO to be a variant of interest independently of its parent strain BA.2.86, but overall risk for public health was determined as low. With JN.1 accounting for some 60% of cases in Singapore, in December 2023, Singapore and Indonesia recommended wearing masks at airports. The CDC estimated that the variant accounted for 44% of cases in the US on 22 December 2023 and 62% of cases on 5 January 2024.
 
-, JN.1 was estimated by the WHO to be the most prevalent variant of SARS-CoV-2 (70–90% prevalence in four out of six global regions; insufficient data in the East Mediterranean and African regions). The general level of population immunity and immunity from XBB.1.5 booster versions of the COVID-19 vaccine was expected to provide some protection (cross-reactivity) to JN.1.
+As of 2024|02|09, JN.1 was estimated by the WHO to be the most prevalent variant of SARS-CoV-2 (70–90% prevalence in four out of six global regions; insufficient data in the East Mediterranean and African regions). The general level of population immunity and immunity from XBB.1.5 booster versions of the COVID-19 vaccine was expected to provide some protection (cross-reactivity) to JN.1.
 
 Sublineages by year
 
@@ -239,7 +239,7 @@ In July 2023, Professor Lawrence Young, a virologist at Warwick University annou
 Recombinant variants
 In 2022, the British government reported a number of recombinant variants of SARS-CoV-2. These recombinant lineages have been given the Pango lineage identifiers XD, XE, and XF.
 
-XE is a recombinant lineage of Pango lineages BA.1 and BA.2.  XE was believed to have a growth rate 9.8% greater than BA.2.
+XE is a recombinant lineage of Pango lineages BA.1 and BA.2. As of 2022|03 XE was believed to have a growth rate 9.8% greater than BA.2.
 
 Incubation theory for multiple mutated variants
 
@@ -345,7 +345,7 @@ Data and methods
 Modern DNA sequencing, where available, may permit rapid detection (sometimes known as 'real-time detection') of genetic variants that appear in pathogens during disease outbreaks. Through use of phylogenetic tree visualisation software, records of genome sequences can be clustered into groups of identical genomes all containing the same set of mutations. Each group represents a 'variant', 'clade', or 'lineage', and comparison of the sequences allows the evolutionary path of a virus to be deduced. For SARS-CoV-2, until  March 2021, over 330,000 viral genomic sequences had been generated by molecular epidemiology studies across the world.
 
 New variant detection and assessment
-On 26 January 2021, the British government said it would share its genomic sequencing capabilities with other countries in order to increase the genomic sequencing rate and trace new variants, and announced a &quot;New Variant Assessment Platform&quot;. , more than half of all genomic sequencing of COVID-19 was carried out in the UK.
+On 26 January 2021, the British government said it would share its genomic sequencing capabilities with other countries in order to increase the genomic sequencing rate and trace new variants, and announced a &quot;New Variant Assessment Platform&quot;. As of 2021|01, more than half of all genomic sequencing of COVID-19 was carried out in the UK.
 
 Wastewater surveillance was demonstrated to be one technique to detect SARS-CoV-2 variants and to track their rise for studying related ongoing infection dynamics.
 

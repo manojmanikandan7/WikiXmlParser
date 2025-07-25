@@ -97,9 +97,10 @@ class XmlParser:
 
         # Removing Wikipedia formatting patterns
 
-        # no_format_patterns = re.sub("{{[^}]*?data/.*?}}", ";DYN;", no_tables)
+        no_format_patterns = re.sub("{{[^}]*?data/.*?}}", ";DYN;", no_tables)
+        no_format_patterns = re.sub("{{[^}]*?As of\|(.*?)}}", r"As of \1", no_format_patterns)
         # Note: This should be done before removing tags, since Beautiful Soup looks for curly braces ('{', '}') for namespaces
-        no_format_patterns = re.sub("{{.*?}}", "", no_tables)
+        no_format_patterns = re.sub("{{.*?}}", "", no_format_patterns)
         no_format_patterns = re.sub("{{", "", no_format_patterns)
         no_format_patterns = re.sub("}}", "", no_format_patterns)
 
