@@ -516,10 +516,10 @@ break c
 
  I've reverted this edit and discussion between me and RudolfoMD is . As I suggested there, the first step in this situation should be to initiate a discussion in . I also suggested a possible solution: adding  as a value of a qualifier to  statements like this:
 statement+
- | P = 
- | V = 
- | qp = 
- | qv = 
+
+
+
+
 
 However, due to Wikidata being much more detailed than Wikipedia (information that fits into one Wikipedia article is often split into multiple Wikidata items), it is not clear to me right now, whether this type of information should be included in the item describing the active substance or in items describing specific pharmaceutical products like . So, as I said, this should be discussed in Wikiproject Medicine in Wikidata first. Sadly, such discussion has not been initiated yet. And as a side note: there is no such thing in Wikidata as be bold policy, given the nature of Wikidata, this type of import of data should be carefully considered and discussed in advance. Wostr (talk) 17:08, 29 September 2023 (UTC)
 
@@ -577,8 +577,8 @@ I've just [https://www.wikidata.org/w/index.php?title=Q411188&amp;diff=prev&amp;
 4. I see  Albendazole is pulling data from WikiData. I can see the wikitext in the template, but can't make heads or tails of it: 
 (
  from Wikidata 
-| label99 = ECHA InfoCard
-|  data99 =  | [https://echa.europa.eu/substance-information/-/substanceinfo/ ]
+
+
 )
 - RudolfoMD (talk) 06:21, 10 October 2023 (UTC)
 2. Now I don't follow either. Quickstatements is an extremely powerful tool. In minutes or hours, you can do work that would normally take months of manual editing. However, the problem at the beginning is always the preparation of data that is then used in QS. For example, in recent months, using Wikidata Query Service and Quickstatements, I made tens of thousands of edits – in 30 seconds I could prepare the data allowing me to make 20,000 edits in QS (which were performed automatically). It appears that there are at least several thousand edits, if not a dozen, to be made to add the FDA data. From my point of view, it seems reasonable, instead of making these edits manually, to first properly process the data, and then be able to run QS and make all the edits automatically. In my opinion, it would be a big time saver, but I'm not going to impose this on you. I am presenting the possibilities that I know about.
@@ -594,7 +594,7 @@ I haven't figured out how to preview the impact of edits to the template sandbox
  I have no interest in reading through this entire wall of text to see what needs to be done, and it appears Paine is already on it, so no. * Pppery * it has begun... 15:13, 21 October 2023 (UTC)
 Or  P.I. Ellsworth , or , can you help? Ditto.  I see you made a requested edit at .  RudolfoMD (talk) 10:10, 21 October 2023 (UTC)
  doesn't have any testcases that source from wikidata? RudolfoMD (talk) 10:12, 21 October 2023 (UTC)
- |legal_US_comment= }??? RudolfoMD (talk) 10:24, 21 October 2023 (UTC)
+
  I do intend to go back over and read this entire block of text, but for now it appears that you want a warning box to appear in articles, such as at . That's a page I created to test the warning box specifically, although I see it in many of the other test cases I viewed. I'm no Wikidata expert, but it seems that the data from WD is not drawn in preview, so we must rely on test cases to check for the warning box. As I said, I'm no expert, but it does appear to work. Hope this helps. P.I. Ellsworth , ed. put'er there 11:11, 21 October 2023 (UTC)
 Looks like earlier you mentioned Brincidofovir – checked that one in preview and the warning box appears, so I seem to be wrong about Wikidata, and I don't have a clue why the boxes don't appear in the Paracetamol article. (???) Need to dig more and I do wish that editor  could be available, because they've done so much work on these chem pages. P.I. Ellsworth , ed. put'er there 12:43, 21 October 2023 (UTC)
 Thanks for the replies.  

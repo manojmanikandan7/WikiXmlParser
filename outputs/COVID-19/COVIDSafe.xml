@@ -40,14 +40,14 @@ Because of the ongoing technical problems surrounding the COVIDSafe app, the Vic
 
 Similarly, every other state and territory in Australia has their own QR-code based solution:
 bulleted list
-|Australian Capital TerritoryCheck In CBR
-|New South WalesService NSW
-|Northern TerritoryThe Territory Check In
-|QueenslandCheck In Qld
-|South AustraliamySA GOV
-|TasmaniaCheck in TAS
-|Western AustraliaCOVID SafeWA
-|VictoriaService Victoria
+
+
+
+
+
+
+
+
 On 2 December 2021, NSW and Victorian health officials admitted to The Guardian that the data collected by the app had not been used a single time in 2021, despite the extensive outbreaks and lockdowns that year. In response to the poor performance of the app, Federal Labor Party politicians called for the app to be discontinued, while the Morrison government began engaging with states to find a future use of the app.
 
 On 16 August 2022, the incumbent Albanese Government decommissioned the app, shutting down remaining infrastructure and removing it from Google Play and the Apple App Store. The total cost of the app over its lifetime rounded out to $21 million, with $10 million going to development costs alone.
@@ -64,15 +64,6 @@ Although the app is commonly described as only logging encounters longer than 15
 Reporting centralisation
 BlueTrace's employment of a centralised reporting architecture has created concerns over its privacy implications. Under a centralised report processing protocol, a user must upload their entire contact log to a health authority administered server, where the health authority is then responsible for matching the log entries to contact details, ascertaining potential contact, and ultimately warning users of potential contact. In contrast, the Exposure Notification framework and other decentralised reporting protocols, while still having a central reporting server, delegate the responsibility of processing logs to clients on the network. Instead of a client uploading their contact history, it uploads a number from which encounter tokens can be derived by individually. Clients then check these tokens against their local contact logs to determine if they have come in contact with an infected patient. Inherent in the fact the protocol never allows the government access to contact logs, this approach has major privacy benefits. However, this method also presents some issues, primarily the lack of human in the loop reporting, leading to a higher occurrence of false positives. Decentralised reporting protocols are also less mature than their centralised counterparts.
 
-Multiple images
-| align = center
-| direction =
-| total_width = 800
-| image1 = BlueTrace_overview.svg
-| alt1 =
-| caption1 = An overview of how different parties interact under a centralised protocol
-| image2 = Exposure_Notification_Framework_overview.svg
-| caption2 = An overview of how different parties interact under a decentralised protocol
 
 
 Protocol change to Exposure Notification

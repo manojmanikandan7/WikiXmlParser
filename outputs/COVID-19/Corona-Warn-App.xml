@@ -3,10 +3,11 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-01-27T15:53:23Z" sourceCorpus="COVID-19" filename="64464461" title="Corona-Warn-App" url="https://en.wikipedia.org/wiki/Corona-Warn-App">
 	<text>
-		<segment id="id64464461">| operating system = Android and iOS
-| genre = COVID-19 app
-| licence = Apache License
-| language = German, English, Turkish, Bulgarian  Polish, Romanian, Ukrainian
+		<segment id="id64464461">
+
+
+
+
 
 Corona-Warn-App was the official and open-source COVID-19 contact tracing app used for digital contact tracing in Germany made by SAP and Deutsche Telekom subsidiary T-Systems.
 

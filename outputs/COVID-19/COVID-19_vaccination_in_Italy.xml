@@ -24,18 +24,18 @@ Vaccines on order
 Vaccines distribution
 
  #invoke:Chart | bar-chart
-| height = 250
-| width = 300
-| stack = 1
-| group 1 = 75783068: 0: 0: 0: 0:      0
-| group 2 = 0: 20001752: 0: 0: 0:      0
-| group 3 = 0: 0: 11544648: 0: 0:      0
-| group 4 = 0: 0: 0: 1845172:  0:      0
-| group 5 = 0: 0: 0:       0:  1548000: 0
-| colors =  #028900:  #ff0000: #ffc100: #143300: #025330
-| group names = Pfizer–BioNTech : Moderna : Oxford-AstraZeneca : Johnson&amp;Johnson : Pfizer Pediatric
-| units suffix = 
-| x legends =   :  :  :  :  :
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Vaccines in trial stage
@@ -173,7 +173,7 @@ January 2022
 Vaccinations in Italy
 
 chart top|collapsed=yes|width=100%
-|Vaccinations in Italy
+
 
 
 center|
@@ -192,22 +192,22 @@ Vaccinations by age groups
 
 
  #invoke:Chart | bar-chart
-| height = 250
-| width = 300
-| stack = 1
-| group 1 = 70555 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0
-| group 2 = 0 : 1067322 : 0 : 0 : 0 : 0 : 0 : 0 : 0
-| group 3 = 0 : 0 :  1474485 : 0 : 0 : 0 : 0 : 0 : 0
-| group 4 = 0 : 0 : 0 :  2173477 : 0 : 0 : 0 : 0 : 0
-| group 5 = 0 : 0 : 0 : 0 :  3595317 : 0 : 0 : 0 : 0
-| group 6 = 0 : 0 : 0 : 0 : 0 :  5138997 : 0 : 0 : 0
-| group 7 = 0 : 0 : 0 : 0 : 0 : 0 :  5824749  : 0 : 0
-| group 8 = 0 : 0 : 0 : 0 : 0 : 0 : 0 :  6157773 : 0
-| group 9 = 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 1364504
-| colors =  #aeea00 :  #64dd17 : #00c853 : #00bfa5 : #00b8d4 : #0091ea : #0288d1 : #0277bd : #01579b
-| group names = 16-19 years old : 20-29 years old : 30-39 years old : 40-49 years old : 50-59 years old : 60-69 years old : 70-79 years old : 80-89 years old : 90+ years old
-| units suffix = 
-| x legends =   :  :  :  :  :  :  :  :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

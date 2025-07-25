@@ -127,7 +127,7 @@ Medref now has a section parameter: . Cheers, — Bility (talk) 16:27, 1 May 201
 * Medref should now be appropriate for use on non-medical articles, too. The wording settled on (&quot;This article needs more medical references for verification.&quot;) and template doc I wrote (&quot;This template is intended to be placed at the top of articles with medical or health content&quot;) should cover health sciences related content in an otherwise non medical article. Further tweaks can be made if necessary. It now has a reason parameter  |reason=foo is bar for giving specific details. Thanks, -- (talk) 18:15, 1 May 2012 (UTC)
 
 Actually  doesn't have a section parameter. This line:
-| text            = This article needs more  (down the bottom), you can see it's different to those templates in that the small/section version doesn't say &quot;This article&quot; or &quot;This section&quot;. -- (talk) 22:10, 1 May 2012 (UTC)
+
  It's not a parameter called section that I meant, but a parameter you can use for the small version in sections, which is what I thought you guys were talking about. Right now the template uses this first unnamed parameter as the rationale, so you don't have to explicitly use . We can change this, although if you want to use the small version in a section, it's a moot point since that line won't be displayed. This would also mean any existing templates using the first unnamed parameter for their rationales would need to be updated to use . — Bility (talk) 22:36, 1 May 2012 (UTC)
  Added it. Hmm. It replaces the word article with the reason value when all params are used. That's fixable of course. Did you want it to replace |small? Allow both? -- (talk) 22:27, 1 May 2012 (UTC)
 

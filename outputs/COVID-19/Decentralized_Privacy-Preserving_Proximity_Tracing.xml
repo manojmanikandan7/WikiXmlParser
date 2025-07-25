@@ -3,7 +3,8 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-03-20T19:29:56Z" sourceCorpus="COVID-19" filename="63724991" title="Decentralized_Privacy-Preserving_Proximity_Tracing" url="https://en.wikipedia.org/wiki/Decentralized_Privacy-Preserving_Proximity_Tracing">
 	<text>
-		<segment id="id63724991">|introdate=|industry=Digital contact tracing|hardware=Android &amp; iOS smartphones|range=~|website=https://github.com/DP-3T/documents
+		<segment id="id63724991">
+
 
 Decentralized Privacy-Preserving Proximity Tracing (DP-3T, stylized as dp3t) is an open protocol developed in response to the COVID-19 pandemic to facilitate digital contact tracing of infected participants. The protocol, like competing protocol Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT), uses Bluetooth Low Energy to track and log encounters with other users. The protocols differ in their reporting mechanism, with PEPP-PT requiring clients to upload contact logs to a central reporting server, whereas with DP-3T, the central reporting server never has access to contact logs nor is it responsible for processing and informing clients of contact. Because contact logs are never transmitted to third parties, it has major privacy benefits over the PEPP-PT approach; however, this comes at the cost of requiring more computing power on the client side to process infection reports.
 

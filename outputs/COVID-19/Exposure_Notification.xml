@@ -4,15 +4,15 @@
 <file type="Article" date="2024-09-12T20:06:27Z" sourceCorpus="COVID-19" filename="63676221" title="Exposure_Notification" url="https://en.wikipedia.org/wiki/Exposure_Notification">
 	<text>
 		<segment id="id63676221">Infobox protocol
-|name=Exposure Notification
-|caption=
-|standard=
-|developer=
-|introdate=
-|industry=Digital contact tracing
-|hardware=Android &amp; iOS smartphones
-|range=~
-|website=|image=Exposure_Notifications.png
+
+
+
+
+
+
+
+
+
 
 The (Google/Apple) Exposure Notification System (GAEN) and Exposure Notifications or the Exposure Notifications System (ENS) by Google. It was originally announced as the Privacy-Preserving Contact Tracing Project. is a framework and protocol specification developed by Apple Inc. and Google to facilitate digital contact tracing during the COVID-19 pandemic. When used by health authorities, it augments more traditional contact tracing techniques by automatically logging close approaches among notification system users using Android or iOS smartphones. Exposure Notification is a decentralized reporting protocol built on a combination of Bluetooth Low Energy technology and privacy-preserving cryptography. It is an opt-in feature within COVID-19 apps developed and published by authorized health authorities. Unveiled on April 10, 2020, it was made available on iOS on May 20, 2020 as part of the iOS 13.5 update and on December 14, 2020 as part of the iOS 12.5 update for older iPhones. On Android, it was added to devices via a Google Play Services update, supporting all versions since Android Marshmallow.
 

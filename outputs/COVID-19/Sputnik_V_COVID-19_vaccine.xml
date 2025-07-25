@@ -3,32 +3,32 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-03-10T17:09:55Z" sourceCorpus="COVID-19" filename="64800626" title="Sputnik_V_COVID-19_vaccine" url="https://en.wikipedia.org/wiki/Sputnik_V_COVID-19_vaccine">
 	<text>
-		<segment id="id64800626">| licence_EU = BD
-| licence_US =
-| pregnancy_AU = 
-| pregnancy_category =
-| legal_AU = 
-| legal_AU_comment   =
-| legal_BR           = Exceptional import
-| legal_BR_comment   =
-| legal_CA           = 
-| legal_UK           = 
-| legal_US           = 
-| legal_UN           = 
-| legal_NZ           = 
-| legal_status       = : Registered on 11 August 2020
+		<segment id="id64800626">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Full list of Sputnik V vaccine authorizations
-| routes_of_administration = Intramuscular
 
-| CAS_number         = 2541629-85-8
-| CAS_number_Ref     = 
-| ATCvet =
-| ATC_prefix         = J07
-| ATC_suffix         = BN02
-| PubChem =
-| DrugBank = DB15848
-| synonyms = ubl|
+
+
+
+
+
+
+
+
   | Gam-COVID-Vac
   | Гам-КОВИД-Вак
 
@@ -285,10 +285,6 @@ See also
 * List of Russian drugs
 
 References
-Reflist|refs=
-
-
-
 
 
 Further reading

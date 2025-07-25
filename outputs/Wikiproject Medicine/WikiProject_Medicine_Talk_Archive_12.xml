@@ -413,7 +413,933 @@ The serious NPOV issues in the long term effects article have been dealt with fo
 
 problematic edits
 
-Hi -- it's come to my attention that a new editor, 
+Hi -- it's come to my attention that a new editor, , has been making edits to the articles about a number of fields of medicine, adding and removing information in ways that seem dubious to me.  Being a neuroscience Ph.D. rather than an M.D., I'm reluctant to take any sort of decisive action except at Neurology, but I thought perhaps the project should be aware of this.  Look at the contribs to see what is going on. Looie496 (talk) 18:20, 15 March 2009 (UTC)
+I've placed a level one warning for content removal on their talk page. These edits are massively disruptive, even if in good faith. Let's see where he/she goes from here. —Cyclonenim (talk ·  · ) 18:39, 15 March 2009 (UTC)
+Update -- editor has been blocked for 72 hr, and most if not all edits reverted. Looie496 (talk) 21:43, 15 March 2009 (UTC)
+Emedicine dictionary template isn't working
+
+ just returns dead links. Is this a temporary situation, or is there a way of fixing the links? Graham87 03:10, 15 March 2009 (UTC)
+Their dictionary has been down for at least a few months. I've been deleting the individual links when I run across them, but the template probably ought to be deleted. --Arcadian (talk) 04:33, 15 March 2009 (UTC)
+Don't delete individual links - just fix the template !
+eMedicine site generally seems to have been rearranged (I've previously addressed  changes). Still has a dictionary (although not having previously used the previous version I can't say if produces same results), so for asthma use http://www.emedicinehealth.com/script/main/srchcont_dict.asp?src=asthma
+Main overall eMedicineHealth search help is set up as http://www.emedicinehealth.com/script/main/srchcont_em.asp?src=Asthma but to directly hit a fixed page use http://www.emedicinehealth.com/asthma/article_em.htm 
+ I've changed the template to the first option, given still specifies for dictionary. It uses same convention as previous of using &quot;+&quot; to link keywords: eg see usage in Fallopian tube#External links which gives a useful hit list :-) David Ruben  Talk  12:40, 15 March 2009 (UTC)
+But doesn't that violate , #9? --Arcadian (talk) 18:09, 15 March 2009 (UTC)
+Of minor initial point - the template is not doing anything that it previously did/did-not do - I've only adjusted for the new eMedicine site layout changes, you created that template in 2006 :-)  More importantly re that #9 point, it is not a general search engine request linking to various finds on the internet, but rather a list of definitions within the one resource (MedicineNet Dictionary, which is incorporated into eMedicineHealth now) (somewhat like PubChem links on  giving pages with multiple further links but all from same website). I'm guessing most of the time only 1 or 2 terms are returned. In Fallopian tube example, I see a couple different &quot;hits&quot; are for same text, another (still in same resource) adds a picture and interestingly &quot;extrauterine&quot; definition comes up as a distinction bewteen normal intrauterine pregnancies and ectopics that may occur in the tubes - I think that's a nice alternative (lateral thinking) system of considering the fallopian tubes by pregnancy location. David Ruben  Talk  22:48, 15 March 2009 (UTC) 
+It is doing something it previously did not do: the eMedicine dictionary link used to go directly to a specific page with the definition of the term in question. --Arcadian (talk) 23:25, 15 March 2009 (UTC)
+Ah, then yes one step removed from that now, is that critical ? (never previously personally used that link myself before). David Ruben  Talk  08:18, 16 March 2009 (UTC) 
+There also was a  (created by Arcadian) with link similarly broken that tried to access eMedicineHealth's own articles. I've fixed that link call. However as no &quot;Consumer&quot; term used by the website itself (as far as I can see) and only currently used by the one article of Dementia, I've been bold and moved it to . David Ruben  Talk  13:11, 15 March 2009 (UTC)
+
+ Editors are moving forward...
+
+In , the re/categorization of pharmacology articles is going to begin.  Ongoing refinement of the proposed categorization scheme will continue at  and via CfD's; however, I wanted to let you know about this categorization effort so that you (1) are aware and (2) might consider participating. kilbad (talk) 18:03, 15 March 2009 (UTC)
+my cursory search showed these ideas have been floating around for a while among many.  It's awesome that Scott is taking the initiative. He truly should be awarded for his hard work on numerous wikiprojects. -tk  (talk) 00:19, 16 March 2009 (UTC)
+Thanks tk.  I'll probably start with the recategorization today, but I'm pretty busy in real life.  Any help is welcomed.  --Scott Alter 12:03, 16 March 2009 (UTC)
+FENa
+
+the fractional excretion of sodium article could use a picture.
+
+I just can't look at xxxxx (divided by sign) xxxx (divided by sign) xxxx (divided by sign) divided by sign
+
+I would like to see a graphic showing:
+
+* Na u / Cr u
+* ------------
+* Na p / Cr p
+
+but... I don't know how to upload an image... Can anyone else do this?  (talk) 03:01, 16 March 2009 (UTC)
+
+No need to upload an image, you can type commands into the edit window for this sort of thing and the WP &quot;magic&quot; will do the rest:
+
+ FE_{Na}  100 \times \frac {sodium_{urinary} / creatinine_{urinary{sodium_{plasma} / creatinine_{plasma 
+
+Take a look at how I encoded this - it's pretty simple.  There's .  I did not abbreviate as much as you suggested - keep in mind that this is an encyclopedia for the public, and not a medical reference or how-to.  Hope this helps.  --Scray (talk) 05:46, 16 March 2009 (UTC)
+No worries about abbreviation.  I write for wikipedia like I would write a consent document or like how I do patient education. -same as original poster (talk) 04:39, 18 March 2009 (UTC)
+
+Looking for help creating stubs
+
+There are several types of epidermal nevi, neoplasms, and cysts which still have no stubs in wikipedia.  I have a list of them and wanted to know if someone would help me create them? kilbad (talk) 22:48, 16 March 2009 (UTC)
+I'll give you a hand if you can find a good source. —Cyclonenim (talk ·  · ) 23:19, 16 March 2009 (UTC)
+I can't send you my books.  Can you just use pubmed? kilbad (talk) 00:15, 17 March 2009 (UTC)
+Haha, I wouldn't expect you to do that. Yeah I guess I can, just leave a list of pages you'd like creating and I'll search through PubMed and try and create some this week. —Cyclonenim (talk ·  · ) 07:48, 17 March 2009 (UTC)
+
+I can help.  List redlinks here?  Some may only need to be made redirects.  --Una Smith (talk) 14:09, 17 March 2009 (UTC)
+The redlinks I am looking for help with are located under the Epidermal nevi, neoplasms, cysts section in the list of skin-related conditions.  All those diseases have been included from a reliable secondary text Andrews' Diseases of the Skin: Clinical Dermatology, and I think most probably deserve their own article (as each will have its own characteristics, incidence, prevalence, treatment, etc.).  If you have any problems finding a particular disease, just pass over it and I can do it later.  Also, if possible, I ask that you discuss any changes you plan on making to the actual list before doing so as I am currently in the process of actively editing it.  Thanks again for your willingness to help! kilbad (talk) 14:22, 17 March 2009 (UTC)
+Sure, I'll start in a few hours. Just a comment, could things like cystic basal cell carcinoma be covered in the main basal cell carcinoma article itself? This would seem more appropriate. —Cyclonenim (talk ·  · ) 18:01, 17 March 2009 (UTC)
+
+At this time, perhaps we can just leave those links red and then address them at the end? kilbad (talk) 18:16, 17 March 2009 (UTC)
+
+Kk, no worries. I've started with eruptive vellus hair cyst. —Cyclonenim (talk ·  · ) 18:52, 17 March 2009 (UTC)
+Orignal research galore and edit war at hard and soft drugs
+
+This articles has multiple severe problems despite the consensus to keep it as it is at the last AfD. I had removed:
+* pro-hallucinogenic advocacy web site used as source for most of the article—unacceptable per 
+*  and seemingly  definitions of hard/soft
+*  examples based on matching published findings with the unsourced definitions
+Only alcohol and nicotine were attributed to (non-peer-reviewed) expert opinion as &quot;hard drugs&quot;, but even then it's not clear what definitions the sources use (if any). With little useful content left I redirected the article to Drug policy of the Netherlands, which purportedly (because this claim is unsourced too) is the only country to use this classification, and this was the only argument used as &quot;keep&quot; in the AfD. Needless to say, all my changes have been reverted by POV pushers who claim I've gutted the article. Xasodfuih (talk) 21:35, 14 March 2009 (UTC)
+
+ By the way, the main promoter of / in this article is  who has been POV pushing at Passive smoking to dilute the mainstream consensus with  papers disputing the harm of passive smoking. He's the one using Erowid as source of medical info like toxicity and addictiveness of drugs in this article. Xasodfuih (talk) 04:27, 15 March 2009 (UTC)
+
+Erowid as source of medical info
+I take it it's not kosher per , but then Jimbo [http://en.wikipedia.org/w/index.php?title=Wikipedia%3ARequests_for_adminship%2FThumperward_2&amp;diff=276912014&amp;oldid=276868807 is the ultimate content decider here] (according to higher-ups than me), so who knows, maybe we should ask him... Xasodfuih (talk) 22:22, 14 March 2009 (UTC)
+ [http://www.laweekly.com/2004-04-29/news/don-t-get-high-without-it/1 LA Weekly says]: &quot;It is an independent Web site run by a couple of neo-hippie data geeks without Ph.D.s, institutional backup or government funding. Two longtime partners who go by the names Earth and Fire (she’s the Fire), they’ve built the most comprehensive encyclopedia of psychoactive substances online.&quot; Not that different from getting medical advice from the playboy bunny if you ask me. Xasodfuih (talk) 22:30, 14 March 2009 (UTC)
+
+Whether a source is reliable depends a lot on how you use it, but I admit that it wouldn't be very high on my list for most purposes that editors might suggest.  WhatamIdoing (talk) 00:38, 15 March 2009 (UTC)
+
+Jimbo has little to do with this. It is the consensus of regular contributors that Erowid is a hopeless source. Experimenting with psychoactive substances sounds like a highly individual experience, and unless you study the reactions in a scientific, reproducible way it is not likely to lead to reliable information. JFW | T@lk 00:45, 15 March 2009 (UTC)
+
+Update: Merge into Drug policy
+Join in the fun at  - 'hard' and 'soft' are merely two adjectives whose whole being lies within the concept of drug policy, and it should all be on the one page. Casliber (talk · ) 01:08, 19 March 2009 (UTC)
+
+Rubeosis iridis
+
+I came across this article, and it needs some work. so i have added a tag for wikiproject medicine. Najafhaider (talk) 13:19, 20 March 2009 (UTC)
+
+Requested move
+
+Cross-posted from . Physchim62 (talk) 22:43, 20 March 2009 (UTC)
+It is my opinion that the current names of the articles and categories
+
+* List of IARC Group 1 carcinogens, 
+* List of IARC Group 2A carcinogens, 
+* List of IARC Group 2B carcinogens, 
+* List of IARC Group 3 carcinogens, 
+* List of IARC Group 4 carcinogens, 
+
+are misleading, since all agents (materials, compounds, environments) could and should be classified by IARC. The classification does not make them &quot;carcinogens&quot;.
+
+Please comment at .--FocalPoint (talk) 20:12, 20 March 2009 (UTC)
+Help improving PatientsLikeMe please!
+
+Dear all, I work for PatientsLikeMe and so want to avoid any conflict of interest by doing substantial edits to the article. However since it first went up we have published several research studies and been mentioned in a variety of journals including Lancet Neurology, Nature Medicine, AMIA, etc (see http://scholar.google.com/scholar?q=patientslikeme). I would be most grateful to have some additional input to the article from objective 3rd parties. Happy to answer any questions at pwicks@patientslikeme.com, I'm also easily Googlable! Thanks,--PaulWicks (talk) 16:08, 22 March 2009 (UTC)
+
+Grammer
+
+Should categories like &quot;Dermatologic signs,&quot; &quot;Dermatologic terminology,&quot; and &quot;Dermatologic procedures and surgery,&quot; be dermatologIC or dermatologiCAL? kilbad (talk) 19:26, 22 March 2009 (UTC)
+
+How about 'skin' or 'skinNY' (sorry couldn't help myself....like the joke, &quot;What's brown and sticky......a stick!&quot; Casliber (talk · ) 20:18, 22 March 2009 (UTC)
+
+But seriously, methinks thou needest the -al Casliber (talk · ) 20:18, 22 March 2009 (UTC)
+Thank you for your reply.  Anyone else have any additional thoughts? kilbad (talk) 20:47, 22 March 2009 (UTC)
+UK usage would be for the -al (I've seen similar ugly gynecologic, which I thought was a portmanteau of 'gynecology' and 'logic' and thus encapsulate the logical processes used by gynecologists - now behave everyone and don't show your personal prejudices on that !). Having said that, 'dermatology' is used, probably wrongly, on its own as in 'a dermatology proceedure' and so somewhat similar to say 'orthopaedic proceedure' (I've never encountered an 'orthopaedical difficult problem' ) David Ruben  Talk  22:47, 22 March 2009 (UTC)
+
+My old (very old) Webster's lists gynecologic / gynaecologic as adjective.  Ditto: orthopedic / orthopaedic = adjective.
+However, the same dictionary says that dermatological is the adjective.  Whether that's logical or not.  
+(But, really, DR, in &quot;orthopaedical[ly] difficult problem&quot; we're talking adverb, no? The problem isn't primarily orthopedic, it's primarily difficult.  As opposed to a &quot;difficult orthopedic problem&quot;.) - Hordaland (talk) 23:30, 22 March 2009 (UTC)
+
+If you look at Merriam-Webster Online at [http://www.merriam-webster.com/dictionary/dermatological], it seems that either form can function as an adjective.  Therefore, if I proposed a CfD to make all dermatologIC and dermatologiCAL cats the same for consistency sake (probably favoring dermatologiCAL), would you all have any objections?  Would that be ok to do? kilbad (talk) 01:53, 23 March 2009 (UTC)
+
+DSM IV TR redux
+
+Just a note for anyone who doubted this, does anyone else find this interesting that [http://www.nice.org.uk/Guidance/CG78/NiceGuidance/pdf/English NICE are using DSM terminology now]? Casliber (talk · ) 20:20, 22 March 2009 (UTC)
+ Lol, no, the DSM in general has gained much popularity lately, i remember when it was just for psychologists and psychiatrists, now its availability is beyond wide spread. This is not  a bad thing. People just need to give it the respect it deserves and start siting it! :@ Boygenius 13 (talk) 07:24, 23 March 2009 (UTC)
+
+
+I re designed the template, please inform me if you have any suggestions or comments regarding that Maen. K. A. (talk) 23:00, 6 March 2009 (UTC)
+
+I have no current thoughts on the graphic design aspects, but here are my thoughts on the organization:
+* Why is stub sorting not handled like the other &quot;Open tasks&quot;?  Should &quot;Open tasks&quot; be renamed something like &quot;How to help&quot;?
+* Why is our single contest hidden behind a [Show] box?  (It seems like a waste of space.)
+* Should &quot;Task forces&quot; be renamed &quot;Specialties&quot;?  WhatamIdoing (talk) 06:53, 7 March 2009 (UTC)
+
+Too many different colors (alternating bars, horizontal lines, etc - too busy), contrast too low.  Should use sidebar meta-template rather than hand coding.  The older color scheme worked better with the talk page banner color (in general this is dark and foreboding, the other color scheme was more pleasant).  Think the colors should be changed back. 
+Most of the collapsible sections probably aren't worth the extra complexity for the user.  It means more clicks, for what is supposed to be a shortcut.  Since this template is only used on project pages (as compared to articles) it isn't clear that it is getting so bit that it needs to use hidden sections yet.  (If so, only hide the largest sections, e.g. taskforces and/or tasks.)  
+In short - previous version was better. Zodon (talk) 08:09, 7 March 2009 (UTC)
+After trying this out for a few days... I think I'm happier with the old version.  Pretty much the only think I use the template for is to find task forces pages.  
+I wonder whether it would be possible to revert to the old one but to also implement a parameter that could optionally close sections on certain pages.  For example,  probably doesn't need to advertise all the other task forces, and that could significantly reduce the size of the template.  (Or perhaps the old one just needs less white space around the cells.)  WhatamIdoing (talk) 01:18, 13 March 2009 (UTC)
+
+I reverted the color changes, and moved stub sorting into the open tasks group, and removed the heading for the one contest.  (As suggested above).
+What is the distinction between &quot;open tasks&quot; and &quot;departments&quot;?  Should collaboration of the week be moved to Departments?  
+Should the missing article trophy be moved into the how to help group?  (Seems most closely related to the requested articles item).
+What do people use frequently?  If going to leave some sections hidden, might make sense to have most of such sections at the end.  Zodon (talk) 01:35, 23 March 2009 (UTC)
+In theory, &quot;open tasks&quot; is a semi-random list of pages that need improvement, stubs that need sorted, or that sort of thing.  &quot;Departments&quot; I think is (supposed to be?) more procedural stuff, like FA reviews.  These sections could probably be merged.  Except for , I don't visit those pages very often (and when I do, I don't use the navbox to reach them), so perhaps they're candidates for collapsing.  WhatamIdoing (talk) 03:12, 23 March 2009 (UTC)
+Also, it seems that some potentially useful links got lost.  Article alerts is no longer listed, nor several other things that were under 'open tasks' a few weeks ago.  WhatamIdoing (talk) 05:14, 23 March 2009 (UTC)
+Several boxes are expandable, and the things you list exist under those boxes. Took me a while to find them, too, so I'm not sure this is the best way of presenting the navbox. —Cyclonenim (talk ·  · ) 07:52, 23 March 2009 (UTC)
+
+MedInvitation
+
+Two points:
+
+When you see an editor doing good work on medicine-related articles, and you haven't seen them here or at ,  please remember to invite them.  You can do this quickly by pasting  onto their user talk page.
+
+Also, since some people will have a stronger interest in a specialty instead of in the whole project, I wonder whether MedInvitation should be expanded to include a small link to ?  I haven't been able to strike on a happy way to say it, so if someone else likes the idea and has a suggestion, I'd be happy to hear it.  WhatamIdoing (talk) 20:14, 23 March 2009 (UTC)
+
+Yes, links to speciality task forces would come in handy... --Steven Fruitsmaak (Reply) 20:17, 23 March 2009 (UTC)
+
+Clean up listing
+
+Somehow I missed the good news of a new Wikipedia database dump earlier this month.  Wolterbot has sent us a , including ().  If you've got a few minutes, please feel free to pick something from the list and fix it.  
+
+Many of these are easy fixes, and there's something for everyone, from general copyediting to requests for expert attention.  I think (unless someone squawks) that it might be more efficient for us to edit the lists to remove pages that are fixed.  WhatamIdoing (talk) 00:43, 24 March 2009 (UTC)
+
+I'm confuzzled slightly by the list.  Blood transfusion is listed as having external link cleanup problems, but there is no external link section, just a lot of online references.  &quot;Academic resources&quot; is sort of an EL, but it has one entry that is the leading journal on the subject and appears to be appropriate.  SDY (talk) 01:55, 24 March 2009 (UTC)
+
+The data dump used for the listing was dated 6 March, so some articles have changed in the meantime. At that particular one, someone else [http://en.wikipedia.org/w/index.php?title=Blood_transfusion&amp;diff=275953413&amp;oldid=275315778 removed the linkfarm] already. Maralia (talk) 03:06, 24 March 2009 (UTC)
+And incidentally, it's perfectly fine to delete resolved items; I've been doing it for months on Wolterbot cleanup lists for other projects. The existing list will simply be overwritten the next time the bot does its thing, which is likely to be months down the road anyway. Maralia (talk) 03:09, 24 March 2009 (UTC)
+Thanks, Maralia.  One of the challenges will be finding all the instances.  Pages are listed twice (number of items on the page, and again under each type of tag), and of course there are multiple lists.  So discovering an &quot;already fixed&quot; item is probably going to be pretty common if we're really making progress.  (On the other hand, getting to remove an article from the list without having to do any real work is somehow just as satisfying.)  WhatamIdoing (talk) 04:01, 24 March 2009 (UTC)
+Childhood versus Juvenile
+
+Are Childhood dermatomyositis and Juvenile dermatomyositis the same thing?  If so, I will defer a merge to someone else. kilbad (talk) 01:03, 25 March 2009 (UTC)
+
+Automated tissue image systems help please
+
+This artiscle is at AfD  and we need some more authoritative opinions on the salvagibility of the article. Any help appreciated.  -- Banjeboi 02:11, 25 March 2009 (UTC)
+
+
+This is a notice to let you know about , a  subscription-based news delivery system designed to notify WikiProjects and Taskforces when articles are entering , ,  and other workflows (). The reports are updated on a daily basis, and provide brief summaries of what happened, with relevant links to discussion or results when possible. A certain degree of customization is available; WikiProjects and Taskforces can choose which workflows to include, have individual reports generated for each workflow, have deletion discussion transcluded on the reports, and so on. An example of a customized report can be found .
+
+If you are already subscribed to Article Alerts, it is now easier to  and . We are also in the process of implementing a , which would let projects know about ongoing discussions on a wikipedia-wide level, and other things of interest. The developers also note that some subscribing WikiProjects and Taskforces use the display=none parameter, but forget to give a link to their alert page. Your alert page should be located at &quot;Wikipedia:PROJECT-OR-TASKFORCE-HOMEPAGE/Article alerts&quot;. Questions and feedback should be left at .
+Message sent by  to all active wiki projects per request, Comments on the message and bot are welcome here.
+
+Thanks. — Headbomb {ταλκ – } 09:24, 15 March, 2009 (UTC)
+We were indeed already subscribed to the alerts. I've added a link to the  template so it can be accessed more easily. —Cyclonenim (talk ·  · ) 15:43, 15 March 2009 (UTC)
+A reminder that you should give a link to the alert page when you are using the display=none setting.Headbomb {ταλκ – } 16:57, 25 March 2009 (UTC)
+
+Immunoglobulin naming conventions
+
+Are there any guidelines for naming articles related to immunoglobulins?  While creating some stubs I noticed that trying to find Ig-related diseases is somewhat challenging as there are no standard naming conventions and inconsistent redirects.  I have tried to create a little more organization, but there are still some inconsistencies.  Compare Selective immunoglobulin A deficiency and Hyper-IgE syndrome for example. kilbad (talk) 00:44, 25 March 2009 (UTC)
+
+What's wrong with sticking to the generally-accepted name of the condition?  Perhaps I misunderstand, but I don't imagine having WP rename terms in common usage (such as the two you mention).  --Scray (talk) 02:55, 25 March 2009 (UTC)
+At this time I am not proposing how these articles should be named, but simply bringing it up for discussion, particularly the issue of whether an article title should use &quot;Ig&quot; versus &quot;immunoglobulin&quot;. kilbad (talk) 02:59, 25 March 2009 (UTC)
+MEDMOS dictates that we use ICD-10 unless we have a really good reason not to (as with Tourette syndrome). So we should probably keep &quot;Selective immunoglobulin A deficiency&quot; and rename &quot;Hyper-IgE syndrome&quot;. --Arcadian (talk) 06:26, 25 March 2009 (UTC)
+I am fine with whatever the community wants to do, and will defer renaming to someone else. kilbad (talk) 14:10, 25 March 2009 (UTC)
+
+Cancer survivors categories
+
+
+
+I am not a fan of overly-specific categorization, but this category scheme strikes me as eminently valuable to the general public, and I'd like to expand it. Any objection to the idea? Off the top of my head, I'd like to add subcats for survivors of Hodgkins &amp; non-Hodgkins, cervical, lung, testicular, and prostate cancers. Thoughts? Maralia (talk) 18:27, 25 March 2009 (UTC)
+
+In general, any category that will move more than a small number of bios out of the unsorted list seems reasonable to me.  
+However, given that the split between HL and NHL is being dumped in the real world (as it's beyond silly to talk about NHL as if it were a single entity), I oppose that particular set of subcats.  On the other hand, if you wanted to create a category for all hematological malignancies together (perhaps with the reader-friendly name of &quot;Leukemias and lymphomas&quot;), then I wouldn't object to that.  WhatamIdoing (talk) 20:13, 25 March 2009 (UTC)
+
+All the existing categories are by location of the cancer;  what about histology?  Is that known often enough that categorizing notable survivors by it would be useful?  Histology is very important for the surveillance and treatment issues, and for the duration of survivorship.  --Una Smith (talk) 06:19, 26 March 2009 (UTC)
+Peer review - Oxygen toxicity
+
+I'm hoping to improve Oxygen toxicity to become a FAC but I'm not sure of the best way to get a peer review or some constructive criticism as this will be my first experience of the process. Casliber kindly suggested I should mention it here, and I'd be grateful for any advice on the process or the article that I can get. I should add I'm a diver, not a medic, but I've tried my best to adhere to MOSMED. Thanks in advance for any help or advice. --RexxS (talk) 23:25, 26 March 2009 (UTC)
+
+blood glucose merge with BG monitoring
+
+There's a pointer in a notice at BG monitoring suggesting this proposed merger be discussed here. ? However that may be, here's an opinion. 
+
+These are different topics, though with a shared common term. One is a discussion of the homeostatic and physiological function of a food chemical and variants thereof. The other is a clinical topic having ot do with treatment of derangements in the management of that chemical. Too wide a difference to be encompassed in a single WP article. Visions of bloat and poor writing haunt my mind at the prospect. 
+
+Oppose merger. ww (talk) 18:39, 27 March 2009 (UTC)
+
+Thanks for bringing that to our attention.  Apparently, the tag is (very) stale.  I've removed it, and I think everyone will agree that &quot;no merge&quot; is the right choice.  WhatamIdoing (talk) 23:00, 27 March 2009 (UTC)
+Easy work, anyone?
+
+ could use a little attention. I've managed to whittle it down from 145 to 94 articles, but I need a break :) Maralia (talk) 19:12, 28 March 2009 (UTC)
+
+Speaking of which, if Tetanized state only occurs in Tetanus...should they be merged? Casliber (talk · ) 19:25, 28 March 2009 (UTC)
+
+Although this particular task seems neither important nor urgent, since Maralia asked I did a few.  --Una Smith (talk) 19:51, 28 March 2009 (UTC)
+Thanks! As far as importance and urgence, breast cancer could use some work... :) Maralia (talk) 20:02, 28 March 2009 (UTC)
+Welcome.  Most of the cancer articles are important and at least somewhat urgent.  I find them heartbreaking to work on, but I do as much there as I can.  --Una Smith (talk) 21:30, 28 March 2009 (UTC)
+
+I've been working on that category here and there for months.  (It used to number in the thousands.)  A couple of new articles get added to it every week.  Thanks for your help!  WhatamIdoing (talk) 21:25, 28 March 2009 (UTC)
+
+The cat is down to 36 at the moment.  A few points to those new to this game: 
+* The details are at .  
+* WPMED does not tag the talk pages of redirects.  
+* WikiProject Anatomy is the right project to support all human anatomy pages:  Please remove WPMED unless there's some significant disease/treatment information in the article.
+* All articles about medications should be tagged for WikiProject Pharmacology (could be both projects if there's non-trivial disease information in the article).
+Questions can be left here or at .  WhatamIdoing (talk) 22:47, 28 March 2009 (UTC)
+
+Neuro(no)pathy
+
+Are Neuropathy and Neuronopathy the same thing?  WhatamIdoing (talk) 22:37, 28 March 2009 (UTC)
+They should both probably be merged into Peripheral neuropathy. --Arcadian (talk) 00:50, 29 March 2009 (UTC)
+never heard the latter term at all. Casliber (talk · ) 10:14, 29 March 2009 (UTC)
+ According to Dorland's IIlustrated Medical Dictionary, &quot;neuronopathy&quot; is &quot;polyneuropathy involving the destruction of cell bodies of neurons&quot;. &quot;Neuropathy&quot; is &quot;a functional disturbance of pathological change in the peripheral nervous system, sometimes limited to noninflammatory lesions as opposed to those of neuritis&quot;. Axl ¤ [[User talk:Axl|[Talk]]] 16:54, 29 March 2009 (UTC)
+
+Proposed merger of Narcissism (psychology) into Narcissism
+
+Proposed merger of Narcissism (psychology) into Narcissism, join the fun at . Casliber (talk · ) 11:53, 29 March 2009 (UTC)
+
+Doptone
+
+Ok folks, what should we do with Doptone - merge it to...what Medical ultrasonography? Casliber (talk · ) 12:36, 29 March 2009 (UTC)
+
+There is already an article for it at Doppler fetal monitor, which already contains all of the information in Doptone.  I'd just put  in Doppler fetal monitor and then redirect Doptone.  Doppler fetal monitor has very few links to it, and sections (or list items) about Doppler fetal monitors should be added to Medical ultrasonography, Obstetric ultrasonography, Prenatal care, and Obstetrics.  --Scott Alter 13:01, 29 March 2009 (UTC)
+
+Aha, a fine choice my good sir. Go for thy life for I must to sleep..... :) Casliber (talk · ) 13:05, 29 March 2009 (UTC)
+
+Doptone seems to originate as a trade name for a doppler fetal monitor, [http://www.ob-ultrasound.net/doptone.html made by Smith-Kline in 1965]. It should be mentioned in Doppler fetal monitor for sure. However, as both Medical ultrasonography and Obstetric ultrasonography are defined in their lead as &quot;imaging techniques&quot; or &quot;visualisation&quot;, perhaps their &quot;See also&quot; sections would be most accurate place to link to Doppler fetal monitor. --RexxS (talk) 13:17, 29 March 2009 (UTC)
+
+I merged the articles, but did not add any information on the history.  I'd like to see a more complete account for the device's history from an authoritative source.  I also put links to this article from prenatal care, medical ultrasonography, and obstetric ultrasonography.  --Scott Alter 14:00, 29 March 2009 (UTC)
+ New Wikipedia:WikiProject Medicine Design
+
+Please check out my proposed design, and please add your comments whether you support applying it or not here or on my talk page Maen. K. A. (talk) 23:37, 6 March 2009 (UTC)
+
+Oppose It is too wide (have to scroll back and forth to see it).  Won't work as well on narrow screens (small laptops, large fonts for accessability).  How does it rate on accessability tests - suspect won't work well with screen readers.  Reduces contrast (less accessible).  
+Familiar navigation tools (table of contents, ability to jump to section you want) missing.  Doesn't follow usual look/layout of other wikiprojects (makes it harder to use). Zodon (talk) 07:51, 7 March 2009 (UTC)
+ Oppose. Too wide. Requires left-right scrolling and awkward to read. Axl ¤ [[User talk:Axl|[Talk]]] 11:03, 7 March 2009 (UTC)
+Support but only because my screen is big enough so I don't have to scroll, and it looks nice. If I had to scroll, I'd hate it too. —Cyclonenim (talk ·  · ) 12:39, 7 March 2009 (UTC)
+
+Oppose, sorry.  The style is pseudo two column, and unbalanced, which means it has a lot of blank space.  Also, I work with a lot of projects and I find project pages much easier to navigate if their style (and skin?) is the Wikipedia standard, not custom.  Imagine if every Wikipedia article could have its own style.  Gaak.  Let's leave style development for user pages.  --Una Smith (talk) 06:53, 8 March 2009 (UTC)
+
+Oppose I like the format in many ways but if it is not easy to use for everyone than we should stike we what we have.--Doc James (talk ·  · ) 16:42, 9 March 2009 (UTC)
+
+Comment Thank you all for your comments concerning the design, it might gave me some clues about how Wikiproject Medicine should look like, but i have one more question, Do you support redesigning the project page?? or should i stop thinking about that??. Thank you all for your time Maen. K. A. (talk) 22:30, 10 March 2009 (UTC)
+
+I would support a redesign, if your redesign didn't have the problems on narrow screens it would have probably been supported in my opinion.--Literaturegeek | T@1k? 09:15, 23 March 2009 (UTC)
+
+New design has problems. The new design has presentational problems on my screen using Firefox on Ubuntu. Of course, the new page should be tested on different screens, with different browsers, and on different operating systems before it can be rolled out. Clearly, the new design is not ready yet. I think it is better to stay with the current well tested design at the moment. Snowman (talk) 10:29, 30 March 2009 (UTC)
+
+an interesting conundrum - fetus vs unborn baby
+
+OK folks, an IP with [http://en.wikipedia.org/w/index.php?title=Lorazepam&amp;diff=280251336&amp;oldid=279936331 this edit], has given an [http://en.wikipedia.org/w/index.php?title=User_talk%3ACasliber&amp;diff=280252082&amp;oldid=280220984 explanation] on my talk page. 
+
+My take in reverting was to use plainer english wherever possible for technical terms as long as no meaning is lost. However the IP has noted an emotive implication which I hadn't thought of. So which term do we prefer here? Casliber (talk · ) 19:40, 28 March 2009 (UTC)
+
+I prefer the more precise term, which in most cases would be fetus.  &quot;Unborn baby&quot; can also refer to an embryo.  Especially in the case of in vitro fertilization, when the embryos are frozen.  Also, some people who want to be parents may include in the concept &quot;unborn baby&quot; all the babies they have not yet conceived.  --Una Smith (talk) 19:48, 28 March 2009 (UTC)
+
+This issue arose in the page on Lorazepam and was with reference to a foetus in the first trimester of pregnancy. I think that most people would recognise the word foetus as being appropriate in lay or other usage to refer to a foetus during this stage of development. My explanation in favour of using the word &quot;foetus&quot; is based on my understanding of the usage of the term foetus in the UK and is different to the IPs expressed explanation. However, with regard to the IP's explanation of an unintended implication of the phrase &quot;unborn baby&quot; added in a good faith edit; perhaps, using the term &quot;unborn baby&quot; for a foetus in the first trimester of pregnancy could be something some people are understandably sensitive to for a variety of reasons including the point of view expressed by the IP.  I think &quot;unborn baby&quot; has a slightly less precise meaning than &quot;foetus&quot;. It is a wiki policy to use neutral language, and I think using precise neutral language here would avoid any unintended interpretations. Snowman (talk) 19:48, 28 March 2009 (UTC)
+
+In this case, I'm going to pull a line from  which also deals with viciously controversial multiple acceptable ways to say the same thing: unless a compelling reason can be found to change it, keep it the way it was.  Whether the volume of controversy over the word choice question that's being introduced into the article can be silenced with precedent over pedantic spelling differences is beyond me, but there is a precedent.  SDY (talk) 21:17, 28 March 2009 (UTC)
+
+During most of the 1st trimester it is an embryo, not a fetus, and &quot;unborn baby&quot; is very loaded.  --Una Smith (talk) 21:36, 28 March 2009 (UTC)
+Well, for part of the time it is an embryo and part of the time it is an foetus. Incidentally, I do not know what SDY is saying. Snowman (talk) 21:41, 28 March 2009 (UTC)
+More or less, if we have a question about potentially controversial choice when both choices are equally (un)acceptable, there is a precedent for how we deal with them (albeit one that has nothing to do with medicine).  SDY (talk) 21:52, 28 March 2009 (UTC)
+But, that is not the situation here, as we clearly have options that are much better than others. What is the precedent anyway? Snowman (talk) 21:56, 28 March 2009 (UTC)
+I misunderstood the original statement then.  The  policy deals with national varieties of English (i.e. fetus and foetus) where some editors have passionate beliefs about &quot;spelling it right&quot; (i.e. no difference in meaning, just presentation).  It has some specific recommendations about how to deal with the issue.  SDY (talk) 22:03, 28 March 2009 (UTC)
+
+As far as I am aware no one here is concerned about using the UK or USA spellings, foetus or fetus, which are being used interchangeably is this discussion and in the USA version in the article without controversy. Snowman (talk) 22:13, 28 March 2009 (UTC)
+
+The spelling is obviously irrelevant.  That there's already a policy that deals with  changes in article wording was why I brought it up.  My interpretation of the OP's comments was that someone was changing wording without changing the meaning, analogous to a spelling change.  SDY (talk) 22:38, 28 March 2009 (UTC)
+
+Thank you for refering to wording that started this discussion. I note that the introductory explanation may have been misleading and sent you thinking along the wrong way. I do not know why the introduction was phrased the was it was, because arguably the meaning had changed. Generally speaking, and not refering to this discussion, may I say, that it is always better to study the discussion and read the linked quotes, just in case someone is applying spin or made a mistake. Snowman (talk) 22:55, 28 March 2009 (UTC)
+
+(edit conflict) When you're specifically talking about the first trimester, then fetus/foetus is inaccurate and should not be used.  Humans are embryos for the first eight weeks after conception:  the fetal stage does not appear until the last couple of weeks of the first trimester.  Consequently, &quot;unborn baby&quot; is actually more accurate (as it has a much more flexible definition).  If it needs to sound science-y, the alternative is to talk about the &quot;embryo/fetus&quot;, which is dreadful writing style.
+For most articles (i.e., specifically excluding articles about elective abortions, where &quot;baby&quot; somehow implies a morally significant being deserving of human rights, instead of an early stage in the growth of the sort of mammal that has 46 chromosomes), I might switch back and forth between &quot;fetus&quot; or &quot;embryo&quot; (whichever was technically correct) and &quot;unborn baby&quot;.  The technical terms can link to the appropriate page on human development, and the non-technical term can help less-educated readers figure out what we're talking about.
+As an aside, fetus is becoming an emotive term:  I've seen parents showing off ultrasound photos and gushing about how cute &quot;the fetus&quot; is in exactly the same tone that happy grandmothers have gushed about babies for generations.  WhatamIdoing (talk) 21:43, 28 March 2009 (UTC)
+Yes.  1st trimester refers to the pregnancy, which by convention begins on LMP, the first day of the last menstrual period.  In the absence of other evidence, conception is assumed to occur 3 weeks after LMP, so the embryo is 8 weeks old in week 11 of the pregnancy.  No one much cares unless it is a difficult pregnancy, when this can be a matter of life or death. --Una Smith (talk) 23:18, 28 March 2009 (UTC)
+
+Without commenting on previous discussions, &quot;baby in the womb&quot; or &quot;during the first trimester of the babies development&quot;, or &quot;during the first trimester of foetal development&quot; would probably be better than &quot;unborn baby&quot;. Snowman (talk) 21:51, 28 March 2009 (UTC)
+It was changed back to &quot;unborn baby&quot;, and I have changed it to &quot;developing baby&quot; which I hope will be ok for everyone. It seems to me to be quite readable with &quot;developing baby&quot; and is a appropriate as the drug could affect development. Snowman (talk) 22:33, 28 March 2009 (UTC)
+Works for me.  In fact, I think it an improvement over the other suggestions (including mine).  WhatamIdoing (talk) 22:38, 28 March 2009 (UTC)
+
+Hmmm...yeah, I am happy with 'developing baby'...anyone wanna guess how many articles one could slot in 'developing baby' for 'fetus/foetus' ? Casliber (talk · )  22:42, 28 March 2009 (UTC)
+The phrase may be best left for those points where development is the specific issue, or where fetus is inaccurate.  I think fetus is acceptable when it actually describes a fetus.  WhatamIdoing (talk) 22:51, 28 March 2009 (UTC)
+&quot;Developing baby&quot; generally works for me too.  --Una Smith (talk) 23:18, 28 March 2009 (UTC)
+@WhatamIdoing - yeah I had meant to clarify that and your interpretation is what I meant. Casliber (talk · ) 23:21, 28 March 2009 (UTC)
+It might be more interesting and more relevant to think about how many times &quot;developing baby&quot; might be used as a more appropriate phrase in the place of &quot;unborn baby&quot; on the wiki.  Snowman (talk) 12:20, 29 March 2009 (UTC)
+
+(outdent) [http://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Unborn+baby&amp;fulltext=Search interesting]...hmm..a doptone? Never heard of that name for it (?) Casliber (talk · ) 12:31, 29 March 2009 (UTC)
+
+A doptone is usually called a Sonicaid  or something like &quot;hand held ultrasound&quot; in the UK. Anyway, not to get sidetracked, it seems that &quot;Unborn baby&quot; redirects to &quot;Fetus&quot;. Is there there a better target for the wiki page &quot;Unborn baby&quot; to be redirect to? or should the page &quot;Unborn baby&quot; be a dab, or article. Snowman (talk) 12:53, 29 March 2009 (UTC)
+The key question then is whether the lay term &quot;unborn baby&quot; is equal to the more technical &quot;fetus&quot;. If so then a redirect is most prudent. Casliber (talk · ) 12:57, 29 March 2009 (UTC)
+Actually, I think &quot;Unborn baby&quot; and &quot;Foetus&quot; are not equivalent; see discussion in the section &quot;Redirect&quot; below. Snowman (talk) 21:11, 29 March 2009 (UTC)
+
+Redirect
+Unborn baby&quot; currently redirects to &quot;Fetus&quot;. The key question is what to do with the page at &quot;Unborn baby&quot;. It could be a redirect to somewhere, or it could be a dab page, or an article. Snowman (talk) 13:27, 29 March 2009 (UTC)
+
+There is currently dabs at The Unborn and Unborn child and there are probably other pages I have not noticed yet.  The wiktionary has an entry for &quot;[http://en.wiktionary.org/wiki/unborn unborn]&quot; but not &quot;unborn baby&quot;.  I think that the wiki page &quot;unborn baby&quot; could redirect to the dab &quot;Unborn child&quot;, however, I am sure there are other options, Which is the best option? Snowman (talk) 13:39, 29 March 2009 (UTC)
+The dab at Unborn child does the job of differentiating between embryo and fetus quite concisely, so I would go for a redirect of unborn baby there. Wikitionary is unlikely to accept &quot;unborn baby&quot; (since it is the sum of the parts  + ) unless someone can make a really good case there that it carries extra meaning as a combination. I'd suggest Unborn infant probably ought to redirect to the dab at Unborn child as well. --RexxS (talk) 16:56, 29 March 2009 (UTC)
+
+Redirect &quot;Unborn baby&quot; to Prenatal development is another option, which is has become my first choice. I have nominated this as a change of redirect for discussion at . Snowman (talk) 20:43, 29 March 2009 (UTC)
+I like that choice better than Fetus.  WhatamIdoing (talk) 21:59, 29 March 2009 (UTC)
+Redirect's new target is Prenatal development. Snowman (talk) 12:24, 30 March 2009 (UTC)
+Yeah, works for me :) Casliber (talk · ) 12:39, 30 March 2009 (UTC)
+Great. Based on this consensus and an apparent consensus at RfD, I have just made about 12 edits to tidy up a few redirects and dab pages. Anyone is welcome to scrutinize these changes, make improvements, or to report any controversies. Snowman (talk) 13:20, 30 March 2009 (UTC)
+I created Developing baby as a redirect to Prenatal development.  At present, there are no links to Developing baby. --Una Smith (talk) 15:06, 30 March 2009 (UTC)
+
+Medical featured picture candidate
+
+. At Featured picture candidates, a diagram of a hand and wrist is . It's high quality and appears accurate, but feedback would be appreciated on accuracy (for us of non-medical backgrounds). Cheers. Mostlyharmless (talk) 03:36, 31 March 2009 (UTC)
+Sex and illness
+
+Sex and illness probably needs a new name.  I think that it's supposed to be about whether being male or female makes you more or less likely to get this or that disease, but it's also partly a disambiguation page (to explain that &quot;sex&quot; doesn't mean &quot;sexual activity&quot; in this case, and that the page on STIs is elsewhere).  Gender has been relegated to psychological status, so Influence of sex on health, maybe?  Any other ideas?  WhatamIdoing (talk) 21:57, 28 March 2009 (UTC)
+
+How about: Gender bias in disease? --Doc James (talk ·  · ) 23:40, 28 March 2009 (UTC)
+That seems clear to me. Snowman (talk) 18:04, 29 March 2009 (UTC)
+&quot;Influence of sex on health&quot; seems ambiguous to me, because it could imply sex as a behaviour or sex as a physical gender. Snowman (talk) 21:20, 29 March 2009 (UTC)
+Sex-specific illness might be an idea to. It is also mentioned in the lead sentence. I see that it is already a redirect to that page.--Literaturegeek | T@1k? 19:09, 29 March 2009 (UTC)
+
+It seems to me that the page is quite a general page. It includes all sorts of influences of physical gender or chromosomes on illness. Currently it might need a long title like &quot;Factors influencing differences in disease rates between males and females&quot;. Snowman (talk) 19:34, 29 March 2009 (UTC)
+
+Gender and illness? Gender-based risk of illness Casliber (talk · ) 20:08, 29 March 2009 (UTC)
+
+As WhatamIdoing said above, &quot;gender&quot; is becoming a psychological construct, whereas &quot;sex&quot; is biologically determined (there are, of course, differences of opinion on this).  It's important to note that pharmacology and surgery can blur these distinctions, so &quot;illness and sex&quot; might deal with more biological mechanisms, whereas &quot;illness and gender&quot; might address more behavioral/psychological/epidemiological issues.  --Scray (talk) 20:38, 29 March 2009 (UTC)
+
+The difficulty with Sex-specific illness is that the article is mostly about &quot;Sex-semi-specific illnesses&quot;, if you will -- not &quot;Prostate cancer only occurs in men&quot;, but &quot;Lupus is more common in women&quot;. 
+
+The term &quot;sex-based&quot; (stealing Casliber's notion) might be useful, as it's unlikely to be confused with sexual activities.  WhatamIdoing (talk) 22:02, 29 March 2009 (UTC)
+
+How about Sex differences in health, Sex differences in disease or Sex differences in illness? (e.g. [http://csd.georgetown.edu/ Center for the Study of Sex Differences in Health, Aging and Disease])  Admittedly this would exclude covering similarities in health or illness between the sexes (which would fit under the current title), but the content so far seems to be focusing on the differences.  Zodon (talk) 04:25, 30 March 2009 (UTC)
+
+Sex and gender-based disparities in health? Or individual Sex-based disparites in health and Gender-based disparities in health. Sex-based would cover biological differences and gender would cover social aspects. Although we do already have a Health disparities article which only goes into race, class, and socioeconomic status it largely ignores sex and gender. But health disparities could be the main article with this one the sub-article.-Optigan13 (talk) 05:33, 30 March 2009 (UTC)
+
+Sex bias in disease?  --Una Smith (talk) 05:39, 30 March 2009 (UTC)
+
+While disparity is listed as a synonym for difference, disparities might tend to connote differences from equality (dis-parity).  Which may be apropos for Healthcare inequality, but it is not clear that apropos for this article.  (e.g., No reason that one would expect men to have as much ovarian cancer as women.)
+As far as relation between this article and health disparities - if anything sex/gender based health disparities would seem to be a subtopic under sex differences in health.
+So far the health disparities article deals primarily with differences resulting from socioeconomic factors, rather than genetics and physiology.  
+Not sure about bias - seems rather anthropomorphising, or again as if there was reason to expect equality (e.g. statistical bias). 
+By the way, Google search for  41,700 hits   Zodon (talk) 22:18, 30 March 2009 (UTC)
+That's &quot;bias&quot; in the technical sense, here a result of sex linkage, which suggests Sex-linked disease. --Una Smith (talk) 22:53, 30 March 2009 (UTC)
+I like that title.  Any objections to Sex-linked disease? 
+Interestingly, we also have an article, Alcohol and sex, that uses the other meaning of sex.  WhatamIdoing (talk) 21:38, 1 April 2009 (UTC)
+
+Seems like sex-linked disease would preclude talking about issues of healthcare inequality.  (At least if taken in a strict interpretation, as sex linkage.)  Also sex-linked disease gets even fewer Google hits (11,000) than Sex differences in health.  
+So it partly depends on what the article is to be about - just those differences that have been shown to result from genetic difference between males and females (sex-specific illness).  Just those differences that result from cultural and environmental factors.  A mix of the two.  
+Currently the article appears to be about differences that may arise from genetics, from culture/environment, or mix of the two.  If that is to remain the topic, then not clear that sex-linked is good title for it.  Zodon (talk) 06:18, 2 April 2009 (UTC)
+Hmm.  I guess I think that health is different from healthcare:  You can be perfectly healthy with zero healthcare, and entirely unhealthy with ideal healthcare.  I'd put those subjects in different articles, but other editors might make different choices.  
+BTW, we appear to need a merge (or a rational split) between Health disparities and Healthcare inequality.  WhatamIdoing (talk) 07:10, 4 April 2009 (UTC)
+
+Consciousness article
+
+Dear all,
+
+I have proposed new text for intro on consciousness article on the related discussion pages. I think that I managed to articulate it in line with the latest findings in psychology and neurology, but would like others to review it and comment.
+
+Kind regards, Damir Ibrisimovic (talk) 06:59, 2 April 2009 (UTC)
+do surgeons edit wikipedia? surgery task force?
+
+just wondering if any surgerons are out there.  Maybe they are all too busy.  Must be some retired ones though...  —Preceding  comment added by  (talk) 17:45, 4 April 2009 (UTC) 
+
+I haven't seen any surgeons around for some time. For some reason, there are more internists than surgeons around on Wikipedia (and internists are just as busy!) I totally agree that a surgery taskforce would be appropriate, but only if there's enough people around to deal with the article maintenance! JFW | T@lk 22:47, 4 April 2009 (UTC)
+
+Carotenoderma and Carotenosis
+
+Should these articles be merged?  If so, I will defer the move to someone else. kilbad (talk) 21:22, 4 April 2009 (UTC)
+
+Does anyone want to play with me?
+
+I've stared work on expanding Hyperthermia therapy, which I've focused on the cancer treatment.  (Heat therapy is now the place for all other uses of heat as a medical treatment.)
+
+What I've done so far is to move a bunch of information about &quot;hot cancer treatments&quot; from other articles into this one (plus adding some basic summaries based on the NCI FAQ).  I've merged most of what I could, but there are probably still more out there.  Most of them are practicallly unsourced, and a few, like Oncothermia, have been very company-specific and promotional in nature.
+
+Two hours ago, Hyperthermia therapy was a one-sentence stub.  With some attention to proper references, I think it's going to be a good candidate for  — assuming, of course, that we'd like to be on the front page enough to get a bit more work done before the five-day timer passes.  I think this topic has something for everyone, because it includes everything from cutting-edge research to complete quackery, so I'm hoping to find a partner or two.   
+
+I'm going to be offwiki for a few hours, but if you're interested, please drop by and do what you can.  If you don't want to help write, but you've got a list of favorite sources, or know of yet another article that needs to be merged and redirected into this one, please feel free to share your thoughts on the article's talk page.  Thanks, WhatamIdoing (talk) 21:43, 4 April 2009 (UTC)
+Swedish Rare Disease Database
+
+I have noticed an anon placing a link to this database in a large number of articles. See for example Severe combined immunodeficiency, or any of the . While the links are relevant to the pages concerned, they would appear to fail , particularly the clause which reads:
+Any site that does not provide a unique resource beyond what the article would contain if it became a Featured article.
+Shall I warn the user and roll back the links as spam?-gadfium 20:24, 3 April 2009 (UTC)
+
+I wouldn't warn them as if it appears to be in good-faith. Can't go wrong with informing them of their mistake, though. Cyclonenim :  Chat   00:03, 5 April 2009 (UTC)
+
+I've left them a note explaining that the link doesn't meet the guideline, and rolled back the edits.-gadfium 01:59, 7 April 2009 (UTC)
+
+Acrocyanosis
+
+Are all the Acrocyanosis worth a merger? kilbad (talk) 16:33, 5 April 2009 (UTC)
+
+Picture of Asperger in article on Asperger syndrome?
+
+There is a discussion at  about the suitability of a non-free image of Asperger with one of his subjects. Any input would be appreciated. Eubulides (talk) 14:22, 6 April 2009 (UTC)
+
+National Board of Medical Examiners
+
+Can people with some knowledge of the subject take a pass at National Board of Medical Examiners, and possibly also Federation of State Medical Boards.  The first one was proposed for deletion.  I deprodded it and dropped some references in, it looks like a notable organisation, but I'm out of depth and it could use subject specific experts.  As could the latter, which looks to be in a bit of a mess.  Cheers, Hiding T  15:28, 6 April 2009 (UTC)
+
+Repetitive strain injury
+
+As has been pointed out at , this article has been hijacked by some folks with an agenda, and will probably need cooperative efforts to fix.  Expert eyes would be useful. Looie496 (talk) 22:26, 6 April 2009 (UTC)
+
+I deleted a section of uncited text. His theory is very dubious and he takes the mind body, psychosomatic theory of physical symptoms to the extreme and think it is reaching  standards or lack of. I think someone is promoting a book, perhaps it is Dr Sarno himself doing the editing to try and sell his book? I commented on the talk page.--Literaturegeek | T@1k? 22:52, 6 April 2009 (UTC)
+
+I read part of this book.  It is popular right now.  He basically says that all disease is psychosomatic.  It is complete garbage.--Doc James (talk ·  · ) 23:50, 6 April 2009 (UTC)
+What doctors are considered notable?
+
+I ran across an article about a doctoe, Rashid M. Rashid, and it looks like a résumé/CV to me.  Therefore, I wanted to know what doctors are considered notable?   Is this article appropriate for wikipedia? kilbad (talk) 00:35, 5 April 2009 (UTC)
+We usually use  as a guideline.  It won't fit perfectly for non-academic physicians, but the principles are generally adaptable.  WhatamIdoing (talk) 02:00, 5 April 2009 (UTC)
+Does Chrysalis count for national award?  Does not look like a CV as a check on pubmed revealed a high volume of work.  Only some of the more unique appear listed.  —Preceding  comment added by Chrysalisowner (talk • ) 02:05, 5 April 2009 (UTC) 
+
+This is a great debate.  I guess you have to question a few things:
+
+a) what is a primary source.  In this case, I do not think a peer-reviewed manuscript is primary as it has to go through a review process both legal and scientific.  At least in some of the medical articles (other then letters to the editor that are commentary), these are all that is available on certain rare diseases. Furthermore, it is not like you can pay a journal to publish your work if it does not meet the criteria of significance for the fields journal.  It is not pay-to-publish.
+
+b) impact.  when dealing with a small field (dermatology) with many rare diseases and even more rare treatment options, it may be more appropriate to determine impact via how recognized publications are in the literature.  This is a specialty notorious for rarity, and so many reports are only on case or case-series basis.  When managing such patients, it really is about whos articles are most often read/cited.  Especially in reviews.  So if an article on a rare disease is cited in numerous other articles, no matter how &quot;small&quot; the original article was it obviously was of significance to the other authors in the field.  —Preceding  comment added by Primarypp (talk • ) 04:47, 5 April 2009 (UTC) 
+I don't understand why you've asked (a), but the Wikipedia article is at primary source, and the concept's relationship to  is at .   doesn't care whether a person has written solely primary sources.  WhatamIdoing (talk) 06:18, 5 April 2009 (UTC)
+
+I agree, it seems like medical journals qualify for (a). As stated &quot;In general, the most reliable sources are peer-reviewed journals and books published in university presses; university-level textbooks; magazines, journals, and books published by respected publishing houses; and mainstream newspapers. Electronic media may also be used. As a rule of thumb, the greater the degree of scrutiny involved in checking facts, analyzing legal issues, and scrutinizing the evidence and arguments of a particular work, the more reliable the source is.&quot;
+
+It is more an issue of recognition and relevance to the field as stated in (b).  One of the few ways to recognize this fact may be citation by others.  Of course this will be field dependent.  I am board certified in internal medicine AND dermatology.  In internal medicine we have larger reviews/studies due to larger disease base in the population and so it is harder to achieve relevance without major  changes in observation/managmet.  In dermatology, it is very different.  In fact, sometimes one or 2 reports, no matter the size, lead to complete alteration of management strategies.  The main reason seems to be due to small disease base in the population and the resultant rarity in geographic locals, preventing the standard larger studies seen in other fields.  —Preceding  comment added by Skinobs (talk • ) 10:54, 5 April 2009 (UTC) 
+
+Since we have three brand-new accounts here (Welcome to Wikipedia!), let me explain something about the two policies that seems to be confusing:
+* , or notability (of which  and  are variants that apply the principles to specific sub-types of articles), answers this question:  &quot;Should Wikipedia have an article at all about this person?&quot;
+* , or no original research (of which  is one section), answers this question:  &quot;Since we've already decided to have an article about this person, what can we say in it without making stuff up ourselves?&quot;
+WP:N is trying to keep the encyclopedia from, say, getting filled up with vanity pages about middle-school students.
+WP:NOR is trying to keep the encyclopedia from being filled up with made-up nonsense.  In particular, here at the doctors' mess, we want people to avoid putting together two unrelated case studies on different subjects and then concluding that ____ is obviously the One True™ Treatment for a medical condition. 
+Once you've decided to have an article on a subject, you're completely finished with considerations of notability.  Individual sources do not have to be notable; individual facts do not have to be notable.  
+The facts (but not sources) shouldn't be trivia, however, because an article full of random-but-true facts would be low quality.  So instead of notability, you move on to a third policy, , or neutrality, and specifically the section , or due weight.  The point of this policy is to have articles be about what's important.  For example, if someone is important because of their medical work, then the article should be primarily about medical work, not about his grandkids or his garden.  There is no similar policy for sources:  we like , but an otherwise &quot;unimportant&quot; source could be a perfectly good source for a given fact.  WhatamIdoing (talk) 17:27, 5 April 2009 (UTC)
+
+A bit of advice for new editors:
+* When you leave a message on a talk page like this, type ~~~~ after it.  That will insert your name at the end of the message.  (If you don't, the bot will eventually do it for you, but it makes you look like you know what you're doing.)
+* If the three accounts listed on this page don't quite represent three individual people, then please pick your favorite account and stick with it.  Using multiple accounts to make your opinion look like it's supported by several editors (1) doesn't fool anyone [all experienced editors defaultly assume that all new accounts in the same discussion are the same person, even when it's not true, because it's so often true],  (2) doesn't matter, because we care about best complying with policies instead of , and (3) can get all the accounts blocked under .  There are sometimes good reasons to change accounts (forgot the password, decided you didn't like the old name, etc.), and that's fine:  nobody's mad, and we want you to keep editing. 
+* If any of you happen to be the person whose bio is under consideration, or connected to him, that's okay, too.  We have , but we're not going to kick you off of Wikipedia if you play straight with us.  Someone connected to a subject is often very helpful, as s/he often knows about published sources that no one else can find.  WhatamIdoing (talk) 17:38, 5 April 2009 (UTC)
+
+
+Great, it sounds like the notability issue is resolved as it seems the articles are notable, are in good sources.  In this case, it seems like wording and format are an issue now.  I will try and work on this.  If it helps to declare conflicts of interest or familiarity, I am in Dermatology so in the case of this article I did some editing to make sure only the more recognized citations are listed i.e those cited by others.  Thanks Skinobs (talk) 19:36, 5 April 2009 (UTC)
+I have apparently been unclear.  The fact that Dr Rashid's own publications would typically be considered  does not mean that either he or his individual publications should have an article on Wikipedia (&quot;notable&quot;). 
+&quot;We should have an article about Dr Rashid&quot; is a completely separate consideration from &quot;This source should be in the footnotes.&quot;  WhatamIdoing (talk) 19:59, 5 April 2009 (UTC)
+
+ and . Seems all Texan dermatologists are famous now. JFW | T@lk 20:41, 5 April 2009 (UTC)
+
+A rather odd comment, wolf. 
+I will say if notable=famous then this article does NOT count.  It seems like the only objective and well explained person here is  WhatamIdoing and it is much appreciated.  The publications are notable,  not so sure the doctor is, so WhatamIdoing makes a good point and appears to be one of the few that read the whole article and the comments about it.  I think someone more like WhatamIdoing or another Dermatologist should chime in for discussion.  It would help.   I can find nothing else on this person and will no longer add anything else, if it is to be deleted, so be it.  —Preceding  comment added by Skinobs (talk • ) 22:17, 5 April 2009 (UTC) 
+
+I am prone to odd comments. Bear with me. The same user created a raft of articles about Texan dermatologists, some of whom simply not notable by encyclopedic criteria. It is not up to dermatologists to decide whether these people are notable. This is about notability, as WhatamIdoing has explained so succinctly. Indeed, the more reliable sources one has published the higher the chance that someone is notable, but this is not automatic. JFW | T@lk 22:44, 5 April 2009 (UTC)
+
+Yes, and this is the challenge.  I was able to verify the publication of the manuscripts, all 30 something are in peer reviewed journals that are notable and verifiable.  I deleted ALL but the ones cited by others, and seem to play a larger central role in orphan disease understanding, characterization, and management as emphasized by unrelated authors from other countries and institutions.  So it seems that the material IS notable, BUT like you said, it is not clear the author is notable.  I have given up searching further, but am following the debate for curiosity.  It does make me wonder about silly thins like  movie stars.  They are notable because of the movie, without the move, their is no star.  So is it really the fact that people &quot;talk&quot; about the movie that really matters.  This is odd because in such a case it sounds more like a popularity contest then one of contribution to society, literature and such.  —Preceding  comment added by Skinobs (talk • ) 01:55, 6 April 2009 (UTC) 
+
+It is pointless to have an article on every doctor who has published 30 or more medical papers if not very many people know them because no one is really going to look them up. Also there are policies regarding living person's. Articles on living person's need to be monitor to avoid slander or defamation occuring. Articles on people who aren't widely known are unlikely to be monitored for vandalism or defamation etc. There are lots of reasons why it is a bad idea to have an article on someone who is not widely known outside of his research papers and place of work, too many reasons to list. Anyway this policy has been shaped over years of debate on wikipedia and is not likely to change much in the near future regarding what constitutes notability. Please remember to click on the  in the editor panel before saving the page on talk pages like this so we know who is leaving messages.--Literaturegeek | T@1k? 02:02, 6 April 2009 (UTC)
+
+
+This is a good point and I agree.  I leave it to the wiki process to determine what happens.  I havent given too much time to this so it isnt too bad either way.  I guess I was just trying to emphasize articles that lead to insight and other novel concepts.  But again, this is a good democratic process and I defer to the system.  --Skinobs (talk) 02:05, 6 April 2009 (UTC)
+
+Just as a point of fact:  I'm not a dermatologist (or any sort of physician), and I technically haven't even read more than two sentences in the article about Dr Rashid.  But I'm glad that my explanations made some sense to you.  
+Wikipedia's policies and processes are complex, and can seem maddeningly arbitrary until you've had enough experience to grasp the overarching goals.  We really need more dermatologists, so I hope that you'll stick around despite the frustrations.   would love to have another knowledgeable person on board.  WhatamIdoing (talk) 03:39, 6 April 2009 (UTC)
+ would LOVE another knowledgeable person on board ;) kilbad (talk) 11:55, 8 April 2009 (UTC)
+
+While I have everyones' attention about this issue, (1) there are multiple dermatologist articles that I think lack notability, and so I wanted to know if perhaps someone would review  and weed through which are notable and which are not, and (2) I think a general category &quot;dermatologists&quot; is needed, but not necessarily subcats based on nationality... what do you think?  Any thoughts? kilbad (talk) 21:30, 8 April 2009 (UTC)
+
+Central obesity
+
+Goesgolf20 has moved Central obesity to Abdominal Fat.  Yes with a capital F.  Changed things back and he reverted it again.  Think we will need some discussion on this.--Doc James (talk ·  · ) 03:22, 6 April 2009 (UTC)
+
+Discussion is taking place at  --Doc James (talk ·  · ) 04:27, 6 April 2009 (UTC)
+
+We have agreed to move it to Abdominal obesity.  If an admin could do this it would be much appreciated.--Doc James (talk ·  · ) 18:57, 6 April 2009 (UTC)
+
+Move has happened. Zodon (talk) 04:27, 8 April 2009 (UTC)
+
+A user is still intent on keeping Abdominal fat.--Doc James (talk ·  · ) 04:45, 9 April 2009 (UTC)
+
+Thoughts on Medical analysis of circumcision page
+
+I am looking at Medical analysis of circumcision and I have some concerns.  Maybe it is just me but it seems kind of confusing for the general reader.  Most topics read like a medical journal article - citing primary sources and whatnot.  I am not sure what Wikipedia's policy is on this, in regards style and eligibility for the general reader though , so could someone with more experience comment on the article?
+The guideline (not policy) that you are looking for is . LeadSongDog come howl 13:57, 7 April 2009 (UTC)
+
+Looking for opinions about category names
+
+With regard to infectious, dermatology-related categories, there is the following:
+* 
+* Bacterial skin diseases 
+* Mycobacterial skin diseases
+* Mycotic skin diseases
+* Parasitic infestations, stings, and bites of the skin 
+* Viral skin diseases
+
+However, while I like the general structure of this categorization, there is some lack of precision in the names.  First, &quot;Mycotic skin diseases&quot; contains articles about fungi and yeast.  Second, all of these categories may contain conditions not only of the skin, but also the mucous membranes.  Finally, there are times when certainly bacteria colonize the skin without causing disease, so I think &quot;condition&quot; should be used over &quot;disease.&quot;  With all that being said, how would you name all these categories? kilbad (talk) 19:38, 7 April 2009 (UTC)
+I don't have a problem with &quot;mycotic&quot;, but I'd recommending pushing &quot;mycobacterial&quot; under &quot;bacterial&quot;. --Arcadian (talk) 01:29, 8 April 2009 (UTC)
+Ok, I edited the structure above. kilbad (talk) 11:57, 8 April 2009 (UTC)
+Not sure what the question is about &quot;Mycotic skin diseases&quot; - would assume should be relating to all fungi, so makes sense that yeast would be there.  (Or is it that want to subdivide mycotic skin diseases into separate subsecategories for yeast vs. other fungi?)  Zodon (talk) 04:24, 8 April 2009 (UTC)
+Does the term &quot;Mycotic&quot; encompass yeast? kilbad (talk) 11:57, 8 April 2009 (UTC)
+[http://pathmicro.med.sc.edu/mycology/mycology-1.htm Yes]. --Arcadian (talk) 12:09, 8 April 2009 (UTC)
+How should these category names be worded such that the inclusion of conditions affecting the skin and mucous membranes is appropriate?  Any thoughts? kilbad (talk) 18:59, 8 April 2009 (UTC)
+
+Comments welcome at 
+
+Hello all. I've allowed myself to be sucked into a rather lengthy exchange with an AIDS denialist at . Leaving aside the sound and fury, the issue is whether AZT's affinities for various enzymes should be described using the words in vitro. My feeling is that all affinity measurements are performed in vitro, so adding the phrase is redundant and perhaps misleading (in that it implies the affinities do not hold in vivo). Things have sort of degenerated, so I'd welcome any comment, even if it's just to say that I'm making a mountain out of a harmless molehill. MastCell Talk 21:21, 7 April 2009 (UTC)
+
+I don't know anything about this stuff and therefore am an eminently qualified &quot;casual&quot; reader.  Could a compromise be to include in vitro followed by &quot;as are all (enzyme) affinity measurements&quot; -- or something like that?  Some resolution seems required, as there are already many pages of repetitive argument and though personal attacks so far are minimal, they may escalate.  - Hordaland (talk) 15:44, 8 April 2009 (UTC)
+
+This discussion belongs at .  The pages of discussion have involved just a couple of editors, and a discussion involving more editors may actually help bring about resolution if consensus can be established.  --Scray (talk) 19:59, 8 April 2009 (UTC)
+
+Obesity
+
+Wondering if I can entice anyone to join me at the obesity page to do some editing.  Currently it is a FAC however still needs some work on prose which is not my strong point.  Obesity was the 837th most viewed page on Wikipedia this last month. http://wikistics.falsikon.de/latest/wikipedia/en/ --Doc James (talk ·  · ) 12:41, 8 April 2009 (UTC)
+
+Thrush
+
+Is the term &quot;thrush&quot; a term used strictly for oral candidiasis, or is it a more general term for candidiasis of any mucous membrane (vaginal, etc)?  I have a secondary source, Andrew's (see  for full ref) that seems to indicate that &quot;thrush&quot; is a term used strictly for oral candidiasis.  I ask because I want to know where Thrush (medicine) should redirect? kilbad (talk) 21:14, 8 April 2009 (UTC)
+It is a vaginal yeast infection, or balantis in male.  Thrush is only for the mouth in my opinion.--Doc James (talk ·  · ) 22:23, 8 April 2009 (UTC)
+Other types of thrush:  yeast infection of the breast (common in nursing mothers);  (yeast?) infection of the sole of the hoof in horses.  I think Thrush (medicine) should be a disambiguation page. --Una Smith (talk) 23:18, 8 April 2009 (UTC)
+Aside from my source, do we have any other reliable secondary sources stating thrush is something other than oral candidiasis? kilbad (talk) 00:00, 9 April 2009 (UTC)
+In UK (at least) Thrush when talking to an adult woman would always imply vaginal candidiasis, and when referring to a baby either oral infection or nappy rash. For a selection of sources re candidial vulvovaginitis see [http://www.patient.co.uk/showdoc/27000589/ Patient.co.uk article ] which is cited by [http://www.library.nhs.uk/skin/viewResource.aspx?resID=85003 National Library for Health], BBC information page on  [http://www.bbc.co.uk/relationships/sex_and_sexual_health/stis_thrush.shtml thrush STI], a women's support group leaflet[http://www.womenshealthlondon.org.uk/leaflets/thrush/thrushrisks.html], branded clotrimazole manufacturer's UK webpage [http://www.canesten.co.uk/thrush/thrush.htm]. Synonymous terms confirmed per Cochrane review [http://www.ncbi.nlm.nih.gov/pubmed/17943774 Oral versus intra-vaginal imidazole and triazole anti-fungal treatment of uncomplicated vulvovaginal candidiasis (thrush)]. For &quot;nappy thrush&quot; again from a Patient.co.uk article [http://www.patient.co.uk/showdoc/23068793/], Trip Database (data-mining site used by NHS) provided link on &quot;nappy thrush&quot; to Australian State of Victoria infosheet which lists one factor as &quot;Thrush (candida)&quot;[http://www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Nappy_rash?open]. David Ruben  Talk  00:31, 9 April 2009 (UTC)
+Well then I agree with Una Smith that Thrush (medicine) should be a disambiguation page.  Does someone want to tackle this? kilbad (talk) 00:37, 9 April 2009 (UTC)
+Causes for conditions
+
+I have noticed that in almost every page, causes for medical conditions are listed without any concern for statistical likelyhood.
+
+Example: &quot;heart failure&quot; and &quot;Nasopharyngeal carcinoma&quot; are listed as causes for epistaxis(nose bleed) on the same level as &quot;foreign bodies&quot; (e.g. nose-picking). I do not agree with this policy. The first two above-mentioned conditions are extremely rare and ARE highly unlikely causes for epistaxis (which is a very common occurrence), when compared to nose-picking or even inflammatory reactions.
+All this will achieve is to concern people with a nose bleed that they may have cancer or heart failure, which is ridiculous.
+
+Other example: &quot;Vertigo&quot; can be caused (on the same basis, according to wikipedia) by &quot;boat travels&quot;, &quot;consumption of alchool&quot;, &quot;inflammation of the inner-ear&quot; (a rather common cause) or &quot;opsoclonus myoclonus syndrome&quot;(extremely rare!) 
+
+The list goes on and on.
+
+
+This is very poor, and may bring great damage and anxiety to many people who see Wikipedia as a reliable and accurate source for information.  —Preceding  comment added by Umgambit (talk • ) 01:51, 9 April 2009 (UTC) 
+
+It is true that most medical articles lack this very important information, but the cause is not lack of concern but rather lack of reliable sources for this information.  You can help by doing literature searches, so that what information does exist gets into the articles.  --Una Smith (talk) 02:06, 9 April 2009 (UTC)
+
+Thank you for your answer Una Smith. But most of the information you mention already exists within Wikipedia. For instance, if you check opsoclonus myoclonus syndrome, you will learn that it affect 1 in every 10.000.000 individuals each year. To put this side-by-side with &quot;inflammation of the inner-ear&quot; as possible cause for vertigo is just plain silly by any standard (even if you don't have the exact reliable numbers). This kind of practices should be banned from wikipedia pages: as I mentionned before, this is not an isolated case, a great number of wiki medical related articles suffer from the same kind of incongruence.
+
+My main concern are the persons without medical training that read this kind of information.  —Preceding  comment added by Umgambit (talk • ) 03:45, 9 April 2009 (UTC) 
+
+That approaches the necessary information, except that not all people with opsoclonus myoclonus syndrome will have vertigo as a result.  If you like, you can try sorting lists of causes into common and rare.  As a rule, such lists are in alphabetic order;  in some cases it may help to note that the order is alphabetic.  --Una Smith (talk) 04:22, 9 April 2009 (UTC)
+An approach that I've taken in a few articles is to have a paragraph about the most common causes, and then a bulleted list of less-common causes (labeled as such).  Of course, you then get the occasional problem with poor readers that start inserting the &quot;most common&quot; causes into the &quot;less-common&quot; list (apparently some people can't read anything that isn't in PowerPoint format) -- and duplicates, because surely &quot;fatigue&quot;, &quot;lack of energy&quot;, &quot;lethargy&quot;, and &quot;tiredness&quot; are all different things!  WhatamIdoing (talk) 04:55, 9 April 2009 (UTC)
+I often try to list the causes in order of frequency.  Stating the frequency would be a good idea as well.--Doc James (talk ·  · ) 06:01, 10 April 2009 (UTC)
+
+Undeletion of Dale Dubin
+
+Greetings, project participants. I created this stub on Dale Dubin, MD which I believe was wrongly deleted. As medicine enthusiasts, I believe you are best suited to judge its merits. Please take a moment to review it and comment here. Thanks - Draeco (talk) 15:21, 9 April 2009 (UTC)
+
+Abdominal fat
+
+Abdominal fat has been proposed for deletion however an editor keeps repeatedly removing the deletion tag.  Might need the eye of an admin.  Thanks--Doc James (talk ·  · ) 05:58, 10 April 2009 (UTC)
+Hyposensitization
+
+Should the hyposensitization be moved/renamed to allergy immunotherapy or allergen specific immunotherapy? The term hyposensitisation is not a common terminology used hence why I think that it should be renamed. I am posting here because there don't seem to be many active editors on that article.
+
+Also the benzodiazepine article is up for review for good article status if anyone has the time to review it.--Literaturegeek | T@1k? 19:43, 5 April 2009 (UTC)
+
+I'll move to allergen immunotherapy; Immunologic Desensitization and Hyposensitization therapy are both MeSH terms, but rarely used in core clinical journals during the last five years. I favor allergen-specific immunotherapy but this term appears to be used less frequently based on a PubMed test. --Steven Fruitsmaak (Reply) 10:43, 8 April 2009 (UTC)
+
+Thanks for the move Steve. I prefer allergen specific to but I agree that allergen immunotherapy is better due to its more common use.--Literaturegeek | T@1k? 21:42, 10 April 2009 (UTC)
+
+Ornithosis agent
+
+I'm not an MD or vet, but the text in ornithosis agent is confusing. It probably could be speedy deleted under , but Wikipedia should probably have an article about the topic eventually. [http://www.cbwinfo.com/Biological/Pathogens/CP.html This] site says Psittacosis is &quot;A rickettsial agent active against humans and livestock (poultry).&quot; That's somewhat similar to the text in ornithosis agent. If a human got pneumonia from an infected bird, I guess you could point to an ornithosis agent as the culprit, but I'm certain that an ornithosis agent is not pneumonia; an ornithosis agent would be the biological agent/pathogen/pathogenic bacteria from the bird that could cause pneumonia. Perhaps Rickettsia is a type of ornithosis agent. The Rickettsia article does say that the bacteria is often grown in chicken embryo cultures. It's possible that an Ornithosis article should be built (I think Psittacosis is a type of ornithosis?), and ornithosis agent redirected there. --Pixelface (talk) 03:23, 11 April 2009 (UTC)
+
+It looks as though this has been resolved in a rational way: ornithosis agent now redirects to Chlamydophila psittaci, and ornithosis redirects to Psittacosis, because psittacosis is the classical ornithosis.  --Scray (talk) 15:21, 11 April 2009 (UTC)
+
+Poll: autoformatting and date linking
+
+This is to let people know that there is only a day or so left on a poll. The poll is an attempt to end years of argument about autoformatting which has also led to a dispute about date linking. Your votes are welcome at: . Regards Lightmouse (talk) 09:36, 11 April 2009 (UTC)
+Abby
+
+Is it really necessary to have four articles for the four quadrants of abdominal. 
+It just seems unnecessary, but i dont think they should be in the main ab article. What you guys think about merging the four into one? Trying to keep most the stuff... the four articles are stubs anyway... so not much anyways....IAmTheCoinMan (talk) 14:41, 10 April 2009 (UTC)
+
+I agree that a single article would make more sense than the four - they share many features, and the contrasts are also informative.  People interested in one are likely to be involved in the others.  They are unlikely to grow individually to a Good Article.  --Scray (talk) 15:25, 11 April 2009 (UTC)
+I'll cheerfully defer to whatever  says about such articles, but IMO there are a lot of anatomy stubs that would benefit from merging.  This is a good example:  the information contained in these articles lends itself well to comparisons between the various quadrants.  Merging (with suitable redirects) is a good choice.  WhatamIdoing (talk) 05:57, 12 April 2009 (UTC)
+
+Coinman, what seems &quot;unnecessary&quot; to you is of great interest to other readers. Please click [http://books.google.com/books?q=abdominal+quadrant&amp;btnG=Search+Books here], and at least read through a few of the excerpts before continuing. Across a population, the quadrant orientation to abdominal anatomy is of even greater clinical significance than the internal organization. Each one of these quadrant articles could be expanded not just to feature article length, but to book length. Within a few years, they'll each have a few thousand words in them, at least. Merging them now just means they'll have to be split out later, and that's not a good use of anyone's time. If you want these articles deleted or merged away, you need to take it to .  --Arcadian (talk) 13:33, 12 April 2009 (UTC)
+Two points that I think are worth considering: (i) when talking about &quot;other readers&quot;, my impression is that we are supposed to focus on the general readership of Wikipedia rather than the medical/nursing specialists who are the target audience of the linked books, and (ii) it is not at all clear that these quadrant articles will eventually grow to FA status, so that should not drive current decisions.  --Scray (talk) 21:14, 12 April 2009 (UTC)
+Please take a closer look at the entries at . --Arcadian (talk) 21:48, 12 April 2009 (UTC)
+It's a great list - I just looked at it, again and nose almost touched the screen. ;-)  I feel just the same way - I don't anticipate any of four separate abdominal quadrant articles being listed there, and I still feel that they're best dealt with as a mutual comparison.  --Scray (talk) 22:02, 12 April 2009 (UTC)
+
+Dermatologist list
+
+I want to make a list of dermatologists who have made significant contributions to the field.  What should the list be called, and what should the inclusion criteria be? kilbad (talk) 16:57, 13 April 2009 (UTC)
+A good starting point may be to create a history of dermatology article. In the process of developing that article, it would become clear which dermatologists affect the narrative flow. For contemporary practitioners,  is probably the closest existing applicable guideline. (Personally, I think the bar should be set fairly low, especially for the deceased.) --Arcadian (talk) 17:31, 13 April 2009 (UTC)
+
+Adamkiewicz artery
+
+Hi all,
+
+an anon noted on my talk page that the  of what I thought was Adamkiewicz's artery, is actually something completely different... upon review I think that might be true, unless anyone else here feels that it is right after all?
+
+cheers, --Steven Fruitsmaak (Reply) 20:25, 13 April 2009 (UTC)
+
+I think the artery in the image is too large.  See http://images.google.ca/imgres?imgurl=http://ejcts.ctsnetjournals.org/content/vol26/issue2/images/small/4003537.440.gr1.gif&amp;imgrefurl=http://ejcts.ctsnetjournals.org/cgi/figsearch%3Ffulltext%3Dadamkiewicz%26resourcetype%3D3&amp;usg=__J5Su872klLddHEcpahK03zAq3B0=&amp;h=195&amp;w=200&amp;sz=39&amp;hl=en&amp;start=18&amp;sig2=BqfCQt1NYxM48dAhHFO7NQ&amp;um=1&amp;tbnid=3oyysLWjVwGPnM:&amp;tbnh=101&amp;tbnw=104&amp;prev=/images%3Fq%3DArtery%2Bof%2BAdamkiewicz%26hl%3Den%26safe%3Doff%26client%3Dfirefox-a%26rls%3Dorg.mozilla:en-US:official%26sa%3DN%26um%3D1&amp;ei=h6zjSbz_IpOotAOZkuCFDg for an image.  Artery of Adamkiewicz;largest of the segmental arteries w/ a characteristic hairpin bend is referred to as the arteria radicularis magna (ARM) and is also known as artery of Adamkiewicz;although in early embryonic development every segment of spinal cord receives paired radicular arteries, these disappear, leaving one or two cervical, two or three throacic, and one or two lumbar arteries; most commonly arises at T10 on left side, however, position may vary T7 to L4, with it being on right side in 17% of pts; usually the artery enters a single intervetebral foramen between the levels of T9-T11 --Doc James (talk ·  · ) 21:21, 13 April 2009 (UTC)
+
+Maduromycosis and Mycetoma
+
+Should these articles be merged?  I have a secondary source stating that they are the same thing. If so, I will defer the move to someone else. kilbad (talk) 22:13, 13 April 2009 (UTC)
+
+Dubious section on green tea and HIV
+
+
+
+Please take a look [http://en.wikipedia.org/wiki/Tea_and_health#EGCG-specific_mechanism here.] This is potentially deadly advice. -- BullRangifer (talk) 05:14, 14 April 2009 (UTC)
+
+ I see it's been fixed by . Well done. -- BullRangifer (talk) 05:27, 14 April 2009 (UTC)
+Images
+
+This site has a lot of radiological images under a creative commons license.  http://radiopaedia.org/  --Doc James (talk ·  · ) 21:25, 13 April 2009 (UTC)
+But sadly, the [http://creativecommons.org/licenses/by-nc-sa/3.0/ non-commercial] restriction prevents us using them. Now, if the uploaders can be persuaded to re-upload to WP commons... Colin°Talk 21:48, 13 April 2009 (UTC)
+Have emailed the radiopaedia.  Frank Gaillard the physician who runs it has already uploaded some images to http://commons.wikimedia.org/wiki/Category:Frank_Gaillard  He has offered to upload other on a case by case basis if there are images we wish to use.  --Doc James (talk ·  · ) 19:57, 14 April 2009 (UTC)
+
+Which should be the article, and which the redirect?
+
+Should Tinea pedis be the article, or Athlete's foot?  The ICD codes bold Tinea pedis. kilbad (talk) 22:45, 13 April 2009 (UTC)
+ would suggest the correct technical term - hence Tinea pedis (likewise we have Myocardial infarction not 'heart attack') - proposal to rename at . David Ruben  Talk  00:00, 14 April 2009 (UTC)
+
+MEDMOS does not overrule the  policy; if Tinea pedis is exactly the same thing as 'Athlete's foot', then editors may choose the common name.  
+MI is a good example of the issue that MEDMOS is attempting to address:  &quot;heart attack&quot; is imprecise and much broader than myocardial infarction.  It is therefore preferable on rational grounds (i.e., precision).  WhatamIdoing (talk) 00:56, 14 April 2009 (UTC)
+
+Agree with WhatamIdoing here (as usual). Commonname trumps MEDMOS unless commonname imprecise. JFW | T@lk 00:58, 14 April 2009 (UTC)
+
+A counter-argument: &quot;Athlete's foot&quot; may be specific, at least in some cultures, but it's inherently a confusing term.  Wouldn't athletes be likely to suffer both acute and chronic injury to their feet?  Might &quot;athlete's foot&quot; be a good thing if it reflected a level of conditioning?  Tinea pedis is very clear - fungus of the foot - whereas &quot;athlete's foot&quot; probably happens most often in non-athletes, and the name provides no hint of the process or manifestations.  Just want to be sure we consider all aspects... --Scray (talk) 02:45, 14 April 2009 (UTC)
+Unless you did Latin a school, tinea pedis is not &quot;very clear&quot;; it is quite opaque.  I think most lay folk know what athlete's foot is, and know it isn't an injury. Other reasons to avoid a lay term is if it is country-specific or childish. Colin°Talk 08:51, 14 April 2009 (UTC)
+Agree with WhatamIdoing and JFW. Commonname trumps MEDMOS unless common name imprecise. Casliber (talk · ) 10:54, 14 April 2009 (UTC)
+Agree with most comments here. AFAIK, &quot;athlete's foot&quot; is just as precise a term (in practice) as tinea pedis, and FAR more common. On the other hand, I'd have no objection to the infobox being labelled &quot;tinea pedis&quot; and the medical term being mentioned early in the lead (which it wasn't when I looked). Physchim62 (talk) 11:18, 14 April 2009 (UTC)
+Let's take these comments to the talk page discussion please, that's where it really should be taking place :) —Cyclonenim | Chat  11:25, 14 April 2009 (UTC)
+
+Honestly, I don't have any strong feelings on this issue; so, whatever the community ultimately decides is fine with me.  However, even if people have not heard of &quot;Tinea pedis&quot;, a simple redirect from &quot;Athlete's foot&quot; will direct them to it the correct article.  Due to redirects, accessibility to this information will not be reduced if the article is titled &quot;Tinea pedis.&quot;  Additionally, the term &quot;Athlete's foot&quot; does not always mean &quot;Tinea pedis,&quot; but &quot;Tinea pedis&quot; may always be referred to as &quot;Athlete's foot;&quot; therefore, it seems the title that appropriately encompasses the scope and contents of the article is &quot;Tinea pedis.&quot; kilbad (talk) 15:05, 14 April 2009 (UTC)
+
+I don't actually care which title it ends up under (for exactly the reasons that Kilbad explains immediately above):  I just object to the idea that we are required to use &quot;medicalese&quot; when a perfectly good common name exists.  If &quot;athlete's foot&quot; could plausibly be the title of several separate dermatologic conditions (just like &quot;heart attack&quot; could be any one of several cardiac conditions), then it may not be the best choice for this article.  WhatamIdoing (talk) 18:44, 14 April 2009 (UTC)
+
+Unless there is also to be an article &quot;Jock itch&quot;, it might be more direct to consider &quot;Athlete's foot fungus&quot;. More of the article should pertain to the organism than the infected location. LeadSongDog come howl 19:07, 14 April 2009 (UTC)
+
+Prostate Cancer
+
+Have brought prostate cancer to FAR as it needs some improvements.--Doc James (talk ·  · ) 22:46, 14 April 2009 (UTC)
+Direct link:  --—Cyclonenim | Chat  22:54, 14 April 2009 (UTC)
+Wikidoc.org
+
+The gentleman Michael Gibson who operates wikidocs[http://www.wikidoc.org] is interested in combining wikidoc with wikipedia or at least working more closely with wikipedia.  I think that this would be a wonderful idea.  They are under the same license as wikipedia but have tighter security with respect to vandalism.  They are also written more for a medical audience.  Not sure if it would be best to attach it as a sister project or combine much of the information into wikipedia ( as that is were much of the information comes from in the first place ).  I have brought the disucssion to the  Anyone have any thoughts?--Doc James (talk ·  · ) 15:58, 7 April 2009 (UTC)
+
+ I have taken a look at some articles and 99% of info was from previous versions of wikipedia; and in the mean time such articles here have greatly improved while they have not in wikidocs... The only possible collaboration would be if they pointed out any content they had that here we did not and we could add it; since the other way is almost everything. Our quality is much above that of wikidocs. --Garrondo (talk) 08:35, 8 April 2009 (UTC)
+
+Wikidoc was introduced with much fanfare and without any consultation with this WikiProject. The vast majority of [http://www.wikidoc.org/index.php/Editorial_Board its editorial board] are cardiologists, leading to a likely imbalance in the quality and quantity of the content. It still strikes me as odd that none of these eminent people seem to have made an attempt to participate here, which would have been so very beneficial. JFW | T@lk 09:56, 8 April 2009 (UTC)
+I don't understand why people start other wiki projects.  I mean, if you don't like wikipedia, go to citizendium.  The co-founder of wikipedia started it.  Or better yet, participate on both! Tkjazzer (talk) 04:58, 9 April 2009 (UTC)
+Some do so because the scope and sometimes the reputation of wikipedia (&quot;flame wars galore, anyone can contribute anything, vandalism is rampant&quot;) is not what one looks for in order to create a serious medical reference. For example, we have a radiation oncology [http://en.wikibooks.org/wiki/Radiation_Oncology textbook] on the wikibooks.org site, but I can see a compelling argument if one wanted to have tighter control over content to host it independently as a wiki. While I have an account here to keep track of things, I just prefer to channel my contributions there, given that I have limited time free, and that location is actually used by radiation oncologists (our target audience). I think Wikipedi is great for what it is, but is clearly not appropriate for all things Tdvorak (talk) 03:58, 16 April 2009 (UTC)
+
+comparison chart for cardiovascular drugs
+
+I just saw some great slides in lecture today showing comparisons of different types of beta blockers and ACE Is.  It was interesting to see which are proven to help in Heart Failure and which are not... which are proven to help in diabetic nephropathy and which are not... can we use the guidelines and make a chart like this?  I think it would be EXTREMELY useful for the community. Does anyone else know what I'm talking about?  (talk) 05:19, 16 April 2009 (UTC)
+
+We'd need solid,  (lecture slides don't count).  Additionally, if by &quot;the community&quot;, you mean either &quot;patients that are taking these drugs&quot; or &quot;physicians that are prescribing these drugs&quot;, you may want to read .  WhatamIdoing (talk) 15:44, 16 April 2009 (UTC)
+There are far too many cardiovascular drugs for any single chart. (If you browse through ATC code B and ATC code C, you can get a sense of the scope). However, you can see here a list of the drugs deemed essential by the World Health Organization. It excludes some newer, more expensive drugs, but is a useful first order approximation of your goal. If you're proposing a specific expansion of the diabetic nephropathy article, the best place to propose that would be at . (Of course, that article is in pretty rough shape, so if you have decent sources, you might just want to .) --Arcadian (talk) 16:43, 16 April 2009 (UTC)
+
+Those links show that there aren't that many drugs. Seems feasible to put up a chart/table sort of thing, but it would be a bit tricky and take some work. II | (t - ) 03:34, 19 April 2009 (UTC)
+
+This stuff deserves it's own page:
+http://content.onlinejacc.org/cgi/content/full/53/15/e1/TBL3
+
+taken from http://content.onlinejacc.org/cgi/content/full/j.jacc.2008.11.013#SEC8 
+do not doubt so much  (talk) 23:51, 16 April 2009 (UTC)
+please remember the new classification system for HF - stage A is anyone at risk, which includes diabetes and family history... so that puts a lot of people in to stage A of HF now... http://content.onlinejacc.org/content/vol53/issue15/images/large/08038023.gr1.jpeg  (talk) 23:56, 16 April 2009 (UTC)
+
+From a healthcare provider's standpoint, that's a nice chart, but .  For the primary Wikipedia , the major concepts would be much more readable and accessible if summarized in a few sentences, with citation of this and similar .  --Scray (talk) 01:40, 17 April 2009 (UTC)
+Dermatology-related manual of style
+
+I have been thinking about developing (through consensus) a small dermatology-related manual of style to address a few issues pertaining to dermatology articles.  If available, perhaps you could ? ---kilbad (talk) 21:14, 15 April 2009 (UTC)
+Why don't you just start a short &quot;advice&quot; section on the task force's page?  There's nothing to stop you from doing so, and you wouldn't have to jump through any approval hoops.  WhatamIdoing (talk) 22:43, 15 April 2009 (UTC)
+...but going through those hoops will help create better guidelines as more people will be involved in their creation and review? ---kilbad (talk) 22:52, 15 April 2009 (UTC)
+In this instance, I sincerely doubt that.  WhatamIdoing (talk) 00:04, 16 April 2009 (UTC)
+Got to agree with WhatamIdoing here, I don't think this will help much more than just placing a guideline on the task force page. MOS is just a guideline, it's not a policy. Also, I don't think you'll get many more people involved at MOS than you do here. Regards, --—Cyclonenim | Chat  00:12, 16 April 2009 (UTC)
+Perhaps I could put something together and then see what you all think? ---kilbad (talk) 15:17, 16 April 2009 (UTC)
+If you want, but the chances are it won't be put into MEDMOS because then we're going to have to think about separating out into all branches of medicine (start an individualised MEDMOS for different specialties like neurology, paediatrics etc) when really there's just not much need. Writing something and putting on the derm task force page sounds like a better idea. Regards, --—Cyclonenim | Chat  23:07, 16 April 2009 (UTC)
+
+I have added a  page, and and will continue to develop it over the next few months.  However, I wanted to post it here now so others might follow along and add to the project as desired.  Any feedback is greatly appreciated. ---kilbad (talk) 16:54, 19 April 2009 (UTC)
+
+Fibromyalgia
+
+The Fibro page seems out of date and substandard: there are now two FDA approved drugs to treat Fibromyalgia, yet the article highlights controversy.  Even web MD had more information on the condition.  I was recently diagnosed and looking for information so naturally I think it's a &quot;real disease.&quot; maryann (talk) 01:10, 17 April 2009 (UTC)
+
+The article appears balanced to me, although I don't watch it as close as I used to.  The FDA approved drugs you speak of are mentioned.  I spent a lot of time in Fibromyalgia support groups and I can tell you, everyone is aware of the controversy.  I, like you, suffer from an illness with symptoms like Fibromyalgia (adhesions) and also has a lot of uncertainty associated with it even though it is a &quot;real&quot; disease suffered by presidents (Bill Clinton) and celebrities (Tammy Wynette).  Another example would be postcholecystectomy syndrome, also a &quot;real&quot; disease that is difficult to diagnose.   So I speak from experience when I say that not every illness has a definitive test available.  We all wish it weren't so, but even &quot;real&quot; diseases require a certain amount of clinical judgment.  This results in tension.  The mark of a good doctor, (and an informed layman) is a person who is comfortable wading through the controversy and accepting it for what it is:  real people doing their best with little information to go on.  However, you, like me, have probably met a lot of bad doctors who have given you the cold shoulder because of the unavailability of a simple and reliable test; something that they can easily put in a file to cover their liability exposure.   That's a shame, but it's not a good reason to manufacture certainty where little exists. Danglingdiagnosis (talk) 20:27, 18 April 2009 (UTC)
+
+Heck, even major depression is sometimes written off as &quot;not a real disease&quot; even though complications of it are potentially fatal and it almost defines poor quality of life.  Calling it psychological is a way for physicians to dodge responsibility for treating a problem, though you can't really blame them when they have so few tools to work with.  The article should accurately portray the question of &quot;psychosomatic or not&quot; but it should be very clear that even if it is psychosomatic it is still a disease and a problem.  SDY (talk) 21:20, 18 April 2009 (UTC)
+
+Even once one accepts these as real conditions with negative outcomes it does not necessarily mean that there are good treatments: SSRI's have not been shown to decrease suicide, stimulant have not been shown to improve school outcomes, no treatment has been shown to improve the common cold, etc.  There is not a pill for every ill even though some try to make the general public believe that there is.  And unfortunately many things that might work such as exercise have not been adequately studied as there is not much money in them and they are difficult to carry out.
+And than of course you have people who emulate the symptoms of fibromyagia, ADHD, chronic pain, and depression for secondary gain which gives everyone a bad name.--Doc James (talk ·  · ) 22:07, 18 April 2009 (UTC)
+
+I think the point that could be made, here, is that if the FDA has approved a medication for use, that lends credibility to the illness, itself.  Another point is that the same inertia that prevents many people from seeking necessary psychiatric help also prevents many, especially those in the medical profession, from considering a physiological cause where elusive.  The sword cuts both ways.   Danglingdiagnosis (talk) 00:19, 19 April 2009 (UTC)
+
+(undent) Regardless, the article should be clear that while the nature of the disorder is unclear, it is obvious that it does exist.  The FDA approving medications doesn't necessarily take a side in the disorder being psychological or physiological, the same way MCS sufferers being classified as disabled doesn't necessarily mean that MCS is an organic disease: in both cases it is recognized as a problem, and no conclusion is necessarily drawn about cause.  SDY (talk) 02:49, 19 April 2009 (UTC)
+
+I don't think that the article claims that FM isn't a real disease.  The article correctly acknowledges that there are concerns about accurate diagnosis (in that regard, it's like many other diagnoses of exclusion), that the mechanisms/causes are basically unknown, and that it may not be a unitary condition (that is, there may be several separate diseases with very similar symptoms that are all being lumped together at this time).  These statements are accurate, appropriate, and not unlike many other &quot;real&quot; diseases. 
+If you want to see, for comparison, some &quot;fake&quot; diseases, you might read Electromagnetic hypersensitivity or Multiple chemical sensitivity -- people with real symptoms, but not due to the cause they assert.  WhatamIdoing (talk) 17:13, 20 April 2009 (UTC)
+
+I am of the opinion that fibromyalgia in most cases is caused by a functional disturbance in the peripheral nerves which generates pain or else a functional disturbance in the pain centers in the brain. As you can't take a blood test or a byopsy to prove or even just to diagnose fibromyalgia it will always be controversial as to the cause. I also am of the opinion that there are likely multiple causes of fibromyalgia, be it genetic/biological (happening naturally without a trigger), exposure to industrial chemicals/toxins or certain prescription drugs or alcohol misuse which triggers some sort of a desruption of function or sensitivity of the nerves. I imagine that there are also people who have undiagnosed peripheral neuropathy who get misdiagnosed with fibromyalgia due to lack of investigation of the cause of the pain. However, this is just a personal opinion and it could be completely wrong. The main thing is, an encylopedia such as wikipedia works on reliable sources so the best way to resolve a dispute is via citing reliable sources rather than debating personal viewpoints.--Literaturegeek | T@1k? 17:18, 20 April 2009 (UTC)
+
+Old merge discussion what shall we do with Acne scar treatment, Acne scarring and Acne vulgaris?
+
+Join in the fun at  Casliber (talk · ) 03:34, 20 April 2009 (UTC)
+
+Ok I merged identically worded  Acne scar treatment into Acne scarring, but yes I think trimmed (aka hacked to meet ) paragraphs need then merging into Acne#Treatment. New proposal set up at . David Ruben  Talk  01:24, 21 April 2009 (UTC)
+Articles about medical terms and signs
+
+First, when it comes to articles pertaining to medical terminology or signs, like those found in  or , which should be included in Wikipedia, and which in Wiktionary?  Second, of the articles regarding medical terminology or signs that should be in Wikipedia, what should the article consist of?  What should the sections be? --kilbad (talk) 15:42, 21 April 2009 (UTC)
+
+Acupuncture and Interstitial Cystitis/Painful Bladder Syndrome
+
+Please help. We need comments on a RfC at the  talk page regarding the use of acupuncture and interstitial cystitis. Debate is acrimonious. ► RATEL ◄ 23:46, 21 April 2009 (UTC)
+Silent heart attack
+
+Silent heart attack, which phrase has been in the media a lot recently, is a redlink; should it be a redirect or should there by a specific article on asymptomatic MIs?  WhatamIdoing (talk) 17:00, 20 April 2009 (UTC)
+link it to heart attack in diabetics if the article exists - that is the main group that could is thought to suffer from silent MI.  I think the media sometimes confuses silent MI with sudden death (ventric arryth) anyway, night.  —Preceding  comment added by  (talk) 06:02, 21 April 2009 (UTC) 
+I think this could be split out of the general MI-article, which already mentions it. --Steven Fruitsmaak (Reply) 14:45, 22 April 2009 (UTC)
+
+BIODYL
+
+There is a breaking story in the international media re the suspicious deaths of 24 world-class sport horses:  21 polo ponies in Florida and 3 endurance race horses in Uruguay.  Contamination of a French-made injectable vitamin, BIODYL, is suspected.  I created BIODYL as a stub, but as much of the relevant information about this is not in English, I would appreciate some help expanding it.  --Una Smith (talk) 18:10, 22 April 2009 (UTC)
+
+Perhaps better at ? JFW | T@lk 18:34, 22 April 2009 (UTC)
+Osteitis fibrosa cystica
+
+While I'm waiting on the conclusion of a GA review, I was wondering if anyone could drop by and scan the article for any major flaws or gaps in information.  I'm looking to eventually take it FA, and an informal review would be immensely appreciated.   Strombollii (talk) 03:56, 23 April 2009 (UTC)
+Doege-Potter syndrome
+
+Much as it pains me to admit it, and much as the words must be associated with chagrin from WP:MED, inspired by a House episode (pause for cringing), I've created the page for Doege-Potter syndrome.  I tracked down 6 useful abstracts from pubmed but they are mostly case studies and I'm culling from just the abstracts.  It needs better categories, some sort of navbox at the bottom, probably a better picture in the infobox, considerably more information, and almost certainly the infobox could use some filling out.  I couldn't find anything on ICD, eMedicine or the other standard info sources (very possible I'm looking in the wrong spot or with the wrong words).  As ever, the wit, wisdom and work of WP:MED woudl be most appreciated.  WLU (t)  Wikipedia's rules:/ 14:05, 23 April 2009 (UTC)
+[http://books.google.com/books?client=safari&amp;q=Doege-Potter+syndrome&amp;oe=UTF-8&amp;um=1&amp;as_brr=3 Google books] appears to have some good sources.  WhatamIdoing (talk) 14:33, 23 April 2009 (UTC)
+So used to pubmed I didn't think of gbooks.  Lovely, I'll start integrating.  Thanks WAID!  WLU (t)  Wikipedia's rules:/ 16:48, 23 April 2009 (UTC)
+I'm glad that it's useful to you.  Google books seems to be a great source for what medical textbooks say about rare diseases.  I think what happens is that the copyright holder blanks the &quot;important&quot; general information pages, but leaves the &quot;unimportant&quot; rare-disease info visible as a sample.  Or perhaps it's just that we really only need a couple of sources, and there's so little to say about very rare diseases that random blanking of 50% of pages still gives us a 50% chance that all the information will be visible in any given book.  WhatamIdoing (talk) 18:24, 24 April 2009 (UTC)
+I've integrated what I found, turns out there wasn't much.  Unfortunately there seems to be some disagreements over what it actually is - the DPS is so rare that I don't think they've figured out if it's lung/pleural only, if it's a syndrome or a tumour, etc.  Still, what's there is worth keeping.  One thing gbooks didn't let me find is the original article by Potter (1930).  Every single references section I looked for was not available.  Cunning...  WLU (t)  Wikipedia's rules:/ 19:03, 24 April 2009 (UTC)
+
+Vastus medialis
+
+This article seems to be very POV/biased against the idea that VMO muscle is involved for correct patella tracking and extension of the leg.  There are no citations given for this claim, which seems to be against common orthopaedic knowledge.  The citations given are valid but do not prove the editor's point.
+
+I am not a doctor, but I am a scientist, and looking in the literature I can find nothing about the &quot;VMO myth&quot; that the main author of this page assumes is false.  My knee pain was just diagnosed as caused by a weak VMO, so imagine my surprise when I come to wikipedia to see it contradict my doctor (and most other literature I can find).  The only other similar claim I can find is a website which may or may not be written by the editor-in-question.  It also has no citations.  I hope someone more knowledgeable than I about the VM/VMO can look at this article.  I mentioned it on the talk page but it doesn't seem to see much attention so I thought I'd mention it here.  Thanks. Hwinnian (talk) 21:49, 23 April 2009 (UTC)
+I'm a big fan of  for resolving stuff like this.  I very much agree, it looks like it is a  for a rather suspect idea and I would be comfortable with culling out everything that looks suspect, expanding on the basis of what the sources acutally say (it's particularly egregious and offensive to me if they are misrepresenting a source - no greater crime on wikipedia in my mind) and reverting without mercy if the info is included without peer-reviewed sources.  The &quot;some guy's webpage&quot; option does not mesh with , they've got to be pubmed indexed as a minimum and ideally respected.  WLU (t)  Wikipedia's rules:/ 12:44, 24 April 2009 (UTC)
+
+Pro-ana
+
+Pro-ana is being . Interesting article to establish NPOV on. Casliber (talk · ) 11:28, 24 April 2009 (UTC)
+Move of the Food and Drug Administration article
+
+Hola all, I've another question (posted here for the combination of relevant expertise and more likely to get a review than ).  I moved U.S. Food and Drug Administration to Food and Drug Administration (United States) today, but as I'm sorting out the redirects I'm having some buyer's remorse over the title and before I correct another 50 redirects I'd like some outside input.  Obviously the &quot;U.S.&quot; part struck me as inappropriate, but there do not appear to be competing agencies that warrant the &quot;(United States)&quot; disambiguation phrase.  I'm from Canada, we get too much US influence to really be unbiased about whether the simple use of &quot;Food and Drug Administration&quot; would be adequate, or if &quot;United States Food and Drug Administration&quot; is the best choice.  The actual website has &quot;U.S. Food and Drug Administration&quot; at the top, the Health and Human Services website that is the oversight body to the agency uses just Food and Drug Administration [http://www.hhs.gov/about/], and there do not seem to be a DAB page for agencies called &quot;Food and Drug Administration&quot; (closest is FDA (disambiguation)).  I may be requesting an undo of my previous move, but irrespective I stand by my decision to change it to something other than this morning's &quot;U.S. Food and Drug Administration.&quot;  Thoughts please?  This needs not just medical knowledge, but also some interpretation of  and how the FDA is perceived and known outside of North America.  WLU (t)  Wikipedia's rules:/ 18:59, 24 April 2009 (UTC)
+
+While the agency's name changed several times during its early years, I believe that it is formally known as the plain &quot;Food and Drug Administration&quot;.  (That's certainly how it's referred to in current legislation.)  On Wikipedia, we tend to reflexively add country designations (for good reason), but if there are no other food and drug administrations, then the article could be reasonably located at its correct name.  WhatamIdoing (talk) 19:22, 24 April 2009 (UTC)
+
+Have no remorse.  Thailand's equivalent agency also is (in English) named Food and Drug Administration.[http://www.fda.moph.go.th/]  --Una Smith (talk) 19:44, 24 April 2009 (UTC)
+To feed the fire, one change I'm having to make on my redirect corrects is applying &quot;In the United States, the Food and Drug Administration...&quot; as a  issue.  Though Canada, the US and Britain might be well aware of the FDA, I'm guessing it's less well known as a US agency in, say, Lesotho or Micronesia because of linguistic, cultural and geographic distance.  Could be an argument for United States Food and Drug Administration, could be not.  WLU (t)  Wikipedia's rules:/ 19:50, 24 April 2009 (UTC)
+Such localism is a common problem in articles about subjects that are global in scope.  It sounds like your disambiguating links has considerable added value.  How many links in all?  If there are very many, that would be an argument in favor of making Food and Drug Administration a dab page, just so future disambiguators won't have to check the links you already checked.  --Una Smith (talk) 20:03, 24 April 2009 (UTC)
+
+* I prefer to avoid parentheses in titles when possible, and would prefer United States Food and Drug Administration. II | (t - ) 20:06, 24 April 2009 (UTC)
+*Sure, except that arguably is not its actual name.  --Una Smith (talk) 20:11, 24 April 2009 (UTC)
+Una, my apologies I'm not sure what you're asking about with your 20:03 comment.  On en.wiki I've found no other pages called &quot;Food and Drug Administration&quot; and therefore none that require any disambiguation.   The only downside to United States Food and Drug Administration is the length (not that the current version is saving me any typing) but Food and Drug Administration could become a DAB page in the future (if the Thai version is created for instance).  In this case I'm leaning towards Imperfectly Informed's preference of United States Food and Drug Administration (look [http://www.fda.gov/ here], it does say &quot;U.S. Food and Drug Administration, so arguably it is the name and we're just spelling it out).  Whatever the solution, in a couple days I plan on revisiting the page for a consensus version, then asking an admin to fix the page move history and start correcting the hundreds of redirects. Yes, hundreds :(  Thanks for the discussion, hopefully by selecting a defensibly correct version now this will be the last time the redirects need correcting.  WLU (t)  Wikipedia's rules:/ 20:18, 24 April 2009 (UTC)
+
+They undoubtedly have an official name.  What is it?  What references do you have that the official name of the organization is just the &quot;Food and Drug Administration.&quot;  Although it is commonly referred to as such, that may just be a shorthand.  For instance, their home page and their address lists the name as &quot;U.S. Food and Drug Administration.&quot;[http://www.fda.gov/]  On their website they frequently use the shorter form as well, but that doesn't make it clear what the full official name is.  (It could be &quot;United States Food and Drug Administration&quot; it could be &quot;U. S. Food and Drug Administration&quot;, it could be &quot;Food and Drug Administration&quot; - so which is it?)
+As far as Thailand's Food and drug admin - if there is one usage that is far more common than others for the term, then that is the one that should go at the base name, with a name (disambiguation) page, if needed for multiple other uses.  (US. FDA probably much more widely used than Thailand's FDA).  So if the organization in the United States is just named the &quot;Food and Drug Administration,&quot; the (United States) should be dropped (unless there is evidence that significant numbers of English language references use that name to refer to other such administrations).  Zodon (talk) 20:22, 24 April 2009 (UTC)
+
+In reply to WLU:  My comment about disambiguating links has two sources:  (1) I have fixed links after a page move, in several cases thousands of links, and in my experience it is rare that all links in article space should be changed, so simply changing all links without inspection may not be appropriate.  (2)  has over 50 items, including a bunch of centers within the agency;  it is likely that a fair percent of the redirected links should go to one of those articles rather than to the main article about the agency.  In effect, this is an opportunity to disambiguate incoming links (even though the links are not to a disambiguation page), and disambiguating will help you decide if a disambiguation page is needed.
+In reply to Zodon:  There may be other agencies named Food and Drug Administration;  I stopped looking after I found the very first one.  --Una Smith (talk) 01:39, 25 April 2009 (UTC)
+
+I prefer simply Food and Drug Administration, since we both have Centers for Disease Control and Prevention and National Institutes of Health. In Belgium it's very commonplace to say &quot;The FDA approved ...&quot; . --Steven Fruitsmaak (Reply) 21:10, 24 April 2009 (UTC)
+
+Just for the record, [http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_public_laws&amp;docid=f:publ085.110 Congress], the [http://www.fda.gov/opacom/laws/fdcact/fdcact5a.htm FD&amp;C Act], the [http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm regulations], the [http://www.gpoaccess.gov/usbudget/fy09/pdf/budget/hhs.pdf 2009 federal budget], and [http://www.fda.gov/opacom/morechoices/fdaforms/default1.htm all of the FDA forms] omit the &quot;U.S.&quot; so I think it's pretty clear that the official name doesn't include the leading letters.  SDY (talk) 01:01, 25 April 2009 (UTC)
+
+Whatever the target is, I recommend move be done via a request on  rather than a favor from an individual admin.  --Una Smith (talk) 01:39, 25 April 2009 (UTC)
+The current name was set when Congress yanked pesticides out of the FDA's mandate around 1970 or so, so the authoritative reference is the agriculture bill that limited its scope and revised its name.  WhatamIdoing (talk) 04:34, 25 April 2009 (UTC)
+
+A agree with Steven Fruitsmaak about the shorter name. It is what editors will naturally link to and what readers of all countries will naturally search for. The Thailand issue is a complete red herring and should someone ever create such a page, it can be handled per minority naming rules without a clumsy DAB page getting in the way. Colin°Talk 09:17, 25 April 2009 (UTC)
+
+Sticky platelet Syndrome
+
+  We do not seem to have a page.  If that is indeed the case and there isn't one under some obscure name, I'd like to start one; but need help with the template boxes and medical reference material.  Is this the place to ask if anyone would be interested?  (talk) 00:44, 25 April 2009 (UTC)
+Apparently it is generally [http://www.fvleiden.org/ask/78.html believed] that no such condition actually exists.  Interestingly, the German Wikipedia has an [http://de.wikipedia.org/wiki/Sticky-Platelet-Syndrom article] on it, though. Looie496 (talk) 00:53, 25 April 2009 (UTC)
+
+&quot;Generally believed&quot; and insufficiently studied are not quite the same in my book.  So there's one guy on the web who refuses to do stickiness assays on patients with clots because there's no double blind studies?  Wouldn't it be a tad irresponsible to expose patients whose platelets are known to have &quot;hyperaggregability&quot; to getting clots just to show they can.  (Volunteering anyone?)  BTW.: The fact that &quot;hyperaggregability&quot; exists and has a certain genetic inheritance doesn't seem to be disputed.  What is criticized AFAIK is evidence as to what degree that contributes to the development of arterial blood clots.  So do we do a page or do we wait till enough people have developed well documented clots to satisfy &quot;ask Dr. Moll&quot;?  We could phrase the page carefully to indicated that this is something that still requires study.  (talk) 01:28, 25 April 2009 (UTC)
+We have no problem with articles on conditions that don't exist, as long as they are scrupulously referenced with reliable sources. To get the ball rolling, I've created a stub at sticky platelet syndrome. --Arcadian (talk) 02:34, 25 April 2009 (UTC)
+Thnaks. We'll see if it goes anywhere.  (talk) 20:09, 25 April 2009 (UTC)
+
+Request for third opinion - Decompression sickness
+
+I'd be grateful if anybody would be willing to give a  to help resolve a difference we're having at Decompression sickness, please? The difference is whether several sections should be in the &quot;Causes&quot; section or not, i.e. between this [http://en.wikipedia.org/w/index.php?title=Decompression_sickness&amp;oldid=285523363 diff] and this [http://en.wikipedia.org/w/index.php?title=Decompression_sickness&amp;oldid=285557177 diff]. There's a discussion at  that would give the background. Thanks in advance for any contributions. --RexxS (talk) 03:26, 25 April 2009 (UTC)
+Thanks to all for your help! Cheers --RexxS (talk) 20:26, 25 April 2009 (UTC)
+Wikipedia's Google juice
+
+Dear everyone,
+
+with the help of ,  and , we have just published (online release) an article about Wikipedia in the leading journal in medical informatics (impact factor roughly 3):
+
+*
+
+Many of you have probably wondered exactly how often you get a result from  Wikipedia when you look for medical info on Google. The answer is: 71-85%, depending on the keywords and search engines used.
+
+We outranked MedlinePlus and NHS Direct Online, except for the latter on Google UK. Wikipedia also ranked higher than commercial sources like Mayo Clinic, About.com and Medscape.
+
+I'd be happy to hear some of your comments. E-mail me through the wiki for requests for reprints.
+
+-- Steven Fruitsmaak (Reply) 10:04, 26 April 2009 (UTC)
+Aarg!, did someone up the stakes - better get editing! Luckily I think the quality of our articles has also been increasing thanks to everyone's efforts. I look forward to this paper being cited in the popular press, then in wikipedia and the recursive effects of this :) Keep up the good great work!  13:04, 26 April 2009 (UTC)
+Congratulations to the authors ;) Fvasconcellos (t·) 14:03, 26 April 2009 (UTC)
+
+Check this out as well - [http://www.mmm-online.com/Docs-look-to-Wikipedia-for-condition-info-Manhattan-Research/article/131038/ Docs look to Wikipedia for condition info: Manhattan Research] (&quot;Nearly 50% of US physicians going online for professional purposes are visiting Wikipedia for health and medical information, especially condition information, according to a Manhattan Research study.&quot;). Remember (talk) 13:47, 26 April 2009 (UTC)
+
+ Thanks for pointing this out, Steven. However I'm not particularly surprised. The Featured Articles are the best quality accessible sources of information available. No other resource has the sheer number of enthusiastic participants. By the way, does &quot;MR Laurent&quot; have a presence on Wikipedia? Axl ¤ [[User talk:Axl|[Talk]]] 17:16, 26 April 2009 (UTC)
+
+The only thing that worries me is that as Wikipedia gets more well known, well funded special interests might start trying to change the pages / information to benefit there own financial interest.  We are all volunteers here and I am unsure how well we could do against a concerted effort by someone on a salary.  Just a though. --Doc James (talk ·  · ) 20:57, 26 April 2009 (UTC)
+Are you still doing this for free? Colin°Talk 21:10, 26 April 2009 (UTC)
+
+MR Laurent = Steven Fruitsmaak. The latter is a pseudonym; Fruitsmaak in Dutch/Flemish = &quot;fruity flavour&quot;. JFW | T@lk 22:31, 26 April 2009 (UTC)
+
+Its a pity I do not have access to the article from my university. Could anybody send it to me by email?--Garrondo (talk) 07:17, 27 April 2009 (UTC)
+
+Confirm low urine Na+ in prerenal azotemia
+
+Could someone confirm:
+
+&quot;2.low urine sodium &lt; 10 ( because kidney saves sodium and water,hence low urine sodium and increase urine osmolarity)&quot;
+[http://en.wikipedia.org/wiki/Azotemia#Prerenal_azotemia|prerenal azotemia]
+
+I thought that in a case like CAH due to 21 alphaOHase deficiency there was a salt wasting dehydration that led to prerenal azotemia.  Would this result not result in excess natriuresis? Ibrmrn (talk) 20:12, 26 April 2009 (UTC)
+
+Please take factual questions to the . This page is mainly for discussing medical articles on Wikipedia. JFW | T@lk 20:29, 26 April 2009 (UTC)
+
+Panayiotis Zavos needs work
+
+Article on Panayiotis Zavos (recently in press in relation to claims of human cloning) is in pretty bad shape. Very light on cites, and references various medical and scientific organizations which are currently redlinks (i.e., either they are named wrongly in the article, or we need to create articles on them, or we need to redirect these links to our existing articles on them.) --  (talk) 22:33, 26 April 2009 (UTC)
+
+More: article mentions: &quot;other forms of ART (Assisted reproductive technology) procedures including the development of in-vitro round spermatid manipulations (ROSI procedures).&quot;- ROSI currently redirects to University of Toronto. I don't know what ROSI stands for in reproductive medicine.We need to make ROSI a disamb page as appropriate. --  (talk) 22:40, 26 April 2009 (UTC)
+Dr. Broda Otto Barnes
+
+This doesn't look real... especially the &quot;Doctors who think this dude is awesome&quot; section. Are there really no detractors on the other side?
+
+I don't know this guy from Adam, but could somebody with insight take a look?  —Preceding  comment added by Philip Taron (talk • ) 23:43, 19 April 2009 (UTC) 
+
+Well, that was vandalism that has been fixed.  But in fact Broda Otto Barnes has a lot of problems -- he was a proponent of fringe views about hypothyroidism, and the article is written in a somewhat overly supportive style. Looie496 (talk) 00:46, 22 April 2009 (UTC)
+
+Oh God... Royal Rife, take two. The lead still contains quite a bit of untrue nonsense about the prevalence of hypothyroidism and the evils of &quot;synthetic&quot; thyroid hormone. Probably brought to you by the same folks who patrol and promote Wilson's syndrome. I'm considering stubbing the article and building it as reliable sources are produced. MastCell Talk 04:49, 22 April 2009 (UTC)
+Update: submitted to . MastCell Talk 17:47, 27 April 2009 (UTC)
+
+Staphylococcus_capitis
+
+whoa, my patient is growing this in the blood.  Lets make an article on it!  —Preceding  comment added by  (talk) 23:09, 27 April 2009 (UTC) 
+Article title
+
+Should the actual article be called Cat scratch fever, Cat-scratch disease, or Cat scratch disease?  The ICD code has Cat scratch disease. ---kilbad (talk) 02:45, 28 April 2009 (UTC)
+I've moved it to &quot;Cat scratch disease&quot;. --Arcadian (talk) 04:46, 28 April 2009 (UTC)
+Thanks. ---kilbad (talk) 23:47, 28 April 2009 (UTC)
+
+Which units to use?
+
+Hi
+
+I just posted this point on the discussion page of the ARDS article but as it's a bit broader than that I've popped it in here too.
+
+For those of us not in the US it'd be really useful if things like PaO2 and PaCO2 were expressed in kPa as well as mmHg. Would it be reasonable for those of us who think in kPa go around adding them on relevant medical pages?
+
+Cheers  —Preceding  comment added by Brothersoulshine (talk • ) 14:06, 28 April 2009 (UTC) 
+
+Yes both sets of units should be used.  It should list the international units followed by the imperial system in brackets.--Doc James (talk ·  · ) 14:12, 28 April 2009 (UTC)
+It's probably not relevant in the specific case, but  can be helpful in such situations.  WhatamIdoing (talk) 06:17, 29 April 2009 (UTC)
+Influenza
+
+Hi there, things are getting a bit busy at influenza, swine flu, influenza pandemic‎ and 2009 swine flu outbreak. Could some of you watchlist these? Thanks Tim Vickers (talk) 01:19, 28 April 2009 (UTC)
+
+Also Human influenza and Influenza A virus subtype H1N1?  --Una Smith (talk) 04:40, 28 April 2009 (UTC)
+
+Some expert input to influenza vaccine and influenza treatment would be great as well. The article page views are going through the roof. Tim Vickers (talk) 17:00, 29 April 2009 (UTC)
+
+Swine flu (2)
+
+Neither swine influenza nor 2009 swine flu outbreak mentions antigenic shift... I've only found [http://www.timesonline.co.uk/tol/life_and_style/health/article6182047.ece this source], can we get this into the articles? --Steven Fruitsmaak (Reply) 20:47, 28 April 2009 (UTC)
+
+Antigenic shift has a lot of overlap with reassortment (which is mentioned in both articles) and viral shift.  I have not added a discussion of antigenic shift to the outbreak articles because so far I have seen no compelling argument that an antigenic shift has occurred.  On the contrary, the low virulence of the outbreak strain suggests antigenic shift has not occurred.  I am undecided whether the infectiousness of the strain qualifies as an antigenic shift;  I have seen no usable evidence about how infectious it is, compared to other strains circulating in humans. --Una Smith (talk) 20:55, 28 April 2009 (UTC)
+
+Now there are sequences available on GenBank, and  discusses sequence markers for host specificity and enhanced virulence.  Would someone here like to work up a phylogenetic tree?  Or at least examine the sequence alignments for how well this new strain matches the profile of an influenza genome with high pandemic potential?  --Una Smith (talk) 02:20, 29 April 2009 (UTC)
+
+I could do that, but it would be OR I'm afraid. Tim Vickers (talk) 17:01, 29 April 2009 (UTC)
+
+ or .  No doubt someone who (unlike me) isn't spending too much time on Wikipedia is already working on it.  The source Stevenfruitsmaak gives is a media report of experts speculating re the possibility of antigenic shift and this virus getting &quot;under the radar&quot; of the immune system.  From what data we have, however, the virus does not do that;  in fact, the human immune system ordinarily handles this virus very effectively.  Most infected persons identified to date raised a rapid, mild, and effective immune response, which suggests the absence of antigenic shift in virulence.  Re antigenic shift in host specificity, that is a wide open question.  What parts of the genome confer host specificity?  Perhaps the avian- and swine- derived parts of this strain are just &quot;along for the ride&quot; with the human-derived part of the strain.  A CDC webpage about antigenicity describes an elaborate laboratory cell culturing test for antigenic shift;  this information is something we cannot simply infer from media reports available so far.  --Una Smith (talk) 17:42, 29 April 2009 (UTC)
+
+Fantastic comments - there are too many scientific and political opportunists using hyperbole in the press when what's needed is rational thought.  --Scray (talk) 21:43, 29 April 2009 (UTC)
+
+Influenza treatment
+
+I have added a number of free, full text review articles to the &quot;Further reading&quot; section of the Influenza treatment article, from which people can add additional information to Wikipedia.  Perhaps someone else could apply MoS guidelines to the article to improve its overall structure?  What exactly should the article structure/sections look like? ---kilbad (talk) 22:44, 29 April 2009 (UTC)
+
+File:Swine Flu map NZ.PNG
+
+ has been nominated for speedy deletion.  (talk) 05:11, 30 April 2009 (UTC)
+Ear anatomy; errors
+
+
+Hi. The image that has been incorporated in ear and eardrum is, according to a letter sent to OTRS (), wrong. It presents the bones as incus, malleus &amp; stapes rather than malleus, incus &amp; stapes. (See ) I'm by no means a doctor, but the National Library of Medicine [http://www.nlm.nih.gov/MEDLINEPLUS/ency/imagepages/1092.htm seems to agree] as does the Department for Work and Pensions, [http://www.dwp.gov.uk/medical/med_conditions/major/hearing/ here]. I am removing the image from both articles. If our letter writer, and these governmental sources, should prove to be wrong and this [http://biology.plosjournals.org/perlserv/?SESSID=3afe6af28c9f0a2199593d1dd337ffd9&amp;request=slideshow&amp;type=figure&amp;doi=10.1371/journal.pbio.0030137&amp;id=24748 cc-by] source from which the image is taken right, please feel free to restore. I haven't found a single source that would suggest our letter writer to be wrong. But if he is, Ossicles needs to be corrected as well and that image, which lists them in the other order, removed. --Moonriddengirl (talk) 20:17, 28 April 2009 (UTC)
+Just to add that I'm addressing the matter at Commons to see if the image can be relabeled. Hence, if the governmental sources and our letter writer are wrong, please let me know. :D --Moonriddengirl (talk) 20:44, 28 April 2009 (UTC)
+Ouch! Someone should write to the authors of that paper—methinks an erratum is in order... Fvasconcellos (t·) 21:09, 30 April 2009 (UTC)
+
+MCOTW
+
+tmbox
+
+
+
+Last week's collaboration was Huntington's disease.
+
 JFW | T@lk 16:52, 30 April 2009 (UTC)
 
 Changed to swine flu on request. JFW | T@lk 19:41, 30 April 2009 (UTC)</segment>

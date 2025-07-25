@@ -286,20 +286,20 @@ In January 2023, the three-dose  Pfizer–BioNTech vaccine for children in the a
 Between 27 September and 23 October 2023, over 66,000 people had been vaccinated with the new vaccines targeting the XBB 1.5 strain of Omicron.
 
 Pie chart
-| thumb = right
-| caption = Percentage of vaccinated according to the vaccine received (as of 31 May 2022)
-| label1 = Pfizer–BioNTech
-| value1 = 66.0
-| color1 = #5e72e4
-| label2 = Moderna
-| value2 = 11.3
-| color2 = #a56be8
-| label3 = Oxford-AstraZeneca
-| value3 = 10.9
-| color3 = #8d0454
-| label4 = Janssen
-| value4 = 11.8
-| color4 = #f5365c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -309,19 +309,6 @@ Pie chart
 Number of vaccinations by vaccine type
 The numbers refer to total doses administered, broken down by vaccine manufacturer. (As of 30 July 2022, drawing on information from the plusmen.bg webpage)
 
-#invoke:Graph:Chart|
-| type = rect
-| showValues =  offset:4 , fontsize= 15
-| yType= integer
-| width = 800
-| colors = #a486b6
-| xAxisTitle = Vaccine Manufacturer
-| xAxisAngle = -40
-| x = Pfizer–BioNTech, Moderna, Oxford-AstraZeneca, Janssen
-| yAxisTitle = Vaccinations
-| y1 = 2967813, 504265, 478334, 523739
-| yGrid =
-| xGrid =
 
 
 Public vaccinations

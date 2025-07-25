@@ -3,24 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-17T10:47:08Z" sourceCorpus="COVID-19" filename="70322678" title="PANORAMIC_trial" url="https://en.wikipedia.org/wiki/PANORAMIC_trial">
 	<text>
-		<segment id="id70322678">infobox clinical trial
-| name              = PANORAMIC
-| image             = PANORAMIC trial logo.png
-| image_size        = 
-| alt               = 
-| caption           = 
-| study_type        = platform trial
-| dates             = Dec 2021 - ongoing
-| locations         = United Kingdom
-| lead_researcher   = Chris Butler, Paul Little
-| funding           = National Institute for Health and Care Research (NIHR)
-| protocol          = 
-| published_year    = 
-| published_article = 
-
-
-
-The PANORAMIC trial (short for Platform Adaptive Trial of Novel Antivirals for Early Treatment of COVID-19 in the Community) is a clinical trial in the United Kingdom testing the effectiveness of new antiviral drugs at the early stages of COVID-19 infections. The study aims to find out if antivirals can prevent death and hospitalisation and help faster recovery for people aged over 50 and those at higher risk due to underlying health conditions. The trial was launched in December 2021, and had nearly 30,000 people enrolled as participants.
+		<segment id="id70322678">The PANORAMIC trial (short for Platform Adaptive Trial of Novel Antivirals for Early Treatment of COVID-19 in the Community) is a clinical trial in the United Kingdom testing the effectiveness of new antiviral drugs at the early stages of COVID-19 infections. The study aims to find out if antivirals can prevent death and hospitalisation and help faster recovery for people aged over 50 and those at higher risk due to underlying health conditions. The trial was launched in December 2021, and had nearly 30,000 people enrolled as participants.
 
 Overview
 PANORAMIC is a platform trial that compares groups who are having symptoms of COVID: one receives standard care (same as best care in the NHS) and others receive standard care plus antiviral treatment. Participants take part from home online or via phone and the antivirals are delivered to them.

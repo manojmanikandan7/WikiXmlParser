@@ -3,15 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2024-07-03T17:00:34Z" sourceCorpus="COVID-19" filename="63358779" title="Flattening_the_curve" url="https://en.wikipedia.org/wiki/Flattening_the_curve">
 	<text>
-		<segment id="id63358779">multiple image | align = right | direction = vertical  | total_width = 350
-
-| image1 = 20200403_Flatten_the_curve_animated_GIF.gif | caption1 = Measures such as hand washing, social distancing and face masks reduce and delay the peak of active cases, allowing more time for healthcare capacity to increase and better cope with patient load. Time gained through thus flattening the curve can be used to raise the line of healthcare capacity to better meet surging demand.
-
-| image2= 20200609 Effect of pandemic containment measures.gif | caption2 = Without pandemic containment measures—such as social distancing, vaccination, and use of face masks—pathogens can spread exponentially. This graphic illustrates how early adoption of containment measures tends to protect wider swaths of the population, thus reducing and delaying the peak of active cases.
-
-
-
-Flattening the curve is a public health strategy to slow down the spread of an epidemic, used against the SARS-CoV-2 virus during the early stages of the COVID-19 pandemic. The curve being flattened is the epidemic curve, a visual representation of the number of infected people needing health care over time. During an epidemic, a health care system can break down when the number of people infected exceeds the capability of the health care system's ability to take care of them. Flattening the curve means slowing the spread of the epidemic so that the peak number of people requiring care at a time is reduced, and the health care system does not exceed its capacity. Flattening the curve relies on mitigation techniques such as hand washing, use of face masks and social distancing.
+		<segment id="id63358779">Flattening the curve is a public health strategy to slow down the spread of an epidemic, used against the SARS-CoV-2 virus during the early stages of the COVID-19 pandemic. The curve being flattened is the epidemic curve, a visual representation of the number of infected people needing health care over time. During an epidemic, a health care system can break down when the number of people infected exceeds the capability of the health care system's ability to take care of them. Flattening the curve means slowing the spread of the epidemic so that the peak number of people requiring care at a time is reduced, and the health care system does not exceed its capacity. Flattening the curve relies on mitigation techniques such as hand washing, use of face masks and social distancing.
 
 A complementary measure is to increase health care capacity, to &quot;raise the line&quot;. As described in an article in The Nation, &quot;preventing a health care system from being overwhelmed requires a society to do two things: 'flatten the curve'—that is, slow the rate of infection so there aren't too many cases that need hospitalization at one time—and 'raise the line'—that is, boost the hospital system's capacity to treat large numbers of patients.&quot; During 2020, in the early stages of the COVID-19 pandemic, two key measures were to increase the numbers of available ICU beds and ventilators, which were in systemic shortage.
 
@@ -53,7 +45,7 @@ See also
 * List of countries by hospital beds
 
 References
-Reflist|refs=
+
 
 
 

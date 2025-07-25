@@ -383,30 +383,6 @@ Cumulative vaccinations in South Africa
 Graph of cumulative doses administered across the country
 
 
-Graph:Chart
-  | type = stackedarea
-  | width = 550
-  | height = 300
-  | xAxisTitle = Date
-  | xAxisAngle = -45
-  | yAxisTitle = No. of doses
-  | yAxisMin = 0
-  | showSymbols = 1
-  | yType = number
-  | xGrid = true
-  | yGrid = true
-  | xType = date
-| x =  17 February 2021, 18 February 2021, 19 February 2021, 20 February 2021, 21 February 2021, 22 February 2021, 23 February 2021, 24 February 2021, 25 February 2021, 26 February 2021, 27 February 2021, 28 February 2021,  1 March 2021, 2 March 2021, 3 March 2021, 4 March 2021, 5 March 2021, 6 March 2021, 7 March 2021, 8 March 2021, 9 March 2021, 10 March 2021, 11 March 2021, 12 March 2021, 13 March 2021, 14 March 2021, 15 March 2021, 16 March 2021, 17 March 2021, 18 March 2021, 19 March 2021, 20 March 2021, 21 March 2021, 22 March 2021, 23 March 2021, 24 March 2021, 25 March 2021, 26 March 2021, 27 March 2021, 28 March 2021, 29 March 2021, 30 March 2021, 31 March 2021,  1 April 2021, 2 April 2021, 3 April 2021, 4 April 2021, 5 April 2021, 6 April 2021, 7 April 2021, 8 April 2021, 9 April 2021, 10 April 2021, 11 April 2021, 12 April 2021, 13 April 2021, 14 April 2021, 15 April 2021, 16 April 2021, 17 April 2021, 18 April 2021, 19 April 2021, 20 April 2021, 21 April 2021, 22 April 2021, 23 April 2021, 24 April 2021, 25 April 2021, 26 April 2021, 27 April 2021, 28 April 2021, 29 April 2021, 30 April 2021, 1 May 2021, 2 May 2021, 3 May 2021, 4 May 2021, 5 May 2021, 6 May 2021, 7 May 2021, 8 May 2021, 9 May 2021, 10 May 2021, 11 May 2021, 12 May 2021, 13 May 2021, 14 May 2021, 15 May 2021, 16 May 2021,17 May 2021, 18 May 2021, 19 May 2021, 20 May 2021, 21 May 2021, 22 May 2021, 23 May 2021, 24 May 2021, 25 May 2021, 26 May 2021, 27 May 2021, 28 May 2021, 29 May 2021, 30 May 2021, 31 May 2021, 1 June 2021, 2 June 2021, 3 June 2021, 4 June 2021, 5 June 2021, 6 June 2021, 7 June 2021,8 June 2021, 9 June 2021, 10 June 2021, 11 June 2021, 12 June 2021, 13 June 2021, 14 June 2021, 15 June 2021, 16 June 2021, 17 June 2021, 18 June 2021, 19 June 2021, 20 June 2021, 21 June 2021, 22 June 2021, 23 June 2021, 24 June 2021, 25 June 2021, 26 June 2021, 27 June 2021, 28 June 2021, 29 June 2021, 30 June 2021, 1 July 2021, 2 July 2021, 3 July 2021, 4 July 2021, 5 July 2021, 6 July 2021, 7 July 2021, 8 July 2021, 9 July 2021, 10 July 2021, 11 July 2021 , 12 July 2021 , 13 July 2021, 14 July 2021, 15 July 2021, 16 July 2021, 17 July 2021, 18 July 2021, 19 July 2021, 20 July 2021, 21 July 2021, 22 July 2021, 23 July 2021, 24 July 2021, 25 July 2021,26 July 2021, 27 July 2021, 28 July 2021, 29 July 2021, 30 July 2021,31 July 2021, 1 August 2021, 2 August 2021, 3 August 2021, 4 August 2021, 5 August 2021, 6 August 2021, 7 August 2021, 8 August 2021, 9 August 2021, 10 August 2021, 11 August 2021, 12 August 2021, 13 August 2021,
-
-
-
-|y1=  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39371,77505,116741,161717,167318,171860,221136,282135,348436,418187,484108,488551,490680,565336,637801,713584,787125,856779,863665,870477,953962,1045503,1139243,1210258,1287647,1293649,1297520,1392219,1486044,1494331,1589578,1657303,1661856,1664436,1749474,1833105,1912718,1973502,2020020,,,,,,,,,,,,,2385061,2858603,2872808,2880975,2984098,3079812,3162904,3265499,3372115,,3406499,3541171,3664778,3802992,3930186,4033934,,4072823,4176537,4274666,4374354,4461982,4549944,4570135,4584805,4677398,4768848,4854430,4930226,5002207,5018711,5025426,5030437,5092100,5162483,5227525,5285488
-
-|y2=  0,2260,6524,10414,15388,23059,32315,41809,52647,63648,67303,70527,73047,76037,83570,92029,100108,101573,101841,107054,118247,128887,138014,145215,145544,145554,147753,157286,168413,177275,182983, 182983,182983,182983,194257,207808,220129,231002,231605,239665,251707,263878,269102,269102,269102,269102,269102,272438,278909,283629,283629,288368,288406,288406,289787,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,298153,307591,317656,318670,318670,329098,339655,353181,366101,381171,382480,382480,395230,414372,430730,455169,474318,478452,478733,478733,479768,480665,480665,480665,480665,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,529544,584988,663768,,,,,,,,,,,,1253978,1344690,1352213,1355743,1406793,1462737,1525875,1604260,1674152,,1688514,1786939,1893600,2028397,2154922,2274267,,2311559,2437167,2580001,2691078,2835930,2954429,2974404,2982952,3092401,3212974,3327950,3447380,3544221,3569753,3576698,3591495,3719508, 3839569, 3958231, 4054267
-
-| y1Title= Vaccinated (1st dose)
-| y2Title= Fully Vaccinated (All Doses)
-| colors = #FFD700,#32CD32
 
 
 Provincial
@@ -417,123 +393,16 @@ Progress By Province
 
 
 Daily vaccinations chart of South Africa
-Graph:Chart
-|type = stackedrect
-|width=2000
-|colors=palegreen, #FFC000, #140f00
-|showValues=
-|linewidth=2
-|showSymbols=1
-|legend=
-|xAxisTitle=Date
-|xAxisAngle=-90
-|yType=number
-|yAxisMin=0
-|yGrid=true
-|yAxisMax =
-|yAxisTitle=Daily vaccinations
-
-|x= 17 February 2021, 18 February 2021, 19 February 2021, 20 February 2021, 21 February 2021, 22 February 2021, 23 February 2021, 24 February 2021, 25 February 2021, 26 February 2021, 27 February 2021, 28 February 2021,  1 March 2021, 2 March 2021, 3 March 2021, 4 March 2021, 5 March 2021, 6 March 2021, 7 March 2021, 8 March 2021, 9 March 2021, 10 March 2021, 11 March 2021, 12 March 2021, 13 March 2021, 14 March 2021, 15 March 2021, 16 March 2021, 17 March 2021, 18 March 2021, 19 March 2021 , 20 March 2021 , 21 March 2021, 22 March 2021, 23 March 2021, 24 March 2021, 25 March 2021, 26 March 2021,27 March 2021,28 March 2021, 29 March 2021, 30 March 2021, 31 March 2021, 1 April 2021,2 April 2021, 3 April 2021,4 April 2021,5 April 2021, 6 April 2021, 7 April 2021, 8 April 2021, 9 April 2021, 10 April 2021,11 April 2021,12 April 2021,13 April 2021,14 April 2021,15 April 2021,16 April 2021,17 April 2021,18 April 2021,19 April 2021,20 April 2021,21 April 2021,22 April 2021,23 April 2021,24 April 2021,25 April 2021,26 April 2021,27 April 2021,28 April 2021,29 April 2021,30 April 2021, 1 May 2021, 2 May 2021, 3 May 2021, 4 May 2021, 5 May 2021, 6 May 2021, 7 May 2021,8 May 2021,9 May 2021, 10 May 2021, 11 May 2021, 12 May 2021, 13 May 2021,14 May 2021, 15 May 2021, 16 May 2021, 17 May 2021, 18 May 2021, 19 May 2021,20 May 2021,21 May 2021,22 May 2021,23 May 2021,24 May 2021,25 May 2021,26 May 2021,27 May 2021, 28 May 2021, 29 May 2021, 30 May 2021, 31 May 2021, 1 June 2021, 2 June 2021, 3 June 2021, 4 June 2021
-, 5 June 2021, 6 June 2021, 7 June 2021, 8 June 2021, 9 June 2021, 10 June 2021, 11 June 2021, 12 June 2021, 13 June 2021, 14 June 2021, 15 June 2021, 16 June 2021, 17 June 2021, 18 June 2021, 19 June 2021, 20 June 2021, 21 June 2021, 22 June 2021, 23 June 2021, 24 June 2021, 25 June 2021, 26 June 2021, 27 June 2021, 28 June 2021, 29 June 2021, 30 June 2021, 1 July 2021, 2 July 2021, 3 July 2021, 4 July 2021, 5 July 2021, 6 July 2021, 7 July 2021, 8 July 2021, 9 July 2021, 10 July 2021, 11 July 2021 , 12 July 2021 , 13 July 2021, 14 July 2021, 15 July 2021, 16 July 2021, 17 July 2021, 18 July 2021, 19 July 2021, 20 July 2021, 21 July 2021, 22 July 2021, 23 July 2021, 24 July 2021, 25 July 2021, 26 July 2021, 27 July 2021, 28 July 2021, 29 July 2021, 30 July 2021, 31 July 2021, 1 August 2021, 2 August 2021, 3 August 2021, 4 August 2021,5 August 2021, 6 August 2021, 7 August 2021, 8 August 2021, 9 August 2021, 10 August 2021,11 August 2021, 12 August 2021, 13 August 2021,
-
-
-
-| y1Title = Vaccinated (1st dose)
-| y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39371,38134,39236,44976,5601,4542,49276,60999,66301,69751,65921,4443,2129,74656,72465,75783,73541,69654,6886,6812,83485,91541,93740,71015,77389,6002,3871,94699,93825,8287,95247, 67725,4553, 2580,85038,83631,79613,60784,0,0,0,0,0,0,0,0,0,0,0,0,0,106887,89461,11790,6594,98841,95714,83092,97431,102772,0,11600,129995,118801,130215,119639,96126,0,10053,96521,90593,92694,0,82447,17560,0,87707,85796,78945,69891,67017,0,0,0,56624,0,0,53686
-
-| y2Title = Vaccinated (final dose)
-| y2 = 0, 2260, 4264, 3890, 4974, 7671, 9256, 9494, 10838, 11001, 3655, 3224, 2520, 2990, 7533, 8459, 8079, 1465, 268, 5213, 11193, 10640, 9127, 7201, 329, 0, 2209, 9533, 11127, 8862, 5708, 0, 0, 0, 11274, 13551, 12321, 10873,603,8060,12042,12171,5224,0,0,0,0,0,3336,6471,4720,4739,38,0,1381,2836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5530,9438,10065,1014,0,10428,10557,13526,12920,15070,1309,0,12750,19142,16358,24439,19149,4134,281,0,1035,897,0,0,0,-897, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,0 ,0,0,0, 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49776,55444,0,0,0,0,0,0,0,0,0,0,0,0,0,84946,86279,4215,1050,47736,55944,63138,75032,66307,0,4751,93974,102616,127277,118381,111512,0,10339,118828,135215,102197,0,108385,16862,0,100148,105925,107004,111205,90372,0,0,0,120128,0,0,86866
-|y3=
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 107754,17544,1211,101569,111306,123593,124672,130543,10681,6407,144326,167860,186621,5042,62,0,0,0,0,0,0,0,25609,0,0,0,0,0,0,41056,0,0,0,0,215066,0,0,17390,0,0,0,0,0,37189,11672,16104,0,175095,166902
-|y3Title=Vaccinated (unknown dose)
-
-2021 Civil Unrest
-During the 2021 South African unrest, the vaccine rollout encountered a slowdown as businesses and vaccine sites were shut down due to protests and looting in Gauteng and Kwazulu-Natal.
-
-It is estimated that 47 500 vaccine doses and 120 private pharmacies were destroyed during the unrest.
-
-Distribution
-
-Pie chart
- | caption=Vaccines administered per pharmaceutical company as of 27 Jul 2021 (9 339 755)
- | ref=sacoronavirus.co.za
- | label1 = Janssen (2 067 035)
- | value1 = 22.13
- | color1 = #32CD32
- | label2 = Pfizer–BioNTech (7 272 720)
- | value2 = 77.87
- | color2 = #fffb00
- | label3 = Oxford–AstraZeneca (0)
- | value3 = 0
- | color3 = #DC143C
- 
-
-Doses administration by vaccine type in South Africa
-
-Graph of cumulative doses administered by vaccine type as of 15 June 2021
-
-
-Graph:Chart
-  | width = 700
-  | height = 300
-  | xAxisTitle = Date
-  | xAxisAngle = -45
-  | yAxisTitle = No. of doses
-  | yAxisMin = 0
-  | type = line
-  | showSymbols = 1
-  | yType = number
-  | xGrid = true
-  | yGrid = true
-  | xType = date
-
- | y1Title= Janssen
- | y2Title= Pfizer-BioNTech
- | y3Title= Oxford-AstraZeneca
- | y4Title= CoronaVac
- | colors = #32CD32, #FFD700, #DC143C
-
-| x =  17 February 2021, 18 February 2021, 19 February 2021, 20 February 2021, 21 February 2021, 22 February 2021, 23 February 2021, 24 February 2021, 25 February 2021, 26 February 2021, 27 February 2021, 28 February 2021,  1 March 2021, 2 March 2021, 3 March 2021, 4 March 2021, 5 March 2021, 6 March 2021, 7 March 2021, 8 March 2021, 9 March 2021, 10 March 2021, 11 March 2021, 12 March 2021, 13 March 2021, 14 March 2021, 15 March 2021, 16 March 2021, 17 March 2021, 18 March 2021, 19 March 2021, 20 March 2021, 21 March 2021, 22 March 2021, 23 March 2021, 24 March 2021, 25 March 2021, 26 March 2021, 27 March 2021, 28 March 2021, 29 March 2021, 30 March 2021, 31 March 2021,  1 April 2021, 2 April 2021, 3 April 2021, 4 April 2021, 5 April 2021, 6 April 2021, 7 April 2021, 8 April 2021, 9 April 2021, 10 April 2021, 11 April 2021, 12 April 2021, 13 April 2021, 14 April 2021, 15 April 2021, 16 April 2021, 17 April 2021, 18 April 2021, 19 April 2021, 20 April 2021, 21 April 2021, 22 April 2021, 23 April 2021, 24 April 2021, 25 April 2021, 26 April 2021, 27 April 2021, 28 April 2021, 29 April 2021, 30 April 2021,  1 May 2021, 2 May 2021, 3 May 2021, 4 May 2021, 5 May 2021, 6 May 2021, 7 May 2021, 8 May 2021, 9 May 2021, 10 May 2021, 11 May 2021, 12 May 2021, 13 May 2021, 14 May 2021, 15 May 2021, 16 May 2021, 17 May 2021, 18 May 2021, 19 May 2021, 20 May 2021, 21 May 2021, 22 May 2021, 23 May 2021, 24 May 2021, 25 May 2021, 26 May 2021, 27 May 2021, 28 May 2021, 29 May 2021, 30 May 2021, 31 May 2021,  1 June 2021, 2 June 2021, 3 June 2021, 4 June 2021, 5 June 2021, 6 June 2021, 7 June 2021,8 June 2021, 9 June 2021, 10 June 2021, 11 June 2021, 12 June 2021, 13 June 2021, 14 June 2021, 15 June 2021
-
-
-
-|y1=  0,2260,6524,10414,15388,23059,32315,41809,52647,63648,67303,70527,73047,76037,83570,92029,100108,101573,101841,107054,118247,128887,138014,145215,145544,145554,147753,157286,168413,177275,182983, 182983,182983,182983,194257,207808,220129,231002,231605,239665,251707,263878,269102,269102,269102,269102,269102,272438,278909,283629,283629,288368,288406,288406,289787,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,292623,298153,307591,317656,318670,318670,329098,339655,339655,353181,366101,381171,382480,382480,395230,414372,430730,455169,474318,478452,478733,478733,479768,480665,480665,480665,480665,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768,479768
-
-|y2=  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39371,77505,116741,161717,167318,171860,221136,282135,348436,418187,484108,488551,490680,565336,637801,713584,787125,856779,863665,870477,953962,1045503,1139243,1210258,1287647,1293649,1297520,1392219,1486044
-
-|y3=  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-
-|y4=  0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-
 
 
 Vaccines distribution
 
-#invoke:Chart | bar-chart
-| height = 250
-| width = 200
-| stack = 1
-| group 1 = 2067035: 0: 0: 0
-| group 2 = 0: 7272720: 0: 0
-| group 3 = 0: 0: 0: 0
-| group 4 = 0: 0: 0: 0
-| colors = #32CD32: #FFD700: #DC143C : #8183E7
-| group names = Janssen : Pfizer–BioNTech : Oxford-AstraZeneca : CoronaVac
-| units suffix =
-| x legends = : : :
 
 
 Vaccination sites
 
 The COVID-19 Vaccine can be obtained at 1397 different locations nationwide, as of 28 August. Any person qualified for a vaccine will be allocated to the most appropriate site, regardless if it is private or public or if they are insured or not. Vaccination sites are expected to increase to 3,338 locations, as Phase II and Phase III progress ramps up. So far it is planned that all Clicks, Dis-Chem, and other pharmacies and hospitals nationwide be used to distribute vaccines.
 
-multiple image
- | width = 200
- | image1= The Chris Hani Baragwanath Hospital, Soweto.jpg
- | image2= Charlotte.Maxeke. Joburg.Hospital.JPG
- | image3= Kbh.jpg
- | image4= Tygerberg from air.jpg
- | footer = Vaccination Sites in South Africa
 
 
 Planned vaccination sites

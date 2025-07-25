@@ -47,23 +47,6 @@ Statistics
 
 Progress to date
 
-Graph
-|width = 700
-|linewidth = 2
-|type = line
-|xType = date
-|yType = number
-|colors = #0BDA51, 
-|xAxisTitle = Timeline
-|yAxisFormat = s
-|yAxisTitle = No. of vaccinations per week
-|legend = Legend
-|x = 11 Jan 21, 18 Jan 21, 25 Jan 21, 1 Feb 21, 8 Feb 21, 15 Feb 21, 22 Feb 21, 1 Mar 21, 8 Mar 21, 15 Mar 21, 22 Mar 21, 29 Mar 21, 5 Apr 21, 12 Apr 21, 19 Apr 21, 26 Apr 21, 3 May 21, 10 May 21, 17 May 21, 24 May 21, 31 May 21, 7 Jun 21, 14 Jun 21, 21 Jun 21, 28 Jun 21, 5 Jul 21, 12 Jul 21, 19 Jul 21, 26 Jul 21, 2 Aug 21, 9 Aug 21, 16 Aug 21, 23 Aug 21, 30 Aug 21, 6 Sep 21, 13 Sep 21, 20 Sep 21, 27 Sep 21, 4 Oct 21, 11 Oct 21, 18 Oct 21, 25 Oct 21, 1 Nov 21, 8 Nov 21, 15 Nov 21, 22 Nov 21, 29 Nov 21, 6 Dec 21, 13 Dec 21, 20 Dec 21, 27 Dec 21, 3 Jan 22, 10 Jan 22, 17 Jan 22, 24 Jan 22, 31 Jan 22, 7 Feb 22, 14 Feb 22, 21 Feb 22, 28 Feb 22, 4 Mar 22, 11 Mar 22, 18 Mar 22, 25 Mar 22, 1 Apr 22, 8 Apr 22, 15 Apr 22, 22 Apr 22, 29 Apr 22, 6 May 22, 13 May 22, 20 May 22, 27 May 22,
-
-|y1Title = Vaccinated per week
-|y1 = 0, 491851, 339651, 371668, 495772, 456575, 528743, 739114, 882726, 932704, 677013, 1249531, 977159, 2236399, 2068602, 1862332, 2414667, 2700026, 2482464, 2220968, 2293581, 3180169, 3234962, 3114977, 3556459, 4045417, 3817695, 3452673, 3029336, 2536544, 2312810, 2309624, 2172682, 1853906, 1745816, 1295976, 846146, 534703, 375728, 579553, 225764, 295900, 713543, 747108, 1081656, 1101705, 1135064, 1418290, 3105368, 2855350, 1941333, 1759289, 1229943,  1673200, 1606025, 1376033, 808027, 628280, 639176, 380248, 283078, 571692, 225228, 235804, 197361, 126329, 82478, 82477, 109066, 80291, 81891, 86223, 81730,
-
-|yGrid = | xGrid =
 
 
 References

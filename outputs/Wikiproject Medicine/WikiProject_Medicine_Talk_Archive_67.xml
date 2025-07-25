@@ -211,58 +211,54 @@ diabetic microvascular complications/review
 Seeking comment on a new kind of drug infoboxes
 
 Drugbox
-| drug_name =  Lorcaserin
-| Verifiedfields = changed
-| Watchedfields = changed
-| verifiedrevid = 462093945
-| IUPAC_name = (1R)-8-chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
-| image = Lorcaserin.svg
-| width = 200
-| image2 = 
-| width2 = 200
 
 
-| tradename = Belviq
-| licence_US        = Lorcaserin
-| legal_US = Schedule IV
-| legal_status = 
-| routes_of_administration = Oral
-| pregnancy_US      = X
-| Drugs.com = 
-| MedlinePlus = a613014
 
 
-| bioavailability   = 
-| protein_bound     = 70%
-| metabolism        = Hepatic (extensive)
-| elimination_half-life = 11 hours
-| excretion         = Renal (92.3%), Faecal (2.2%)
 
 
-| CAS_number_Ref = 
-| CAS_number = 616202-92-7
-| ATC_prefix = A08
-| ATC_suffix = AA11
-| PubChem = 11658860
-| ChemSpiderID_Ref = 
-| ChemSpiderID = 9833595
-| UNII_Ref = 
-| UNII = 637E494O0Z
-| ChEMBL_Ref = 
-| ChEMBL = 360328
-| synonyms = APD-356
-| IUPHAR_ligand = 2941
 
 
-| C=11 | H=14 | Cl=1 | N=1 
-| molecular_weight = 195.688 g/mol
-| smiles = Clc1cc2c(cc1)CCNC[C@@H]2C
-| InChI = 1/C11H14ClN/c1-8-7-13-5-4-9-2-3-10(12)6-11(8)9/h2-3,6,8,13H,4-5,7H2,1H3/t8-/m0/s1
-| InChIKey = XTTZERNUQAFMOF-QMMMGPOBBQ
-| StdInChI_Ref = 
-| StdInChI = 1S/C11H14ClN/c1-8-7-13-5-4-9-2-3-10(12)6-11(8)9/h2-3,6,8,13H,4-5,7H2,1H3/t8-/m0/s1
-| StdInChIKey_Ref = 
-| StdInChIKey = XTTZERNUQAFMOF-QMMMGPOBSA-N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Please see the example drug infobox to the right. This is in the lead of Lorcaserin, and similar boxes are in most drug articles.
 
@@ -376,6 +372,145 @@ Nice find WAID; I didn't know that existed.  Much better than IMF. Jytdog (talk)
 If, as with some cancer drugs, the cost is exceptionally high, placing them out of reach of many patients even in the West, and that has been the subject of RS (it need not always be MEDRS-compliant) coverage, then certainly that should be added, in a section in the text. In England these matters are done in public in the National Institute for Health and Care Excellence approval process, generating lots of RS coverage in some cases.  Equally that aspirin is dirt cheap can easily be referenced. But I think we should avoid saying much about the mass of mid-price drugs, for the reasons set out above, plus the need (which we may not be able to cope with) to update when they come off-patent etc.  We should just cover the extremes. Johnbod (talk) 15:51, 15 June 2015 (UTC)
  I agree with John's earlier point that information in infoboxes needs to be clear-cut and free from nuances. From that perspective drug prices simply aren't suitable for inclusion in an infobox. It would be possible to write something about them in the body of an article, where variations between and within countries could be discussed, but I would urge caution in terms of quoting values because of the potential for such information to go out-of-date. At present we only have agreement to use Wikidata values in infoboxes on the English Wikipedia, and Wikidata does not yet allow the storage of data that has units (which obviously includes cost). At some point in the future, we may be able to have automatically updating price information in the body of an article, but I'm afraid we're still quite some way short of that ambition right now. --RexxS (talk) 17:31, 15 June 2015 (UTC)
 The idea of having an up-to-date dataset of prices by location / currency / dose / amount as a Wikidata item that then could be loaded into a dropdown menu in an infobox is very appealing, but it doesn’t make sense to have a price header before we have that Wikidata aspect completed, as the prices would be widely off for the many reasons stated above. If people are interested in pursuing the discussion of price data on Wikidata in the context of this infobox or health, I would be interested in participating in that discussion, but it might be more useful to branch that off into WikiData Talk page or a separate section of this page or perhaps other WikiProjects (?) OR drohowa (talk) 18:53, 15 June 2015 (UTC)
+
+
+
+Advertisements
+So check out this article: [https://en.wikipedia.org/w/index.php?title=Lady-Comp&amp;oldid=667231623 Lady-Comp] - an article created by a paid editor about a fertility monitor. Including infobox with &quot;introductory price. Blech.  I am starting to see my way to including price data ... but it still feels weird. Jytdog (talk) 20:08, 16 June 2015 (UTC)
+ I note that in filling in that field, the paid editor was actually following a template that includes price as a field:  Jytdog (talk) 20:12, 16 June 2015 (UTC)
+
+Source request (Wiley online library)
+
+* 
+
+Does anyone have access to this? Many thanks if you can help. Matthew Ferguson (talk) 21:51, 16 June 2015 (UTC)
+if you email me at my username at gmail i can email it to you. Jytdog (talk) 22:05, 16 June 2015 (UTC)
+Sent, thank you. Matthew Ferguson (talk) 22:11, 16 June 2015 (UTC)
+
+Most active content project
+Someone just pointed out  which shows we are the most active content project by number of edits excluding bots. Great being able to come here for a second or third opinion. Doc James (talk ·  · ) 12:55, 16 June 2015 (UTC)
+Another perspective is at . From the first link (the &quot;database report&quot; WikiProject Medicine is the most popular after deletion sorting in terms of number of edits in articles within its scope. From the WikiProject Directory in the link I just shared, WikiProjects for AfC and AfD have more participants, then Military History and Medicine both have 130 active partcipants, but Military History has 145,000 articles and 3200 editors of articles to medicine's 27000 articles and 900 editors. Football, film, and video games also have close numbers to medicine and military history.
+Considering the numbers there are different ways to interpret the meaning of this. I think it is fair for anyone to say &quot;WikiProject Medicine is the most popular and active WikiProject on English Wikipedia&quot;. In a different sense it would be fair to say the same about those other four but it would not be reasonable to say that about any other WikiProjects. The functionary Wikiprojects probably should not be compared to the subject matter ones. They are support important but participation in those kinds of projects is very different from subject area participation.  Blue Rasberry (talk) 14:06, 16 June 2015 (UTC)
+lets keep it going!--Ozzie10aaaa (talk) 14:28, 16 June 2015 (UTC)
+Thanks Blue had not seen that data. It just came out. Doc James (talk ·  · ) 15:41, 16 June 2015 (UTC)
+ tells you how many pages we've tagged, how many people have made at least two edits to a &quot;WPMED&quot; page (like this one, including all subpages) during the last 90 days, and how many people are editing the articles that we've tagged (at least five edits during the last 30 days).  That last column lists people we interact with, but not necessarily participants in the project itself.  And for those that didn't notice, if you click on the numbers, you get a list of the individual editors' names.  WhatamIdoing (talk) 23:22, 16 June 2015 (UTC)
+
+Related to this, I noticed that the other recently revived WikiProjects database report,  does not list WikiProject Medicine at all. How curious that it could be the most active content project yet have fewer than 30 watchers! :) I suspect this is because  is not in , but I'm not certain. I left a message to that effect at . --Ryan (Wiki Ed) (talk) 16:40, 16 June 2015 (UTC)
+There are 790 watchers per [https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Medicine&amp;action=info] Doc James (talk ·  · ) 00:01, 17 June 2015 (UTC)
+
+Wikipedia to promote stock health photography
+
+
+
+Just today DIS Magazine [http://dismagazine.com/blog/76800/mood-disorder-david-horvitz/ documented the reuse of a particular image] submitted to Wikipedia to encourage its reuse.
+
+In this case the person is not identifiable. I continue to wonder what it would mean for Wikipedia to have stock photos with identifiable models which could be used to illustrate health articles. The issue is described at .  Blue Rasberry (talk) 15:12, 15 June 2015 (UTC)
+Interesting, but I'm not sure what to make of it. Generally I don't approve of stock images, and find our use of art as in Gout, Suicide, etc. far more appealing. Something similar wouldn't be hard to find for mood disorder.
+But that might just be a general aversion, not specifically on Wikipedia. I like the quote by Clive Thompson in [http://www.wired.com/2014/05/stock-photos/ Wired] last year:
+Stock photography needs to die. In his 1946 essay “Politics and the English Language,” George Orwell argued that clichéd language produces clichéd thinking. Using a stale image, as he’d put it, “makes it easier for us to have foolish thoughts.” Stock photography imprisons us in the same cognitive jail. Its intentionally bland images are designed to be usable in many vaguely defined situations
+-- CFCF 🍌 () 17:54, 15 June 2015 (UTC)
+Sorry, I should have read you proposal first, and I realize you're tackling some of the major issues with stock art: trying to promote diversity and realism. I like your idea as long as you keep that focus. -- CFCF 🍌 () 18:08, 15 June 2015 (UTC)
+I like the idea period,good proposal--Ozzie10aaaa (talk) 18:13, 15 June 2015 (UTC)
+There are several major issues with this particular image. First is BLP in assigning a living person as having a mood disorder. Second is the  in attributing a &quot;mood disorder&quot; to someone in this pose. Third this particular &quot;artist&quot; has caused major disruption previously through his spamming of images throughout the project for use in an &quot;art project&quot; consisting of the use of his pics in Wikipedia. I am not sure which is the most troubling, but they all need to be addressed. -- TRPoD aka The Red Pen of Doom 18:42, 15 June 2015 (UTC)
+I am not a stock photo fan. They are not terribly educational. If someone wishes to take this on I do not have a problem with it. Even happy to bring some scrubs. I do not see it as important enough to need funding. Doc James (talk ·  · ) 22:49, 15 June 2015 (UTC)
+
+This proposal is worth trying to see if something useful occurred, but under no circumstances should pictures like &quot;a person sitting at the beach&quot; be used to illustrate a medical condition, and any stock health image project must not involve the photographer of the above picture due to his misuse of Wikipedia for self-promotion. The outline at the grants page would need a lot of work to produce a worthwhile result because merely arranging people pretending to be patients and doctors is very unlikely to produce helpful images—the caption would have to say &quot;this is a fake photo showing someone pretending to have malaria&quot; (or whatever the condition is)—not very helpful. Johnuniq (talk) 23:46, 15 June 2015 (UTC)
+Technically, that's a real photo of a real person expressing a human emotion. It's not necessarily useful for Wikipedia (it's a bit on the &quot;decorative&quot; side), but if you used it, then you'd give it a caption like &quot;Mood disorders can cause intense emotions&quot;, or something verifiable like that. WhatamIdoing (talk) 21:39, 16 June 2015 (UTC)
+This type of image use has been addressed at this project before; see  and . In that former discussion, which I started, Lesion, Johnuniq, Anthonyhcole, Hordaland and WhatamIdoing all weighed in. WhatamIdoing cited , stating, &quot;The image need not be verifiably a person with the exact condition. Indeed, it need not even be a photo of an actual human. It only needs to be an image that looks like what we're trying to illustrate.&quot; Flyer22 (talk) 23:57, 15 June 2015 (UTC)
+
+I also meant to  Axl and TenOfAllTrades as editors who weighed in. Flyer22 (talk) 01:55, 16 June 2015 (UTC)
+
+I dont think it &quot;looks like what we're trying to illustrate&quot; - it looks like a man sitting on a beach. And we should definitely not be promoting bad pop psychology that sitting on a beach is a mood disorder. -- TRPoD aka The Red Pen of Doom 12:58, 16 June 2015 (UTC)
+
+I think that the point of the image is that a person with their head down and hands in their hair is a common expression of frustration and/or despair. That stated, I'm know that the image can be interpreted differently by different people, and I'm not arguing for it to stay. Flyer22 (talk) 05:11, 17 June 2015 (UTC) 
+
+To reiterate what James said previously: if you plan to do this at Wikimania I could bring a decent camera, a tripod and some scrubs as well. As for props, I think it may be hard to pull off at Wikimania regardless of budget, but we could always try to get in touch with some Mexican Wikipedians. I know for one that Wiki Borregos had a partnership with a medical school, we could maybe message ? (Images donated: -- CFCF 🍌 () 06:12, 16 June 2015 (UTC)
+
+Call me paranoid, but what's the plan for making sure people understand the implications of the license terms? (Being realistic, hardly anyone here really deeply understands the licenses they're contributing under.) Seems easy for people to volunteer to take pictures because hey, cool, props! without really thinking about what it means to irrevocably license identifiable photographs for reuse with modification. I'd be concerned that some good-faith participants might be setting themselves up for trolling. Opabinia regalis (talk) 06:40, 16 June 2015 (UTC)
+I find that extremely unlikely as Wikimania attendees in general are quite well-versed with the licensing terms. -- CFCF 🍌 () 08:23, 16 June 2015 (UTC)
+ is right to worry. , I have never been able to find a position or consensus in the Wikimedia community on personality rights. When models are featured in a way that makes their personal lives the subject of the work then their personality rights must be considered. So far as I can tell, no open knowledge or free culture organization has produced a waiver for models to release personality rights. there are lots of sample waivers available online from many photography studies and I could adapt one. In my opinion personality rights need to be released when an image is used on Wikipedia in a way that can be disparaging. In this case, there can be social stigma about having a mood disorder, so this image has worked because the model is not personally identifiable.
+I think it would be an interesting precedent to have Wikimania participants sign a model release and append that to photos uploaded to Commons. Having a collection of diverse people modeling as doctors and patients would be a real help for small health organizations which do local publishing and have to pay for stock art. [https://www.google.com/search?q=patients&amp;biw=1067&amp;bih=738&amp;source=lnms&amp;tbm=isch Google image search shows what it means to be a patient] and I know a photo shoot at Wikimania would not be less weird but at least everyone would not be white.  Blue Rasberry (talk) 14:28, 16 June 2015 (UTC)
+Sorry for the delay in responding. We dont have a partnership per se... we've talked to the health sciences school on various occasions but nothing has developed as of yet. I taught a Medical English class in 2013 and I have a couple of biotechnology students with me doing community service hours with me right now. I can forward this discussion to them to see who might be interested in following up. BTW, for our major editathon last year some students on a different campus uploaded photos on social issues, some of which overlapped into health, for example https://commons.wikimedia.org/wiki/File:Depression_in_women.JPG (similar to the one here and was published in an issue of Science Times 3 days after being uploaded to Commons)Thelmadatter (talk) 21:37, 16 June 2015 (UTC)
+ Images showing identifiable people get tagged with a warning about their personality rights, which they do not release or give up (and in some countries, may not be able to do so). End users of images, such as small health organizations, are required to use the images in ways that do not contravene the rights of the people depicted. I would encourage most models to retain their personality rights.
+Adherence to personality rights rules may be somewhat imperfect, as with all things. For example, I'm aware of one person whose picture on Commons is used as an illustration for a page about how women of her ethnicity have a problem with eating disorders. But that seems to be a typical type of &quot;misuse&quot;: an image placed on a page about a condition, but not text saying &quot;here's a person with this condition&quot; (unless the person really does have that condition). If she complained, they would probably take it down, and I suspect that people are familiar enough with the concept of stock art (and in her circles, with Commons) that they wouldn't necessarily attribute any meaning to it. WhatamIdoing (talk) 21:39, 16 June 2015 (UTC)
+
+Regression Therapy draft  (again) - healing modularities
+
+As I expected, this has been resubmitted, and is now awaiting review for acceptance as an article at . It now does not appear to make claims about curing asthma or autoimmune disorder, although the titles of some of the sources still do.
+
+If there is no possibility of this Draft ever meeting the requirements of  or else ever moving into a subject area where it would not be required to meet MEDRS, perhaps we should nominate the Draft page itself at ? Arthur goes shopping (talk) 14:17, 16 June 2015 (UTC)
+this comment has already been left...It appears the previous reviewer is mistaken, this topic is not equivalent to Past life regression (to which &quot;Regression therapy&quot; now redirects). This topic is about a mainstream(?) psychology technique for exploring one's past, not a pseudoscience exploration of &quot;past lives&quot; in the sense of reincarnation and all that. Next reviewer to look at this please examine it in that light and ignore previous decline. MatthewVanitas (talk) 14:22, 16 June 2015(UTC)[https://en.wikipedia.org/wiki/Draft:Regression_therapy] ...however we still at least need one reference that is MEDRS( )--Ozzie10aaaa (talk) 14:39, 16 June 2015 (UTC)
+I would agree with Matthew, the comparison with the other topic is something of a red herring. However, would we really be happy with this article just by its having one single MEDRS compliant reference, while still having many many paragraphs of statements sourced by dozens of citations to the Heart Press? Arthur goes shopping (talk) 14:59, 16 June 2015 (UTC)
+no...but the point is it does need one MEDRS ref (to begin and build on)I don't see any...I think it should be declined perhaps you should seek a second opinion? thank you--Ozzie10aaaa (talk) 15:13, 16 June 2015 (UTC)
+ Yes, that is why I have come here. Arthur goes shopping (talk) 10:10, 17 June 2015 (UTC)
+It's a POV fork of repressed memory/recovered memory therapy. Wikiisawesome's [https://en.wikipedia.org/w/index.php?title=Draft:Regression_therapy&amp;diff=664205206&amp;oldid=664142706 comparison] to past life regression wasn't inappropriate, either, because if you check the sources (the [http://www.earth-association.org/frequently-asked-questions/ Earth Association of Regression Therapy] or the Heart Press books), they do focus on past life regression. It should definitely be deleted. KateWishing (talk) 15:24, 16 June 2015 (UTC)
+
+repressed memory/recovered memory therapy are just techniques. This article is about a therapy that uses many different types of techniques and is practiced by 500 to 600 therapists internationally. In the same way as hypnotherapy and psychotherapy have separate articles from the techniques they use the  same should applies to this article. It not an article on medical practice so why is MRDRS needed? The only medical comment is &quot; Psychiatrists and medical doctors have used regression therapy to resolve some medical conditions unresponsive to traditional medicine&quot; and uses the reference of 6 medical doctors around the world who independently found this.  The subject of past lives is misleading. Anything that looks like a past life is dealt with as a story. Also the article has 57 references from psychologists, psychiatrists and two secondary articles/books on regression therapy.-- (talk) 16:42, 16 June 2015 (UTC)Andy Tomlinson (talk) 16:08, 16 June 2015 (UTC)
+The whole article falls under  because psychotherapy is a form of medicine. KateWishing (talk) 16:14, 16 June 2015 (UTC)
+
+* The topic falls under  as it stands. Even if the article were rewritten as a spiritual practice I doubt it would have the reliable sources. Stuartyeates (talk) 22:42, 16 June 2015 (UTC)
+
+Need eyes on Masturbation  - being reverted after deleting primary sources
+
+I've been reverted once already after deleting primary sources from the Masturbation#Compulsive masturbation section. I've described the issue at . Seppi333 (Insert 2¢) 13:17, 17 June 2015 (UTC)
+will keep an eye on that articles Revision history --Ozzie10aaaa (talk) 13:54, 17 June 2015 (UTC)
+This file:  refers to the foreskin but the image shows a penis without a foreskin....
+  Bfpage |leave a message  22:02, 17 June 2015 (UTC)
+
+Chocolate
+
+Both Chocolate and Health effects of chocolate could use a scrubdown for health claims based on non MEDRS sources. It seems there is still a lot of work being published on polyphenols, inflammation, etc. A tasty bit of work for someone to tackle... LeadSongDog come howl! 21:53, 15 June 2015 (UTC)
+have placed inline citations on references 6,7,8,9,12,13,14,15,17,18,19,20,26 which are non-MEDRS compliant (for Health effects of chocolate )...would recommend that the former articles &quot;Health effects&quot; section be shortened to simply direct reader to the latter article.--Ozzie10aaaa (talk) 00:03, 16 June 2015 (UTC)
+Please tell me that dark chocolate (95%) health claims are MEDRS-compliant...
+  Bfpage |leave a message  22:17, 17 June 2015 (UTC)
+
+Dr.Kent Brantly/AMA international award 2015
+
+2015 Excellence in Medicine Major Award Recipient...On July 26, he was diagnosed with Ebola Virus Disease and several days later received the first dose of the experimental drug Zmapp before he became the first American evacuated for treatment in the United States at Emory University Hospital. He donated plasma to help others recover from Ebola, including Dallas nurse Nina Pham, Samaritan's Purse associate Rick Sacra, MD, and cameraman Ashoka Mukpo. Dr. Brantly feels it his privilege and duty to speak out on behalf of the people of West Africa who continue to suffer from the scourge of Ebola[http://www.ama-assn.org/ama/pub/about-ama/ama-foundation/our-programs/public-health/excellence-medicine-awards/2015-major-award-recipients.page][http://www.ama-assn.org/ama/pub/about-ama/ama-foundation/our-programs/public-health/excellence-medicine-awards.page?]...(well done)--Ozzie10aaaa (talk) 22:19, 17 June 2015 (UTC)
+
+New Wikipedia Library donations
+
+Hello all, I wanted to let you know of two recent donations we just opened up at the Wikipedia Library:  and . Please sign up for the accounts if you think you can use them. Cheers, Nikkimaria (talk) 00:22, 18 June 2015 (UTC)
+
+great information...free--Ozzie10aaaa (talk) 10:35, 18 June 2015 (UTC)
+
+Autofil of refs
+The only one of the 4 that still seems to work is [http://librepathology.org/cite-gen/] Doc James (talk ·  · ) 10:32, 18 June 2015 (UTC)
+ seems to have a number of issues--Ozzie10aaaa (talk) 13:22, 18 June 2015 (UTC)
+Yes labs is down. Doc James (talk ·  · ) 16:50, 18 June 2015 (UTC)
+[https://wikitech.wikimedia.org/wiki/Incident_documentation/20150617-LabsNFSOutage]...--Ozzie10aaaa (talk) 18:30, 18 June 2015 (UTC)
+
+Emu oil
+
+Can someone please have a look at the recent addition to Emu oil?  It is purportedly based on a review article, but I can't verify the claims because I don't have access to the the full article.  I suspect the source is being misrepresented to a certain extent and the article has a history of spammy, promotional, biased, and unreliable additions.  Deli nk (talk) 16:54, 18 June 2015 (UTC)
+
+From the conclusion of the Journal paper ... Despite such findings, there are no scientific reports available, to our knowledge, for the potential mechanisms of action of emu oil, so further in vitro and preclinical research is needed to render its mechanisms of action to treat various disorders. Frankly, it doesn't look like a proper interpretation of the 'review'. Roxy the non edible dog™ (resonate) 17:48, 18 June 2015 (UTC)
+Thanks . Adjusted the wording to match reality. Doc James (talk ·  · ) 17:55, 18 June 2015 (UTC)
+Thank you both.  Deli nk (talk) 01:02, 19 June 2015 (UTC)
+
+Can someone check an article for me?
+
+Just a quickie - I don't have access to this publication without paying for it, and I'd like someone who has to check what it's about: [http://www.sciencedirect.com/science/article/pii/S0360131512001820] At a guess, it concerns cyberbullying (harassment via the internet etc) rather than the subject of our article on Electronic harassment - alleged mind-control run by the evil gummint and their Illuminati friends - but I'd like conformation. AndyTheGrump (talk) 01:50, 19 June 2015 (UTC)
+ Either you're right, or my institution is in on the conspiracy and sent me a fake paper so I wouldn't find out what they're up to. It is 1) a series of semi-structured focus group interviews with teenagers and 2) a survey of high-school students in New Zealand about harassment via the internet and mobile phones. If the terminology in this article is common (cyberbullying as a subset of &quot;electronic harassment&quot;), then our surprisingly old conspiracy theory article needs a new title. Or maybe that's just what They want me to say. Opabinia regalis (talk) 04:18, 19 June 2015 (UTC)
+Thanks. Perhaps the article needs a (tinfoil?) hatnote linking the Cyberbullying article - I suspect that changing the title would just lead to it being recreated, and further feed the conspiracy-mongers who of course already assume that Wikipedia is in on the conspiracy. AndyTheGrump (talk) 04:28, 19 June 2015 (UTC)
+
+Seeking comments on the placement of GMO safety consensus
+
+RfC on the placement of GMO safety consensus - should it be located in the Controversy section? [https://en.wikipedia.org/wiki/Talk:Genetically_modified_food#RfC:_Should_the_.22Safety_Consensus.22_discussion_be_moved_out_of_the_Controversy_section.3F Here] is the RfC. Thanks,  petrarchan47คุ 23:57, 18 June 2015 (UTC)
+
+please give opinion (I gave mine)--Ozzie10aaaa (talk) 08:03, 19 June 2015 (UTC)
+
+Permit  in ?
+
+Opinions are needed on the following matter: ; subsection is at . A  for the matter is [https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Red_link&amp;diff=667586209&amp;oldid=667585762#Proposal_regarding_redlinks_in_navigation_templates here]. Flyer22 (talk) 06:44, 19 June 2015 (UTC)
+
+opinions needed(I gave mine)--Ozzie10aaaa (talk) 10:30, 19 June 2015 (UTC)
+
+Arteriosclerosis
+
+did a few edits, any help would be appreciated, thank you--Ozzie10aaaa (talk) 18:37, 19 June 2015 (UTC)
+
+De-wiki's in-house radiologist
 
 
 

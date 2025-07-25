@@ -3,11 +3,12 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2024-12-28T10:57:04Z" sourceCorpus="COVID-19" filename="68552534" title="PeduliLindungi" url="https://en.wikipedia.org/wiki/PeduliLindungi">
 	<text>
-		<segment id="id68552534">| operating system       = Android and iOS
-| genre                  = COVID-19 apps
-| licence                = Proprietary software
-| website                = https://satusehat.kemkes.go.id/dashboard/
-| language               = Indonesian, English
+		<segment id="id68552534">
+
+
+
+
+
 
 SatuSehat (Indonesian for &quot;one health&quot;), formerly PeduliLindungi (roughly &quot;care to protect&quot;), is a national integrated health data exchange platform, jointly developed by the Indonesian Ministry of Communication and Information Technology (Kemenkominfo), in partnership with Committee for COVID-19 Response and National Economic Recovery (KPCPEN), Ministry of Health (Kemenkes), Ministry of State-Owned Enterprises (KemenBUMN), and Telkom Indonesia. The SatuSehat platform aims to facilitate data accessibility and service efficiency for health providers and the government, and assist the public as a tool to access their own electronic medical record data. This app was the official COVID-19 contact tracing app used for digital contact tracing in Indonesia, and originally known as TraceTogether but later changed because Singapore had its app using the same name.
 

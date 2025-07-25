@@ -667,8 +667,7 @@ Wondering how best to do this? Should not be too hard. Doc James (talk ·  · ) 
 
 Can we create a template like  that we could add to our  banner?  I'm thinking of something that automatically takes the page name (&quot;Talk:Prostate cancer&quot;) and turns it into a search query on the TRIP database.  So instead of , which produces this:
 
-|=Please do not use the findsources template in articles. 
-|#default=Find sources: [http://www.google.com/search?as_eq=wikipedia&amp;q=}|}|}|}|&amp;num=50 &quot;prostate cancer&quot;}|}|}|}|] – [http://www.google.com/search?q=}|}|}|}|&amp;tbm=nws&amp;tbs=ar:1 news][http://www.google.com/search?tbs=bks:1&amp;q=}|}|}|}| books][http://scholar.google.com/scholar?q=}|}|}|}| scholar][http://www.jstor.org/action/doBasicSearch?Query=}|}|}|}|&amp;acc=on&amp;wc=on JSTOR][http://images.google.com/images?safe=off&amp;as_rights=(cc_publicdomain%7ccc_attribute%7ccc_sharealike%7ccc_noncommercial%7ccc_nonderived)&amp;q=}|}|}|}| free images]
+
 we would get something that said &quot;Search the TRIP database for high-quality sources about [http://www.tripdatabase.com/search?criteria=prostate+cancer Prostate cancer]&quot;.   WhatamIdoing (talk) 20:44, 7 October 2012 (UTC)
 Yes that would be excellent. Doc James (talk ·  · ) (if I write on your page reply on mine) 23:13, 7 October 2012 (UTC)
 

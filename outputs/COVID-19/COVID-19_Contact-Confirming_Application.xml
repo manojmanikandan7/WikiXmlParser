@@ -3,22 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-05-02T04:23:28Z" sourceCorpus="COVID-19" filename="67493273" title="COVID-19_Contact-Confirming_Application" url="https://en.wikipedia.org/wiki/COVID-19_Contact-Confirming_Application">
 	<text>
-		<segment id="id67493273">infobox software
-| name = 
-| author = COVID-19 Radar Japan
-| developer = Ministry of Health, Labour and Welfare
-| released = 
-| latest_release_version = 1.4.1
-| latest_release_date = 
-| programming_language = C#
-| operating_system = |iOS 13.5 or later
-| language = 
-| language count = 3
-| language footnote = 
-| license = |source: MPL 2.0
-| website = 
-
-COVID-19 Contact-Confirming Application (COCOA) is a COVID-19 application for smartphones provided by the Ministry of Health, Labour and Welfare of Japan. The application uses Bluetooth to detect and record suspected close contacts between users. If the contact is diagnosed with COVID-19, the user will be notified. After receiving the notification, the user can consider self-isolation or go to a medical institution for treatment.
+		<segment id="id67493273">COVID-19 Contact-Confirming Application (COCOA) is a COVID-19 application for smartphones provided by the Ministry of Health, Labour and Welfare of Japan. The application uses Bluetooth to detect and record suspected close contacts between users. If the contact is diagnosed with COVID-19, the user will be notified. After receiving the notification, the user can consider self-isolation or go to a medical institution for treatment.
 
 Development
 On May 20, 2020, Apple and Google began to provide the public health authorities of various countries with the new coronavirus infection notification (English: Exposure Notification). On May 26, 2020, the &quot;New Coronavirus Infectious Disease Countermeasures Technical Team&quot; released a specification that defines the contact confirmation application and related systems that use this API. After Persol Process &amp; Technology received the project management and maintenance order with a price of 41.04 million yen, it subcontracted it to two companies, including Microsoft Japan and Fixer. The application itself is developed by the open source community &quot;COVID-19 Radar Japan&quot; composed of private IT technicians. The members include Japanese Microsoft employees, and Persol Process &amp; Technology is responsible for maintenance and adjustments. On June 15, the Nikkei reported that the application was developed by Microsoft in the United States, and Microsoft in Japan later denied the content of the report.

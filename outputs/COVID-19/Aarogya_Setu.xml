@@ -3,10 +3,11 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2024-08-21T06:19:05Z" sourceCorpus="COVID-19" filename="63569951" title="Aarogya_Setu" url="https://en.wikipedia.org/wiki/Aarogya_Setu">
 	<text>
-		<segment id="id63569951">| language = Hindi, English, Marathi, Tamil, Telugu, Kannada, Malayalam, Punjabi, Bengali, Odia, Gujarati, Assamese
-| language count = 12
-| genre = Health care
-| website = 
+		<segment id="id63569951">
+
+
+
+
 
 
 Aarogya Setu (translation from Sanskrit: the bridge to health) is an Indian COVID-19 &quot;contact tracing, syndromic mapping and self-assessment&quot; digital service, primarily a mobile app, developed by the National Informatics Centre under the Ministry of Electronics and Information Technology (MeitY).

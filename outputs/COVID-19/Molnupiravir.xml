@@ -40,15 +40,6 @@ Molnupiravir inhibits viral reproduction by promoting widespread mutations in th
 Molnupiravir can swap between two forms (tautomers), one of which mimics cytidine (C) and the other uridine (U). NHC-TP is not recognized as an error by the virus's proofreading exonuclease enzymes, which can replace mutated nucleotides with corrected versions. When the viral RNA polymerase attempts to copy RNA containing molnupiravir, it sometimes interprets it as C and sometimes as U. This causes more mutations in all downstream copies than the virus can survive, an effect called viral error catastrophe or lethal mutagenesis.
 
 
-multiple image
- | align=center
- | direction         = horizontal
- | header            = Molnupiravir mimicking C and U.
- | image1            = Molnupiravir GC bonding.svg
- | caption1          = Molnupairvir N-hydroxylamine mimicks C and pairs with G.
- | image2            = Molnupiravir AU bonding.svg
- | caption2          = Molnupairvir oxime mimicks U and pairs with A.
- | footer            = The wiggly lines stand for the connection to the pentose sugar and point in the direction of the minor groove.
 
 
 Chemistry

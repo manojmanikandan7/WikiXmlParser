@@ -95,59 +95,7 @@ On 22 November 2022, the Brazilian Health Regulatory Agency (Anvisa) approved th
 
 Vaccine acceptance and hesitancy
 
-image frame
-|content=Graph:Chart
-  |width=240
-  |height=120
-  |xAxisTitle=Date
-  |xType=date
-  |xAxisFormat=%b
-  |yType=number
-  |yAxisFormat=%
-  |type=stackedarea
-  |x=2020-08-12, 2020-12-10, 2021-01-21, 2021-03-16, 2021-05-12, 2021-07-08
-  |y1=0.08, 0.22, 0.16, 0.09, 0.08, 0.05
-  |y2=0.03, 0.05, 0.03, 0.02, 0.01, 0.01
-  |y3=0.89, 0.73, 0.81, , , 
-  |y4=0, 0, 0, 0.05, 0.25,  
-  |interpolate=monotone
-  |colors=FireBrick, Grey, LimeGreen, Cyan
-  
-|width=
-|caption=Vaccine acceptance and hesitancy
 
-* 
-* 
-* 
-* 
-
-|border=no
-
-image frame
-|content=Graph:Chart
-  |width=240
-  |height=120
-  |xAxisTitle=Date
-  |xType=date
-  |xAxisFormat=%b
-  |yType=number
-  |yAxisFormat=%
-  |type=stackedarea
-  |x=2020-09-15, 2020-12-10, 2021-01-21, 2021-03-16, 2021-10-07, 2022-11-09
-  |y1=0.386, 0.43, 0.44, 0.30, 0.246, 0.459
-  |y2=0.062, 0.01, 0.01, 0.00, 0.029, 0.073
-  |y3=0.552, 0.56, 0.55, 0.70, 0.725, 0.468
-  |interpolate=monotone
-  |colors=LimeGreen, Grey, FireBrick
-  
-|width=
-|caption=Polling on vaccination obligatoriness
-
-* 
-* 
-* 
-
-|border=no
 
 
 A voluntary anonymous online survey conducted by the Oswaldo Cruz Foundation in late January 2021 with 173,178 respondents found that 89.5% of the respondents intended to be vaccinated, 6.7% would accept vaccination depending on the vaccine, 1.3% were uncertain and 2.5% would not accept any vaccine.
@@ -277,55 +225,6 @@ On 16 December 2021, Anvisa, the Brazilian medical regulatory agency, issued an 
 President Bolsonaro went so far as to demand the release of the names of the Anvisa scientists who granted approval.  After public discussions, the Ministry of Health declared on January 5 that the vaccination is going to start in January. There are about 20 millions kids in this age group.
 
 References
-Reflist|30em|refs=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

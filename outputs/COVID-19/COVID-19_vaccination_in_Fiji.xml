@@ -3,7 +3,8 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-03-29T15:28:03Z" sourceCorpus="COVID-19" filename="68039895" title="COVID-19_vaccination_in_Fiji" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Fiji">
 	<text>
-		<segment id="id68039895">|Location=|target=Immunisation of Fiji against COVID-19|participants=618,173 individuals who are above the age of 18 as well as children aged 12 to 17.|website=[http://www.health.gov.fj/covid-vaccine/ health.gov.fj/covid-vaccine]|blank_label=Vaccines deployed|blank_data=Plainlist|
+		<segment id="id68039895">
+
 *Oxford–AstraZeneca COVID-19 vaccine
 *Moderna COVID-19 vaccine (also for booster shots)
 *Pfizer–BioNTech COVID-19 vaccine

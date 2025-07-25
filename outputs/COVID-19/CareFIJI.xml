@@ -3,10 +3,11 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2023-11-11T19:10:17Z" sourceCorpus="COVID-19" filename="65983602" title="CareFIJI" url="https://en.wikipedia.org/wiki/CareFIJI">
 	<text>
-		<segment id="id65983602">| language = English
-| genre = Digital contact tracing
-| license = Open Source
-| website = 
+		<segment id="id65983602">
+
+
+
+
 
 careFIJI is a mobile software application developed by the Government of Fiji to assist the Ministry of Health and Medical Services in combating the ongoing COVID-19 pandemic in Fiji. The mobile app is available on Google Play and the App Store.
 

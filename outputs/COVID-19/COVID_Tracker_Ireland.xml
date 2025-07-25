@@ -3,24 +3,18 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2024-02-13T13:23:14Z" sourceCorpus="COVID-19" filename="64831092" title="COVID_Tracker_Ireland" url="https://en.wikipedia.org/wiki/COVID_Tracker_Ireland">
 	<text>
-		<segment id="id64831092">| collapsible = yes
-| developer = 
-| released = 
-| latest release version = Multiple releases
-| branch1  = Android
-| version1 = 1.0.8
-| date1 = 
-| branch2 = iOS
-| version2 = 1.0.8
-| date2 = 
+		<segment id="id64831092">
 
-| repo = 
-| operating system = Android, iOS
-| language = English, Irish, Arabic, French, Latvian, Lithuanian, Polish, Portuguese
-| genre = Digital contact tracingCOVID-19 apps
-| licence = MIT License
-| website = 
-| standard = 
+
+
+
+
+
+
+
+
+
+
 
 
 COVID Tracker Ireland is a digital contact tracing app released by the Irish Government and the Health Service Executive on 7 July 2020 to prevent the spread of COVID-19 in Ireland. The app uses ENS and Bluetooth technology to determine whether a user have been a close contact of someone for more than 15 minutes who tested positive for COVID-19. On 8 July, the app reached one million registered users within 36 hours after its launch, representing more than 30% of the population of Ireland and over a quarter of all smartphone users in the country. As of August 2021, over 3,030,000 people have downloaded the app.

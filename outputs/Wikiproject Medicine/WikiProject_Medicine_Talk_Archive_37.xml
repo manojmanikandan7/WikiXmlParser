@@ -544,8 +544,8 @@ How to make a free text line in Infobox disease?
 Problem = Have 2 MeSH IDs for the same wikipedia article due to merges. I want to include both, tried this didn't work as one was ignored and not translated from the source. 
 
 
- | MeshID          = D008010
- | MeshID2         = D017676
+
+
 
 Any ideas? Article is Lichen planus btw. Lesion (talk) 11:58, 13 August 2013 (UTC)
  You have to use MeSH2 instead of MeshID2. Have changed the article accordingly. --WS (talk) 13:00, 13 August 2013 (UTC)

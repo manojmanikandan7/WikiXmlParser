@@ -3,14 +3,15 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-03-29T15:28:35Z" sourceCorpus="COVID-19" filename="66866976" title="COVID-19_vaccination_in_Peru" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Peru">
 	<text>
-		<segment id="id66866976">| caption = 
-| date = 
-| location = Peru
-| cause = COVID-19 pandemic in Peru
-| target = Immunisation of Peruvians against COVID-19
-| budget = 
-| organisers = Ministry of Health of Peru
-| website = 
+		<segment id="id66866976">
+
+
+
+
+
+
+
+
 
 
 The COVID-19 vaccination program in Peru is the national vaccination strategy to protect the population against SARS-CoV-2 employing vaccines developed for the COVID-19 pandemic in Peru. Vaccination began on 9 February 2021, after three days of arrival of first vaccines. On a nation message, the head of state Francisco Sagasti confirmed the purchase of 38 millions of vaccines, being one million of vaccines for health personnel.
@@ -36,32 +37,6 @@ According to the study presented by IPSOS, a French sociological and market rese
 Note: (*) It was asked how &quot;If right now a vaccine approved by the Ministry of Health and free to prevent the COVID-19, do you? would you be vaccinated or not vaccinated?
 Note 2: (**) He wondered how &quot;If tomorrow it's your turn for the COVID-19 vaccine, would you or would you not get the vaccine?&quot;
 
-Graph
-|width = 400
-|height =
-|type = line
-|linewidth = 2
-|showSymbols = 2
-|colors = #225ea8, #E74C3C, #85929E
-|showValues = 
-|xAxisTitle = Timeline
-|xAxisAngle = 
-|xAxisFormat = %e-%-m-%Y
-|yAxisFormat = %
-|yAxisTitle = Acceptance percentage
-|legend = Question posed
-|x = Aug 2020, Dec 2020, Jan 2021, Feb 2021, Mar 2021, May 2021
-
-|y1Title = I want to get vaccinated
-|y1 = 0.75, 0.57, 0.48, 0.59, 0.60, 0.63
-
-|y2Title = I don't want to get vaccinated
-|y2 = 0.22, 0.40, 0.48, 0.35, 0.33, 0.30
-
-|y3Title = I already got vaccinated
-|y3 = 0.0, 0.0, 0.0, 0.0, 0.0, 0.04
-
-|yGrid = | xGrid =
 
 
 Vaccines on order
@@ -93,75 +68,14 @@ Graphs
 
 Departments by type of vaccines
 * Last updated: September 15, 2021.
-Graph
-|width = 500
-|height = 250
-|type = stackedrect
-|yType = number
-|colors = #1d91c0,#225ea8,#41b6c4
-|legend = Vaccine
-|yAxisTitle = No. of doses
-|xAxisAngle = -60
-|xAxisTitle = 
-|x = La Libertad,Arequipa,Piura,Callao,Junin,Ancash,Cajamarca,Cusco,Lima,Ica,Lambayeque,San Martin,Puno,Loreto,Tacna,Ayacucho,Huanuco,Apurimac,Ucayali,Amazonas,Huancavelica,Pasco,Tumbes,Moquegua,Madre De Dios
-
-|y1title = Oxford–AstraZeneca
-|y1 = 0,0,0,0,0,0,2472,0,3707,0,0,0,224412,0,0,110205,109886,84038,102287,64226,67531,49408,46405,0,25933
-
-|y2title = Pfizer–BioNTech
-|y2 = 671162,799779,720468,780301,417273,429442,443591,464948,381449,303425,511855,272095,73261,197307,254299,108178,70529,89621,49931,41218,52640,65421,53625,124742,23320
-
-|y3title = Sinopharm BIBP
-|y3 = 434483,293568,328357,234404,489342,368675,349081,313386,355514,362261,151670,199165,128219,165375,92044,126836,154747,108664,110747,118524,101683,79980,52234,16666,17097
-
-|yGrid = | xGrid = 0
 
 
-Graph
-|width = 300
-|height = 250
-|type = rect
-|yType = number
-|colors = #225ea8,#41b6c4
-|legend = Vaccine
-|yAxisTitle = No. of doses
-|xAxisAngle =
-|xAxisTitle = 
-|x =  Lima province
-
-|y1title = Pfizer–BioNTech
-|y1 = 6251659
-
-|y2title = Sinopharm BIBP
-|y2 = 1630337
-
-|yGrid = | xGrid = 0
 
 Data source: Platform of &quot;Datos abiertos&quot;, Government of Peru.
 
 Inoculated doses in provinces
 * Last updated: September 15, 2021.
 Percentage of population (2020) with second dose in most populated provinces of the country.
-Graph
-|width = 650
-|height = 250
-|type = rect
-|yType = number
-|colors = #225ea8
-|showValues = offset:4, format:.2%
-|yAxisTitle = % of population with second dose
-|xAxisAngle = -40
-|yAxisMin = 0.0
-|yAxisMax = 
-|xAxisFormat = %-d %b
-|yAxisFormat = %
-|xAxisTitle = 
-|x = Lima,Huancayo,Cusco,Arequipa,Ica,Santa,Trujillo,Chiclayo,Piura,Maynas,Coronel Portillo
-
-|y1title = Percentage
-|y1 = 0.3539,0.3445,0.3102,0.3011,0.2987,0.2668,0.2489,0.2384,0.2380,0.1950,0.1937
-
-|yGrid = | xGrid = 0
 
 Note: Name of provinces and department name in parentheses. Chiclayo (Lambayeque), Coronel Portillo (Ucayali), Huancayo (Junin), Lima (Lima province), Maynas (Loreto), Santa (Ancash) and Trujillo (La Libertad)
 Data source: Platform of &quot;Datos abiertos&quot;, Government of Peru.
@@ -170,26 +84,6 @@ Districts of Lima with the most vaccinations
 * Last updated: September 15, 2021.
 Districts of the city of Lima with the highest reception of people who were inoculated with the two doses with respect to the size of their population (est. 2020). The districts with the highest percentage vaccinate people who come from other districts and have large vaccination centers.
 
-Graph
-|width = 650
-|height = 250
-|type = rect
-|yType = number
-|colors = #225ea8
-|showValues = offset:4, format:.2%
-|yAxisTitle = % of population with second dose
-|xAxisAngle = -60
-|yAxisMin = 0.0
-|yAxisMax = 1.00
-|xAxisFormat = %-d %b
-|yAxisFormat = %
-|xAxisTitle = 
-|x = Santa Maria Del Mar,San Luis,Jesus Maria,San Isidro,Miraflores,Barranco,Lima,Surquillo,La Molina,Chaclacayo,Villa El Salvador,Magdalena Del Mar,Santa Anita,La Victoria,Breña,Punta Negra,San Bartolo,Chorrillos,Independencia,Rimac,San Martin De Porres,Pucusana,Santiago De Surco,El Agustino,Villa Maria Del Triunfo,Comas,Cieneguilla,San Juan De Miraflores,Ancon,San Juan De Lurigancho,Pachacamac,Puente Piedra,Lurin,Punta Hermosa,Santa Rosa,Carabayllo,Ate,Los Olivos,Lince,San Miguel,San Borja,Pueblo Libre
-
-|y1title = Percentage
-|y1 = 4.7916,2.6521,1.4490,1.1275,1.1004,1.0731,0.8260,0.8022,0.7435,0.7192,0.6822,0.6335,0.6170,0.5693,0.4810,0.4148,0.4144,0.4140,0.4013,0.3980,0.3958,0.3884,0.3702,0.3522,0.3125,0.2571,0.2537,0.2226,0.2210,0.2205,0.2095,0.2079,0.1874,0.1848,0.1699,0.1484,0.1303,0.0979,0.0776,0.0720,0.0681,0.0366
-
-|yGrid = | xGrid = 0
 
 
 Data source: Platform of &quot;Datos abiertos&quot;, Government of Peru.

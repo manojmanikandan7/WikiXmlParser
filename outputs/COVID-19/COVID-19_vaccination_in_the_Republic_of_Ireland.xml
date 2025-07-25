@@ -3,12 +3,12 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-07-07T15:06:01Z" sourceCorpus="COVID-19" filename="66732331" title="COVID-19_vaccination_in_the_Republic_of_Ireland" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_the_Republic_of_Ireland">
 	<text>
-		<segment id="id66732331">| outcome      = 
+		<segment id="id66732331">
 
 
 
-| website      = [https://www.gov.ie/en/campaigns/199e6-covid-19-vaccine/ gov.ie]
-| notes          = 
+
+
 
 
 
@@ -119,17 +119,6 @@ January 2022
 On 3 January 2022, vaccine registration began for all children aged 5 to 11, and vaccinations for this age group began on 8 January.
 
 Vaccination certificates
-multiple image
-| align = right
-| direction = horizontal
-| width = 100
-| total_width = 395
-| image1 = HSE COVID-19 Vaccination Record Card.jpg
-| image2 = HSE COVID-19 Vaccine Booster Record Card.jpg
-| caption1   = A COVID-19 Vaccination Record Card issued by the HSE in August 2021.
-| caption2   = A COVID-19 Vaccine Booster Record Card issued by the HSE in January 2022.
-| caption_align = center
-| footer_align = center
 
 The Health Service Executive (HSE) issues a vaccine record card to those receiving a COVID-19 vaccine in Ireland that provides reminders for a follow-up appointment. The card contains the recipient's name, the dates on which the two doses were administered, the name of the vaccine, and its batch number. The vaccine record card, along with the EU Digital COVID Certificate, were used as proofs of vaccination in restaurants, hotels and bars to gain access to indoor hospitality, as well as in nightclubs, indoor live entertainment, cinemas, theatres and gyms. Requirements on the use of vaccine certificates were scrapped in January 2022.
 
@@ -173,31 +162,24 @@ The National Immunisation Advisory Committee (an independent body outside of the
 
 Progress to date
 Pie chart
-|caption=Total doses administered by vaccine type as of 21 February 2023
-|label1 = Pfizer–BioNTech (6,013,524)
-|value1 = 74.63 | color1 = lightblue
-|label2 = Oxford–AstraZeneca (1,217,512)
-|value2 = 15.1 | color2 = lightgreen
-|label3 = Moderna (585,177)
-|value3 = 7.26 | color3 = lightcoral
-|label4 = Janssen J&amp;J (241,233)
-|value4 = 2.99 | color4 = #C40234
-|label5 = Novavax (450)
-|value5 = 0.00 | color5 = orange 
 
-image frame
-|content=Graph:Chart |type=line |linewidth=3 |width=555 |height=365 |yGrid= |xGrid= |colors=lightgreen,orange,blue |xAxisTitle=Date |xAxisAngle=-45 |yAxisTitle=Vaccine doses administered |xType=date |xAxisFormat=%e %b
-|x=29 Dec 2020,31 Dec 2020,4 Jan 2021,7 Jan 2021,13 Jan 2021,17 Jan 2021,20 Jan 2021,24 Jan 2021,27 Jan 2021,31 Jan 2021,3 Feb 2021,5 Feb 2021, 6 Feb 2021,7 Feb 2021,8 Feb 2021,9 Feb 2021,10 Feb 2021,11 Feb 2021,12 Feb 2021,13 Feb 2021,14 Feb 2021,15 Feb 2021,16 Feb 2021,17 Feb 2021,18 Feb 2021,19 Feb 2021,20 Feb 2021,21 Feb 2021,22 Feb 2021,23 Feb 2021,24 Feb 2021,25 Feb 2021,26 Feb 2021,27 Feb 2021,28 Feb 2021,1 Mar 2021,2 Mar 2021,3 Mar 2021,4 Mar 2021,5 Mar 2021,6 Mar 2021,7 Mar 2021,8 Mar 2021,9 Mar 2021,10 Mar 2021,11 Mar 2021,12 Mar 2021,13 Mar 2021,14 Mar 2021,15 Mar 2021,16 Mar 2021,17 Mar 2021,18 Mar 2021,19 Mar 2021,20 Mar 2021,21 Mar 2021,22 Mar 2021,23 Mar 2021,24 Mar 2021,25 Mar 2021,26 Mar 2021,27 Mar 2021,28 Mar 2021,29 Mar 2021,30 Mar 2021,31 Mar 2021,1 Apr 2021,2 Apr 2021,3 Apr 2021,4 Apr 2021,5 Apr 2021,6 Apr 2021,7 Apr 2021,8 Apr 2021,9 Apr 2021,10 Apr 2021,11 Apr 2021,12 Apr 2021,13 Apr 2021,14 Apr 2021,15 Apr 2021,16 Apr 2021,17 Apr 2021,18 Apr 2021,19 Apr 2021,20 Apr 2021,21 Apr 2021,22 Apr 2021,23 Apr 2021,24 Apr 2021,25 Apr 2021,26 Apr 2021,27 Apr 2021,28 Apr 2021,29 Apr 2021,30 Apr 2021,1 May 2021,2 May 2021,3 May 2021,4 May 2021,5 May 2021,6 May 2021,7 May 2021,8 May 2021,9 May 2021,10 May 2021,11 May 2021,26 May 2021,30 May 2021,5 Jun 2021,9 Jun 2021,17 Jun 2021,29 Jun 2021,30 Jun 2021,1 Jul 2021,2 Jul 2021,3 Jul 2021,4 Jul 2021,5 Jul 2021,6 Jul 2021,7 Jul 2021,8 Jul 2021,9 Jul 2021,10 Jul 2021,11 Jul 2021,12 Jul 2021,13 Jul 2021,14 Jul 2021,15 Jul 2021,16 Jul 2021,17 Jul 2021,18 Jul 2021,19 Jul 2021,20 Jul 2021,21 Jul 2021,22 Jul 2021,23 Jul 2021,24 Jul 2021,25 Jul 2021,26 Jul 2021,27 Jul 2021,28 Jul 2021,29 Jul 2021,30 Jul 2021,31 July 2021,1 Aug 2021,2 Aug 2021,3 Aug 2021,4 Aug 2021,5 Aug 2021,6 Aug 2021,7 Aug 2021,8 Aug 2021,9 Aug 2021,10 Aug 2021,11 Aug 2021,12 Aug 2021,13 Aug 2021,14 Aug 2021,15 Aug 2021,16 Aug 2021,17 Aug 2021,18 Aug 2021,19 Aug 2021,20 Aug 2021,21 Aug 2021,22 Aug 2021,23 Aug 2021,24 Aug 2021,25 Aug 2021,26 Aug 2021,27 Aug 2021,28 Aug 2021,29 Aug 2021,30 Aug 2021,31 Aug 2021,1 Sep 2021,2 Sep 2021,3 Sep 2021,4 Sep 2021,5 Sep 2021,6 Sep 2021,7 Sep 2021,8 Sep 2021,9 Sep 2021,10 Sep 2021,11 Sep 2021,12 Sep 2021,13 Sep 2021,14 Sep 2021,15 Sep 2021,16 Sep 2021,17 Sep 2021,18 Sep 2021,19 Sep 2021,20 Sep 2021,21 Sep 2021,22 Sep 2021,23 Sep 2021,24 Sep 2021,25 Sep 2021,26 Sep 2021,27 Sep 2021,28 Sep 2021,29 Sep 2021,30 Sep 2021,1 Oct 2021,2 Oct 2021,3 Oct 2021,4 Oct 2021,5 Oct 2021,6 Oct 2021,7 Oct 2021,8 Oct 2021,10 Oct 2021,11 Oct 2021,12 Oct 2021,13 Oct 2021,14 Oct 2021,15 Oct 2021,16 Oct 2021,17 Oct 2021,18 Oct 2021,19 Oct 2021,20 Oct 2021,21 Oct 2021,22 Oct 2021,23 Oct 2021,24 Oct 2021,25 Oct 2021,26 Oct 2021,27 Oct 2021,28 Oct 2021,29 Oct 2021,2 Nov 2021,3 Nov 2021,4 Nov 2021,5 Nov 2021,6 Nov 2021,7 Nov 2021,8 Nov 2021,9 Nov 2021,10 Nov 2021,11 Nov 2021,12 Nov 2021,13 Nov 2021,14 Nov 2021,15 Nov 2021,16 Nov 2021,17 Nov 2021,18 Nov 2021,19 Nov 2021,20 Nov 2021,21 Nov 2021,22 Nov 2021,23 Nov 2021,24 Nov 2021,25 Nov 2021,26 Nov 2021,27 Nov 2021,28 Nov 2021,29 Nov 2021,30 Nov 2021,1 Dec 2021,2 Dec 2021,3 Dec 2021,4 Dec 2021,5 Dec 2021,6 Dec 2021,7 Dec 2021,8 Dec 2021,9 Dec 2021,12 Dec 2021,13 Dec 2021,14 Dec 2021,15 Dec 2021,16 Dec 2021,17 Dec 2021,18 Dec 2021,19 Dec 2021,20 Dec 2021,21 Dec 2021,22 Dec 2021,23 Dec 2021,24 Dec 2021,27 Dec 2021,28 Dec 2021,29 Dec 2021,30 Dec 2021,31 Dec 2021,1 Jan 2022,2 Jan 2022,3 Jan 2022,4 Jan 2022,5 Jan 2022,6 Jan 2022,7 Jan 2022,8 Jan 2022,9 Jan 2022,10 Jan 2022,11 Jan 2022,12 Jan 2022,13 Jan 2022,15 Jan 2022,16 Jan 2022,17 Jan 2022,18 Jan 2022,19 Jan 2022,20 Jan 2022,21 Jan 2022,22 Jan 2022,23 Jan 2022,24 Jan 2022,25 Jan 2022,26 Jan 2022,27 Jan 2022,30 Jan 2022,31 Jan 2022,1 Feb 2022,2 Feb 2022,3 Feb 2022,6 Feb 2022,7 Feb 2022,8 Feb 2022,9 Feb 2022,13 Feb 2022,14 Feb 2022,15 Feb 2022,16 Feb 2022,17 Feb 2022,20 Feb 2022,21 Feb 2022,22 Feb 2022,23 Feb 2022,24 Feb 2022,27 Feb 2022,28 Feb 2022,1 Mar 2022,2 Mar 2022,3 Mar 2022,6 Mar 2022,7 Mar 2022,8 Mar 2022,9 Mar 2022,10 Mar 2022,13 Mar 2022,14 Mar 2022,15 Mar 2022,20 Mar 2022,21 Mar 2022,22 Mar 2022,23 Mar 2022,24 Mar 2022,27 Mar 2022,28 Mar 2022,29 Mar 2022,31 Mar 2022,3 Apr 2022,4 Apr 2022,5 Apr 2022,6 Apr 2022,7 Apr 2022,10 Apr 2022,11 Apr 2022,12 Apr 2022,13 Apr 2022,18 Apr 2022,19 Apr 2022,20 Apr 2022,21 Apr 2022,24 Apr 2022,25 Apr 2022,26 Apr 2022,27 Apr 2022,28 Apr 2022,2 May 2022,3 May 2022,4 May 2022,5 May 2022,8 May 2022,9 May 2022,10 May 2022,11 May 2022,12 May 2022,15 May 2022,19 May 2022,26 May 2022,2 Jun 2022,9 Jun 2022,16 Jun 2022,23 Jun 2022,30 Jun 2022,7 Jul 2022,14 Jul 2022,21 Jul 2022,28 Jul 2022,4 Aug 2022,11 Aug 2022,18 Aug 2022,25 Aug 2022,1 Sep 2022,14 Sep 2022,21 Sep 2022,6 Oct 2022,17 Nov 2022,3 Jan 2023,20 Feb 2023
-|y1=100,1800,2500,4000,15314,77303,94000,121900,143000,147700,150500,152200,151212,152652,154900,158904,166863,171239,175238,176926,180192,182193,187893,197609,205955,214384,219899,222073,226291,238841,254948,271594,285780,294550,297899,303550,316056,328598,346256,363601,373149,375521,382528,396089,409662,426819,443092,451589,452554,455182,463500,468328,478725,487466,492106,495824,503796,515800,529984,548945,567023,577641,580857,590688,603802,619003,636963,655292,660800,663411,667182,679844,687619,716636,735997,745363,749450,758763,769721,789526,814470,838644,852189,855512,863958,878823,904774,934980,966611,987681,998134,1014640,1041284,1067378,1097742,1130958,1146562,1159083,1174292,1201373,1233067,1267167,1305178,1327821,1347561,1376583,1408105,1800000,1850000,2000000,2100000,2300000,2443921,2468552,2482377,,2503589,2510189,2527909,2541492,2562205,2652657,2665216,2673840,2688973,2707472,2727205,2750468,2803491,2885807,2901641,2920641,2952240,2989341,3026154,3084093,3119312,3132369,3148266,3175190,3218343,3248996,3272791,3292726,3307341,3319049,3334752,3353969,3379110,3394945,3408634,3416376,3425121,3436543,3447303,3458335,3468729,3479514,3498072,3515184,3527324,3543634,3559460,3571239,3586658,3598868,3607097,3618805,3629205,3639176,3649203,3659200,3669454,3678537,3683944,3688438,3693405,3698849,3703755,3708326,3713713,3716531,3720088,3723052,3726813,3730456,3733252,3735403,3737703,3740175,3743650,3745660,3748307,3750782,3752726,3753957,3755964,3758178,3759608,3761574,3764110,3765739,3767057,3768692,3770362,3771808,3773683,3775482,3776684,3777064,3777477,3778894,3780236,3781159,3783079,3784072,3784824,3785851,3786942,3788061,3789482,3791218,3792047,3792442,3795795,3797728,3799280,3801415,3803472,3804753,3806129,3807725,3809915,3812116,3819555,3819555,3821486,3823052,3824953,3825706,3826285,3827837,3829474,3831012,3832194,3833592,3835369,3836841,3838322,3839937,3841607,3842832,3844477,3846369,3847241,3849615,3851364,3852415,3853809,3855252,3857497,3858325,3860572,3861973,3863948,3865051,3866441,3867933,3868993,3869578,3870543,3871391,3874117,3874974,3875788,3876800,3878047,3879503,3880984,3881659,3882892,3884792,3886352,3887577,3887772,3888361,3889066,3890427,3891821,3892818,3893104,3893774,3894675,3895643,3896996,3898034,3899327,3900382,3901303,3902171,3939872,3947890,3955516,3975278,3982545,3985438,3989805,3993649,3997605,4001339,4005902,4009243,4010261,4011339,4012382,4013850,4019582,4020341,4021348,4022441,4023807,4029016,4029737,4031000,4032967,4038305,4038758,4039871,4040969,4042164,4046110,4046646,4047492,4048761,4049744,4052884,4053251,4053687,4054291,4054930,4057788,4058137,4058614,4059166,4059840,4061807,4062297,4063016,4065095,4065278,4065822,4066165,4066577,4068624,4068699,4069002,4069644,4071691,4071843,4072102,4072406,4072704,4074277,4074318,4074702,4074956,4076055,4076399,4076700,4076999,4077951,4078066,4078335,4078580,4078759,4079659,4079938,4080156,4080233,4081374,4081454,4081680,4081908,4082143,4083064,4083651,4085315,4086688,4087788,4088560,4089610,4090560,4091159,4091995,4092885,4093635,4093173,4093844,4094411,4095146,4095730,4096066,4096562,4097448,4102291,4104419,4107865
-|y2=,,,,,,,,13800,49300,67000,79554,84344,,88453,89380,89818,89834,89999,91625,91750,98388,105859,113291,120520,126320,130423,131898,133325,134439,136407,137935,140290,141345,141883,142924,144581,146047,147617,149721,149920,150247,154089,157072,160729,162693,163812,164345,164496,165398,168859,171258,175526,181063,183840,184191,186653,193548,202694,211223,219546,224861,225684,228988,236759,246457,256412,268586,271524,272676,273701,282043,291879,301628,309922,313031,314216,317453,325243,331477,341129,349710,351874,352947,355529,362142,371054,382185,393310,398072,399927,403302,411150,419665,430102,441821,445326,445561,447578,454493,467471,479745,494012,499789,501186,506052,514808,800000,850000,900000,1000000,1200000,1593517,1633745,1681784,,1758989,1786900,1823201,1873441,1920762,1967163,2011239,2033341,2049917,2083946,2123816,2161989,2192228,2220585,2241036,2257426,2277860,2296255,2318532,2353247,2377108,2389901,2403488,2423361,2449781,2477226,2506309,2530285,2542583,2552062,2568366,2594735,2613323,2645049,2669859,2678361,2690128,2718452,2744768,2779000,2820025,2846712,2852206,2856029,2882015,2913284,2939549,2965045,2987398,2994820,3006947,3023139,3046199,3065944,3087014,3106155,3113933,3123165,3134693,3147684,3160243,3172584,3188518,3198604,3210547,3220760,3231672,3246282,3261598,3275325,3286590,3299645,3307843,3319454,3332239,3343045,3357684,3368871,3377423,3383523,3390362,3399213,3408067,3415537,3422259,3429415,3433595,3439105,3442738,3446993,3452106,3456116,3459157,3460413,3461310,3464595,3467360,3469976,3474917,3477623,3479442,3481691,3484258,3486378,3489029,3491860,3493274,3493835,3497486,3499515,3501580,3503320,3505581,3506443,3507890,3509451,3511330,3512608,3516732,3518356,3519855,3520865,3522188,3522986,3523488,3524598,3525916,3527177,3528222,3529555,3531343,3531995,3533160,3534373,3536838,3538368,3541318,3544155,3544750,3546495,3549637,3550852,3551915,3553526,3555917,3557052,3558893,3560494,3561959,3563120,3564852,3566754,3568103,3568914,3570407,3571642,3576049,3577232,3578555,3579905,3581411,3583818,3585151,3585894,3587374,3589558,3591370,3592941,3593160,3593949,3594920,3596552,3598171,3600035,3600332,3601282,3602370,3603531,3605025,3606552,3607699,3608674,3609647,3610364,3612110,3613416,3614436,3616318,3617737,3618605,3619370,3620311,3621444,3622758,3623608,3624470,3625270,3627430,3628579,3629911,3644646,3646279,3649920,3653290,3656027,3676568,3678199,3679746,3682069,3700732,3701999,3703223,3705095,3705190,3719494,3721046,3722427,3724112,3725625,3731443,3732184,3733401,3734734,3736467,3744168,3744552,3745364,3746139,3747044,3753250,3753718,3754960,3760705,3760953,3761824,3762193,3762754,3767402,3767512,3767796,3768612,3772493,3772652,3772902,3773214,3773642,3776088,3776216,3776549,3776858,3778732,3779129,3779775,3780112,3781811,3781925,3782263,3782625,3782809,3784726,3785026,3785300,3785481,3787491,3787581,3787797,3788036,3788450,3789862,3790555,3793073,3795017,3796605,3798129,3799631,3801916,3802782,3803729,3804600,3805472,3806048,3806840,3807461,3808094,3808683,3809759,3810343,3811289,3813890,3816078,3819227
-|y3=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,775,1422,2971,5390,6404,6436,10686,21773,34059,45898,58143,64659,65963,72619,83204,94988,108822,119684,127525,129219,134193,144162,153927,164984,172925,174354,175709,176231,180675,187909,195249,201765,203908,204876,204876,207697,215916,224429,236226,250066,261387,272629,287235,310301,336840,366006,391284,410859,419952,434564,464055,494583,531257,561392,581842,595042,611210,643702,678329,716979,751352,774894,790756,811487,847808,883853,918179,949159,968238,983005,1005656,1034077,1070232,1114334,1209243,1240272,1291320,1345234,1402866,1462167,1502018,1535060,1635920,1750593,1869667,1967860,1984818,2001608,2026381,2078523,2138862,2161409,2171376,2186344,2204047,2238302,2279178,2324478,2362211,2382753,2396329,2416945,2447190,2477765,2510549,2552662,2560766,2578601,2596672,2612675,2625796,2638723,2646755,2650966,2657959,2666201,2674569,2681412,2695836,2700458,2705792,2713302,2720405,2734164,2737449,2741939,2747358,2768440,2771269,2775537,2779362,2783978,2794463,2796497,2799969,2803186,2806516,2817835,2819636,2821375,2824900,2828794,2840811,2842319,2844899,2857832,2852206,2863712,2865672,2868884,2880234,2881870,2884486,2888156,2893519,2903783,2904174,2904979,2910747,2930334,2932352,2935638,2938842,2943451,2956163,2957379,2961086,2964247,2970863,2974908,2977032,2980450,2981675,2982863,2985145,2987185,2989075,2994604,2996818,2999130,3001051,3007329,3008580,3010705,3013932,3016448,3022649,3030707,3044513,3055687,3062716,3069451,3077783,3086678,3094407,3099531,3105849,3110100,3112874,3116869,3119363,3122637,3602251,3795654,3816191,3905714,4366366,4637247,4817602
 
-|width=
-|align=none
-|caption=Total eligible population vaccinated
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-|border=no
-|mode=
+
+
 
 
 
@@ -209,15 +191,6 @@ Major facilities were put in place in Cork, Dublin, Waterford, Sligo, Galway, Li
 
 Large venues such as sports stadia, GAA clubs, hotels, conference centres and arenas were used as mass vaccination centres across all counties in Ireland.
 
-multiple image
- | align = centre
- | width = 200
- | image1 = Aviva Stadium(Dublin Arena).JPG
- | caption1 = Aviva Stadium vaccination centre.
- | image2 = Waterford Institute of Technology, 2021-06-01, 05.jpg
- | caption2 = Waterford IT Arena vaccination centre.
- | image3 = Cork City Hall, February 2018.jpg
- | caption3 = Cork City Hall vaccination centre.
 
 
 Locations
@@ -228,171 +201,171 @@ On 20 February, nearly 1,000 patients over the age of 85 received their first do
 On 28 July, it was announced that some of the vaccination centres would allow walk-in vaccinations on certain days and times without an appointment.
 
 Location map+ |Island of Ireland
-|alt     = Vaccination centre locations in the Republic of Ireland
-|caption = Vaccination centre locations in the Republic of Ireland
-|relief  = 1
-|fixed   = right 
-|width   = 400 
-|places=
+
+
+
+
+
+
 
 Location map~|Ireland |label=Carlow|position=right |mark=green pog.svg
-|lat_deg=52.8365 |lat_dir=N | lon_deg=6.9341 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Cavan|position=right |mark=pink pog.svg
-|lat_deg=53.9866 |lat_dir=N | lon_deg=7.3223 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Clare|position=right |mark=red pog.svg
-|lat_deg=52.8316 |lat_dir=N | lon_deg=8.9813 |lon_dir=W
+
 
 
 Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=51.6801 |lat_dir=N | lon_deg=9.4526 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Cork|position=right |mark=red pog.svg
-|lat_deg=51.8985 |lat_dir=N | lon_deg=8.4756 |lon_dir=W
 
-
-Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=51.8998 |lat_dir=N | lon_deg=8.4352 |lon_dir=W
 
 
 Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=51.6211 |lat_dir=N | lon_deg=8.9265 |lon_dir=W
 
-
-Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=51.8860 |lat_dir=N | lon_deg=8.5336 |lon_dir=W
 
 
 Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=52.1455 |lat_dir=N | lon_deg=8.6124 |lon_dir=W
+
+
+
+Location map~|Ireland |label=|position=right |mark=red pog.svg
+
+
+
+Location map~|Ireland |label=|position=right |mark=red pog.svg
+
 
 
 Location map~|Ireland |label=Donegal|position=right |mark=pink pog.svg
-|lat_deg=54.9524 |lat_dir=N | lon_deg=7.7209 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Dublin|position=right |mark=green pog.svg
-|lat_deg=53.3352 |lat_dir=N | lon_deg=6.2285 |lon_dir=W
 
-
-Location map~|Ireland |label=|position=right |mark=green pog.svg
-|lat_deg=53.2860 |lat_dir=N | lon_deg=6.4445 |lon_dir=W
 
 
 Location map~|Ireland |label=|position=right |mark=green pog.svg
-|lat_deg=53.3607 |lat_dir=N | lon_deg=6.2512 |lon_dir=W
 
-
-Location map~|Ireland |label=|position=right |mark=green pog.svg
-|lat_deg=53.3866 |lat_dir=N | lon_deg=6.2590 |lon_dir=W
 
 
 Location map~|Ireland |label=|position=right |mark=green pog.svg
-|lat_deg=53.4368 |lat_dir=N | lon_deg=6.2251 |lon_dir=W
+
+
+
+Location map~|Ireland |label=|position=right |mark=green pog.svg
+
+
+
+Location map~|Ireland |label=|position=right |mark=green pog.svg
+
 
 
 Location map~|Ireland |label=Galway|position=right |mark=yellow pog.svg
-|lat_deg=53.2982 |lat_dir=N | lon_deg=8.9968 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Kerry|position=right |mark=red pog.svg
-|lat_deg=52.1545 |lat_dir=N | lon_deg=9.5669 |lon_dir=W
+
 
 
 Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=52.0599 |lat_dir=N | lon_deg=9.5044 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Kildare|position=right |mark=green pog.svg
-|lat_deg=53.1858 |lat_dir=N | lon_deg=6.6293 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Kilkenny|position=right |mark=green pog.svg
-|lat_deg=52.6541 |lat_dir=N | lon_deg=7.2448 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Laois|position=right |mark=green pog.svg
-|lat_deg=53.0350 |lat_dir=N | lon_deg=7.3025 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Leitrim|position=right |mark=yellow pog.svg
-|lat_deg=53.9451 |lat_dir=N | lon_deg=8.0862 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Limerick|position=right |mark=red pog.svg
-|lat_deg=52.6638 |lat_dir=N | lon_deg=8.6267 |lon_dir=W
+
 
 
 Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=52.5907 |lat_dir=N | lon_deg=8.6956 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Longford|position=right |mark=green pog.svg
-|lat_deg=53.7616 |lat_dir=N | lon_deg=7.8323 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Louth|position=right |mark=green pog.svg
-|lat_deg=53.9678 |lat_dir=N | lon_deg=6.3874 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Meath|position=right |mark=green pog.svg
-|lat_deg=53.6471 |lat_dir=N | lon_deg=6.6967 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Mayo|position=right |mark=yellow pog.svg
-|lat_deg=53.8550 |lat_dir=N | lon_deg=9.2879 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Monaghan|position=right |mark=pink pog.svg
-|lat_deg=54.2492 |lat_dir=N | lon_deg=6.9683 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Offaly|position=right |mark=green pog.svg
-|lat_deg=53.2755 |lat_dir=N | lon_deg=7.4934 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Roscommon|position=right |mark=yellow pog.svg
-|lat_deg=53.6340 |lat_dir=N | lon_deg=8.1819 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Sligo|position=right |mark=yellow pog.svg
-|lat_deg=54.2791 |lat_dir=N | lon_deg=8.4614 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Tipperary|position=right |mark=red pog.svg
-|lat_deg=52.8643 |lat_dir=N | lon_deg=8.1976 |lon_dir=W
+
 
 
 Location map~|Ireland |label=|position=right |mark=red pog.svg
-|lat_deg=52.3558 |lat_dir=N | lon_deg=7.6903 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Waterford|position=right |mark=red pog.svg
-|lat_deg=52.2461 |lat_dir=N | lon_deg=7.1387 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Westmeath|position=right |mark=green pog.svg
-|lat_deg=53.3950 |lat_dir=N | lon_deg=7.7186|lon_dir=W
+
 
 
 Location map~|Ireland |label=Wexford|position=right |mark=green pog.svg
-|lat_deg=52.5068 |lat_dir=N | lon_deg=6.5820 |lon_dir=W
+
 
 
 Location map~|Ireland |label=|position=right |mark=green pog.svg
-|lat_deg=52.7324 |lat_dir=N | lon_deg=6.2863 |lon_dir=W
+
 
 
 Location map~|Ireland |label=Wicklow|position=right |mark=green pog.svg
-|lat_deg=52.7977 |lat_dir=N | lon_deg=6.1599 |lon_dir=W
+
 
 
 Location map~|Ireland |label=|position=right |mark=green pog.svg
-|lat_deg=53.1491 |lat_dir=N | lon_deg=6.0793 |lon_dir=W
+
 
 
 

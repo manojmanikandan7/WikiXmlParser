@@ -75,23 +75,6 @@ By the end of the month 17.9 million vaccine doses had been administered while 6
 
 Progress
 Cumulative vaccinations
-Graph
-|type=line
-|width=400
-|linewidth=2
-|showSymbols=1
-|legend=Cumulative vaccinations
-|colors=#D000E0,#004DE0,#00C1FF,#C4ADB0,#C4ADC0
-|xType=date
-|yType=number|
-xAxisTitle=Date
-|xAxisFormat=%e %b
-|xAxisAngle=-45
-|x= 5 March 2021, 8 March 2021, 18 March 2021, 24 March 2021, 29 March 2021, 11 April 2021, 19 April 2021, 23 April 2021, 12 May 2021, 18 May 2021, 26 May 2021, 31 May 2021, 8 June 2021, 10 June 2021, 15 June 2021
-|y1Title=Vaccinated (1st dose)
-|y1=0,6169,49000,87022,130750,245442,395447,456349,626572,681502,859979,909215,1115919,1222630,1314375
-|y2Title=Vaccinated (2nd dose)
-|y2=0,0,0,0,0,0,0,0,0,40195,75215,126551,196930,230181,375630,447704,492266
 
 
 Progress Table

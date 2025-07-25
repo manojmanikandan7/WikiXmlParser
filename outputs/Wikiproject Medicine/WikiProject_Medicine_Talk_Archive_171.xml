@@ -190,6 +190,492 @@ I recently reverted some major changes to trodusquemine that a new editor made t
 
 Fatigue
 
+ is looking for feedback on the Fatigue article. He posted a request on my talk page. I'm posting the request here for a wider audience. --Whywhenwhohow (talk) 03:53, 4 May 2024 (UTC)
+it seems the article sections need to be reorganized and there are sections that have many primary sources that need to be replaced with better sources(did some edits) IMO--Ozzie10aaaa (talk) 12:33, 10 May 2024 (UTC)
+
+About Visual impairments in Alzheimer's disease
+
+I'd appreciate any help from members of this WikiProject in determining the best course of action with this article. It was created by a  student editor, Eg2619, and is a contested . The article currently needs some cleanup with regards to layout, and contains some  language that's not appropriate for an encyclopedic article. I'm also unsure if this subject merits a standalone article, or whether a merge to another article may be appropriate. Thanks in advance, and let me know if you have any questions! —TechnoSquirrel69 (sigh) 05:25, 13 May 2024 (UTC)
+
+ thanks for raising the issue here. I moved the article back to userspace. I have my doubts whether this can be salvaged at all, but it doesn't belong in mainspace in this state. 
+Since the class is over, I'm hoping this will be the end of it. But if there's anything in the student's work that could improve the main Alzheimer's article, the sandbox is here . Ian (Wiki Ed) (talk) 15:46, 13 May 2024 (UTC)
+
+Edit flagged as predatory journal - need help finding out which citation
+
+Hi all,  I recently committed a large paragraph edit with numerous citations using the visual editor, and when committing the edit, I got a notice that one of the citations was automatically flagged as potentially from a predatory journal.  However, the popup notice didn't fit in the publish edit popup box, so I was unable to read the whole notice or see which of the citations was flagged.  Can someone point me to a tool that I can use to scan the article for potentially predatory journals, so I can see and fix this citation problem?  How can I avoid stumbling into this problem again, and why did the formatting of the publish edit box prevent me from seeing the whole notice?  The citations in question were the best available for a scientific project based in India that is necessary for discussion on the page I am editing.  Thanks!
+
+Willmskinner (talk) 21:44, 10 May 2024 (UTC)
+
+ D6194c-1cc (talk) 22:03, 10 May 2024 (UTC)
+Great, thanks, I used that tool to find the citation in question, and it is a publication in a journal that is owned by the predatory OMICs conglomerate, but the paper in question seems to be the only report available about the Indian clinical trial in question, so I am inclined to leave it included. Link here: [https://www.longdom.org/abstract/phaseiii-clinical-trial-with-an-intravasal-once-injectable-nonhormonal-male-contraceptivereversible-inhibition-of-sperm--103058.html] Will this cause any flagging or downrating of the article I am editing?
+Thanks,
+Willmskinner (talk) 22:28, 10 May 2024 (UTC)
+Purge it with prejudice. Nothing from OMICS comes remotely close to /  Headbomb {t ·  ·  · } 00:08, 11 May 2024 (UTC)
+But this leads to a question: if I need to discuss the results of the clinical trial in question, the only other articles possible to use are news articles that are clearly referencing the data from this paper. That would look better to the citewatch script but certainly wouldn't actually be more reliable as a source...  I can reference the existence of the trial through clinical trial registry webpages, but those don't include the results from it.  Willmskinner (talk) 18:27, 12 May 2024 (UTC)
+Is this for Male contraceptive?  Which trial is it? WhatamIdoing (talk) 20:45, 12 May 2024 (UTC)
+Why do you need to reference a trial that can't even bother to go through peer review?  Headbomb {t ·  ·  · } 23:54, 12 May 2024 (UTC)
+ WhatamIdoing yes!  I've copied the paragraph in question here below.  For context, this project was the first method of vas-occlusive contraception to be investigated, and gets a very large amount of (often overblown) publicity in the general news media.  It has performed multiple clinical trials in India in the last 40 years (some of which have had to be repeated to reach international standards, I believe) and most importantly, has now been approved by the Indian Drug Controller's office (equivalent of the US FDA) for use in India, though it has not reached the market yet (supposedly due to manufacturing scale-up issues).  The results of the most recent clinical trial were published in a predatory and possibly poorly peer-reviewed journal, yes, but I don't know whether the authors were aware of that.  I'm struggling to figure out how to discuss this project with fairness, given the seemingly earnest efforts of the treatments creators and the difficult structural conditions for research in India, and the fact that it may soon available for use by over a billion people, while being honest about the project's shortcomings.  I would appreciate any thoughts!
+&quot;RISUG is an injectable male contraceptive implant that has been in development in India since the 1970s, and completed Phase-III clinical trials in India in 2017, completely blocking sperm release in 97.3% of users and achieving a 99.02% effectiveness at preventing pregnancy &quot;without any serious side effect&quot;.  As of 2022, RISUG was awaiting approval from the Drug Controller General of India for mass production.  RISUG is proposed to be reversed through a second injection that dissolves the polymer, though reversibility has not yet been demonstrated in humans.&quot;
+
+Willmskinner (talk) 16:35, 13 May 2024 (UTC)
+
+It'd be silly to have Male contraceptive completely omit information about Reversible inhibition of sperm under guidance (RISUG), especially now that it has marketing approval to the largest market on the planet, but it's difficult to find really good sources.  
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/andr.13525 has a paragraph on RISUG that gives lower numbers (&quot;A subsequent limited phase III study of 139 men showed that the Reversible Inhibition of Sperm Under Guidance procedure produced persistent azoospermia in 82.7% of men&quot;).  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8169637/ mentions that it's &quot;effective&quot;, but without any specific numbers.
+I wonder whether it's actually important to include specific numbers in this article.  Perhaps it's enough to say that it appears to be effective. WhatamIdoing (talk) 04:11, 16 May 2024 (UTC)
+Thanks, yeah, that review paper is great!  The trial they are referring to in there with lower numbers was for an earlier &quot;restricted&quot; phase III trial with fewer participants.  I suppose I could just report the results from that one and then mention the existence of the newest trial by citing a news article about it.  I'm still hesitant to reference anything that contains the possibly non-peer reviewed statistics in there, but I will at least refrain from mentioning those questionable statistics myself.  Thanks for the help, everyone!  Willmskinner (talk) 05:33, 16 May 2024 (UTC)
+
+
+Methylphenidate redux - clinical trial quality, risk of bias - comments?
+
+More discussion on the efficacy and quality of the evidence base for methylphenidate! Opinions for consensus sought. Those knowledgeable about systematic reviews and risk of bias in clinical trials particularly appreciated. Feline negativity (talk) 21:05, 2 May 2024 (UTC)
+
+
+*direct link --Ozzie10aaaa (talk) 12:29, 18 May 2024 (UTC)
+
+
+
+Some of you may have some thoughts on the proposed bot task.  Headbomb {t ·  ·  · } 20:11, 19 May 2024 (UTC)
+
+Methionine
+
+User is restoring a bunch of old animal models on Methionine. Content such as &quot;A 2009 study on rats showed &quot;methionine supplementation in the diet specifically increases mitochondrial ROS production and mitochondrial DNA oxidative damage in rat liver mitochondria offering a plausible mechanism for its hepatotoxicity&quot; isn't good evidence. One of the listed sources [https://web.archive.org/web/20091208113714/http://www.nhs.uk/news/2009/12December/Pages/live-longer-vegetarian-diet.aspx] describes a calorie-restricted diet on fruit flies. I am not sure why this is relevant to the article. Per  I do not believe we should be citing small scale cherry-picked animal studies like this which are clearly weak evidence. Psychologist Guy (talk) 02:00, 21 May 2024 (UTC)
+
+There are over 120 review articles with 'methionine' in their title on PubMed over the last 5 years. There would seem to be little need to cite any articles older than those (as there are plenty of good recent ones to choose from). If one were to flesh out the clinical use paragraph in Methionine, then one should probably not dwell on its use for aging, but also include a balance of review articles covering all of its uses (and potential uses). Over a dozen of these 120 review articles discuss aging, so it is appropriate to include aging as part of a balanced coverage - but please use these more recent review articles as references. Jaredroach (talk) 02:58, 21 May 2024 (UTC)
+
+Requested move at 
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. Alpha3031 (t • ) 04:12, 21 May 2024 (UTC)
+
+Recreation: Anesthesiology task force
+
+Hi, I'm writing this message in relation to the old . I was curious as to the interest in recreating and maintaining this task force which had never been truly established. If anyone is interested, or would like to provide a comment, please reply to this topic. Thanks,NeuropolTalk 17:44, 21 May 2024 (UTC)
+
+Hi Neuropol, you're most welcome to unilaterally edit the task force pages, and to set them up however you see fit. I'll gently warn that the engine of each WikiProject/task force is the people, not the pages. Many WikiProjects/task forces were setup in our headier days, but over the years most haven't drawn a consistent group of editors to support them, and have lapsed into disuse. Thus, my advice: if you want an anesthesiology task force, focus on recruiting and cultivating a group of anesthesiology-interested editors, rather than organizing the task force pages. If the group is so large/active that you need the separate page to coordinate your efforts, then the task force is well on its way. Best of luck, Ajpolino (talk) 22:54, 21 May 2024 (UTC)
+
+Metastatic carcinoma
+
+Should Metastatic carcinoma be redirected to Metastasis. I know the terms are technically different but Metastasis covers the topic of Metastatic carcinoma pretty well and I feel like if Metastatic carcinoma was expanded there would be a lot of overlap with the page Metastasis. CursedWithTheAbilityToDoTheMath (talk) 01:24, 21 May 2024 (UTC)
+Perhaps a reader interested in metastatic carcinoma would be better served by the article carcinoma? I agree with your basic premise that developing an article on &quot;metastatic carcinoma&quot; is (while possible?) probably not the best context to present that information in. Ajpolino (talk) 01:35, 21 May 2024 (UTC)
+That's a good point, I'm honestly not sure which article would make a better target for a redirect. CursedWithTheAbilityToDoTheMath (talk) 01:41, 21 May 2024 (UTC)
+I would definitely put &quot;Metastatic carcinoma&quot; as a subheader in the article Carcinoma. It does not stand on its own as a separate article. Indeed, there is already a Carcinoma#Invasion and metastasis subheader. The text could just go there — no need for new subheader. Jaredroach (talk) 02:49, 21 May 2024 (UTC)
+Thank you for your help! CursedWithTheAbilityToDoTheMath (talk) 02:31, 23 May 2024 (UTC)
+
+Factitial dermatitis
+
+I noticed that the template for Factitial dermatitis (see below) has the subsections labelled as 1010. Does anyone know what classification was being used here? CursedWithTheAbilityToDoTheMath (talk) 04:27, 24 May 2024 (UTC)
+
+ CursedWithTheAbilityToDoTheMath (talk) 04:27, 24 May 2024 (UTC)
+[https://en.wikipedia.org/w/index.php?title=Template:Factitial_dermatitis&amp;diff=prev&amp;oldid=972794280 Here's the edit] as part of an attempt to action  (a follow-up to ). I'm not clever enough to figure how &quot;1010&quot; ended up as the text, but I believe the intention was to replace the ICD code numbers with something human readable. Ajpolino (talk) 05:19, 24 May 2024 (UTC)
+Thank you! I will manually edit the sections! CursedWithTheAbilityToDoTheMath (talk) 17:36, 24 May 2024 (UTC)
+
+New paper on Wikipedia's medical coverage
+
+I happened to run into this while reading PeerJ's recent publications and thought it'd be of interest:
+
+*
+
+Looking at the supplementary material, it seems they reviewed Irritable bowel syndrome, Functional constipation, Constipation, Dysbiosis, Flatulence, Functional gastrointestinal disorder, Indigestion, Intestinal malrotation, Levator ani syndrome, Neurogenic bowel dysfunction, Proctalgia fugax, and Small intestinal bacterial overgrowth. The conclusions are reasonably flattering. Notably, the authors seem aware of talk pages and content assessment. Vaticidalprophet 05:57, 27 May 2024 (UTC)
+interesting read--Ozzie10aaaa (talk) 11:24, 30 May 2024 (UTC)
+Baidu is a fork of the Chinese-language Wikipedia. WhatamIdoing (talk) 16:36, 30 May 2024 (UTC)
+
+Transvestic fetishism article
+Edit: Never mind, disregard. – 104.177.77.7; 03:03, 30 May 2024 (UTC)
+
+104.177, total re-writes on hot-button subjects are rarely successful.  I suggest trying to make changes stepwise.  Add or change one sentence, paragraph, or section at a time, and let people have a while to &quot;get used to&quot; the new content before making the next change.  It sounds like one of the improvements you should prioritize is differentiating Transvestic fetishism from Cross-dressing.
+By the way, one thing that you absolutely cannot do is quote the full DSM criteria (which are copyrighted).  We don't allow this in any article, even under fair use claims.  So your change would have been reverted even if everyone agreed with it.
+Please consider going to  and creating an account.  This is to protect your own privacy. WhatamIdoing (talk) 16:51, 30 May 2024 (UTC)
+
+Free access to high-quality sources
+
+If you need access to books or journals from these publishers:
+
+* Taylor &amp; Francis  
+* Springer
+* Nature
+* De Gruyter
+* American Psychiatric Association
+* Perlego (online library, includes Wiley)
+* Wiley (publisher) itself
+* MIT Press Journals
+* Oxford Reference
+* Science (journal) (and others from American Association for the Advancement of Science)
+* American Speech-Language-Hearing Association
+* Journal of the American Medical Association
+* Annual Reviews (publisher) (51 journals, all review articles)
+* Cochrane Library
+* Elsevier's ScienceDirect
+* Future Medicine (and Future Science, which does pharmacology)
+* SAGE Journals
+* World Scientific
+
+then please see .  
+
+Note that you have to individually sign up for Perlego and MIT, and some of them (approximately the top half of this list) aren't integrated into the search box at the top of the page.  In those cases, you have to find, e.g., the box for Nature, click on &quot;Access collection&quot;, and search their website directly.  WhatamIdoing (talk) 02:58, 11 May 2024 (UTC)
+
+I got approved for Perlego.  So far, I've found a (complete, legal) copy of the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR).  I recognize a few titles (e.g., The Royal Marsden Manual of Clinical Nursing Procedures, Neal's Medical Pharmacology at a Glance, Hoffbrand's Essential Haematology...), but there are several thousand recent books about health and medicine (including vet med and dentistry) on this website, and the search is designed for a student who has been assigned a specific textbook, so assembling a highlights reel is a little challenging. 
+If anyone has a favorite book that they'd like to find, please post the name, and I'll see if it's in the list.  I'm also willing to do searches for topics (e.g., 150 books on COVID, 22 books during the last five years on epilepsy, ), if you are working on an article and want to see whether it's worth the 60 seconds to apply (It is!  And TWL still has almost two thousand unclaimed accounts available for Perlego, so you don't worry that you might taking something away from another editor if you sign up now).  There are also books available in several other languages, in case anyone regularly edits at another Wikipedia.  I think this is going to be a great resource for editors. WhatamIdoing (talk) 00:51, 12 May 2024 (UTC)
+Does anyone need the 2021 edition of Maudsley Prescribing Guidelines in Psychiatry?  [https://wikipedialibrary.wmflabs.org/ TWL] &gt; Wiley &gt; [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/browse/book/10.1002/9781119870203/toc MPG].
+How about the 2024 edition of Rook's Textbook of Dermatology?  Same song, second verse.  Once you're logged in to the TWL system, then I think that [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/browse/book/10.1002/9781119870203/toc this link will take you there].  (This set is $610 today at Amazon, or free with TWL.)
+I've been working with the 2022 update to Holland-Frei Cancer Medicine.  Find [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/browse/book/10.1002/9781119000822/toc your favorite chapters at TWL].
+Here are some more names:
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/0471266949 Burger's Medicinal Chemistry and Drug Discovery]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/0470025077 The Cancer Handbook]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/cphy Comprehensive Physiology]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/0470018860 Encyclopedia of Cognitive Science]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/9780470921920 Encyclopedia of Drug Metabolism and Interactions]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/9780470101001 Handbook of Contemporary Neuropharmacology]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/9781118156391 Handbook of Evidence‐Based Practice in Clinical Psychology]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/0470862092 International Textbook of Diabetes Mellitus]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/0471695998 Management of Genetic Syndromes]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/9780470571224 Pharmaceutical Sciences Encyclopedia: Drug Discovery, Development, and Manufacturing]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/3527600906 Reviews in Cell Biology and Molecular Medicine]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/9780471420194 TNM Online]
+* [https://onlinelibrary-wiley-com.wikipedialibrary.idm.oclc.org/doi/book/10.1002/9780470041000 Wiley Handbook of Current and Emerging Drug Therapies]
+This is not a complete list by any means.  There are 200+ books on dentistry, 500 on health and healthcare, 2800+ on medical science, 275 on nursing and midwifery, 475 on veterinary medicine.  No matter what you're writing about, there is likely to be a textbook or reference work here that is relevant. WhatamIdoing (talk) 06:47, 1 June 2024 (UTC)
+
+Hip replacement
+I've just tagged the hip replacement article based on widespread inclusion of unsourced biomedical information. Given the importance of this procedure, editors may be interested in looking into this topic. Sunrise (talk) 14:44, 23 May 2024 (UTC)
+did a few edits[https://en.wikipedia.org/w/index.php?title=Hip_replacement&amp;action=history]--Ozzie10aaaa (talk) 12:18, 1 June 2024 (UTC)
+
+Help request
+
+Hello, Mental health in South Korea is in need of significant expansion, and any help is appreciated. Mental health is a pretty significant issue in the country, and on articles like this we have a chance to make an impact by spreading needed awareness. Fortunately, there seems to be a decent amount of literature in the English language on the topic; if you can help out please do.  (talk) 05:25, 26 May 2024 (UTC)
+thanks for posting--Ozzie10aaaa (talk) 12:18, 1 June 2024 (UTC)
+
+Highly malignant oligodendroglioma, grade IV
+
+I would like to start this text &quot;Highly malignant oligodendroglioma, grade IV&quot; as an article. Where could I find more information, like glioblastoma? 
+On anaplastic oligodendroglioma you can already see where there is already. Wname1 (talk) 18:14, 2 June 2024 (UTC)
+Anaplastic oligodendroglioma -- CFCF (talk) 01:25, 3 June 2024 (UTC)
+What's the distinction from glioblastoma? My understanding of the WHO criteria is that so far, most grade IV brain tumours are lumped into &quot;glioblastoma&quot;. Jo-Jo Eumerus (talk) 06:58, 3 June 2024 (UTC)
+Medulloblastoma or Subependymoma it also has nothing to do with glioblastoma. Wname1 (talk) 08:10, 3 June 2024 (UTC)
+https://repository.ubn.ru.nl/bitstream/handle/2066/74412/74412.pdf?sequence=1 Page 47  +  https://flexikon.doccheck.com/de/Oligodendrogliom?utm_source=www.doccheck.com&amp;utm_medium=DC%2520Search&amp;utm_campaign=DC%2520Search%2520content_type%253Aall&amp;utm_content=DC%2520Search%2520anaplastisch%2520oligodia .German text. Wname1 (talk) 11:53, 3 June 2024 (UTC)
+As per the current 2021 WHO classification, there's no grade 4 oligodendroglioma. There's also no anaplastic oligodendroglioma anymore, as stated in the template I placed at the top of the article. The sources you've linked are outdated and not MEDRS-compliant.
+This has been previously explained to at the articles talk page ] and over at deWP [https://de.wikipedia.org/wiki/Wikipedia:Redaktion_Medizin/Archiv/2023/07#Anaplastisches_Oligodendrogliom_zum_Oligodendroblastom_oder_Glioblastom]. MaligneRange (talk) 08:31, 4 June 2024 (UTC)
+
+Requested move at 
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. Safari Scribe Talk! 00:15, 2 June 2024 (UTC)
+commented--Ozzie10aaaa (talk) 11:55, 4 June 2024 (UTC)
+
+Prurigo simplex
+
+The page Prurigo simplex currently is a stub and there was an interesting conversation regarding the classification of it . I'm not quite sure what to do with the page. The [https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.16067 2020 guidlines for Prurigo] made no mention of Prurigo simplex. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9425620/ This article] does a pretty good job of summerizing the controversy surrounding the term but I'll mention some of the highlights here:
+
+&quot;Subacute prurigo, characterized by small papulovesicles, is the most controversial category of prurigo (1, 4). Besides many eponyms, it is also known as prurigo simplex, prurigo simplex subacuta or urticaria papulosa chronica perstans (1, 2). Lately, the classification of prurigo into acute, subacute and chronic forms has been questioned (5). It is discussed whether subacute prurigo (prurigo simplex) belongs to the prurigo group of diseases, or if it is just one of many papular eruptions. In American literature, it is better known as “itchy red bump” disease. The term was coined by Ackerman (6), who described it as a “maddeningly pruritic, persistent condition that clinically resembles dermatitis herpetiformis with histologic features similar to papular urticaria”.&quot;
+
+&quot;Another controversial issue is whether prurigo simplex or “itchy red bump” disease is a clearly defined entity or a variant of chronic prurigo. It has been suggested that it is a transitional stage of prurigo that transforms from an acute to a chronic form&quot;
+
+It seems to me that Prurigo simplex should be a redirect to Prurigo, however the page Prurigo needs to be expanded as well (which I am happy to do). 
+
+I'm interesting in others thoughts on this topic. If anyone has anything to add or any opinions please let me know. For now I am going to focus on expanding Prurigo. CursedWithTheAbilityToDoTheMath (talk) 20:17, 6 June 2024 (UTC)
+
+*As the editor who had stubbed the simplex article, I concur with the suggestion of making Prurigo the main article on the subject and redirecting Prurigo simplex to it.  The latter seems to be a minor and likely obsolete category with a PubMed search for prurigo simplex/prurigo simplex subacuta/urticaria papulosa chronica perstans/subacute prurigo finding only one review article: the [https://doi.org/10.2340/00015555-3912  2021 Wallengren article] mentioned above, which too calls the category and definition controversial. Cheers. Abecedare (talk) 22:00, 6 June 2024 (UTC)
+For completeness sake, I'll note that I had checked the 12th (2016) edition of [https://shop.elsevier.com/books/andrews-diseases-of-the-skin/james/978-0-323-54753-6 Andrews' Diseases of the Skin: Clinical Dermatology], which is cited in wikipedia's Prurigo simplex article, and that that reference work devotes less than half a page to prurigo simplex calling it the &quot;preferred term for the chronic itchy idiopathic dermatosis&quot; while noting that &quot;the term prurigo continues to lack nosologic precision.&quot; I don't have instant access to the current (13th) edition of Andrew's to check if it says anything different. Abecedare (talk) 22:27, 6 June 2024 (UTC)
+Rook's Dermatology says only that &quot;There is continuing debate about conditions such as prurigo simplex acuta or prurigo simplex subacuta and their nature remains to be properly investigated.&quot;
+
+This textbook is available to experienced editors at  (under Wiley). WhatamIdoing (talk) 23:01, 6 June 2024 (UTC)
+ Looking through Rook's led me this [https://doi.org/10.1111/jdv.14570 EADV consensus statement on chronic prurigo] from 2018, which could be useful in further developing the Prurigo article and which says, &quot;There was a discussion among experts regarding the spectrum of the so-called prurigo simplex – acute and subacute. It was noted that there is no clear definition of these two terms.&quot; Consistent with other sources we have seen so far. Abecedare (talk) 01:04, 7 June 2024 (UTC)
+Thank you for adding this. I'm going to wait till I expand the Prurigo article to include classifications before making the redirect. CursedWithTheAbilityToDoTheMath (talk) 03:07, 7 June 2024 (UTC)
+
+Dealing with Cochrane Review retractions
+
+Hey all, seeking some knowledge from the experts here!
+
+I've recently started  back up, however there appears to be an edge-case I want to seek comment on in regards to Cochrane review papers.
+
+Now, the Cochrane review appear to do odd stuff with replacing old papers and withdrawing the replacements, an example can be found here
+
+In that example,  has been marked as retracted due to being replaced by a new paper (). That paper has then been withdrawn in favour of the older version. For this reason, the citation is flagged up as retracted/replaced in both CrossRef and RetractionWatch, and the bot normally would try and add a  template to it. 
+
+I have supressed this for now, so any article published by Cochrane Review will be ignored, however I wanted to check...
+
+* Is tagging as  desirable in these instances or is ignoring it the best way to go?
+* Does anyone know if this is a common thing to happen?
+* Are there any views on how to handle these? Detecting this sort of thing is possible if I do a check on crossref for the newer paper, however these withdrawn papers are not reported as retracted as they are not reported on another DOI/PMID.
+
+Thanks, Mdann52 (talk) 12:12, 30 May 2024 (UTC)
+
+I think we used to have a Cochrane-specific bot; see . WhatamIdoing (talk) 17:03, 30 May 2024 (UTC)
+Cochrane retraction notices are generally dumb in that database. However, a true retraction should be flagged, if possible.
+I think the following conditions would work, for Cochrane Reviews: if v+1 is retracted (e.g. pub4), but v is not (e.g. pub3), then ignore matches to v (e.g. pub3).
+ Headbomb {t ·  ·  · } 02:56, 31 May 2024 (UTC)
+ will be of interest to many here:  is back alive. The userpage will have many relevant categories (all the unintentional citations categories especially need human review).
+ Headbomb {t ·  ·  · } 00:24, 10 June 2024 (UTC)
+Sorry, I missed this. The Cochrane update bot is working well. For retractions, I try to review on a case by case basis, aiming to replace with a more recent high quality source when possible. I am now using your list as well. It is amazing! JenOttawa (talk) 21:32, 23 October 2024 (UTC)
+
+Pandemic's over! (2024 edition)
+
+*
+The annual push is on to have Wikipedia declare that the COVID-19 pandemic is over. One new argument this year is that the WHO is only saying there's a pandemic as they have a monetary interest in &quot;dragging it out&quot;. More eyes could be useful. Bon courage (talk) 17:29, 5 June 2024 (UTC)
+This is not a neutral notification, and you [https://rationalwiki.org/wiki/Nutpicking nutpicked] the arguments presented. The main argument is that experts disagree as to whether or not it is ongoing, so maybe the article should follow  and not take a side but mention the expert disagreement. It's going to be over eventually so you shouldn't be surprised it comes up again and again. Crossroads -talk- 17:47, 5 June 2024 (UTC)
+Perplexity's Take
+Here is what Perplexity Pro (an LLM) has to say:
+The question of whether the COVID-19 pandemic is over is complex and multifaceted, with varying perspectives from health experts, organizations, and the public.
+### Expert Opinions and Definitions
+1. **World Health Organization (WHO)**:
+   - The WHO declared an end to the COVID-19 public health emergency in May 2023 but continues to describe COVID-19 as a pandemic due to its ongoing global presence and impact[3][11].
+2. **Centers for Disease Control and Prevention (CDC)**:
+   - The CDC has shifted its focus from tracking cases to monitoring hospitalizations and deaths. While acknowledging that COVID-19 remains a public health threat, the CDC emphasizes the importance of vaccination and other preventive measures[12].
+3. **Boston University Researchers**:
+   - Experts from Boston University highlight that COVID-19 still causes significant illness and death worldwide. They argue that the disease's widespread nature and the millions of cases reported weekly justify its classification as a pandemic[1].
+4. **Scientific American**:
+   - Maria Van Kerkhove from the WHO notes that while the emergency phase is over, the pandemic status remains due to the virus's continued global circulation and impact[3].
+### Public Perception
+1. **Gallup Poll**:
+   - A Gallup poll indicates that 59% of Americans believe the pandemic is over, although a similar proportion report that their lives have not returned to normal[4].
+### Current Data and Trends
+1. **Global and National Data**:
+   - COVID-19 continues to cause significant morbidity and mortality. For instance, the WHO reported over 774 million confirmed cases and more than seven million deaths globally as of March 2024[6].
+   - In the U.S., COVID-19 hospitalizations and deaths have decreased significantly from their peaks, but the virus still poses a risk, especially to vulnerable populations[12].
+2. **Variants and Transmission**:
+   - New variants, such as JN.1 and its descendants, continue to emerge and spread, indicating that the virus is still evolving and circulating widely[15].
+### Conclusion
+While the emergency phase of the COVID-19 pandemic has ended, the virus remains a significant global health threat. The WHO and other health experts continue to classify COVID-19 as a pandemic due to its widespread impact and ongoing transmission. Public perception varies, with many believing the pandemic is over, but data and expert opinions suggest that vigilance and preventive measures are still necessary to manage the disease's impact.
+Citations:
+[1] https://www.bu.edu/articles/2024/is-covid-19-still-a-pandemic/
+[2] https://doh.wa.gov/data-and-statistical-reports/diseases-and-chronic-conditions/communicable-disease-surveillance-data/respiratory-illness-data-dashboard
+[3] https://www.scientificamerican.com/article/rampant-covid-poses-new-challenges-in-the-fifth-year-of-the-pandemic/
+[4] https://news.gallup.com/poll/612230/four-years-say-covid-pandemic.aspx
+[5] https://data.who.int/dashboards/covid19/cases
+[6] https://www.who.int/publications/m/item/covid-19-epidemiological-update-edition-166
+[7] https://www.usnews.com/news/national-news/articles/2024-06-03/5-key-takeaways-from-faucis-covid-19-testimony
+[8] https://www.verywellhealth.com/covid-by-the-numbers-5083007
+[9] https://www.cdc.gov/forecast-outbreak-analytics/about/rt-estimates.html
+[10] https://www.nytimes.com/interactive/2024/06/03/opinion/covid-lab-leak.html
+[11] https://time.com/6898943/is-covid-19-still-pandemic-2024/
+[12] https://www.cdc.gov/ncird/whats-new/changing-threat-covid-19.html
+[13] https://apnews.com/article/fauci-covid-pandemic-origin-congress-a66625482f25824476ee315484790230
+[14] https://www.kff.org/coronavirus-covid-19/issue-brief/global-covid-19-tracker/
+[15] https://www.idsociety.org/covid-19-real-time-learning-network/diagnostics/covid-19-variant-update/
+[16] https://abcnews.go.com/Politics/republicans-poised-grill-anthony-fauci-covid-19-response/story?id=110677611
+[17] https://covid.cdc.gov
+[18] https://www.cnn.com/2024/06/03/politics/fauci-testimony-house-hearing-covid-19/index.html
+[19] https://www.usnews.com/news/the-report/articles/2024-05-03/what-to-know-about-the-latest-covid-19-milestone
+[20] https://www.politico.com/news/2024/06/02/fauci-covid-research-investigative-panel-00161109
+Jaredroach (talk) 15:07, 6 June 2024 (UTC)
+As much as I would love for AI to make our lives easier, I don't think LLMs are at the point yet where their &quot;opinions&quot; are of any weight or help. Digging up citations could theoretically be useful, but even here they don't always represent them accurately. For example, it cites [https://www.bu.edu/articles/2024/is-covid-19-still-a-pandemic/ this] Boston University article as saying that experts there support classification as a pandemic; however, reading it makes clear that two out of the three lean towards or outright say it is not a pandemic, while the third (Murray) seems to lean that it is, but even she acknowledges that definitions of the term vary by saying e.g.  [https://time.com/6898943/is-covid-19-still-pandemic-2024/ This] Time article is cited to refer to what is on WHO's website, but what other experts in it say (including WHO's COVID lead Maria Van Kerkhove) is totally ignored. Crossroads -talk- 16:13, 6 June 2024 (UTC)
+Still, it's interesting to see what the state of development is for LLMs. WhatamIdoing (talk) 18:05, 6 June 2024 (UTC)
+Update:  There is , so that we can avoid saying either &quot;the pandemic is&quot; or the pandemic was&quot;.  Please take a look if you're interested. WhatamIdoing (talk) 07:13, 10 June 2024 (UTC)
+
+AFIB Technology
+
+Any thoughts on the AFIB Technology article? It looks distinctly promotional to me, though I have no subject-matter knowledge. AndyTheGrump (talk) 02:47, 10 June 2024 (UTC)
+
+It looks a bit overly detailed to me.  If you're interested, I suggest re-writing the &quot;one study found&quot; paragraphs to be more in line with .
+(My first thought was that it would be related to the Apple Watch health monitoring patent dispute, but it's not.) WhatamIdoing (talk) 06:39, 10 June 2024 (UTC)
+Thanks Andy, I noticed that NICE have  [https://www.nice.org.uk/guidance/mtg13 withdrawn] their guidance originally cited in the article. CV9933 (talk) 10:09, 10 June 2024 (UTC)
+
+Requested move at 
+ There is a requested move discussion at  that may be of interest to members of this WikiProject.  ASUKITE 13:50, 13 June 2024 (UTC)
+
+Requested move at 
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. Safari Scribe Talk! 07:50, 12 June 2024 (UTC)
+commented--Ozzie10aaaa (talk) 12:12, 14 June 2024 (UTC)
+
+Infoboxes changed?
+
+Have the infoboxes for medical conditions been changed or is my computer just not working right? Is this a site wide thing or just that specefic template? CursedWithTheAbilityToDoTheMath (talk) 04:44, 14 June 2024 (UTC)
+
+@CursedWithTheAbilityToDoTheMath, please tell me more.   hasn't been edited directly for a few months.  Did you change your font size or zoom level? WhatamIdoing (talk) 15:01, 14 June 2024 (UTC)
+it seems to be a site wide issue but it has been fixed for me! CursedWithTheAbilityToDoTheMath (talk) 20:51, 15 June 2024 (UTC)
+There are many reports of problems . Johnuniq (talk) 03:38, 15 June 2024 (UTC)
+
+Lichen myxedematosus/Papular mucinosis
+
+There seems to be an issue with the classification of Lichen myxedematosus/Papular mucinosis. The terms papular mucinosis, lichen myxedematosus, and scleromyxedema have all kind of been jumbled and I'm not sure how to classify them. Here's what I've found:
+
+ICD-11 lumps the terms Lichen myxoedematosus, Papular mucinosis, and Scleromyxoedema all under the term Lichen myxoedematosus. [https://icd.who.int/browse/2024-01/mms/en#15830032]
+
+MeshID lumps the terms Lichen myxoedematosus, Papular mucinosis, and Scleromyxoedema under the term Scleromyxedema.[https://www.ncbi.nlm.nih.gov/mesh/?term=lichen+myxedematosus]
+
+Orphanet lists Lichen myxedematosus as a group of disorders,[https://www.orpha.net/en/disease/detail/402007?search=Lichen-myxedematosus&amp;mode=name] with the terms Atypical lichen myxedematosus,[https://www.orpha.net/en/disease/detail/86797?search=Lichen-myxedematosus&amp;mode=name], Localized lichen myxedematosus (Orphanet uses Papular mucinosis as a synonym for Localized lichen myxedematosus),[https://www.orpha.net/en/disease/detail/86795?search=Lichen-myxedematosus&amp;mode=name] and Scleromyxedema.[https://www.orpha.net/en/disease/detail/167635?search=Lichen-myxedematosus&amp;mode=name]
+
+Disease database lumps them all together as well.
+
+However it seems that they are different disorders with different sources using different names. For example UpToDate uses Papular mucinosis for a synonym of Lichen myxedematosus.[https://www.uptodate.com/contents/localized-lichen-myxedematosus] This article[https://www.jaad.org/article/S0190-9622(01)68357-9/abstract] goes over the classifications and seems to imply that Papular mucinosis is a synonym fot Localized lichen myxedematosus, and that Scleromyxedema is a seperate disorder.
+
+From what I understand it seems like generalized lichen myxedematosus is a synonym for scleromyxedema, Papular mucinosis is a synonym for Localized lichen myxedematosus and lichen myxedematosus is the the group of disorders.
+
+Before I change any redirects I'd like to hear others input on the topic as it's quite confusing to me. CursedWithTheAbilityToDoTheMath (talk) 03:27, 8 June 2024 (UTC)
+[http://www.diseasesdatabase.com/ddb31368.htm]..I'd go with this(just my opinion)--Ozzie10aaaa (talk) 12:11, 21 June 2024 (UTC)
+The disease database just lumps all of the terms together which doesn't make sense since they seem to be different disorders. CursedWithTheAbilityToDoTheMath (talk) 15:13, 21 June 2024 (UTC)
+
+Merge proposal for Somatization disorder and Somatic symptom disorder.
+
+I've started a discussion regarding the merging of Somatization disorder and Somatic symptom disorder  and I would really appreciate if others could give their input on the topic. CursedWithTheAbilityToDoTheMath (talk) 05:52, 24 June 2024 (UTC)
+
+Village Pump discussion
+
+There's a village pump discussion at  that may be of interest to this project. I've given my thoughts there, but the participants of this project probably have the best judgement on this topic. Thebiguglyalien (talk) 22:56, 24 June 2024 (UTC)
+thanks for post--Ozzie10aaaa (talk) 12:23, 27 June 2024 (UTC)
+
+Expert attention needed
+
+I've been working with  (and by &quot;working with&quot; I mean mostly doing some minor cleanup on his work) on  which is intended to replace the current contents of Limbic-predominant age-related TDP-43 encephalopathy. As can be seen from the existing article, Nelson is clearly a recognized expert in the field for this condition. I got involved when he made a major wholesale edit to the article, basically blowing away the existing citations. Once I was able to mentor him through some Wikipedia basics, and help him with some article organization ideas, he has cleaned up the article (now living in my user space as a drafting location). I'd like to have someone from this project assess the present state of the draft and see if it is ready to be copied into place of the existing article. I might also need some Wikipedia expertise on how to do the merge to preserve the proper authorship attributions (his and my edits in my userspace). Thanks!! WikiDan61ChatMe! 21:44, 27 June 2024 (UTC)
+
+Thanks Dan61.  Just to clarify, I wrote the prior version as well, this is just an update to flesh it out a little bit and conform more closely to (what I understood to be) Wikipedia formating.
+Best regards,
+Pete Nelson Pete Nelson from UKY (talk) 21:53, 27 June 2024 (UTC)
+Here's a [https://en.wikipedia.org/w/index.php?title=User%3AWikiDan61%2FLATE&amp;diff=1228871313&amp;oldid=1227565829 cross-page diff] of the sandbox vs current article, if anyone wants to take a look at the changes.  It quadruples the amount of readable prose and doubles the number of sources cited.  I haven't looked at the quality of the sources, but everything else looks good to me. WhatamIdoing (talk) 22:32, 27 June 2024 (UTC)
+
+How to deal with the overwhelming amount of pages with unsourced statements.
+
+I think the majority of the active editors here know that WikiProject Medicine has an issue with unsourced statements in articles. I'm not blaming anyone; a lot of the citation issues come from editors not familiar with Wikipedia. Regardless of how this issue started, I think we need to have a conversation about how to fix it.
+ 
+I've noticed that there are typically two different types of pages that have unspurced statements: pages that are almost completely unsourced (for example, 1q21.1 duplication syndrome), and pages that have one or two unsourced statements but are otherwise well cited (for example, 3-M syndrome).
+ 
+For the first type of page, I believe it's best to do a quick literary search to see if you can find where the information came from; however, I've found that this is usually quite low-yeild, especially when the whole page is unsourced. I believe most of these pages need to be rewritten. Obviously, this is a time-consuming task, but something needs to be done about the issue.
+ 
+For the second type of page, usually I can find where they got the statment by searching keywords from the unsourced statement in Google. When I can't find the original source, I think it's fair to delete the unsourced passage, assuming it is not somehow vital information (however, if it were vital information, there should be a source somewhere with that information).
+ 
+I'm looking for other ideas, suggestions, advice, and knowledge on this topic. I'm still a fairly new editor, and I haven't worked much on correcting this problem, so if anyone with more knowledge could share their opinions, that would be great. I just want to emphasize that this is not me trying to bash any editors; I just think it's time we have a conversation about this very prevelant issue. CursedWithTheAbilityToDoTheMath (talk) 15:42, 16 June 2024 (UTC)
+
+Are you thinking about the articles tagged as having no refs, such as these?
+* COVID-19 pandemic in the British Overseas Territories
+* Dipsogen
+* Health forecasting
+* List of strains of Escherichia coli
+* Medical practice consultants
+* Pulmonary pathology
+* Stabilization (medicine)
+* Therapeutic support staff
+* Videoscope
+* Walking-stalk skin flap
+WhatamIdoing (talk) 19:49, 17 June 2024 (UTC)
+I'm refering to any page with the citation needed template. CursedWithTheAbilityToDoTheMath (talk) 20:03, 17 June 2024 (UTC)
+There are over 12,000 WPMED-tagged articles with a  tag somewhere in it.  (There are more than half a million tagged articles overall.)  That's a bit much to handle all at once.  
+[https://citationhunt.toolforge.org/en?id=d626481e&amp;cat=973b293b This link to Citation Hunt] will give you just the ones that are in .  If you try that out and like it, we can set up another for , or perhaps using the  list. WhatamIdoing (talk) 02:44, 28 June 2024 (UTC)
+That's a great idea thank you! So far I've just been going through the list alphabetically. CursedWithTheAbilityToDoTheMath (talk) 04:27, 29 June 2024 (UTC)
+
+New form of B12 deficiency discovered
+
+A new form of B12 deficiency affects the nervous system only, with B12 levels remaining normal in the blood: [https://www.science.org/doi/10.1126/scitranslmed.adl3758 Transcobalamin receptor antibodies in autoimmune vitamin B12 central deficiency] - Pluvinage et al., 26 Jun 2024. I wonder if it merits a mention in B12 deficiency or even a standalone article. The condition reminds me of cerebral folate deficiency. --CopperKettle (talk) 05:43, 28 June 2024 (UTC)
+
+Perhaps &quot;mooted&quot; rather than &quot;discovered&quot;. Any  ? Bon courage (talk) 05:58, 28 June 2024 (UTC)
+So we have one confirmed case in humans reported by a primary source? Seems interesting and something to take note of, but all the same too soon for the encyclopedia to be rewritten. Draken Bowser (talk) 10:40, 28 June 2024 (UTC)
+Maybe we could justify a single sentence in Vitamin B12 deficiency#History (&quot;A single case study claimed...&quot;).  I do not think that a standalone article is warranted. WhatamIdoing (talk) 18:57, 28 June 2024 (UTC)
+I find this very interesting, but am inclined to agree with WhatamIdoing, but I don't think we need to point out it was a &quot;single&quot; study, rather it makes sense to mention &quot;A case study describes ...&quot;. Anyone able to understand what a case study is, should also inherently understand its limitations. CFCF (talk) 10:26, 29 June 2024 (UTC)
+
+Covid-Organics; contextualizing trial in predatory journal
+
+Presently, Covid-Organics mentions a Phase III trial, published in a journal from Fortune Journals (who's apparently predatory per Beall's List), as if it was in a typical, credible journal, without further comment/context. I'm hoping someone with more experience and energy than me could e.g. add a sentence or two properly contextualizing the quality of the journal/trial. Cybercobra (talk) 22:31, 28 June 2024 (UTC)
+
+I think you ought to feel free to just remove it. CFCF (talk) 10:27, 29 June 2024 (UTC)
+
+Requested move at 
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. Polyamorph (talk) 15:38, 28 June 2024 (UTC)
+thank you for post--Ozzie10aaaa (talk) 11:58, 8 July 2024 (UTC)
+
+Corinne Peek-Asa draft at Articles for Creation
+
+On behalf of the University of California, San Diego, I have submitted a  about American epidemiologist Corinne Peek-Asa (red-linked in this list and at ) as part of my work at Beutler Ink. Sharing a notice here in case any WikiProject Medicine participants are interested in taking a look. Thanks! Inkian Jason (talk) 17:33, 1 July 2024 (UTC)
+AFC[https://en.wikipedia.org/wiki/Wikipedia:Articles_for_creation] are the ones that take a look at this, thanks--Ozzie10aaaa (talk) 12:29, 13 July 2024 (UTC)
+
+Requested move at 
+ There is a requested move discussion at  that may be of interest to members of this WikiProject. Safari Scribe Talk! 16:58, 13 July 2024 (UTC)
+
+This appears to be another round of &quot;we must/mustn't use apostrophes in eponymously titled subjects&quot;.  Nobody has replied.  I'm sure it would be appreciated if anyone with an opinion – any opinion – posted a comment. WhatamIdoing (talk) 06:42, 16 July 2024 (UTC)
+
+RetractionBot 
+
+I posted  from the Signpost last month. Things have evolved a bit and now Retraction bot handles , , and . These populate the following categories:
+
+* ()
+
+columns-list|colwidth=20em|
+#AIDS-related lymphoma
+#ANGPTL8
+#Adrenaline
+#Adrenergic blocking agent
+#Albumin transport function analysis by EPR spectroscopy
+#Alcoholism
+#Androgen insensitivity syndrome
+#Antiglucocorticoid
+#Aspirin
+#Atypical facial pain
+#Autoimmune disease
+#Benzodiazepine withdrawal syndrome
+#Bleomycin
+#Brenda Bloodgood
+#COVID-19 proxalutamide trial in Brazil
+#Cancer treatment
+#Cathelicidin antimicrobial peptide
+#Catherine Verfaillie
+#Cello scrotum
+#Cellular cardiomyoplasty
+#Childhood immunizations in the United States
+#Chorionic villus sampling
+#Czermak–Hering test
+#Down syndrome
+#Drug intolerance
+#Early prostate cancer antigen-2
+#Effect of health on intelligence
+#Effects of long-term benzodiazepine use
+#Epigenetics
+#Erythroplakia
+#Exercise
+#Facial trauma
+#Free flap breast reconstruction
+#Gideon Koren
+#Glomerulation
+#Gluten-sensitive enteropathy–associated conditions
+#Guttate psoriasis
+#H. Hugh Fudenberg
+#Heartburn
+#Hepatorenal syndrome
+#Herpes
+#Herpetic gingivostomatitis
+#High-dose chemotherapy and bone marrow transplant
+#Hypochondriasis
+#Intermittent catheterisation
+#Intestinal pseudo-obstruction
+#Intraoperative blood salvage
+#Kawasaki disease
+#Kwashiorkor
+#L1 syndrome
+#Lactobacillus acidophilus
+#Leukoplakia
+#Lichen planus
+#Lidocaine/prilocaine
+#List of patient-reported quality of life surveys
+#Mandeep R. Mehra
+#Miliary tuberculosis
+#Miracle Mineral Supplement
+#Misoprostol
+#Myopia
+#Netrin receptor DCC
+#Non-mevalonate pathway
+#Noora (vaccine)
+#Osteoarthritis
+#Otitis media
+#Perforating granuloma annulare
+#Perforator flaps
+#Peripheral artery disease
+#Pindolol
+#Placental expulsion
+#Platypnea-orthodeoxia syndrome
+#Post-traumatic epilepsy
+#Prevention of migraine attacks
+#Regeneration in humans
+#Reprimo
+#Retracted article on dopaminergic neurotoxicity of MDMA
+#Rheumatoid vasculitis
+#SARS-CoV-2 Omicron variant
+#Scar
+#Sophie Jamal
+#Stem cell
+#Stroke recovery
+#Sulfonylurea
+#TP53-inducible glycolysis and apoptosis regulator
+#Temporomandibular joint dysfunction
+#Tongue disease
+#Trapeziometacarpal osteoarthritis
+#Type A and Type B personality theory
+#Vaccine hesitancy
+#Vitamin B12 deficiency
+#Weekend effect
+#Weight loss
+#Weight management
+#Wound
 
 
 * ()

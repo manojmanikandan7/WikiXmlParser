@@ -22,17 +22,17 @@ Vaccination program
 [[File:Timeline of daily COVID-19 vaccine doses administered in the US.svg|thumb|300px|Timeline of daily COVID-19 vaccine doses administered in the U.S. See the latest date on the timeline at the bottom.]]
 
 Pie chart
- | caption=Vaccines administered per pharmaceutical company as of 
- | ref=https://covid.cdc.gov/covid-data-tracker/#vaccinations
- | label1 = Pfizer–BioNTech (381,978,824)
- | value1 = 59.43 | color1 = lightblue
- | label2 = Moderna (241,011,491)
- | value2 = 37.50 | color2 = lightcoral
- | label3 = Johnson &amp; Johnson (18,916,447)
- | value3 = 2.94 | color3 = palegreen
- | label4 = Novavax (35,302)
- | value4 = 0.006 | color4 = purple
-|color5=silver|label5=Not Identified (690,663)|value5=0.107
+
+
+
+
+
+
+
+
+
+
+
 Vaccines were distributed to states on a population basis, with the vaccine rollouts being administered by each individual U.S. state. The Centers for Disease Control and Prevention suggested that hospital workers and nursing home personnel be the first individuals vaccinated. The subsequent phases of the rollout are determined by each individual state agency.
 
 The CDC has issued cards that can be used to track vaccine progress and serve as a proof of vaccination when required (such as during international travel, or entering a restaurant or workplace). States such as California and New York have offered a digital immunity passport accessible via a mobile app.
@@ -97,20 +97,20 @@ Vaccines in order
 Vaccine administration
 Listed in millions, 
  #invoke:Chart | bar-chart
-| height = 350
-| width = 300
-| stack = 1
-| group 1 = 366.97: 0: 0: 0: 0
-| group 2 = 0: 232.14: 0: 0: 0
-| group 3 = 0: 0: 19.00: 0: 0
-| group 4 = 0: 0: 0: 0.089195: 0
-| group 5 = 39.73: 0: 0: 0: 0
-| group 6 = 0: 20.78: 0: 0: 0
-| group 7 = 0: 0: 0: 0: 0.89
-| colors = #028900: #ff0000: #ffc100: #ADD8E6: #FF00FF : #000080: #a9a9a9
-| group names = Pfizer–BioNTech : Moderna : Janssen : Novavax : Pfizer-BioNTech bivalent booster : Moderna bivalent booster : Not Identified 
-| units suffix = 
-| x legends = : : : :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -118,37 +118,37 @@ Listed in millions,
 Vaccine deliveries
 Listed in millions, 
  #invoke:Chart | bar-chart
-| height = 350
-| width = 300
-| stack = 1
-| group 1 = 505.345: 0: 0: 0
-| group 2 = 0: 313.43: 0: 0
-| group 3 = 0: 0: 31.55: 0
-| group 4 = 0: 0: 0: 1.4107
-| group 5 = 90.66: 0: 0: 0
-| group 6 = 0: 42.03: 0: 0
-| colors = #028900: #ff0000: #ffc100: #ADD8E6: #FF00FF: #000080
-| group names = Pfizer–BioNTech : Moderna : Janssen : Novavax : Pfizer-BioNTech bivalent booster : Moderna bivalent booster
-| units suffix = 
-| x legends = : : :
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 Booster doses
 Pie chart
- | caption=Total number of people who have received vaccinations in the United States as of 
- | ref=https://covid.cdc.gov/covid-data-tracker/#vaccinations
- | label1 = Unvaccinated population: ~66.8 million people
- | value1 = 20.14 | color1 = silver
- | label2 = Population who have received only one dose of a two-dose vaccine: 38,910,734
- | value2 = 11.72 | color2 = #42f5da
- | label3 = Population who are fully vaccinated, but haven't received an additional booster shot: 115,364,980
- | value3 = 34.75 | color3 = #008
- | label4 = Population who are fully vaccinated and received an additional booster shot: 85,212,292
- | value4 = 25.67 | color4 = #880088
- | label5 = Population who are fully vaccinated and received two additional booster shots: 25,623,483
- | value5 = 7.72 | color5 = #4B0082
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 On August 12, 2021, the FDA amended the EUA for the Moderna and Pfizer vaccines in order to allow a third, booster dose for patients who are immunocompromised or have received organ transplants. Director of the CDC Rochelle Walensky stated in a press briefing that &quot;certain people who are immune compromised, such as people who have had an organ transplant and some cancer patients, may not have had an adequate immune response to just two doses of the [vaccine].&quot; In an interview with Today, Director of the National Institute of Allergy and Infectious Diseases (NIAID) Anthony Fauci stated that &quot;inevitably, there will be a time when we'll have to give boosts [to the general public]. What we're doing literally on a weekly and monthly basis is following cohorts of patients to determine if, when and whom should get it. But right now at this moment, other than the immune compromised, we're not going to be giving boosters to people.&quot; The World Health Organization (WHO) discourages the use of booster shots for COVID-19 in developed countries, as they would divert supplies away from the unvaccinated.

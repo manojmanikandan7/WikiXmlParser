@@ -3,15 +3,7 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-05-26T13:50:39Z" sourceCorpus="COVID-19" filename="63913842" title="Zoe_Health_Study" url="https://en.wikipedia.org/wiki/Zoe_Health_Study">
 	<text>
-		<segment id="id63913842">infobox software
-| logo = Covid Symptom Study App icon.png
-| genre = COVID-19 apps
-| developer = 
-| operating system = Android, iOS
-| name =
-| website = 
-
-The Zoe Health Study, formerly the COVID Symptom Study, is a health research project of British company Zoe Limited (formerly Zoe Global limited) which uses a mobile app that runs on Android and iOS.
+		<segment id="id63913842">The Zoe Health Study, formerly the COVID Symptom Study, is a health research project of British company Zoe Limited (formerly Zoe Global limited) which uses a mobile app that runs on Android and iOS.
 
 The app was created in 2020 in response to the COVID-19 pandemic, in a collaboration between Zoe, King's College London, Guy's and St Thomas' Hospitals with funding granted by the UK government until April 2022. The purpose of the app was to track COVID-19 symptoms and other salient data in a large number of people, to enable epidemiological results to be calculated.
 

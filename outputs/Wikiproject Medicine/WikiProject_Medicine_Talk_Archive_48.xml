@@ -1073,8 +1073,8 @@ There can be &quot;Glossary of human anatomy&quot; in  and in .  Each article wi
 —Wavelength (talk) 00:19, 28 May 2014 (UTC)
 
 There seems to be some consensus for this change. Unfortunately  is completely protected, so we need to wait for a user who has template-editing rights to make this change. The specific change would be to add this code to the template: 
-| belowstyle = font-style:italic; font-weight:bold
-| below = Anatomical terminology
+
+
 
 --LT910001 (talk) 23:36, 27 May 2014 (UTC)
 

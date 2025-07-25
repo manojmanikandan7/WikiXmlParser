@@ -47,14 +47,68 @@ The Vet Med project has recently reactivated. Feel free to get involved. Doc Jam
 
 History of viruses at FAC
 
+ has put History of viruses up as a FAC. Comments welcome . -- Colin°Talk 18:44, 13 December 2010 (UTC)
+Models of anatomy
+
+Hi, Are there any experts here on anatomical models? I am beginning to fix various articles in the Computer generated imagery neighborhood. There is a paragraph there about architectural images, and a paragraph or two about &quot;anatomically correct&quot; models would be nice. I can manage the computer simulation parts, but I am not sure how the technology is used in anatomy. Are anatomically correct models actually used for instruction in medical schools etc.? I guess they are, but conformation from someone in the field will be good. Scientific Computing and Imaging Institute includes images of a torso rendered pretty nicely. Is it anatomically correct? I asked because models used in Skeletal animation are not anatomically correct, and it matters not. But the article Virtual patient is waiting in the lounge of the ER room, waiting for medical help, with fellow patients Visible Human Project and Living Human Project. Those are not on my immediate path, but it would be nice if someone would give them a facelift of some type. Eventually a good template for uniting these will be nice. And talking of facelifts, Facial expression and Computer facial animation also need help. 
+
+I used to have a copy of Gray's book on anatomy (not that I tread it much) but about 2-3 years ago, as I was cleaning things up I threw it away, because anything I needed was on the web. So the future of anatomy is online. Wikipedia articles should probably catchup to that. 
+
+But first things first. Help on a paragraph or two on anatomy in Computer generated imagery will be appreciated. Cheers. History2007 (talk) 20:56, 8 December 2010 (UTC)
+
+We are all waiting for Frank Netter's atlases to enter the public domain. I think we have another 20-30 years to wait if we are lucky. I hear that the recent medical students are using computers simulations rather than human cadavers to study gross anatomy in some places.. Doc James (talk ·  · ) 21:18, 9 December 2010 (UTC)
+
+Well, Netter was a useful name. I did not know about him. Thanks. I will dig up more on that. But while I was waiting in the lounge, I did a few searches and if you look at Computer-generated_imagery#Anatomical_models now, I added a few paragraphs. It seems to me that there are two sperate issues here:
+
+* Generic anatomically correct models. Here is where Netter will win. These can be used in education.
+* Patient specific anatomical variations. He can not help there. E.g. the diversity of the shape, diameter and position of the coronary ostia still require patient specific CT scans that no generic model can anticipate. 
+
+So it remains to be seen if an open source approach to plugging together anonymized patient specific models will yield results sooner than Ciba will open up. My guess is that when Cibe realizes that their material has no value they will release it, so time will tell. But if you have other keywords that can help in that section, they will be appreciated. Now let me give you an idea: if you MD-guys start an open source anonymized repository of patient specific models, then that will get things rolling. Is there some type of public database for that? Maybe Wikimedia? Who knows? It will cost nothing. Cheers. History2007 (talk) 21:37, 9 December 2010 (UTC)
+
+Nearly all students still use Netter's thus the textbook market is good. He was an incredible artist who dedicated his life to this work. He has also done stuff on diseases such as one sees here [http://www.netterimages.com/image/crohn-disease.htm] and [http://www.netterimages.com/image/313.htm]. Here are the variations of coronary arteries you requested [http://www.netterimages.com/image/671.htm]. Doc James (talk ·  · ) 22:58, 9 December 2010 (UTC)
+
+Not sure what you refer too by &quot;Patient specific anatomical variations&quot;? Doc James (talk ·  · ) 23:00, 9 December 2010 (UTC)
+
+ E.g. please see [http://books.google.com/books?id=gMfSmyY-9c0C&amp;pg=PA526&amp;dq=Patient+Specific+Models+for+Minimally+Invasive+Aortic+Valve+Implantation&amp;hl=en&amp;ei=Z2IBTaSnIoWU4Aau7NCvBQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCcQ6AEwAA#v=onepage&amp;q=Patient%20Specific%20Models%20for%20Minimally%20Invasive%20Aortic%20Valve%20Implantation&amp;f=false diagram on page 528] and the discussion just before it. Although the topology and connectivity of the ostia may be similar, the metric structure is not. Years ago I had a 3D model of my heart done (I am fine thanks) and I saw it compared with others with far more problems. I would have let them download it to Wikimedia along with others. So I suggest that Wikimedia be used as a repository for many 3D models of anonymous patients who grant rights. I think 80% of patients will not object. That will then be a very useful resource for all students worldwide. And it will cost nothing. Jim Wales will fund it, without knowing, and it will be &quot;real models&quot;. And no permission is required, as long as the patients sign something. Any MD can start and it can just grow from there. History2007 (talk) 23:27, 9 December 2010 (UTC)
+ As long as the images are anonymous patient permission is not required. How would we turn the 2 D into the 3D models you propose?Doc James (talk ·  · ) 03:31, 10 December 2010 (UTC)
+ Ok, if there are no legal barriers, then we just needs to solve the technical issues. I will take a look at what Wikimedia allows, and  post a few questions for various people. In general, an interactive 3d system would have been ideal, but will probably not work on Wikimedia as is. However, there are piles of animated 3D images floating around that woul dbe just rotating. Please give me a few days to ask questions, then we will see what the best way may be. But to have a 3D image, the input needs to have had 3D capabilities. I have seen hearts on 3D interactive systems, but the 3D software was specific to the workstation. However, a series of snapshots of the rotations can be captured and turned into an animated image. But again, I need to know what the Wikimedia policies are, and I have not looked into that yet. But I will ask. In the mean time, I touched up Computer-generated_imagery#Anatomical_models with Netter, and if see any errors, please correct them. Thanks. History2007 (talk) 13:47, 10 December 2010 (UTC)
+Yes we do have the rotating image of DNA. I am sure many of us could get you CT images with personal data removed. Doc James (talk ·  · ) 18:04, 10 December 2010 (UTC)
+
+ Yes, that DNA image is a GIF file. That is of course one option, but a [http://commons.wikimedia.org/wiki/Commons:Village_pump#3D_images discussion has started here], and we should wait for more responses and ideas. I think there is interest on Wikimedia, but discussions should continue for more input. Further suggestions can be obtained, but let us wait a day or two for Wikimedia people. We should see what the long term direction of supported Wikimedia items may be and I do not know that yet. However, as of October 25 2010 [http://lists.wikimedia.org/pipermail/wikitech-l/2010-October/050038.html suggestions were being sought]. I think we should see what the Wikimedia people say, then decide on a strategy. But overall, I have a feeling that if the right format is selected, in the long term these medical images will find their way into Wikimedia, and we should just do it right by conforming to their standards. However, I also think that this application can influence their standards, given that they are still not frozen, and this could be a very useful application. I see some a day when some hospital will donate many images once the project gets going. I will leave people some messages about that too. History2007 (talk) 18:26, 10 December 2010 (UTC)
+
+I think our discussion on graphic formats for anatomy was just
+[http://www.tgdaily.com/software-features/53076-google-develops-google-earth-for-the-human-body overcome by events], and [http://www.dailytech.com/Google+Body+Browser+Gives+Detailed+Look+at+Your+Inner+Workings/article20419c.htm also here]. So this means that we know where the &quot;medical student of the future&quot; will get info, because as the Google people throw money at these projects, the direction will be set, and it will be a case of follow the tape. I think the best option is to wait 6 months, then revisit the issue. Cheers. History2007 (talk) 21:00, 16 December 2010 (UTC)
+
+Hmm, does anyone think that google earth has ended the need for other, freely licensed maps? Or are the google anatomy models to be freely licensed? LeadSongDog come howl! 04:29, 17 December 2010 (UTC)
+
+I do not know what will happen in 6-12 months, but do know that the current period is a time of transition. So my strategy is to wait before I spend effort on this now. Of course, you could proceed in any case. History2007 (talk) 08:45, 17 December 2010 (UTC)
+
+Electrotrichogenesis
+
+Could I get some eyes on electrotrichogenesis? My quackery senses are tingling. Mangoe (talk) 15:16, 14 December 2010 (UTC)
+
+ Shocking article. I marked it as advert anyway, although not my scene really. History2007 (talk) 15:27, 14 December 2010 (UTC)
+
+Do not see any review articles on the topic. Therefore PRODed. Doc James (talk ·  · ) 20:52, 14 December 2010 (UTC)
+
+HIV/AIDS breakthrough?
+
+Now I don't know if it checks out, and it that's the real deal, as potential cures as always reported from time to time, but this would (apparently) be the first time someone is actually cured from HIV/AIDS
+
+*cite web
+
+
+
+
+
 
 *cite journal
- |author= Kristina Allers, Gero Hütter, Jörg Hofmann, Christoph Loddenkemper, Kathrin Rieger, Eckhard Thiel and Thomas Schneider
- |date=8 December 2010
- |title=Evidence for the cure of HIV infection by CCR532/32 stem cell transplantation
- |journal=Blood
- |volume=116 |issue=25 |pages=
- |doi=10.1182/blood-2010-09-309591
+
+
+
+
+
+
 
 
 It might check out, it might not check out. This project will know what to do with this information. If anything, particular attention should be paid to stem cells/HIV/AIDS-related articles because of the increase activity this will bring.Headbomb {talk /  /  / } 12:32, 15 December 2010 (UTC)
@@ -109,19 +163,19 @@ The main disadvantage is that most readers probably won't click the link.
  is a simple block-oriented chart template.  It assumes that everything must add up to 100% in the end, and fills in any missing amounts with &quot;other&quot;.
 
 Brick chart
-|caption = Causes of death
-|label1 = Cardiovascular diseases
-|value1 = 29.3
-|label2 = Infectious and parasitic diseases
-|value2 = 23.0
-|label3 = Cancer
-|value3 = 12.5
-|label4 = Respiratory disease
-|value4 = 6.5
-|label5 = Unintentional injuries
-|value5 = 6.2
-|label6 = Digestive diseases
-|value6 = 3.5
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 You can label (and optionally choose colors for) each item, and the labels can be wikilinks to relevant articles.  
@@ -135,19 +189,19 @@ Google documents is a great program for doing this. You enter the data into a sp
 
 
 Brick chart
-|caption = Causes of death
-|label1 = Cardiovascular diseases
-|value1 = 29
-|label2 = Infectious and parasitic diseases
-|value2 = 23
-|label3 = Cancer
-|value3 = 13
-|label4 = Respiratory disease
-|value4 = 7
-|label5 = Unintentional injuries
-|value5 = 6
-|label6 = Digestive diseases
-|value6 = 4
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  Nice work WAID, and very informative. The border works for me using style=&quot;float:right; border:1px solid darkgray;&quot;. The Brick chart wants integers for the |value parameters, so if you round them, it works. --RexxS (talk) 23:47, 5 December 2010 (UTC)
 
@@ -182,7 +236,411 @@ Medical garden
 
 Hi. A request was added at the Proposed Merges project page to move &quot;Stereotaxis&quot; to &quot;Remote Magnetic Navigation&quot;.Move Stereotaxis to Remote Magnetic Navigation since that is is the actual topic of the article. (This requires deletion of a redirect at the intended target page). - It comes under WP:Requested moves really, but since it'd already been posted ... I had a look and it was immediately clear what the editor meant. The page contains no company info - sole focus is the product. On closer inspection there seems to be a cluster of articles. There's a  quality about them, and the SPA who created that one made another in the same style.
 I'm wondering if they're a) &quot;&quot; b) WP:Notable enough to warrant a standalone article. I'm unfamiliar with the subject matter, so don't feel able to determine if and how they should remain and evaluate them for those concerns. It needs need technically-qualified eyes, I think. Could someone from this WikiProject take a look? Thanks, Whitehorse1 04:34, 21 December 2010 (UTC).
-· info:  should have plenty of relevant information. However I cannot currently access it.  has some basic advice for writing journal articles, and Astronomische Nachrichten is probably the best-written journal article on Wikipedia, so would be a very good model to base yourself on. I can help people writing this if need be (copy editing, etc...), although I am thouroughly unable to expand the article more than what you currently see. Any help would be appreciated. Headbomb {talk /  /  / } 10:28, 20 January 2011 (UTC)
+· info: 
+· created: Stereotaxis, moved from Remote magnetic navigation redirect, plus Sensei robotic catheter system
+· page seems to suggest they relate to Interventional cardiology and Interventional radiology, and with overlap into
+· Robotic surgery, Computer assisted surgery, Remote surgery, Stereotactic surgery, MRI Robot, SSN, LUCAS, Cyberknife
+Google body browser
+
+This looks like an interesting project [http://googlesystem.blogspot.com/2010/12/google-body-browser.html]. When the full version is out it may not be a bad idea to link to it in the anatomy infobox.Doc James (talk ·  · ) 03:05, 16 December 2010 (UTC)
+
+Yes, I just commented on that above, before I saw your post. That is where the &quot;med student of the future&quot; will get info. Given the funding they have, they will set the direction for that, without doubt. Patient specific models will be done later, when they try to manage info for the &quot;physician of the future&quot; on his Android-based physician-phone, but that will come in time, as they try to get another advantage. But the handwriting is on the wall already. It is just a question of waiting for it. History2007 (talk) 21:09, 16 December 2010 (UTC)
+
+I agree that it would be useful to include it in infoboxes. Mikael Häggström (talk) 13:05, 21 December 2010 (UTC)
+
+Featured picture candidate at commons
+
+I have performed a restoration of a high quality image of Santiago Ramón y Cajal and nominated it for FP at commons with the intention of also nominating it later in WP. Comments  would be welcomed.--Garrondo (talk) 12:33, 17 December 2010 (UTC)
+
+Right now although nobody has opposed the image it still need 3 more positive votes to be featured... If anybody thinks it is worth it votes would be a great Christmas present.:-) --Garrondo (talk) 12:26, 21 December 2010 (UTC)
+
+FAC
+
+Would appreciate your input in  - another medical FAC. JFW | T@lk 13:11, 19 December 2010 (UTC)
+
+I would be very grateful if contributors from this WikiProject could offer their opinions on this article. It is not long. JFW | T@lk 17:08, 22 December 2010 (UTC)
+
+Tighter requirements per MEDASSESS
+
+Per : In general, editors should rely upon high-quality evidence, such as systematic reviews, rather than lower-quality evidence, such as case reports, or non-evidence, (e.g., conventional wisdom). 
+
+Editors do need to show how the recenty added guidelines are equal to the other sources when there are a lot more higher quality sources presented. According to MEDASSESS, rely upon high-quality evidence, such as systematic reviews, rather than lower-quality evidence. 
+
+* Review of guidelines. 
+
+* The original guidelines. 
+
+There are two similar references being used in the low back pain section. There is a guideline and the review of the guidelines. A [http://en.wikipedia.org/w/index.php?title=Chiropractic&amp;action=historysubmit&amp;diff=403224497&amp;oldid=403071230 guideline is a lower-quality reference] than the review of the guidelines. The low back pain section is too long and I think it can be shortened a bit. For now, I think it would be better to at least remove the recently added [http://en.wikipedia.org/w/index.php?title=Chiropractic&amp;action=historysubmit&amp;diff=403224497&amp;oldid=403071230 guideline reccomendations] because it is a weaker source. There is  to use weaker sources when there is a currently two Cochrane reviews and a mix of recent state of the art systematic reviews summarised in low back pain. See . QuackGuru (talk) 21:31, 21 December 2010 (UTC)
+
+ That principle seems pretty well established. The question should be whether or not the edit linked violates the principle. If I read the diff correctly, it is providing a citation of a more recent but less authoritative source. It is intrinsic to the incrementalist nature of science that recent works are built on old foundations. Just because someone published a top-quality work once, doesn't mean newer, lesser-quality sources should be excluded. LeadSongDog come howl! 23:28, 21 December 2010 (UTC)
+
+ Guidelines are good sources if they are evidence-based (e.g. most guidelines produced by NICE in the UK follow EBM methodology). They can also reflect a standard of care that would normally be extended, which is a piece of information you often don't find in other sources. JFW | T@lk 01:58, 22 December 2010 (UTC)
+
+ 
+ &quot;The case reports confirm previous reports associating upper spinal manipulation with a range of complications. The most serious problems are vertebral artery dissection as a result of overstretching of the artery during rotational manipulation of the neck. Spinal manipulation was associated with risks such as vascular accidents and nonvascular complications in a number of case series. Case-control studies suggested a causal relationship between upper spinal manipulation and the adverse effect.&quot;
+ I found this source from the NICE website. The source is so long it would take hours to read it. And that is exactly what I did. QuackGuru (talk) 05:03, 22 December 2010 (UTC)
+
+ Sorry to chime in late, but I was only now made aware of this discussion by QG. I am the editor who is disputing QGs proposed removal of the guidelines from the low back pain section at Chiropractic. I hope I am not being too bold in posting a comment in this discussion, as I am relatively new here and trying to learn the 'ropes'.
+ The two sources to which QG refers are not at all the same. One is a systematic review carried out by the American Pain Society and the American College of Physicians, the second is a set of guidelines developed jointly by the American Pain Society and the American College of Physicians with regard to the &quot;Diagnosis and treatment of low back pain&quot;. 
+ As per MEDASSESS:&quot;In general, editors should rely upon high-quality evidence&quot; As per WP:MEDRS: &quot;A secondary source in medicine summarizes one or more primary or secondary sources, usually to provide an overview of the current understanding of a medical topic, to make recommendations or to combine the results of several studies. Examples include the literature reviews and systematic reviews found in medical journals; specialist professional or academic books; and position statements or medical guidelines published by major health organizations.&quot; 
+ The 2007 guidelines were jointly published by two highly reputable American medical bodies. Thus, according to MEDRS, both the review and the guidelines are a secondary source and among the highest type of evidence available. Further, As per WP:MEDASSESS: &quot;Look for reviews published in the last five years or so, preferably in the last two or three years.&quot;. Thus, these 2007 guidelines also fit this requirement. If the section needs to be made shorter, there are two 2006 reviews, which can be removed as they should be covered by the many more recent reviews in the section.
+ These guidelines are especially valuable to the section as they put the results of the many reviews into context. Currently the section contains only reviews. The guidelines are the only source putting the results into context for a reader. It would be very unfortunate to lose them until a newer set of guidelines are released by an equally or more reputable medical body.Puhlaa (talk) 05:54, 22 December 2010 (UTC)
+
+ I'm confused by QuackGuru's two sources. One is about LBP and the other about upper cervical manipulation and VAD, two very different and unrelated matters. I'm confused by the sight of an apple and a lettuce leaf. What gives? -- Brangifer (talk) 06:34, 22 December 2010 (UTC)
+
+According to this edit summary [http://en.wikipedia.org/w/index.php?title=Chiropractic&amp;action=historysubmit&amp;diff=403224497&amp;oldid=403074738 &quot;Merging the mentions of the 2007 review by the American Pain Society and American College of Physicians and their subsequent recommendations based on that review&quot;] they are somehow related. Since you believe they are not related I removed the connection of the two sentences. Now each sentence is indepedent. QuackGuru (talk) 07:23, 22 December 2010 (UTC)
+QG, Brangifer was referring to LBP and VAD, which you cited from the 2009 study.  He was not (I believe) commenting on the two 2007 LBP sources.  And just in case there's a question about ACP/APS guidelines, here's the details: &quot;The literature search for this guideline included studies from MEDLINE (1966 through November 2006), the Cochrane Database of Systematic Reviews, the Cochrane Central Register of Controlled Trials, and EMBASE. The literature search included all English-language articles reporting on randomized, controlled trials of nonpregnant adults (age &gt;18 years) with low back pain (alone or with leg pain) of any duration that evaluated a target medication and reported at least 1 of the following outcomes: back-specific function, generic health status, pain, work disability, or patient satisfaction. The American College of Physicians (ACP) and the American Pain Society (APS) convened a multidisciplinary panel of experts to develop the key questions and scope used to guide the evidence report, review its results, and formulate recommendations. The background papers by Chou and colleagues (15, 16) provide details about the methods used for the systematic evidence review.&quot; In other words, in what way is this not systematic or high-quality per MEDRS? Ocaasi (talk) 08:42, 22 December 2010 (UTC)
+
+Can we terminate this discussion, as it is essentially a spill-over from chiropractic? JFW | T@lk 17:16, 22 December 2010 (UTC)
+
+Genital anatomy, fetal development, agenesis and evolution - getting the big picture
+
+Noticed that looking at eg vagina an uneducated reader would find the relevant articles about fetal development, differentiation and evolutionary aspects only by pure luck. Should there be more categories? Or current categories expanded and crosslinked? Richiez (talk) 12:17, 22 December 2010 (UTC)
+
+The current categorization of the article Vagina seems too broad to me. It would be enough to include it in . The categorization of medical articles in the field of gynecology and obstetrics would need serious work as categories are too broad and include too many articles. --Eleassar my talk 16:00, 22 December 2010 (UTC)
+
+A few other sections are mentioned here including: development [http://en.wikipedia.org/wiki/Wikipedia:MEDMOS#Anatomy] feel free to add them. Doc James (talk ·  · ) 07:02, 23 December 2010 (UTC)
+Lingo
+
+I thought in a recent [http://en.wikipedia.org/w/index.php?title=Chiropractic&amp;diff=403670353&amp;oldid=403666987 edit] that 'causality' could be changed to 'cause' without losing precision and while dropping a touch of unneeded jargon. (The change was [http://en.wikipedia.org/w/index.php?title=Chiropractic&amp;diff=403824373&amp;oldid=403670353 reverted]).  Thoughts? Ocaasi (talk) 05:45, 23 December 2010 (UTC)
+Yes they are the same in my world anyway. Would us cause it is simpler.--Doc James (talk ·  · ) 06:57, 23 December 2010 (UTC)
+
+I'd say the word &quot;cause&quot; is much better. Causality refers more to the strength of a causal relationship than the actual cause. JFW | T@lk 07:01, 23 December 2010 (UTC)
+
+On an unrelated note, the inappropriate use of a fancy-sounding word has reminded me that someday we're going to have to get Blanchard's transsexualism etiology moved.  The editors (apparently all transwomen without no more technical understanding than I have of rugby) don't quite seem to grasp the difference between a &quot;cause&quot; and a &quot;psychological typology that hints at a cause&quot;.  The article title was chosen despite both published reliable sources and direct, on-wiki efforts by a psychologist at Blanchard's institution saying that it was wrong. 
+Oh well:  That's a battle for another year.  WhatamIdoing (talk) 01:04, 26 December 2010 (UTC)
+
+Spinal stenosis
+
+Could someone who has access to full text of journal sources lend a hand at Spinal stenosis?  I initially was only completing missing citation information (the citations are incomplete, do not include PMIDs or journal article titles, see ), but as I worked, I found extensive plagiarism and an extreme overreliance of very dated primary sources.  I've removed several instances of plagiarism and am working to convert the citations so they can be checked, but my concern is that if the entire article is plagiarized, my time will be misspent and the article should be blanked as a copyvio.  I don't have access to sources, but the ones I removed were direct copies of article abstracts; could someone who has journal access take a look at the citations at the top of the article that I have completed so far, and let me know if they contain plagiarism?  If not, I'll continue updating the citations; if so, the article should be blanked as a copyvio.  If it's not a copyvio, it nonetheless needs to be updated to include secondary reviews and minimize primary sources, but I can't determine that until I finish converting the citations ... for now, I just need to know if all of the sources, to which I don't have access, are plagiarized.   SandyGeorgia (Talk) 06:59, 25 December 2010 (UTC)
+ Ugh, and [http://en.wikipedia.org/w/index.php?title=Spinal_stenosis&amp;diff=404144127&amp;oldid=404143022 look at this;] over a dozen sources for a simple statement, indicating likely synthesis, and the need for a secondary review source.  In order to determine if there are any reviews in that mass of citations, I have to locate every one of them in PubMed; this occurs throughout the article.  Does anyone have full text access to a review source that can be used to replace things like this throughout the article, so I don't have to spend days locating and converting these citations, which are mostly primary sources anyway?  SandyGeorgia (Talk) 07:10, 25 December 2010 (UTC)
+Which review do you want?Doc James (talk ·  · ) 07:12, 25 December 2010 (UTC)
+ I don't know .. it's such a mess I hardly know where to begin.  I just need someone who has journal access to determine how extensive the plagiarism is, but the article has huge and multiple issues.  See talk. I'm afraid the article is a waste of time in spite of looking like it was a good article, and I HATE that Wiki has irresponsible medical articles-- I came to this article looking for info, and I initially trusted it-- now I don't. SandyGeorgia (Talk) 08:37, 25 December 2010 (UTC)
+I did a couple of spot checks of ' work and it seems that it was he who added some (or most) of the plagiarized information ([https://secure.wikimedia.org/wikipedia/en/w/index.php?title=Spinal_stenosis&amp;diff=272204825&amp;oldid=272096748] and , for example, though other edits like the &quot;Failure to relieve symptoms&quot; section of [https://secure.wikimedia.org/wikipedia/en/w/index.php?title=Spinal_stenosis&amp;diff=260797387&amp;oldid=260219878 this edit] seems to be OK). He added so much to the article (much of that has since been removed, but others haven't) that I don't think it is worth trying to salvage it. NW (Talk) 07:22, 25 December 2010 (UTC)
+ Poor sourcing, synthesis, plagiarism ... if someone can determine that the plagiarism is extensive (beyond what I've already removed), the article should be blanked per copyvio and rewritten to secondary reviews, but without journal access, I hardly know where to start.  SandyGeorgia (Talk) 08:37, 25 December 2010 (UTC)
+ After finding [http://en.wikipedia.org/w/index.php?title=User_talk:Jfdwolff&amp;oldid=270079919#Brown-Sequard_syndrome this,] and reviewing AE Francis' talk page, I'm more concerned.  SandyGeorgia (Talk) 08:54, 25 December 2010 (UTC)
+And than we have this page Failed back syndrome and this one Hemiparesis Doc James (talk ·  · ) 15:20, 25 December 2010 (UTC)
+I stubbed Hemiparesis after finding plagiarism/copyvio issues in multiple sections. NW (Talk) 18:55, 25 December 2010 (UTC)
+*I'll do a couple more spot checks with journals that I have access to, but just as an FYI to others: the article is now at Lumbar spinal stenosis. NW (Talk) 18:43, 25 December 2010 (UTC)
+**On second thought, I think I shall hold off. James seems to be doing a fantastic job rewriting the article, and looking at prior versions of the page, I think it is acceptable to do that rather than start from scratch; the plagiarism isn't as extensive as to require that. NW (Talk) 18:46, 25 December 2010 (UTC)
+
+Schizophrenia
+
+}]] has|I have nominated Schizophrenia for a . Please join the discussion on whether this article meets . Articles are typically reviewed for two weeks. If substantial concerns are not addressed during the review period, the article will be moved to the Featured Article Removal Candidates list for a further period, where editors may declare &quot;Keep&quot; or &quot;Delist&quot; the article's featured status. The instructions for the review process are . Basket of Puppies 23:44, 25 December 2010 (UTC)
+
+Gee, you spent, what, a whole day on FAR's first step?
+Let me repeat that for you, just in case you missed that in the directions: 
+; Raise issues at article Talk:
+* In this step, concerned editors attempt to directly resolve issues with the existing community of article editors, and to informally improve the article. Articles in this step are not listed on this page.
+Maybe you should actually try that step for more than two days (over a holiday weekend, no less) before you introduce the hassle and bureaucratic overhead of a listed FAR?  WhatamIdoing (talk) 01:11, 26 December 2010 (UTC)
+Agree this seems a little premature. Doc James (talk ·  · ) 02:08, 26 December 2010 (UTC)
+
+This will be going nowhere without the opinion of  JFW | T@lk 09:54, 26 December 2010 (UTC)
+
+Categorization - help requested
+
+General question:
+Is there a guideline with regard to categorization of medical articles?  
+I looked at ... and don't feel that really helped me a lot.
+
+Specific situation:
+I recently created chorangioma... and then wondered about what would be the best category for it.  I think it would fit in a category called placenta, placental pathology, or (dependent on size) health issues in pregnancy.  There are a slew of placenta-related articles (placenta previa, placental abruption, placental site trophoblastic tumour, chorioamnionitis)... and I wonder whether a unifying category is in order. 
+
+Full disclosure:
+I put it into placenta twice and it has been reverted twice. 
+
+Specific request:
+I'm looking for suggestions for a category for chorangioma... if you think you have the perfect one -- go ahead and add it.  
+Thanks, Nephron  T| 04:54, 28 December 2010 (UTC)
+
+General answer:  There's no general answer.  DERM and PHARM have both done good things, if you're interested in finding models.
+Specific answer:  The problem at the article is that  doesn't exist.  You could create the cat if you wanted to populate it and to graft it in the cat tree structure in suitable places.  WhatamIdoing (talk) 14:31, 28 December 2010 (UTC)
+
+I started a discussion last year about expanding the categories section of medmos (at ), but it got sidetracked and never concluded.  Maybe I should just put it in to medmos and see what happens!  In general, I try to categorize disease articles by ICD-10 code, which is by organ system.  A category named for a body part/system would only contain articles about anatomical parts of that organ/system, but it may contain a subcategory of disorders effecting that body part/system.  According to ICD-10, the articles you mentioned should be in &quot;(O30–O48) Maternal care related to the fetus and amniotic cavity and possible delivery problems&quot;, which is within  (which is within ).  This specific subcategory does not yet exist, but it should be created (and possibly less wordy).  --Scott Alter (talk) 01:54, 29 December 2010 (UTC)
+
+Thanks for the comments WhatamIdoing &amp; Scott. Looks like  is pretty close. Ideal would be if it were expanded to Health issues in pregnancy and childbirth -- it would then mirror the ICD-10.  I'll ask Cgingold, the creator the category (Health issues in pregnancy), about this idea.  Scott be  and add the stuff... I think more is better.  If it isn't perfect... someone will come along and tweak it. :-) Nephron  T| 04:02, 29 December 2010 (UTC)
+
+MEDRS queries
+
+[http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Noticeboard#Question_on_reliability At RSN.]  SandyGeorgia (Talk) 18:16, 28 December 2010 (UTC)
+An expert is needed
+
+This is to note that an  template has been added to the Lung volumes article in the Values section.  Certain volume values have come into question as noted on the .  Thank you in advance for any help you can give, and I hope you all have the happiest of holidays this season!
+ —  Paine Ellsworth ( CLIMAX )  07:13, 24 December 2010 (UTC)
+
+Perhaps something  may be able to help with? JFW | T@lk 07:56, 24 December 2010 (UTC)
+
+ Say what was that? Sure, I'll take a look. Axl ¤ [[User talk:Axl|[Talk]]] 10:27, 29 December 2010 (UTC)
+
+Abortion
+
+Some more eyes may be useful. Doc James (talk ·  · ) 00:19, 29 December 2010 (UTC)
+I'll get over there as soon as I can: the blizzard belew shingles off my roof, so I've done bucket brigade all night long.  SandyGeorgia (Talk) 14:51, 29 December 2010 (UTC)
+
+Merge proposal
+
+There is a merge proposal going on for Prevention of diabetes mellitis type 2. Student7 (talk) 13:03, 29 December 2010 (UTC)
+Delusion
+
+An editor has moved Delusion to Delusion (psychiatry), created Delusion (spirituality) (an unreferenced stub), and created a disambiguation page for &quot;delusion&quot; with the edit summary &quot;No primary topic.&quot; [http://en.wikipedia.org/wiki/Special:Contributions/Bhuston]
+
+The psychiatric usage is clearly , but I've only ever made one simple page move and am unsure how to unscramble this. Would someone like to try? Anthony (talk) 01:49, 30 December 2010 (UTC)
+, with some helpful assistance from . NW (Talk) 02:00, 30 December 2010 (UTC)
+Cheers both of you. :) Anthony (talk) 02:15, 30 December 2010 (UTC)
+
+ Hi everyone, I would like to invite you here for a discussion on this topic. I argue that the 3,500 year old Sankrit meaning is clearly trumps a materialist meaning which is at most ~500 years old (Francis Bacon) or most likely Freud (~100 years old) I will settle for the disambiguation page, which is most fair to both meanings :) Can we revert the deletion of the disambiguation page please? I promise to expand Delusion (spirituality) over the next few weeks, referenced. Best, -- Bill Huston  (talk) 03:59, 31 December 2010 (UTC)
+ I've made a few comments at Bill's talk page. --RexxS (talk) 10:52, 31 December 2010 (UTC)
+
+Bioidentical hormone replacement therapy
+
+An editor whose talk page history indicates frequent problems (he regularly cleans it, so check the history) is now rather upset and ranting against Big Pharma on the article's talk page. Will someone who knows more about this subject take a look? -- Brangifer (talk) 08:19, 30 December 2010 (UTC)
+
+I have replied on the talk page to this editor.--Literaturegeek | T@1k? 09:22, 30 December 2010 (UTC)
+
+ Thanks to those who have done their part. From their track record I doubt that that individual will accept advice, but you've tried. -- Brangifer (talk) 19:27, 30 December 2010 (UTC)
+
+He's still at it. The article still needs attention as I suspect there is unsourced OR editorializing. -- Brangifer (talk) 20:47, 31 December 2010 (UTC)
+
+Administrivia:  Tagging the project's shortcuts
+
+If you are involved in one of our many task forces, would you please check the redirects to the task force to make sure they're properly categorized?  All shortcuts should be tagged with .  
+
+There was a proposal to have a bot do this back in the spring, but it appears that it didn't get off the ground, so we get to do it by hand.  Tim1357 generated a [http://toolserver.org/~tim1357/Static/R_from_shortcut target list] in May that might be useful for checking the status of &quot;your&quot; redirects.  I've picked up at least most of them for the main project.  WhatamIdoing (talk) 19:35, 31 December 2010 (UTC)
+Vandalism check at Oxazepam
+
+Could someone just check that the apparent [http://en.wikipedia.org/w/index.php?title=Oxazepam&amp;diff=405469615&amp;oldid=405410429 vandalism] I reverted is going to an accurate version.  Thanks, Ocaasi (talk) 09:35, 2 January 2011 (UTC)
+It was not a vandalism: oxazepam is a short-acting benzodiazepine and it's more useful for sleep-onset insomnia than for middle-of-the-night insomnia. I undid your edit. --Doc.mari (talk) 11:54, 2 January 2011 (UTC)
+Thanks, couldn't tell from the diff which one was right, and the newer edit wasn't particularly well formatted so it looked sketchy.  Ocaasi (talk) 11:58, 2 January 2011 (UTC)
+(outdent) Oxazepam has a slow onset of action, I have reverted and added a reference. It is mostly used as an anxiolytic or sometimes for alcohol or benzo withdrawal in individuals prone to accumulation of long-acting diazepam and chlordiazepoxide. It has never to my knowledge been marketed or licensed as a hypnotic, perhaps because of it's slower onset of action, but I suppose some doctors may choose to use it off-label for insomnia say in the elderly as it is a &quot;milder&quot; and lower potency benzo.--Literaturegeek | T@1k? 17:45, 2 January 2011 (UTC)
+There seemed to be a lot of research showing that Oxazepam is slow-acting compared to Diazepam but I don't know if that justifies slow in relative or absolute terms.  How fast does something have to be for it to qualify as &quot;fast&quot; or &quot;slow&quot;?  Also, is it going beyond our scope to describe specific indications like 'use drug x for staying asleep but not falling asleep' or is this ok as long as we're just describing common practice or guidelines? Ocaasi (talk) 08:49, 3 January 2011 (UTC)
+It's okay, and even good, to describe typical uses.  Statements like &quot;X is used for Y, but not Z&quot; helps the reader place the drug in a proper context.  WhatamIdoing (talk) 20:08, 3 January 2011 (UTC)
+
+BMJ Case Reports
+
+Hi, does anyone here have access to [http://casereports.bmj.com/ BMJ Case Reports]? I'm looking for copies of a few  for use in the mephedrone article and would be greatful if anyone could email me copies. (I know that these wouldn't normally be good sources, but in this case they are the only ones available at the moment.) Thanks SmartSE (talk) 15:56, 2 January 2011 (UTC)
+I agree, that use of case reports may be justified for this drug given the drug's short time period on the illicit scene and lack of research and major gaps in information. Hopefully someone will be able to help you track down the sources you are looking for.--Literaturegeek | T@1k? 17:38, 2 January 2011 (UTC)
+
+Buteyko method of breathing
+
+This article needs attention. Right now there is an ardent advocate of the method who has some concerns and questions:
+
+* 
+
+Brangifer (talk) 00:50, 3 January 2011 (UTC)
+
+Ugh, the entire &quot;Theory&quot; section appears to be ; why is it discussing hyperventilation when the purported use is for asthma?  And did someone actually write FEV1 and peak flows can't be used to evaluate asthmatics?  The lead mentions a cochrane review, but I don't see it as a ref?  That page needs lots of work. Yobol (talk) 20:29, 3 January 2011 (UTC)
+
+ Indeed, and I'm not up to it. We need some pulmonology experts here. -- Brangifer (talk) 05:09, 4 January 2011 (UTC)
+
+Could I get your input on my talk page
+
+See: 
+
+Should the category read &quot;Dermatologic journals&quot; or &quot;Dermatology journals&quot;? ---My Core Competency is Competency (talk) 19:23, 3 January 2011 (UTC)
+
+HAIR-AN syndrome
+
+* What type of dash should be used when writing the above syndrome name? ---My Core Competency is Competency (talk) 19:43, 3 January 2011 (UTC)
+* Same question with Hand-arm vibration syndrome as well. ---My Core Competency is Competency (talk) 20:05, 3 January 2011 (UTC)
+ The second one is easy: an en dash: Hand–arm vibration syndrome as it stands for and. See , &quot;1. Disjunction: To stand for and between independent elements&quot;
+ The first is not so easy because it's an acronym, and I actually wouldn't expect a dash or hyphen from a lexical perspective. However, your second source uses a hyphen, so my suggestion is to do the same – although I suspect a case could be made for applying the rule I quoted above and using an en dash as it could be considered to stand for and. If you wanted an authoritative answer, the expert is Tony1, so you could drop him a line on his talk page.
+ P.S. Don't forget that article titles containing an en dash should also have a redirect using a hyphen, to assist folks searching for the topic. HTH --RexxS (talk) 00:54, 4 January 2011 (UTC)
+
+Patient Protection and Affordable Care Act
+
+The Patient Protection and Affordable Care Act article keeps getting whitewashed by people who insist on downplaying the fact that it isn't national healthcare, and so on. I wouldn't put it past the private insurance companies and/or their allies in the USGov't to have a vested interest in seeing to it that the PPACA's provisions are made to look as 'populist' as possible. Would those of you in this project please take a look at my recent revisions to the article and let me know how you think I might be able to say much the same things without  challenges being lobbed at me all the time? The stuff I add is objective truth, not editoralizing as is being accused. Kikodawgzzz (talk) 01:44, 4 January 2011 (UTC)
+Please comment at FAC
+
+Thyrotoxic periodic paralysis in a featured article candidate. We've had only a few comments so far, so everyone's views would be appreciated! Comments on the  please! JFW | T@lk 18:07, 25 December 2010 (UTC)
+ Congratulations are due to JFW on his piloting of the article through a tough process. I was especially heartened to see so many comments and constructive criticisms from the regulars here, and both the article and Wikipedia have benefited as a result. --RexxS (talk) 02:32, 4 January 2011 (UTC)
+
+Thanks RexxS and thanks to all who have commented. JFW | T@lk 16:01, 4 January 2011 (UTC)
+
+
+
+See the green strip at the top of Pain. 
+
+I've incorporated suggestions from LeadSongDog, Doc James and others; and Brangifer and others have made important changes. I've also modified according to my experience mentoring a bunch of Dublin City University psych nursing students editing psych articles.
+
+Soon might be a good time to trial it on 20 med articles. I would really appreciate your thoughts on this.
+
+#If you oppose the trial, please bring it up here
+#Please suggest changes to the  (the green strip), the  or the trial itself at the 
+
+Anthony (talk) 07:14, 4 January 2011 (UTC)
+List of trial articles
+I have proposed a list of articles for the trial at . Anthonyhcole (talk) 01:29, 6 January 2011 (UTC)
+
+They look fine to me:  nothing too weird, nothing too big.  
+Are we set with the plans for statistical analysis?  Who's running the numbers?  WhatamIdoing (talk) 22:09, 6 January 2011 (UTC)
+I'm happy to manually collect the data outlined  (unless there are automated methods I'm not aware of) but will need help with the formal analysis. Anthonyhcole (talk) 03:21, 7 January 2011 (UTC)
+I would love to help with statistical analysis.--Garrondo (talk) 10:26, 7 January 2011 (UTC)
+Thanks, Garrondo. Anthonyhcole (talk) 01:30, 8 January 2011 (UTC)
+
+MMR vaccine controversy
+
+Please watch Andrew Wakefield, Brian Deer and MMR vaccine controversy, as well as autism. [http://news.yahoo.com/s/ap/20110106/ap_on_he_me/eu_med_autism_fraud] I'm off to bed.  SandyGeorgia (Talk) 06:02, 6 January 2011 (UTC)
+Could some one  knowledgeable please make and update to the article? We have consensus to post it on ITN but all we have are an astronomer and an Anthropologist and neither of us are terribly good with medicinal articles. The Resident Anthropologist (talk) 14:26, 6 January 2011 (UTC)
+Which one? Graham Colm (talk) 16:41, 6 January 2011 (UTC)
+I've been so impressed by the intelligent and collegial performance of all editors at these articles over the last 36 hours. Warms my heart. Anthonyhcole (talk) 01:33, 8 January 2011 (UTC)
+
+In the news
+On the mainpage now, and Andrew Wakefield had [http://stats.grok.se/en/201101/Andrew_Wakefield 15,000 hits on January 6,] before it was on the mainpage.  Please watch Andrew Wakefield, Brian Deer, Jenny McCarthy, autism and MMR vaccine controversy. [http://en.wikipedia.org/w/index.php?title=Template:In_the_news&amp;diff=prev&amp;oldid=406424855] [http://en.wikipedia.org/w/index.php?title=Talk:Andrew_Wakefield&amp;diff=prev&amp;oldid=406425080] SandyGeorgia (Talk) 04:23, 7 January 2011 (UTC)
+
+Biliary tract cancer
+
+Could I please have those with medical knowledge comment as to whether Biliary tract cancer should be merged into Gallbladder cancer? Please provide comments at . Thank you, D O N D E groovily Talk to me 03:20, 7 January 2011 (UTC)
+
+It is redundant with cholangiocarcinoma, which happens to be a featured article! Redirect created. Gallbladder cancer is a different entity and should be preserved. JFW | T@lk 15:28, 7 January 2011 (UTC)
+
+Abortion-related RFC
+
+ could use some uninvolved editors.  The ostensible question is whether a section specifically discussion anti-abortion groups' use of ultrasounds to influence pregnant women should be permitted to display a sonogram, or whether showing (rather than merely telling) the reader what the groups are doing constitutes an NPOV violation as an &quot;emotional argument&quot;.  WhatamIdoing (talk) 04:35, 7 January 2011 (UTC)
+
+Wanted to let the community know...
+
+I moved Health effects of bedbugs to Bedbug infestation as this name is more broad, allowing discussion of the health effects of bedbugs regardless of whether a &quot;bite&quot; has occured or not.  Hope that was ok. ---My Core Competency is Competency (talk) 15:19, 7 January 2011 (UTC)
+Should we redirect Bedbugs to Bedbug infestation or a disambig page? Than have the page about the creature itself use the technical name fore it? Doc James (talk ·  · ) 18:10, 7 January 2011 (UTC)
+  advises that we use Bedbug as the title in preference to Cimicidae. It seems a little odd to redirect the plural to infestation instead of the singular, but I can see the argument. The articles link to each other fairly prominently, so there is not much danger that our readers might become lost. I have no real opinion on further separating the biology vs. health aspects of the topic. - 2/0 () 23:37, 7 January 2011 (UTC)
+ Perhaps we could continue this discussion on the  page so it all happens at the same place? ---My Core Competency is Competency (talk) 23:49, 7 January 2011 (UTC)
+
+Request for comment
+
+, and wanted to know if some of you would consider commenting on the proposed renaming over at that link. ---My Core Competency is Competency (talk) 04:43, 8 January 2011 (UTC)
+Breast cancer awareness
+
+Breast cancer awareness is finally in the mainspace.  I plan to suggest it for the main page's  box, and I'd be happy to have people watchlist it (please!), improve it, and help identify &quot;hooks&quot;.  WhatamIdoing (talk) 22:24, 1 January 2011 (UTC)
+ Watchlisted. Nice article, WAID. If you're looking for an image DYK, then I'd suggest the 'pink ribbon' is easily recognisable, with perhaps the sentence &quot;The first breast cancer awareness stamp in the U.S., featuring a pink ribbon, was issued 1996&quot; as the hook text. --RexxS (talk) 00:54, 2 January 2011 (UTC)
+
+Breast cancer awareness is on the main page now, and will be for the next (almost) six hours.  WhatamIdoing (talk) 00:22, 10 January 2011 (UTC)
+
+Italics?
+
+Regarding Frontal linear scleroderma (En coup de sabre, Morphea en coup de sabre), I sometimes see the phrase &quot;En coup de sabre&quot; italicized.  Should that be the case when listed within Wikipedia? ---My Core Competency is Competency (talk) 04:07, 8 January 2011 (UTC)
+
+Given that it is a borrowed term from French, I can understand why it might be italicised.  (section &quot;Foreign terms&quot;) seems to be covering it. JFW | T@lk 20:38, 8 January 2011 (UTC)
+
+PPACA language insertion controversy
+
+We're gonna need some input over at Patient Protection and Affordable Care Act concerning [http://en.wikipedia.org/wiki/Talk:Patient_Protection_and_Affordable_Care_Act#Kikodawgzzz.27s_edit this], if the Project wouldn't mind too much. There is apparently no &quot;WikiProject Healthcare&quot;, so WP:MED seems the best place to ask. Kikodawgzzz (talk) 13:08, 8 January 2011 (UTC)
+Look like american governement policy more than anything. Not internationally applicable. Doc James (talk ·  · ) 16:24, 8 January 2011 (UTC)
+I passed the request along to .  It should be squarely within their scope.  WhatamIdoing (talk) 18:54, 8 January 2011 (UTC)
+
+New York Rescue Workers Detoxification Project at GAN
+
+I have found the above article at GAN and added it to the project. Quite controversial since it mixes strong doses of US patriotism, scientology, Tom Cruise, and health issues... Point is that I am not to sure on whether it follows correctly MEDRS for the medical claims... Maybe somebody is brave enough to go for it... --Garrondo (talk) 15:14, 9 January 2011 (UTC)
+On second read they probably are following MEDRS... There is enough critique of the treatment from reliable sources. Still maybe somebody is interested in reviewing it at GAN.--Garrondo (talk) 15:23, 9 January 2011 (UTC)
+A few more eyes
+
+This editor  edits Wikipedia using primarily papers he himself has written. They are not generally review articles. Help getting some of the papers he has worked on inline with policy would be appreciated. Have provided him some feedback. Doc James (talk ·  · ) 16:40, 11 January 2011 (UTC)
+
+Adoptee
+
+Would anyone be willing to adopt ? They've left a request at my talk page, but this isn't my area of expertise.Smallman12q (talk) 23:07, 12 January 2011 (UTC)
+Predictive medicine? This is futuristic stuff which will never come to pass as it is a misunderstanding of Chaos theory --Doc James (talk ·  · ) 23:31, 12 January 2011 (UTC)
+
+Article request
+
+Would someone be willing to add a stub on short anagen syndrome? ---My Core Competency is Competency (talk) 01:42, 13 January 2011 (UTC)
+ I have made a start. I only found 16 references on Pubmed. Axl ¤ [[User talk:Axl|[Talk]]] 10:28, 13 January 2011 (UTC)
+ Thank you so much! ---My Core Competency is Competency (talk) 18:56, 13 January 2011 (UTC)
+
+Pott's fracture
+
+Working in german medical WIKI on ankle fracture (my edit), patella, osteochondritis etc I started correcting potts Fraktur in german. Looking for better versions I found yours in englisch. I would like to commend on that. nomen49-- (talk) 07:57, 13 January 2011 (UTC)
+Histologic bodies
+
+Would someone be willing to help me ensure that Wikipedia has coverage of [http://www.aad.org/members/residents/_doc/BF_Histologic.pdf all these histologic bodies]?  Perhaps we can create a new list, or expand an existing one, as well as create either redirects or stubs for them?  ---My Core Competency is Competency (talk) 00:14, 15 January 2011 (UTC)
+
+Experts for anthrosophical medicine
+
+Can anyone particularly familar with Anthroposophical_medicine look at the page? it appears to be overly positive but with no balance of criticism. IRWolfie- (talk) 15:46, 15 January 2011 (UTC)
+
+Stimming
+
+Would someone like to [http://en.wikipedia.org/w/index.php?title=Stimming&amp;diff=408133404&amp;oldid=398812395 deal with this?] Second time.  I've read a whole ton of literature on stimming, and haven't come across that.  If there's a reliable source that says masturbation is a stim in the autistic or stereotypy sense, it should be found and cited. I don't really want to engage &quot;LustyRoars&quot;. SandyGeorgia (Talk) 02:43, 16 January 2011 (UTC)
+
+January collaboration
+
+For everybody who missed it:
+tmbox
+
+
+
+
+--WS (talk) 18:54, 17 January 2011 (UTC)
+
+Hmm. For that article, quality rather than quantity of the information is of the essence. JFW | T@lk 20:01, 17 January 2011 (UTC)
+Given the high-level nature of the article, I wonder if we might do well to use a couple of top-quality medical textbooks for most of the basic/background information, rather than journal publications.  WhatamIdoing (talk) 02:00, 18 January 2011 (UTC)
+Since many sections are completely unreferenced any secondary refs, either in journals or books, would be a huge improvement.--Garrondo (talk) 07:24, 18 January 2011 (UTC)
+I've since discovered the list of  at the end of the page.  Perhaps they were the source for those sections without .  WhatamIdoing (talk) 17:17, 19 January 2011 (UTC)
+
+Reference autofill
+
+Good news! The  tool just got autofilling support for PMID, DOI and ISBN. You can enable it by going to the Gadgets tab in your  and checking the checkbox next to &quot;refTools&quot; under &quot;Editing gadgets&quot;. If you then add a citation through the cite button above the edit field, and fill in the pmid or doi, all other details we automatically be filled. Makes referencing a lot easier. --WS (talk) 18:08, 18 January 2011 (UTC)
+
+nice. off to try it....Casliber (talk · ) 22:17, 18 January 2011 (UTC)
+This is actually very nice.  Makes adding multiple sources much less tedious. Thanks! Yobol (talk) 22:57, 19 January 2011 (UTC)
+Advanced topics
+
+I'm looking for a quick estimate of our views.  
+
+Are there any subjects that are both (1) appropriate to include in an encyclopedia and (2) so complex that they cannot be explained at a level that an interested layperson could understand (at least most of it)?
+
+For example:  Is there any medicine-related article on Wikipedia that you think cannot be written so that I can understand it, or so that a typical university student could understand it?  WhatamIdoing (talk) 01:54, 18 January 2011 (UTC)
+I think any medicine-related topic can be written so that a typical university student could understand it. ---My Core Competency is Competency (talk) 02:00, 18 January 2011 (UTC)
+Agree. --Anthonyhcole (talk) 02:51, 18 January 2011 (UTC)
+
+We have pages that are written in too technical a manner but this is something which can be fixed. Doc James (talk ·  · ) 03:30, 18 January 2011 (UTC)
+
+There are clearly notable things in biochemistry and pharmacology that would probably be a pain to describe to the typical university student, as the typical university student probably doesn't understand organic chemistry. Can't think of any examples right now, but I imagine that there probably are some. NW (Talk) 03:49, 18 January 2011 (UTC)
+
+I think there are many areas of medical science that are beyond most bright lay readers abilities to grasp without some serious study, and one could argue that they are encyclopaedic. I suspect, however, they are also probably at the limit of most general medical folks abilities too. Fortunately, most aspects of medicine do not require a planet-sized brain to understand. There doesn't appear to be a big audience here for such science-speciality stuff. In contrast, the maths folk write utterly impenetrable articles (you can't even read the lead sentence) but claim they have an audience for their articles and have consensus support for WP including a &quot;graduate-level maths encyclopaedia&quot; within its scope. Colin°Talk 08:25, 18 January 2011 (UTC)
+You're telling me that you can't understand Lefschetz zeta function? Come on, \zeta_f(z) = \exp \left( \sum_{n=1}^\infty L(f^n) \frac{z^n}{n} \right) makes perfect sense. NW (Talk) 22:29, 18 January 2011 (UTC)
+(stares blankly at screen) umm...yeah. Casliber (talk · ) 22:57, 18 January 2011 (UTC)
+I agree. We have an inherent advantage, in that a large part of clinical medicine consists of explaining complex ideas to laypeople (i.e., patients). So there is actually a large, pre-existing body of effort and work on the question of how to clearly and simply communicate medical information, and we can draw on that for our articles. MastCell Talk 19:31, 18 January 2011 (UTC)
+Most of psychiatry and surgery is easy to make accessible.....actually I can't think of a topic that I couldn't translate into &quot;lay English&quot; in general medicine. Maybe there is a challenge to find the trickiest one...? Casliber (talk · ) 22:15, 18 January 2011 (UTC)
+Personally, I find myelodysplasia one of the more challenging concepts to translate into lay terms, because it requires some knowledge of normal and abnormal hematopoiesis. And it's not quite a malignancy, but it kind of is, and some forms are treated with chemotherapy just like actual malignancies. And it's extremely heterogeneous. MastCell Talk 22:26, 18 January 2011 (UTC)
+Sounds like a challenge then...Casliber (talk · ) 22:57, 18 January 2011 (UTC)
+
+Colin's response leads me to the reason I asked:  The folks at  have received yet another complaint about their impenetrable articles and have responded to it with their (sadly) characteristic bad grace (not all of them, of course, but enough to set the tone).  
+One of them has begun , and in it asserts that their inability to explain things to non-experts &quot;is no different from other specialized fields such as law and medicine.&quot; 
+While it's true that we have (hundreds, if not thousands) of articles that need to have jargon removed/explanations added/clarity improved, and while it is true that some concepts will require a bit of study, I don't think that there is a single subject within our remit that cannot be largely explained to a typical university student, at least for more than half the content.
+Accordingly, I will eventually wander back to  and object to the inclusion of medicine as an OTHERCRAPEXISTS-type justification for their unwillingness to do the hard work of making at least one sentence in each math-related article accessible to people without graduate degrees in mathematics.  WhatamIdoing (talk) 16:52, 19 January 2011 (UTC)
+I think they have a fundamentally different attitude, as exemplified [https://secure.wikimedia.org/wikipedia/en/w/index.php?title=Wikipedia_talk%3AWikiProject_Mathematics&amp;action=historysubmit&amp;diff=408581050&amp;oldid=408567259 here] (&quot;Wikipedia is used very frequently as a reference by practicing mathematicians. I value that much more than I value the ability of a random 8th grader to read exterior algebra.&quot;) They clearly prioritize the creation of a professional reference over that of a general-readership encyclopedia. And they seem to get away with it - I'm fairly certain we'd be tarred and feathered as &quot;SPOV-pushers&quot; or worse (if there is anything worse) if we suggested anything remotely similar for medical articles. I mean, look at the continual outcry over the minimal common-sense sourcing suggestions in ... MastCell Talk 22:33, 19 January 2011 (UTC)
+Having a degree in math I must say that math is hard and often not understandable. I am unable to understand my math notes from University. While some of it can be written in lay terminology understandable to all I would agree that probably all of it cannot. Medicine and law however are different and accessible to all ( I have never understood really how an MRI functions but that is physics/math ).Doc James (talk ·  · ) 00:22, 20 January 2011 (UTC)
+
+I see that several users here have commented that some aspects of medical science (including in particular biochemistry and pharmacology) might be difficult to explain to the layman.  Consequently I've changed the math FAQ.  Users who want to continue this discussion (and the accompanying discussion which  started at ) are invited to . Ozob (talk) 12:37, 20 January 2011 (UTC)
+Ozob is referring to [http://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Mathematics/FAQ&amp;diff=next&amp;oldid=408949187 undoing] my bold edit at WikiProject Mathematics/FAQ. Out of curiosity, could someone point out a medical article whose lead can't be written in such a way that the average university student can understand it? --Anthonyhcole (talk) 13:29, 20 January 2011 (UTC)
+I would be interested to see this, too.  I have always assumed that such articles exist, because (for example) I don't understand articles like the above-linked myelodysplastic syndrome.  But I have no proof that the article can't be written in such a way that I would understand it; I am outside of my specialty here and am not really in a position to judge. Ozob (talk) 22:14, 20 January 2011 (UTC)
+ Have a look at the simple English and German versions of the article, they both do a pretty good job explaining it, our version has quite a lot of room for improvement. Like Doc James said above, MRI physics is probably the only thing I can think of that is next to impossible to explain in lay terminology. --WS (talk) 10:45, 21 January 2011 (UTC)
+Even MRI can be reasonably explained. I understood the basics with [http://www.cabiatl.com/CABI/resources/guide/ this document].--Garrondo (talk) 10:58, 21 January 2011 (UTC)
+To me the MRI article seems crystal clear.  Surely this is some effect of having a different background: When it talks about the frequency of photons emitted from a spin-aligned proton, I have a pretty good idea of what's going on.  Whereas myelosydplastic syndrome is still impenetrable to me; the Simple English version doesn't have nearly as much content, and the German version (as far as I am able to tell) has the same problems as the English one.
+For example, the description of the WHO classification gives &quot;Refractory cytopenia with unilineage dysplasia&quot; as a possible type of MDS.  The only word that I understand in that phrase is &quot;with&quot;.  If I scroll back up to the top of the article, I find a definition of dysplasia, but not of any of the other words.  I understand cyto- but not cytopenia or refractory cytopenia; I can guess at unilineage, but I don't know what unilineage dysplasia would mean.
+What I suppose I'm really asking is: Do you expect someone without medical school, nursing school, biochemistry, or other similar training to be able to read this article?  What about someone who didn't have such training, but who was willing to look up the other terms (for instance, I looked up cytopenia and now know what it means)?  More generally, what do you think are reasonable prerequisites for your articles?  Ozob (talk) 12:05, 21 January 2011 (UTC)
+ Can  the lead of Myelodysplastic syndrome be made understandable by the average university student? --Anthonyhcole (talk) 12:59, 21 January 2011 (UTC)
+I think I can do better than university level.  Actually, it's not so much opaque as just written in a kind of stilted manner (e.g., the unnecessary passive voice in &quot;Anemia is present&quot;).  I'll have a go at it, and then you can tell me what you think.  WhatamIdoing (talk) 16:14, 21 January 2011 (UTC)
+
+Ozob, although the name is a technical description, I basically expect the normal people to treat &quot;Refractory cytopenia with unilineage dysplasia&quot; as a proper noun that is as inherently meaningless as if it were called &quot;Foo bar with baz qux&quot; or &quot;Riemannian Penrose inequality&quot; or &quot;Celiac sprue&quot;.  That table (which doesn't really make me happy anyway, and I'm convinced we could do better) is basically just a phrase book for translating the older set of terms into the newer set of terms.  It's probably most useful to patients who are trying to figure out which article on Wikipedia is actually about their own diseases, or why different hematologists use different terms. 
+BTW, people interested in mathematics should take a look at the amazing new lead for exterior algebra.  This is the first time I've ever been excited about a math-related article on Wikipedia.  WhatamIdoing (talk) 17:14, 21 January 2011 (UTC)
+
+Access to article
+
+Does anybody have access to ?: I would be interested in a copy and my institution does not have access to it. Thanks.--Garrondo (talk) 08:32, 20 January 2011 (UTC)
+If you , I'll attach the pdf to my reply. --Anthonyhcole (talk) 09:12, 20 January 2011 (UTC)
+
+Langenbeck's Archives of Surgery
+
+Langenbeck's Archives of Surgery seems like an incredibly-important journal of surgery, and yet there was no article on it. So I created one recently. However, surgery or medicine in general isn't my field, so I don't really know much about this one, or why exactly it is important, beside being the older journal of surgery.  I'm dropping this project a note, because you people presumably have more clue than I when it comes to the history of surgery, and medical journals in general.
+
+This article cite journal
+
+
+
+
+
+
+ should have plenty of relevant information. However I cannot currently access it.  has some basic advice for writing journal articles, and Astronomische Nachrichten is probably the best-written journal article on Wikipedia, so would be a very good model to base yourself on. I can help people writing this if need be (copy editing, etc...), although I am thouroughly unable to expand the article more than what you currently see. Any help would be appreciated. Headbomb {talk /  /  / } 10:28, 20 January 2011 (UTC)
 
 Assuming this could be expanded to something decent, this would make a very nice . Headbomb {talk /  /  / } 10:30, 20 January 2011 (UTC)
 
@@ -333,7 +791,588 @@ Admin removing criticism of nutritional supplements guru/company
 
 See . Tijfo098 (talk) 08:15, 25 January 2011 (UTC)
 
-What does the admin status of 
+What does the admin status of  have to do with it? JFW | T@lk 20:22, 25 January 2011 (UTC)
+
+Appropriateness of a ref
+
+Do people think this ref is okay [http://www.cmua.nl/content/SEHLiteratuur/SEH%20literatuurbestanden/NSTEMI%200110.pdf]? My group has starting doing these thus I will be reading this series. Cannot find it on pubmed however... --Doc James (talk ·  · ) 00:03, 26 January 2011 (UTC)
+I would say it is a reliable source. They reference everything they say and their [http://www.ebmedicine.net/ website] list that they have many accreditations in the footer. They also have an ISSN. Peter.Ctalk 02:35, 26 January 2011 (UTC)
+Where do you see the ISSN listed? --Doc James (talk ·  · ) 02:42, 26 January 2011 (UTC)
+At the very bottom of the PDF, in the fine print. &quot;ISSN Print: 1524-1971, ISSN Online: 1559-3908&quot; Peter.Ctalk 03:34, 26 January 2011 (UTC)
+  It looks pretty good to me, James. They have an [http://www.ebmedicine.net/store.php?paction=showMLpg&amp;pid=81 editorial policy] which is similar to ours, and a named [https://www.ebmedicine.net/content.php?action=showPage&amp;pid=33&amp;cat_id=1 editorial board]. There's more information downloadable from [https://www.ebmedicine.net/content.php?action=showPage&amp;pid=99&amp;cat_id=6 here] if you're interested. The ISSN Print: 1524-1971, ISSN Online: 1559-3908 can be found in [https://www.ebmedicine.net/media_library/marketingLandingPages/Store%20pages/1210%20Practice%20Recommendations.pdf 1210 Practice Recommendations], for example. I think EB Medicine represents an interesting example of a on-line resource occupying a niche that traditional paper-based media couldn't operate profitably. It does seem to hit the right notes to comply with RS and MEDRS, even if there's a lack of citations to it in PubMed. --RexxS (talk) 03:46, 26 January 2011 (UTC)
+Wikidocs
+
+They have pulled ahead of us in some cardiology content. Here is there page on pericardial effusion [http://www.wikidoc.org/index.php/Pericardial_effusion]. Will work on moving stuff here. I still wonder if there is a way we could work together more? Doc James (talk ·  · ) 01:53, 25 January 2011 (UTC)
+I took a look and they have a level of detail that seems ideal for a medical textbook.  Do you think there will be a point where our medical articles don't serve general readership by being too technical, or do you think that day is--never?Ocaasi (talk) 08:48, 25 January 2011 (UTC)
+Are we allowed to &quot;move stuff here&quot;? See  and . The &quot;Copying from other Wikimedia Projects&quot; section seems useful (even though that isn't a Wikimedia project, it has a similar licence I think). It is rather complex and I suspect it would be far better to look at what they've done and use it as a suggestion for how we might improve an article. Of course, moving images and other media is likely to be more straightforward as attribution can still be given easily. I must admit, any page I've looked at on their site was no better than a very old Wikipedia page.
+They have a different focus (to provide health advice to either doctors or patients). I'd be very upset if this project saw professional readers as the target audience. There is a danger, when enthusiasts are writing any article, to be too detailed and too technical, but I think we all agree here that that is a failing rather than something to aspire to. Colin°Talk 12:49, 25 January 2011 (UTC)
+90% of there stuff is directly copied from here. They are under the same license as us. It is not the text that I am recommending we get but images / videos. Attribution takes place on commons Doc James (talk ·  · ) 16:50, 25 January 2011 (UTC)
+That pericardial effusion image is terrible: the point being made is unclear (i.e. location, nature, pathogenesis, physiological impact of effusion), and it's a low-quality chest CT.  Nothing there to emulate, IMHO.  -- Scray (talk) 17:44, 28 January 2011 (UTC)
+
+ This is the first time that I have looked at WikiDoc. They state &quot;[http://www.wikidoc.org/index.php/Help:Get_Started_Here%21 WikiDoc ... is an online community where anyone can contribute to and edit the world's largest free living textbook of medicine.]&quot; As opposed to Wikipedia, which is a free online (general) encyclopedia. WikiDoc uses &quot;Editors-in-Chief&quot; to monitor articles. Wikipedia does not have a formal monitoring system. WikiDoc is not specifically for healthcare professionals, as far as I can tell. I don't see any advantage of it over Wikipedia's medical content. There are other medical wikis that are specifically for healthcare professionals, and I can see how some readers might prefer to read that over Wikipedia's content. However WikiDoc's role is no different to Wikipedia's role.
+
+ The reasons I would rather edit Wikipedia than WikiDoc: Wikipedia's scope is so much greater. The number of contributors and readers is vast. The &quot;impact factor&quot; of Wikipedia's top/high importance articles exceeds that of journal articles and textbooks. And we have a friendly community of like-minded editors. :-) Axl ¤ [[User talk:Axl|[Talk]]] 10:09, 28 January 2011 (UTC)
+
+ To answer Ocaasi's question: the ultimate goal for our articles is to make them &quot;Featured articles&quot;. Have a look at . Browse through a few and decide for yourself whether they are too technical. The editors of the articles know their readership and write accordingly. In addition, there are checks in the GAC and FAC processes. 
+
+ Wikipedia is not going to be influenced by WikiDoc or other medical wikis. Rather, Wikipedia is the standard by which all other wikis are measured. Axl ¤ [[User talk:Axl|[Talk]]] 10:30, 28 January 2011 (UTC)
+
+Wikidocs is heavy with cardiologists, but when I last checked their content in other areas was deficient. The article on pericardial effusions has the grand total of 1 reference, so I'd be cautious in relying on it.
+The leadership at Wikidocs has never seriously tried to engage with this WikiProject. Their loss, I say. JFW | T@lk 10:53, 28 January 2011 (UTC)
+Yes I am not referring to the text content just the images.Doc James (talk ·  · ) 14:44, 28 January 2011 (UTC)
+
+Mini-RFD
+
+Should Cancer Family syndrome point to Cancer syndrome rather than HNPCC?  What about Hereditary cancer?  WhatamIdoing (talk) 06:11, 27 January 2011 (UTC)
+
+Yes, there are other conditions (such as Li-Fraumeni syndrome) than can cause different kinds of malignancies in families. Changed the redirect. The hereditary cancer redirect should stay as it is, because IMHO a inherited single organ malignancy barely qualifies as a &quot;syndrome&quot;. JFW | T@lk 13:03, 27 January 2011 (UTC)
+
+ is broken again
+
+It seems that they have reorganized their website again. See example from Gingivostomatitis:
+
+ 
+
+It sends you to a 404 Not Found page [http://www.mercksource.com/pp/us/cns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/four/000044457.htm http://www.mercksource.com/pp/us/cns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/four/000044457.htm]
+
+It should send you to [http://www.mercksource.com/pp/us/cns/cns_hl_adam.jspzQzpgzEzzSzppdocszSzuszSzcnszSzcontentzSzadamfullzSzadam_encyzSz1zSz001052zPzhtm http://www.mercksource.com/pp/us/cns/cns_hl_adam.jspzQzpgzEzzSzppdocszSzuszSzcnszSzcontentzSzadamfullzSzadam_encyzSz1zSz001052zPzhtm] 
+
+--Enric Naval (talk) 13:51, 27 January 2011 (UTC)
+
+It almost looks like they deliberately want to hide their content from incoming links. JFW | T@lk 14:06, 27 January 2011 (UTC)
+They are using an encoding scheme to avoid characters in the parameter section of the url: '?' (query) is encoded as 'zQz'; '=' (equals) is 'zEz'; '/' (slash) is 'zSz'; '.' (period) is 'zPz'. In this case it is the encoding for &quot;http://www.mercksource.com/pp/us/cns/cns_hl_adam.jsp?pg=/ppdocs/us/cns/content/adamfull/adam_ency/1/001052.htm&quot;. Which also works.
+Looks like either JFW is right or they like making work for those brave souls who write our templates. Cheers --RexxS (talk) 01:50, 28 January 2011 (UTC)
+
+Redlink
+
+Anybody know what Oropharyngeal mucosa ought to be pointing at?  Surely we have such an article... WhatamIdoing (talk) 06:52, 31 January 2011 (UTC)
+
+If my memory serves, the mucosa of the pharynx is no different from the rest of the upper aerodigestive tract. Redirected to oral mucosa. I will also direct buccal mucosa there, as they are synonyms. JFW | T@lk 07:01, 31 January 2011 (UTC)
+Need someone who knows immunology
+
+
+I've removed the diagram on the right from six articles, as its accuracy has been contested.  Help from knowledgeable contributors would be appreciated.  Please keep discussion consolidated at .  Adrian J. Hunter(talk•) 13:12, 22 January 2011 (UTC)
+
+This appears to have been resolved.  Discussion is at  for anyone who's interested.  WhatamIdoing (talk) 02:05, 1 February 2011 (UTC)
+
+Invitation to edit: Deletion proposed
+
+It has been proposed  that the template , which is presently being used in a trial on 20 medical articles, be deleted. --Anthonyhcole (talk) 01:06, 1 February 2011 (UTC)
+
+February
+
+It's a new month, so it's time to select the next .  Current nominations include Serotonin, Placebo, and Spinal cord injury.  If you would be willing to help improve one of these, please sign your name in support of it.  You can also nominate other articles that you think would be appropriate and you're willing to help out with.  WhatamIdoing (talk) 18:10, 1 February 2011 (UTC)
+Remember that the final debate occurs . Peter.Ctalk 02:36, 2 February 2011 (UTC)
+
+ -- POV concerns
+
+Outside editors are needed to help solve the matter of POV concerns that have plagued this article for years. Some see the information at this article as too negative; others feel that the negative information accurately represents most of the research and societal views on the matter. Flyer22 (talk) 23:05, 1 February 2011 (UTC)
+Congratulations on the JMIR paper
+
+Well done to all of the project members who contributed to the JMIR paper [http://www.jmir.org/2011/1/e14/ Wikipedia: A Key Tool for Global Public Health Promotion] which has been published today.— Rod talk 16:57, 31 January 2011 (UTC)
+Nice! Although I can't wait until y'all are accused of canvassing and SPOV-pushing for encouraging people with actual medical knowledge to improve our health-related content. :P MastCell Talk 18:47, 31 January 2011 (UTC)
+Yes it was great working with everyone and hope we can do this again. Doc James (talk ·  · ) 19:00, 31 January 2011 (UTC)
+Congratulations, all of you. I hope it succeeds. -- Colin°Talk 20:40, 31 January 2011 (UTC)
+Agree, and kudos also for your courage - stepping between WP and the real world can be daunting, but this sort of visibility seems very positive. -- Scray (talk) 22:00, 31 January 2011 (UTC)
+Very interesting to read... Well done. --Garrondo (talk) 07:22, 1 February 2011 (UTC)
+Just saw this on my Twitter feed (promoted by the Pan American Health Organization, no less!) and I had to stop by and congratulate you. Maybe this will get me out of my current funk and back on WP. Fvasconcellos (t·) 18:01, 3 February 2011 (UTC)
+
+On a related note,  has been imported.  I've added it to , which I encourage you to use whenever you see a new user working on a medicine-related article.  WhatamIdoing (talk) 23:26, 3 February 2011 (UTC)
+
+I have added both articles to: ; a list of articles related to the coverage of medicine on Wikipedia. Maybe somebody could take a look to see if they know any other missing.--Garrondo (talk) 07:15, 4 February 2011 (UTC)
+
+Congratulations to all the authors, it is a very impressive piece of work. Perhaps it would be helpful to put on the record the collaborative methods you used in creating it, for the aid of future similar efforts from other disciplines. LeadSongDog come howl! 07:57, 4 February 2011 (UTC)
+
+JMIR invitation to medical community
+
+At  (permanent link [http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/2011-01-31/In_the_news&amp;oldid=411484210 here]), the first item is the following.
+*Medical Wikipedians issue &quot;Call to Action&quot; to their peers: In the Journal of Medical Internet Research, 22 members of  have published a viewpoint article titled &quot;[http://www.jmir.org/2011/1/e14/ Wikipedia: A Key Tool for Global Public Health Promotion]&quot;. After an introduction to Wikipedia's model, a section on its prominence as a source of health information, and a survey of empirical studies on Wikipedia's medical content, the authors issue a &quot;Call to Action&quot;, inviting the medical community to join in editing Wikipedia, with the goal of providing people with free access to reliable, understandable, and up-to-date health information.] 
+—Wavelength (talk) 18:48, 2 February 2011 (UTC)
+
+Please vote - A consensus vote as to whether to consider the journal Homeopathy an RS for physics, science, or medical conclusions
+
+A consensus vote as to whether to consider the journal Homeopathy an RS for phsyics, science, or medical conclusions is happening here[http://en.wikipedia.org/wiki/Talk:Homeopathy#Is_Homeopathy_a_reliable_source_for_physics_conclusions.3F]. PPdd (talk) 02:08, 3 February 2011 (UTC)
+
+Vote [http://en.wikipedia.org/wiki/Talk:Homeopathy#Is_Homeopathy_a_reliable_source_for_physics_conclusions.3F here]. -- Brangifer (talk) 05:04, 3 February 2011 (UTC)
+
+Heat intolerance
+
+I'm contemplating an article on Heat intolerance, to coordinate with Cold intolerance.  My initial scan of sources has found them unfortunately fragmented.  There's heat intolerance from the perspective of multiple sclerosis, and heat intolerance as a sign of thyrotoxicosis, and heat intolerance due to anticholinergics, and heat intolerance due to various skin disorders causing impaired sweating, and heat intolerance apparently with some (unspecified, but serious, perhaps end-stage) cardiac problems—but never just heat intolerance, one big, organized, unified medical sign.
+
+So for those of you who might know something (anything!) about this:  MS and thyroid disorders seem to do heat intolerance with a (slightly) raised core body temperature.  MS patients make a particular point of the difficulty that a 0.5–1.0 degree difference in body temperature makes to them, and a slightly elevated temperature seems plausible, even inevitable, with an overactive thyroid.  Do the other forms of heat intolerance also feature a raised body temperature?
+
+If so, then the distinguishing feature from heat stroke appears to be the chronic nature of heat intolerance, and perhaps the lower ambient temperatures at which it appears.  (Some individuals have asserted the appearance of symptoms at lk:WikiProject_Medicine&amp;action=scal room temperature.)
+
+Also, I'd like to get a sentence in about medically necessary air conditioning (something that I heard about, of all places, in some income tax paperwork).  My search for sources has been unsuccessful:  I can demonstrate that the US offers a tax break for buying an air conditioner if you have duly procured a prescription for air conditioning from a physician to treat a specific medical condition, but no information at all about the circumstances under which a physician would prescribe air conditioning.  WhatamIdoing (talk) 05:54, 4 February 2011 (UTC)
+Moving &quot;x cell carcinoma&quot; to &quot;x-cell carcinoma&quot;
+
+Kwamikagami has been wholesale moving article pages entitled &quot;x cell carcinoma&quot; to &quot;x-cell carcinoma&quot;. I have pointed out to him that the medical literature does not support his actions. I am bringing the discussion here to achieve a consensus. Axl ¤ [[User talk:Axl|[Talk]]] 10:49, 5 February 2011 (UTC)
+
+Actually, the lit does support this. Punctuation varies widely, with hyphens tending to be dropped the more familiar a term is to the intended audience, but retained the less familiar it may be. We are a basic reference work, not a medical journal, and we cannot assume that our readers will be familiar with the technical jargon in our articles. One of the more common complaints of WP is that our articles are inaccessible, and logical/full hyphenation is a small step in addressing that. For example, a naive reader will read &quot;small cell carcinomas&quot; as being small carcinomas of the cells. (I can hardly help reading it that way myself, even though I know better; I still do a double take when I see it unexpectedly.) For this reason, medical references use hyphenation to a greater degree than journals do, both because exact terminology may be expected (you can always drop the hyphenation if you don't like it, but you may not be comfortable adding it in where missing), and because they're accessed by students who may be new to the material and may be confused by a lack of full, logical punctuation. 
+
+For example, Current diagnosis and treatment in neurology (Brust 2006:396) has as a section header nucleoside reverse-transcriptase inhibitor–induced myopathy. Without proper hyphenation, that would be nearly impenetrable to the uninitiated; with hyphenation (and an en-dash), the reader at least can begin to parse it. 
+
+This isn't really a  issue, since we're not talking about distinct names, but a choice of punctuation, and it is relevant to . In fact, even at COMMONNAME they state, 
+The ideal title for an article will also satisfy the other criteria outlined above; ambiguous or inaccurate names for the article subject, as determined by reliable sources, are often avoided even though they may be more frequently used by reliable sources.
+&quot;Small cell carcinoma&quot; is grammatically inaccurate, since it indicates that small and cell modify carcinoma independently, where in fact small modifies cell rather than carcinoma. In spoken English the difference is conveyed through prosody; in writing, it is conveyed through hyphenation: small-cell carcinoma. — kwami (talk) 11:17, 5 February 2011 (UTC)
+While I disagree strongly with some of Kwami's typographically related page moves, here, I have to agree with his action. It especially matters when people outside a highly specialised area read text that contains these compound units. Such readers are not used to seeing these items every day, and you can't expect them to know first-off exactly which words should be paired in them.As an aside, I see above &quot;nucleoside reverse-transcriptase inhibitor–induced myopathy&quot;. Oh puhlease, let's take no notice of the crappy English they let through in some research journals nowadays—even the highly ranked ones: myopathy induced by nucleoside reverse-transcriptase inhibitors, thanks very much. Tony (talk) 15:22, 5 February 2011 (UTC)
+ At least we didn't get a nucleoside reverse-transcriptase inhibitor–induced myopathy–related illness. --RexxS (talk) 16:53, 5 February 2011 (UTC)
+
+First, what really matters is what our sources are doing, not what the typical English grammar teacher might guess is the right answer in a given case.  In the case of small cell carcinoma, [http://www.progenetix.net/cgi-bin/pgSubsetindexLoader.cgi?subIDsearch=I80413 ICD-0] rejected the hyphen.  The [http://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&amp;index=17114&amp;field=all&amp;HM=&amp;II=&amp;PA=&amp;form=&amp;input= MeSH term] is &quot;carcinoma, small cell&quot;—no hyphen.  More than 80% of books in my search rejected the hyphen.  More than half of medical journals reject the hyphen.  Consequently, we, too, should reject the hyphen, regardless of what the &quot;right&quot; answer is.  
+And the opposite is true for non-small-cell carcinoma:  There, nearly all of the sources use (two) hyphens.  We should follow those sources, too, for that disease. 
+One thing to keep in mind is that something that looks like it's an adjective is not necessarily an adjective.  Many of these names are essentially proper nouns, and so typical conventions for common nouns and adjectives aren't relevant.  A Merkel cell, for example, is a specific thing, and is not to be hyphenated when it is used to describe another thing—exactly like you would never hyphenate other two-word proper nouns, e.g., it's a Ford Mustang car, not a Ford-Mustang car. 
+Finally, massive changes in the face of opposition is inappropriate.  Editors should look for consensus at each individual article, rather than imposing their personal preferences (or the preferences of sources in a completely unrelated field, especially when those sources make no claim that the rule is, or even should be, universally applied to technical terms) by moving pages in the face of opposition. WhatamIdoing (talk) 18:47, 5 February 2011 (UTC)
+
+Kwami should have tried to get some sort of consensus before starting a personal page move project. JFW | T@lk 20:09, 5 February 2011 (UTC)
+I would support moving these pages back. ---My Core Competency is Competency (talk) 21:28, 5 February 2011 (UTC)
+Agree and there is a whole bunch of pages that have been changed. Doc James (talk ·  · ) 01:58, 6 February 2011 (UTC)
+
+&quot;More than half of medical journals reject the hyphen. Consequently, we, too, should reject the hyphen.&quot; 
+I disagree. With such variation in professional usage, it is clear that the hyphenated forms are not incorrect. They are, however, much easier for the naive reader. The arguments about proper nouns are also off the mark: that's not what we're dealing with here, or medical journals would not hyphenate at all. 
+We need to consider our readers, not just editors who already know the subject matter. — kwami (talk) 02:00, 6 February 2011 (UTC)
+
+And from Doc James's objection that 'they don't look good' on my talk page,
+&quot;Looking good&quot; is not the point: a huge number of reliable sources use logical hyphenation, and this helps our readers. These terms are difficult to read without hyphenation unless you are already familiar with the subject, and we need to assume that our readers are not familiar with it. Even COMMONNAME states that when several names are in use by RSs, we need to consider clarity and precision, not just percentages.
+— kwami (talk) 02:04, 6 February 2011 (UTC)
+
+How about we just do what the clear majority of sources do, determined case by case?
+&quot;Logical&quot; hyphenation will not help the average person, who (unlike me) finds nothing &quot;logical&quot; about it at all, and will instead find Wikipedia diverging from the choices made by a majority of sources.  WhatamIdoing (talk) 03:07, 6 February 2011 (UTC)
+
+Here's the list of recent moves.  Some of these are &quot;logical&quot; variants that I've never seen in print:
+
+
+
+07:44, 4 February 2011 Kwamikagami (talk | contribs) moved Basal cell carcinoma to Basal-cell carcinoma over redirect ‎ (it's the cells which are basal)
+07:43, 4 February 2011 Kwamikagami (talk | contribs) moved Basaloid squamous cell carcinoma to Basaloid squamous-cell carcinoma ‎ (sp.)
+
+07:43, 4 February 2011 Kwamikagami (talk | contribs) moved Signet-ring cell squamous cell carcinoma to Signet-ring-cell squamous-cell carcinoma ‎ (sp.)
+
+07:43, 4 February 2011 Kwamikagami (talk | contribs) moved Spindle cell squamous cell carcinoma to Spindle-cell squamous-cell carcinoma ‎ (sp.)
+
+07:43, 4 February 2011 Kwamikagami (talk | contribs) moved Clear cell squamous cell carcinoma to Clear-cell squamous-cell carcinoma ‎ (sp.)
+
+07:42, 4 February 2011 Kwamikagami (talk | contribs) moved Adenoid squamous cell carcinoma to Adenoid squamous-cell carcinoma ‎ (sp.)
+
+07:33, 4 February 2011 Kwamikagami (talk | contribs) moved Squamous cell carcinoma to Squamous-cell carcinoma over redirect ‎ (it's the cells which are squamous)
+07:33, 4 February 2011 Kwamikagami (talk | contribs) moved Large cell lung carcinoma to Large-cell lung carcinoma ‎ (it's the cells which are large)
+
+07:24, 4 February 2011 Kwamikagami (talk | contribs) moved Non-small cell lung carcinoma to Non-small-cell lung carcinoma ‎ (sp.)
+
+07:24, 4 February 2011 Kwamikagami (talk | contribs) moved Combined small cell lung carcinoma to Combined small-cell lung carcinoma ‎ (sp.)
+
+07:21, 4 February 2011 Kwamikagami (talk | contribs) moved Small cell carcinoma to Small-cell carcinoma ‎ (the cells are small, not the carcinoma)
+
+
+I think that basically all of these except NSCC need to be reverted.  Most are grammatically correct—several wrongly identify the noun, resulting in Ford-Mustang–like improper hyphenations—but they simply aren't used by the sources.  &quot;Spindle-cell squamous-cell carcinoma&quot;, for example, turns up in less than 2% of medical journal articles on the subject.  WhatamIdoing (talk) 03:20, 6 February 2011 (UTC)
+
+Agree that we should revert these. We should be reflective of the scientific literature not trying to do our own thing. Doc James (talk ·  · ) 05:01, 6 February 2011 (UTC)
+
+If I misidentified the noun (no example given), that illustrates that these are not clear as written. Some arguably make little difference, but IMO it is definitely important to hyphenate &quot;small-cell&quot; and &quot;large-cell&quot;: it's common that way in the lit, and it is very easy to misparse a small cell carcinoma as being analogous to a small lung tumour. It's only obvious what is meant if you are already familiar with the concept. 
+If you insist on using ambiguous wording because most journals written for specialists take that route, I think the least we can do is provide both punctuations in the lede: A spindle cell squamous cell carcinoma, or spindle-cell squamous-cell carcinoma, is ... Once the reader has the correct syntax in their head, it won't matter which convention we use for the rest of the article. Is that an acceptable compromise? — kwami (talk) 06:35, 6 February 2011 (UTC)
+Well yes. Please tell me there's not a certain specialist arrogance afoot here, that says &quot;FU&quot; to anyone but the experts. As I've pointed out above, people outside a field (and even those in cognate disciplines) are faced with greater difficult through unfamiliarity in parsing these gobbledygook multiple items. Just because ignorant (more likely &quot;put it in if it's good science, we haven't got time nowadays to make the language professional&quot;) journals let through horrors doesn't mean that WP should go against its own style guides, and more to the point, the rulings of so many authorities out there. Our readership is likely to be significantly wider than that for arcane, stuck-up high-impact-factor journals. If you want to go against the style guides here, you'll have to put a more cogent case than that. Tony (talk) 07:10, 6 February 2011 (UTC)
+If you look at the history of the OED it attempts to reflect real world language usage not impose &quot;proper&quot; English from above. While this does not apply exactly to this situation I think it is still appropriate.Doc James (talk ·  · ) 07:54, 6 February 2011 (UTC)
+Sure, and in cases like these they would indicate both. But they're recording usage rather than actually generating it as we are. What I'm talking about is not dictating usage, but following the usage that would be clearest to our readers. — kwami (talk) 08:09, 6 February 2011 (UTC)
+Yes, and let's remember that WP is not a dictionary. It is read on monitors and by people all over the world, of all varieties of English, and of many second-language backgrounds; it addresses a generalist audience more than medical specialty publications. Tony (talk) 08:42, 6 February 2011 (UTC)
+Kwami, that's the point.  We are not &quot;generating usage&quot;.  We are supposed to be reflecting the usage of our sources, not .  WhatamIdoing (talk) 07:03, 7 February 2011 (UTC)
+We're not making anything up. These forms are used in the lit, in the case of 'small-cell' by anywhere from a quarter to two thirds, depending on the database. We follow sources, sure, but we follow the sources that are the most accurate and will be clearest to our audience. We don't follow inaccurate or obscure jargon just because it's more common among those comfortable in the jargon. — kwami (talk) 12:14, 7 February 2011 (UTC)
+kwami, selective use of statistics in an argument is poor show. The &quot;two thirds&quot; you mention is the result of getting lucky with your first page of Google results: the numbers drop off if you persist. And we agree that &quot;small-cell&quot; is an anomaly in the stats. For all the other carcinomas, there's effectively no support in the literature for the hyphenated form. Anyway, this disussion is now happening in two places, and arguably the MP:MED style guide is the better place for it... Colin°Talk 12:38, 7 February 2011 (UTC)
+This issue is also being discussed at . --- Colin°Talk 09:34, 6 February 2011 (UTC)
+
+For Kwami, who asked for a specific example above:  Basal cell is not a cell that happens to be basal; it's a thing in its own right.  It should not be hyphenated any more than Merkel cell.  
+I'm going to revert all of the basal cell moves, as they are both grammatically wrong (due to a perfectly understandable misinterpretation of the name) and not used by ~98% of sources.  WhatamIdoing (talk) 16:47, 7 February 2011 (UTC)
+
+I've commented out the ones that I moved back to their grammatically correct, consensus-supported, source-preferred names.  Basal-cell carcinoma requires attention from an admin.
+Perhaps someone else would like to look up the current usage for the others.  WhatamIdoing (talk) 16:55, 7 February 2011 (UTC)
+
+WhatamIdoing, [basal cell] is a unit, not two separate attributives, so grammatically it should be hyphenated. That is not a misreading: it doesn't matter what the relationship is between 'basal' and 'cell', the point is that it's a compound attributive of 'carcinoma'. Without the hyphen, we're saying that it's the carcinoma which is basal, or else that a basal cell carcinoma is a suptype of 'cell carcinoma'. The same with Merkel: it's not a Merkel's [cell carcinoma], but a [Merkel cell] carcinoma. I overlooked that one. — kwami (talk) 20:48, 7 February 2011 (UTC)
+I will not speak to what is grammatically correct, but i have rarely, if ever, seen basal or Merkel cell carcinoma hyphenated.  I could be wrong. but i would challenge you to find many articles in the JAAD or Archives of Dermatology that use this convention and, even if you can, I strongly doubt they would constitue the majority of cases.  I think we should be following the common name principle for article titles in these cases. ---My Core Competency is Competency (talk) 15:34, 8 February 2011 (UTC)
+
+External links
+
+I see that an editor recently added &quot;[http://www.medicines.org.uk/emc/ What's New]&quot; to the list of . &quot;[http://www.medicines.org.uk/guides Medicine Guides]&quot; is also in the list. I wonder what links actually should be in the list? Axl ¤ [[User talk:Axl|[Talk]]] 10:58, 5 February 2011 (UTC)
+
+Removed. Might be better at the pharmaceuticals wiki project. Doc James (talk ·  · ) 12:03, 5 February 2011 (UTC)
+
+Taxobox color RfC
+
+There's an RfC at . Please share your thoughts there. Bob the WikipediaN (talk • )  15:54, 7 February 2011 (UTC)
+
+METLIN
+
+A part of this article is very closely paraphrased from http://metlin.scripps.edu/. I would like to fix the article (in my opinion this database is notable for Wikipedia), however, my knowledge of medical/chemical terminology is weak and I don't want to make a mess. Thanks for any help. I've notified also . --Vejvančický (talk | ) 20:51, 7 February 2011 (UTC)
+
+Russell Blaylock
+
+Whitewashing going on. Needs to use MEDRS sourcing. He's a dubious fringe physician. Need more eyes on this one. -- Brangifer (talk) 08:15, 8 February 2011 (UTC)
+
+It looks like a couple of editors don't want Blaylock's views (e.g., swine flu vaccine is riskier than swine flu) to be directly identified as minority beliefs.  Here's [http://en.wikipedia.org/w/index.php?title=Russell_Blaylock&amp;diff=412739202&amp;oldid=412686820 an example]. 
+This is really more of a simple DUE issue than MEDRS.  WhatamIdoing (talk) 18:05, 8 February 2011 (UTC)
+
+Wikipedia Signpost
+
+Hello,
+My name is Thomas888b. I am from The Wikipedia Signpost. I am writing to you to ask whether it would be possible to interview one or two key members of the project to appear in the signpost on march 21st? Could you please reply on my talkpage if interested.
+Thanks,
+Thomas888b (Say Hi) 18:45, 8 February 2011 (UTC)
+Collaboration for Febuary
+
+Just a reminder:
+
+
+Peter.Ctalk 01:51, 8 February 2011 (UTC)
+
+Just a reminder:  A collaborative project only works if interested people show up and help out.  I realize that several people are still busy with last month's article, but we need people at the new article, too.  
+To help, please look over the article, and either make improvements or leave a note on the article's talk page about what you think should be done.  If you have an interest in collaborative editing, if you enjoy Wikipedia because it gives you an incentive to learn something new, or if you have a few minutes for a little minor wikignoming, this is a good opportunity.  WhatamIdoing (talk) 18:36, 10 February 2011 (UTC)
+
+Selenium yeast
+
+This article was tagged as G11 (spam), but I declined it as it is not sufficiently blatant. I'm not sure about the use of sources though - could someone take a look at it? It seems to me as though a merge to selenium deficiency might be the best solution. Cheers. SmartSE (talk) 16:33, 9 February 2011 (UTC)
+
+Only two of the numerous primary sources cited directly deal with selenium yeast as a dietary substance. Most of the health claims are about selenium rather than the yeast product discussed. It is mostly  and might well qualify for AFD. The author () looks like an SPA. JFW | T@lk 16:54, 9 February 2011 (UTC)
+
+New article Tessys method
+
+Could someone please add Tessys method to the project?  This is a new article I noticed and I'm not sure what's involved in adding it.  Thanks, CliffC (talk) 18:17, 10 February 2011 (UTC)
+
+  This is a very easy task.  You can see what I did on the article's talk page.  WhatamIdoing (talk) 18:40, 10 February 2011 (UTC)
+
+We win
+
+We've won a pile of students!  A class at Louisiana State University's Athletic training program are required to write (or, in a few cases, fix up) about three dozen articles.  It looks like the focus is on orthopedic medical signs like Murphy's sign.  The students are supposed to sandbox their creations, with an in-sandbox review planned for 17 February and a mainspace target of 03 March.
+
+Here's how you can help:
+
+* Please put  on your watchlists.  
+* Please keep an eye out for the students, and help them  along whenever you can. 
+* Consider becoming an official mentor for one or more of the students.  Get more information at , and apply at .
+
+WhatamIdoing (talk) 22:42, 10 February 2011 (UTC)
+Training effect
+
+I was wondering if someone with a medical background and a spare minute or two could take a brief look at the introductory sentence to Training effect (and possibly its corresponding reference) and suggest a proper redirect for neurohumoral and functional capacity. Thanks! Location (talk) 17:25, 9 February 2011 (UTC)
+Neurohumor and neurohumoral sound like they might outdated terms for Neurotransmitter/Neuromodulation, on a quick browse Neuron#Action_on_other_neurons seems the sort of thing your looking for, but there are many, many neurology articles -  would be a good forum to ask in. As for functional capacity - I'm not sure if there is a general functional capacity that would cover all these systems, as each system will have its own definition. One more thing to consider- the talk page has mention of it and I'm have the same gut feeling that, unless more common us of the term can be shown, it should be merged into exercise  (talk •  12:30, 12 February 2011 (UTC)
+
+LASIK
+
+Comments requested at . A user blocked for other reasons has emailed me asking for an addition to this article: he has a clear COI, but the requested addition, which says that the former official who oversaw FDA approval has now submitted a petition to withdraw it, seems factual and sourced. JohnCD (talk) 22:44, 11 February 2011 (UTC)
+
+Break apart &quot;Comparison of MD and DO in the United States&quot;?
+
+There has been a &quot;proposed merge&quot; tag on Comparison of MD and DO in the United States for a couple of years now. We should probably resolve it. Personally, I don't see a huge benefit to maintaining a separate page for the two, as the information could be (and really, is) better included primarily at Osteopathic medicine in the United States, Medical school in the United States, and possibly also Medical education in the United States. NW (Talk) 16:06, 14 February 2011 (UTC)
+To give some background, most of the info in the &quot;comparison&quot; article was originally in the articles allopathic medicine and osteopathic medicine in the United States, but the amount of information gathered overburdened both those articles. A third article comparing the two was created as something of a compromise.  There is a great deal of published material and commentary on the comparison topic.  I agree that the article is not the strongest article on WP, but with some TLC it could be much better.  These topics, allopathic v osteopathic, MDs v DOs, etc are so poorly understood, hence their necessity.  They also tend to generate instant controversy here on WP, hence the somewhat apologetic tone. Bryan Hopping T  08:21, 15 February 2011 (UTC)
+
+Children's feet at AfD
+
+Children's feet is at AfD, apparently as a proposed merge(?).  I haven't commented yet, but others might want to. WhatamIdoing (talk) 07:40, 15 February 2011 (UTC)
+MEDRS?
+
+Dispute at Chiropractic: Is this a systematic review: Chiropractic &amp; Osteopathy 2010, 18:3 doi:10.1186/1746-1340-18-3 http://chiromt.com/content/18/1/3
+
+Review  Effectiveness of manual therapies: the UK evidence report
+
+&quot;The purpose of this report is to provide a succinct but comprehensive summary of the scientific evidence regarding the effectiveness of manual treatment for the management of a variety of musculoskeletal and non-musculoskeletal conditions.&quot;
+
+&quot;The conclusions are based on the results of systematic reviews of randomized clinical trials (RCTs), widely accepted and primarily UK and United States evidence-based clinical guidelines, plus the results of all RCTs not yet included in the first three categories. The strength/quality of the evidence regarding effectiveness was based on an adapted version of the grading system developed by the US Preventive Services Task Force and a study risk of bias assessment tool for the recent RCTs.&quot;&quot;[http://chiromt.com/content/18/1/3]  Thanks, Ocaasi (talk) 17:45, 15 February 2011 (UTC)
+
+A better question might be, does this study meet ? I believe it does, however there is an editor will not allow its inclusion anywhere in the chiropractic article.Puhlaa (talk) 18:36, 15 February 2011 (UTC)
+
+
+Here's the ref from PubMed:
+
+*  Bronfort G, Haas M, et al, [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841070/ &quot;Effectiveness of manual therapies: the UK evidence report&quot;], Chiropr Osteopat. 2010; 18: 3. February 25. doi: 10.1186/1746-1340-18-3.  &quot;The conclusions are based on the results of systematic reviews of randomized clinical trials (RCTs), widely accepted and primarily UK and United States evidence-based clinical guidelines, plus the results of all RCTs not yet included in the first three categories.&quot; 
+
+Note the change of journal title: Readers should note that in January 2011 the journal’s name changed to Chiropractic &amp; Manual Therapies from Chiropractic &amp; Osteopathy.[http://chiromt.com/]
+
+This is about as solid as it gets. It should be put it in the body and the lead updated. This is the most scientifically legitimate of all chiropractic journals. Their research reports are generally quite trustworthy, with few exceptions, and this isn't one of those exceptions.
+
+COI statement: I'm a chiroskeptic and Physical Therapist, and &quot;I approve this message&quot;.  I agree that QG is continuing to block progress with his stonewalling, IDHT and ownership. It's so bad a systemic problem that I, an expert on the subject, usually avoid the chiropractic articles because of his noxious influence there. (I thought he was still topic banned by ArbCom, but I guess that must have run out. Maybe it needs to be reinstated under the ArbCom sanctions.)
+
+I suggest that fresh eyes visit  to see what's going on. -- Brangifer (talk) 22:59, 15 February 2011 (UTC)
+
+And I'd strongly second that suggestion. At present we have editors removing content cited to a two-year old reliable secondary source with an edit summary of removed outdated review, 2010 review covers the effectiveness. We seem to have taken MEDRS to the extreme by discarding anything but the latest review, a slippery slope that fails to acknowledge the possibility of disagreement between reliable secondary sources. Editors should not be using guidelines to contradict . --RexxS (talk) 03:22, 16 February 2011 (UTC)
+Funny, I thought that MEDRS opposed that behavior.  Isn't that what &quot;do not automatically give more weight to the review that happens to have been published most recently, as this is recentism&quot; means to you?  WhatamIdoing (talk) 04:25, 16 February 2011 (UTC)
+ Yes, that's exactly what it means to me. It obviously means the opposite to others. --RexxS (talk) 12:12, 16 February 2011 (UTC)
+
+The  (just two months ago) failed.  His supporters were:
+, 
+, 
+, 
+, 
+, 
+NW, 
+, 
+, 
+,
+jps, 
+,  and 
+.
+
+I have contacted most of them with an invitation to help resolve this dispute (skipping one who earned a long-term block and a couple who are known to be watching this page).  We should not have to deal with these problems every few weeks.  WhatamIdoing (talk) 04:48, 16 February 2011 (UTC)
+
+The solution was initially about adding the UK review, not just taking out Ernst.  That may have been a misunderstanding.  The counter-problem is almost ironic given how prominently Ernst has figured into the article.  But that is fine, so long as other sources with similar standing are incorporated as well.  Despite the appearance of conflict, there is actually more productive discussion going on now, since a few other reasonable editors have chimed in. Ocaasi (talk) 13:11, 16 February 2011 (UTC)
+We have at least three great reviews and should balance all of them. --Doc James (talk ·  · ) 23:21, 16 February 2011 (UTC)
+
+List of participants
+
+The Signpost is featuring WPMED next month.  They typically report basic statistics for WikiProjects, such as the number of participants.  If you consider yourself to be a part of WPMED, and you have not yet added your name to the table at , please do so.  WhatamIdoing (talk) 21:31, 17 February 2011 (UTC)
+It looks like we haven't done a pass through the list to move inactive participants out of the active list for quite a while. Does anyone have a problem with my updating this with a cut-off of six-months inactivity on WP for &quot;inactive participants&quot; and twelve-months inactivity on WP for &quot;former participants&quot;. It doesn't do us any favours to inflate the figures. Colin°Talk 11:41, 18 February 2011 (UTC)
+Agree --Doc James (talk ·  · ) 17:50, 18 February 2011 (UTC)
+Agree, thanks Colin. Graham Colm (talk) 21:51, 18 February 2011 (UTC)
+ Go ahead, Colin. Axl ¤ [[User talk:Axl|[Talk]]] 10:06, 19 February 2011 (UTC)
+OK. I'll work on it this afternoon. I'll set the threshold at 1st September 2010 for Active and 1st March 2010 for Inactive. Colin°Talk 12:14, 19 February 2011 (UTC)
+Yes, please.  And bless you for volunteering to take on that dull, time-consuming task.  WhatamIdoing (talk) 18:41, 19 February 2011 (UTC)
+
+Abortion again
+
+If any fresh eyes were available, I'd be grateful for a sanity check at Abortion. The short story is that I reverted the addition of a piece of text sourced to a recent primary source, on the grounds that the secondary source already there covered the issue; it was then re-inserted by the OP; and then removed and re-inserted by Doc James. I've tried to raise what I see as a clear violation of MEDRS on the , but to little effect. Any comments one way or the other would be appreciated, because either I or a bunch of others are failing to understand MEDRS. --RexxS (talk) 21:26, 18 February 2011 (UTC)
+
+In the news
+
+Google News listed CFS as a top story just now.  See [http://www.businessweek.com/ap/financialnews/D9LF8L6G0.htm this] on a Lancet study, which (reportedly) proves the conventional wisdom wrong.  It's probably worth keeping an eye on some of the Chronic fatigue syndrome articles for a few days.  WhatamIdoing (talk) 21:45, 18 February 2011 (UTC)
+Why was the conventional wisdom that exercising wouldn't help people with Chronic fatigue have more energy?  Wasn't the idea that people can improve their health or vitality through inactivity basically dead decades ago? Ocaasi (talk) 22:29, 18 February 2011 (UTC)
+According to the article, &quot;pacing&quot; (doing less because you don't feel like doing anything) is what the patient organizations have been pushing.  WhatamIdoing (talk) 22:49, 18 February 2011 (UTC)
+I have read for years that exercise improves CFS and rest worsens symptoms. I remember a study that found forced bed rest in health college students resulted in CFS after 2 weeks in a large proportion. And forced exercise in those with CFS resulted in improvement in many. That patient groups where recommending rest I did not know. Doc James (talk ·  · ) 16:14, 20 February 2011 (UTC)
+
+Question about vagotomy
+
+There is a question on the Miscellaneous  that could probably do with an answer from someone with some understanding of anatomy and surgery!
+
+
+This could also be a spur to improve our relevant articles, since I see no mention of the nerve(s) of Latarjet anywhere in the encyclopedia.  (talk) 20:18, 20 February 2011 (UTC)
+
+Relevant material On Latarjet is at http://download.videohelp.com/vitualis/med/stomach.htm (near the bottom) and the answer to the question is at [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1250540/pdf/annsurg00117-0037.pdf Resection of Terminal Vagal Branches to Parietal Cell Mass in the Treatment of Duodenal Ulcer] (NIH.GOV) --Red King (talk) 21:00, 20 February 2011 (UTC)
+Somatosensory Rehabilitation of Pain
+
+It's late here, and I've got visitors so I won't get to this tonight, but Somatosensory Rehabilitation of Pain looks, after a brief scan, like OR to me. The author seems to have done some good work elsewhere. I'll try to focus on it tomorrow but another opinion would be appreciated, if anyone has the time. --Anthonyhcole (talk) 12:17, 10 February 2011 (UTC)
+
+I've left a note on its  and its author's talk page outlining some concerns. --Anthonyhcole (talk) 13:59, 11 February 2011 (UTC)
+
+I don't know what to do about this. It is based on the work of one team, most sources are in a foreign language, and on the face of it, it appears not notable enough even for an article. Somatosensory rehabilitation seems to be notable and has one or two textbooks devoted to it; but this concept, somatosensory rehabilitation of pain, appears fringy at best. Wiser/more experienced eyes would be appreciated. --Anthonyhcole (talk) 02:22, 16 February 2011 (UTC)
+
+My eyes may not be any more wise or experienced but it looks to me like something that could be added to the Gate control theory of pain. ITasteLikePaint (talk) 03:13, 16 February 2011 (UTC)
+I would oppose mention on Pain, which is an overview of a very large subject. I'll warn the author I intend to nominate it for deletion unless he comes up with some -compliant sources. --Anthonyhcole (talk) 04:57, 16 February 2011 (UTC)
+No response a week after leaving a note on article and author talk pages, so I've emailed the team leader (who appears to be the article author) seeking an authoritative independent review of their work. --Anthonyhcole (talk) 03:41, 23 February 2011 (UTC)
+
+Pharma policy
+
+Do we have a guideline or policy regarding how pharma companies/employees should edit entries about specific pharma products? NCurse  work 09:20, 18 February 2011 (UTC)
+Absolutely.  Our  guideline directly addresses this,  of course, and the  policy is relevant.  Those link to others that are germane as well.  -- Scray (talk) 14:38, 18 February 2011 (UTC)
+
+We haven't written anything more specific.  There was a conversation about this a while ago.  Here's what I remember from it:
+
+Disclosure of COI is not required by any Wikipedia policy.  
+* Some editors have voluntarily chosen to disclose a conflict of interest by including their employers' names in their account names, e.g., [http://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=user%3A+%2C+gsk&amp;fulltext=Search&amp;ns0=1 all these folks from GlaxoSmithKline].  More self-identify on their user pages.
+* Self-identification is a two-edged sword:  You get points from most users for being honest, but a few will use it to harrass editors.  See, e.g., , a world-class expert on pedophilia, who has been chastised by a handful of (minority-view-holding) editors for not re-re-re-re-disclosing his &quot;conflict of interest&quot; every single time he edits certain pages.
+* Corporate IP addresses are highly traceable.  An employee editing from the office should assume that s/he's hung a big sign on the edit saying &quot;I'm part of a pharmaceutical conspiracy&quot;.
+* Some employers require disclosure, and a few believe it illegal for their employees to edit these pages.  (I believe the idea runs like this:  We are legally required to say only X about this product; if we change the Wikipedia page, we are legally required to say only X on the Wikipedia page; if the page says anything beyond X, then we're in violation of the law.)  So employees and contractors should check with their employers.
+
+Wikipedia does not prohibit people in the pharmaceutical industry from editing articles.   failed.  However, there are strategies that reduce conflict:
+* Vandalism = bad.  As far as we're concerned, anyone is welcome to fix it, even people who work for a pharmaceutical company.
+* Correct serious errors, but leave the fine points to others.
+* Propose sources and improvements on the talk pages.
+* Read , especially the bits about not paying too much attention to single studies.
+* Read , especially the bits about not providing medical advice, instructions to patients, or dosage information.
+* Remember that Wikipedia is not a patient guide or drug formulary.  Employees might be in a unique position to provide background and historical information, which we very much want.  We'd love for every page about a drug to contain some information about its regulatory status around the world, its development, its manufacturing process, and its commercial history (e.g., which companies have worked on it and what its annual sales are).
+* Come here or to  to get help.
+
+Hope this helps, WhatamIdoing (talk) 22:47, 18 February 2011 (UTC)
+ It certainly does help, WAID. Is there any chance we could give this a more permanent home than the talk page archives? I was thinking of an essay, , that could be worked up into a guideline as part of , so that those who need the specific information can find it easily in future. --RexxS (talk) 23:11, 18 February 2011 (UTC)
+
+Sure, we could do that.  I think it might be good to expand the other usual issues:  being a healthcare professional, academic expert, or a patient does not mean that you have a COI (although you might be biased).  It might be fun to include some of the pharmanoia material, too.  What do you think?  WhatamIdoing (talk) 19:29, 19 February 2011 (UTC)
+
+We would first need to eliminate the &quot;double edged sword&quot; POV: The example given was first written up on COI/N as &quot;MarionTheLibrarian&quot;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest/Noticeboard&amp;diff=prev&amp;oldid=221272519#MarionTheLibrarian].  The pattern of self-promotion was the problem, not the login.  To avoid a fruitless tangent, I think it would be best to simply remove the bullet point.
+
+We should stress that Wikipedia policies apply equally to all Wikipedia editors.  However, having audience-specific guides for what policies new editors should be particularly aware of couldn't hurt.
+
+Getting back onto the topic of placement, is there a location where its target audience (pharma industry editors) would find it easily?  (If they needed to search for it, they might find it only after wading through a number of the specific policies.  This would reduce the value of the guide.) BitterGrey (talk) 19:56, 19 February 2011 (UTC)
+
+ is a bluelink now.  WhatamIdoing (talk) 21:53, 19 February 2011 (UTC)
+
+Could I ask others to look this over and join in the discussion there?  My relationship with WhatamIdoing hasn't been good since he made a clear accusation of  against me[http://en.wikipedia.org/w/index.php?title=Wikipedia:External_links/Noticeboard&amp;diff=387375404&amp;oldid=387371940]. He's just performed a mass revert back to his own version, which doesn't seem very civil. BitterGrey (talk) 00:10, 20 February 2011 (UTC)
+
+I glanced at the discussion. I have to agree with WhatamIdoing: . If you have a problem with an external link, start by mentioning what the problem is from a substance perspective - that is, concerns you would raise regardless of who added the link. II | (t - ) 01:40, 20 February 2011 (UTC)
+
+ImperfectlyInformed, the dif about the EL was just to convey WhatamIdoing's documented prejudice here.  My main issue is with the tabular form, which implies that there is a caste system within Wikipedia where some policies only apply to lesser editors like you and me: That pharma employees don't really need to cite sources, while patients should busy themselves with vandalism cleanup. My quickly-reverted edit changed this table to three lists, with all Wikipedia policies applying to everyone equally.  This is a matter of substance.  
+
+Of course, if no other editors get involved, Wikipedia content will be determined by the one who is willing to the be least civil and take the most liberties with Wikipedia policy. BitterGrey (talk) 05:43, 20 February 2011 (UTC)
+
+I don't think you have accessed the right forum if you have a problem with WhatamIdoing. This thread is about COI disclosure in medical content, not about individual behaviour. WhatamIdoing is one of our most hardworking editors, so you are very unlikely to be getting a helpful hand. I see no incivility in the diff you mentioned, and the suggestion that WhatamIdoing would have been incivil makes me roll of my chair laughing. JFW | T@lk 07:35, 20 February 2011 (UTC)
+
+Could we focus on the content being discussed today?  I realize that most here are more familiar with WhatamIdoing than with me, which means my odds of getting neutral input are slim.  What I'm doing might seem laughable.  I'm not paid by a pharma or medical interest, so those hoping to ignore me while advocating their position and goals have called me an advocate.  Per WhatamIdoing's table, a good edit for an advocate will be &quot;Adding sourced information about social movements and effects&quot; (e.g. making edits to the Oprah article) and to avoid &quot;Promoting tiny minority viewpoints.&quot;   Per WhatamIdoing's table, matters of substance (editing information about a product, the profession, health issues, or treatments) are reserved for those who can profit from it, expert or not, referenced or not.  
+
+I'm hoping to preserve the neutrality of Wikipedia, with Wikipedia policies applying to everyone equally.  I accept that there is a caste system in practice in Wikipedia, but I do not think it should be reinforced.  I can see how this effort might seem laughable. BitterGrey (talk) 15:00, 20 February 2011 (UTC)
+Bittergrey, the tone of your edits here is off-putting (IMHO) but I think you do have valid concerns.  I think it's most appropriate to direct discussion of the  to , and avoid further discussion of editors themselves.  -- Scray (talk) 18:56, 20 February 2011 (UTC)
+Thanks Scray.  I responded to ImperfectlyInformed's comment above in hopes of keeping the discussion that I started there from getting diverted onto some procedural tangent.  WhatamIdoing has yet to respond to any of my attempts at discussion on this topic.  Perhaps JFW is correct in that everyone supports WhatamIdoing loyally, to the point of dismissing the possibility that he might have been uncivil as laughable (&quot;roll of my chair laughing&quot; to be exact).  I then, however valid my concerns about the content might be, would be the butt of that joke. BitterGrey (talk) 19:51, 20 February 2011 (UTC)
+
+
+Shall we regard this thread as a pointer to have a discussion on the other page then? I see little point carrying on over here. JFW | T@lk 00:25, 21 February 2011 (UTC)
+
+You are fantastic! Thank you very much for the replies and feedback. We are working on an open-access guide for pharma companies about using social media, and we plan to include a whole section about Wikipedia. This discussion helps a lot. NCurse  work 10:56, 22 February 2011 (UTC)
+
+Glad you find the discussion helpful.  Please be careful to differentiate Wikipedia policy, which is a position agreed on by a broad consensus, from essays which might represent the opinions of only one or two editors. BitterGrey (talk) 15:35, 22 February 2011 (UTC)
+
+560 pages of disease statistics for the US from the CDC 2010
+
+*http://www.cdc.gov/nchs/data/hus/hus10.pdf
+--Doc James (talk ·  · ) 03:09, 22 February 2011 (UTC)
+
+Wikipedia medical content
+
+It seems to me it is time for a policy governing medical claims in Wikipedia articles. Particularly, I'd like the right to delete any claim about the safety, efficacy or strength of evidence for a health intervention that is not supported by a  source, with exemption from 3RR sanctions, along the lines of BLP violations. I believe our present stance, allowing dubious claims to stand during drawn-out AfD or talk page discussion, is reckless. If I've missed something, if this is explicitly covered elsewhere, please point me to it. --Anthonyhcole (talk) 05:28, 22 February 2011 (UTC)
+
+I completely support this. We should also state clearly when a particular use of a drug is off-label or in the absence of good evidence.
+I also think that we need to tighten up on claims of adverse events and side-effects that lack a reliable source. We have a lot of drug articles that are stuffed to the brim with anecdotal reports from unhappy users, often with the flimsiest of sources. I am actually amazed that drug companies have (on the whole) not mobilised people to tidy up articles about their products. They would find themselves supported by policies if they did. JFW | T@lk 07:08, 22 February 2011 (UTC)
+
+ Regarding &quot;off-label&quot; use I am deleting such notices very often. Exactly because they suggest absence of evidence. A large number of off-label applications are for orphan diseases. If you look around for which conditions there are &quot;FDA-approved&quot; treatments I would not be surprised to find that there is not a single FDA approved treatment for something like 99.9% of all known conditions - and not all of them are rare. Another problem with off-label and FDA-approved tags is that they tend to be very US centered.
+
+ As of side effects they are in constant need of cleaning but I would object if they were cleaned up to the level of nothing-saying patient handout leaflets. Richiez (talk) 12:04, 22 February 2011 (UTC)
+
+ is a big policy that took a long time to draft, with input from loads of people. MEDRS and this project is comparatively tiny. BLP is built on top of WP:V, NPOV and NOR as well as US law. If you want a medical policy, it needs to be built on top of existing policies, not on top of a guideline.
+As far as the speedy 3RR-exempt removal of material goes, this applies to areas of limited scope and fairly straightforward judgement. It is fairly easy to justify the play-it-safe censorship of contentious remarks about a living person (WP could be sued, people get hurt by the comments).
+The scope of this proposal (all medical safety and efficacy claims) is huge. Does this include preventative (eat your greens, avoid a high-fat diet) as well as curative medicine? 
+The judement calls required are far more complex than simply: is this contentious; is about a living person; is the source reliable. I don't see how such complex judgements could be made excempt from 3RR edit warring.
+Colin°Talk 15:54, 22 February 2011 (UTC)
+
+I don't think this is a good idea.  We've got people right now who are using this attitude to justify gutting AltMed articles because they have personally judged the sources to be inappropriate.  For example, PPdd has recently deleted sourced material solely because the source wasn't in English.  (PPdd, do take a minute to read the policy , okay?)  
+In most cases, the material is a simple description of what the practitioners believe—the critical distinction between &quot;Herbalists use this for the common cold&quot; and &quot;This is a safe and effective treatment for the common cold.&quot;  I am not currently seeing signs that all of our editors have the necessary judgment to follow a policy like this.  WhatamIdoing (talk) 16:08, 22 February 2011 (UTC)
+
+I agree that there's a distinction between &quot;people use it for this&quot; and &quot;it works.&quot;  I also agree with AHC that &quot;it works&quot; should always at least have a  tag.  I don't think that this requires a , our standard requirement for  handles it just fine, as claims of effectiveness are likely to be challenged.  SDY (talk) 16:22, 22 February 2011 (UTC)
+
+Stroke
+
+A strange situation on .  is a new user who has come along and added something about 3 patients with a previous stroke improving on etanercept. I challenged this and  the content. An anonymous user from the 128.97 range has started inserting related content with lots of references, all to in vitro work and none compatible with .  came along on the talkpage to defend the content in question, and has not yet responded to my concerns (but appears to be singing from the same songsheet as me as suggested by his responses on Potionism's talk page). Meanwhile, 128.97 has come along, reinserted the content, and posted a defence on the talkpage without addressing my concerns.
+
+I am pretty certain that this content is currently unsuitable or at least supported by the wrong references, but I am now up against multiple editors and would love some extra eyes. JFW | T@lk 14:37, 22 February 2011 (UTC)
+
+Phantom ICD disorders again
+
+We try to follow this classification, but regarding [http://en.wikipedia.org/w/index.php?title=Mastodynia&amp;curid=2139191&amp;diff=415501591&amp;oldid=415501550 this] edit I am seeking an exception from the rule. There is  but it does not say literally &quot;fibrosclerosis of breast&quot;. No other source in or outside PubMed comes even close to this, at least I could not find it. There is no &quot;fibroslerosis of breast&quot;. Instead there is a whole range of findings called sclerosing adenosis etc. Many of those are suspected to be indicative of premalignant changes and as such they are usually differentiated with great care and of course not all of them fit into fibrocystic conditions at all (eg sclerosing adenosis in complex fibroadenoma). Simplifying all those conditions to &quot;fibrosclerosis of breast&quot; and lump it together as a subclass of fibrocystic condition would be a classification disaster in my opinion. Given that nobody except ICD ever used the term &quot;fibrosclerosis of breast&quot; I am against introducing it into life via wikipedia.  Richiez (talk) 20:26, 23 February 2011 (UTC)
+Might you have meant this edit[http://en.wikipedia.org/w/index.php?title=Mastodynia&amp;diff=415501550&amp;oldid=408710655]?BitterGrey (talk) 21:31, 23 February 2011 (UTC)
+
+Sorry, I meant this edit: http://en.wikipedia.org/w/index.php?title=Fibrocystic_breast_changes&amp;curid=8483785&amp;diff=415502865&amp;oldid=415502266
+Richiez (talk) 22:31, 23 February 2011 (UTC)
+
+Relevant AFD
+
+Please see . Graham87 15:14, 24 February 2011 (UTC)
+
+Reviewers needed for University project
+
+Hi all, this semester I am repeating an editing project that I first ran in the  for my Neuroscience course at Boston College. I am hoping to write up a manuscript for a life science education journal about our experience, and I would like to solicit help from some of the knowledgeable WikiProject Medicine editors. We have 21 groups of students (3 students per group, 1 stub per group) improving specific Category:Neuroscience stubs that are in need of expansion, clarification and/or proper referencing. I have an 8 point rubric that you can use to make quantitative judgments about how much improvement to the stub has been made by the students (and any other editors that help out during our course period). If I can get 1 or 2 more editors to volunteer 2-3 hours of time to read the stub page that currently exists as of 3/1/11 and the &quot;final&quot; version at the end of the course (~2nd week of May) and score them using the rubric I would be most appreciative, and of course would acknowledge your efforts in the manuscript. Please feel free to respond back here or on my talk page. I have crossposted this on the  page but thought I may be able to find more help from those with even a bit of background or interest in the neuroscience field here. Thanks much,NeuroJoe (talk) 22:21, 24 February 2011 (UTC)
+
+I see from the 2009 topics that the neuroscience topics are mostly basic science (as opposed to clinical). It might therefore be useful to alert  also.
+Could I suggest you place a lot of emphasis on . A lot of basic science articles rely heavily on primary sources, which is something we should try to avoid.
+I am certainly happy to help out. JFW | T@lk 22:28, 24 February 2011 (UTC)
+I have pointed them exactly to that page as part of their instructions, if Andrew Wakefield has been good for anything its been for our in class discussion of primary vs secondary sources for WP. thx, NeuroJoe (talk) 23:01, 25 February 2011 (UTC)
+Sure will take a look. Where is the list of articles people will be working on or have these been decided yet? --Doc James (talk ·  · ) 00:11, 25 February 2011 (UTC)
+the topics the students have claimed are  here( the ones with the names beside them). for those interested and able to help, in the interest of expediency i will choose 4-5 topics and assign them to each reviewer, unless someone has a strong preference for a particular topic they'd like to review. NeuroJoe (talk) 23:01, 25 February 2011 (UTC)
+Neuroscience was the first place he asked, but as fewer editors watch the project I told him to give it a try here...and it seems it worked :-)  --Garrondo (talk) 07:48, 25 February 2011 (UTC)
+
+I wish the &quot;8 point rubric&quot; mentioned compliance with Wikipedia policy and dropped the awful , which despite its grand-sounding name, is the opinion of a few maths and basic science editors and geared towards writing academic articles rather than those for an encyclopaedia. Colin°Talk 19:45, 25 February 2011 (UTC)
+ It does; neutrality, verifiability and compliance with the normal style of WP writing are all part of the rubric. NeuroJoe (talk) 23:11, 25 February 2011 (UTC)
+
+The eight-point rubric looks like , in which case both students and reviewers might like to know about  of the points.  WhatamIdoing (talk) 21:35, 25 February 2011 (UTC)
+
+ Yes the rubric was distilled from the GA criteria, I will pass that that explanation on, thanks.NeuroJoe (talk) 23:04, 25 February 2011 (UTC)
+You might also like to point them at , if the primary/secondary thing is confusing them.  The difference between a 'secondary source' and a 'third-party source' seems to trip up a lot of Wikipedians.  WhatamIdoing (talk) 00:07, 26 February 2011 (UTC)
+
+RefToolbar
+
+The  is now enabled for all users by default! This means easier referencing with automatic filling of the ref's details after entering an ISBN, DOI, or PMID. It can be used by clicking Cite just above the edit field. --WS (talk) 13:26, 25 February 2011 (UTC)
+
+Somatosensory Rehabilitation of Pain
+
+This article could use some expert attention. Thanks. --Crusio (talk) 23:26, 25 February 2011 (UTC)
+In one sentence
+
+In one sentence can someone summarize our current convention with regard to when the possessive vs nonpossesive forms of eponymous disease names are used for article titles?  This is for my own education, and to help guide my editing. ---My Core Competency is Competency (talk) 19:54, 26 February 2011 (UTC)
+*There are more important things to worry about. [That's the policy, btw, not me being rude about your question]. Colin°Talk 20:19, 26 February 2011 (UTC)
+*Yes:  &quot;There is a consensus to have no rule about that.&quot;  WhatamIdoing (talk) 22:15, 26 February 2011 (UTC)
+*Medicine is moving away from &quot;eponymous disease&quot; names and we should too at about the same rate.  Doc James (talk ·  · ) 05:43, 27 February 2011 (UTC)
+* Recently discussed on . I think eponyms are here to stay, because the alternatives are often unpronounceable or unrememberable (unless the disease is named after a an unrepentant Nazi). JFW | T@lk 10:39, 27 February 2011 (UTC)
+* Our current convention is to follow ICD-10 orthography. Application of the convention is left as an exercise to the reader. --Arcadian (talk) 00:28, 1 March 2011 (UTC)
+
+Assessment of Silent stroke
+
+User 7Mike5000 has asked if this article could be assessed. He's expecting &quot;stub&quot;. I don't know how that happens. Can anyone help?  (I don't have any online time at the moment.) --Anthonyhcole (talk) 05:50, 28 February 2011 (UTC)
+
+ I have assigned it &quot;start&quot; class. Axl ¤ [[User talk:Axl|[Talk]]] 09:46, 28 February 2011 (UTC)
+
+Cheers. --Anthonyhcole (talk) 17:04, 28 February 2011 (UTC)
+
+Anthony (and anyone else), the directions are at .  Anyone is welcome to have a go at assessing articles for Stub, Start, C-class, or B-class.  (GA and FA use an outside process, and we don't do A-class.)  Please feel free to look through  and assess whatever you like.  You can ping me on my talk page or the usual suspects at  if you are uncertain.  WhatamIdoing (talk) 19:51, 28 February 2011 (UTC)
+
+widespread addition of links to external site
+
+Editor  has been adding variations on a commercial link to a large number of pages that fall within our scope.  Should this go straight to AN/I?  -- Scray (talk) 19:18, 28 February 2011 (UTC)
+
+They are inappropriate ELs. User has had this explained to them. Hopefully they will follow this advice. Doc James (talk ·  · ) 19:47, 28 February 2011 (UTC)
+
+If the user doesn't stop, you can get help at , where a couple of the anti-spam folks hang out.  You can also follow the directions at , as an internet chatroom is basically never going to be acceptable as an external link, but blocking the one user is probably the simpler solution.  WhatamIdoing (talk) 19:58, 28 February 2011 (UTC)
+
+This was very educational for me (though the reversions were a bit tedious).  I would have assumed that blacklisting would be efficient, but having read the info I came to appreciate how much better it is to educate the editor (basically, an extension of ).  Thanks!  -- Scray (talk) 20:25, 28 February 2011 (UTC)
+
+Choice in medicine
+
+Just finished an excellent book on choosing and have come across this review [http://www.annals.org/content/154/5/336.abstract]. Wondering where on Wikipedia should something like this be discussed? It goes against the US paradigm. Doc James (talk ·  · ) 19:08, 1 March 2011 (UTC)
+Health care proxy certainly needs work, and the current Annals of Internal Medicine article you cite would be a good addition.  That said, I don't see much in that article that is (a) surprising or (b) contrary to any &quot;US paradigm&quot;.  Making end-of-life decisions is stressful.  -- Scray (talk) 00:08, 2 March 2011 (UTC)
+
+End-of-life care is another option.  WhatamIdoing (talk) 00:10, 2 March 2011 (UTC)
+
+HIV-positive people
+
+I believe that image on HIV-positive people () need to be changed. The United States should be coloured red, as it once was from the version history, as the US still bands people with HIV from entering under the Visa Waiver Program and from US Visas. See Travel and residence regulations for people with HIV and AIDS - 2008-2009 [http://doc.ilga.org/ilga/publications/publications_in_english/other_publications/travel_and_residence_regulations_for_people_with_hiv_and_aids here]. The version history appears to state the ban was lifted in Jan 2010. So perhaps further clarification is needed. Regards, KiloT 22:49, 1 March 2011 (UTC)
+May be ask the person who created it. Doc James (talk ·  · ) 22:55, 1 March 2011 (UTC)
+
+My favorite web search engine says that the rules changed in January 2010.  See [http://articles.cnn.com/2010-01-04/travel/us.hiv.visa_1_hiv-positive-hiv-infection-hiv-travel-and-immigration?_s=PM:TRAVEL][http://www.cbp.gov/xp/cgov/travel/id_visa/hiv_final.xml].  WhatamIdoing (talk) 00:18, 2 March 2011 (UTC)
+Please Review Edits to Diabetes Template Page
+
+I recently tried to add glycated albumin as another blood test for diabetes on ...My edit was promptly reverted. I'm not sure what the reason was, but I have found several reference laboratories that provide this test for doctors (listed below). I think that it is fully appropriate to add glycated albumin to the list.
+
+http://www.arupconsult.com/Topics/DiabetesMellitus.html?client_ID=LTD#tabs=5
+http://www.clevelandcliniclabs.com/reflab/SearchDetails/tabid/4698/Default.aspx?ID=2056
+http://www.pacbio.com/biomarker/assay_detail.php?id=112
+http://www.questdiagnostics.com/hcp/testmenu/jsp/showTestMenu.jsp?s=G&amp;test_code=96099&amp;fn=5032X.html&amp;labCode=SJC
+
+I'm new to editing wikipedia articles, so I'm not sure if it is appropriate to present this issue here or directly with the user that reverted my edits. I would appreciate it if you could let me know if I should go about this differently. Thanks! Jymorale (talk) 22:13, 1 March 2011 (UTC)
+
+A page on Glycated protein should probably be created where this among others is discussed.[http://www.ncbi.nlm.nih.gov/pubmed/20724796] Doc James (talk ·  · ) 22:46, 1 March 2011 (UTC)
+
+Not the best source but this says GP is the same as fructosamine [http://www.labtestsonline.org/understanding/analytes/fructosamine/glance.html] Doc James (talk ·  · ) 23:02, 1 March 2011 (UTC)
+
+I have also come across similar descriptions online, and I believe that they are misleading. Fructosamine is a general term used to refer to numerous serum proteins that have undergone glycation (Glycated Serum Proteins or GSP). While glycated albumin (GA) is a major component (80%) of what is referred to as “fructosamine,” GA is only one of the many glycated proteins that are measured in the fructosamine assay. Specific assays for glycated albumin do actually exist: Exocell manufactures an ELISA kit (Glycaben) and the labs listed above offer affinity column chromatography tests (and other formats) for clinical use. 
+
+There is a substantial amount of literature that shows that GA is directly involved in the pathogenesis of diabetes complications and that a specific GA assay is clinically beneficial for diabetes monitoring [http://www.ncbi.nlm.nih.gov/pubmed/21153482], especially in patients with red blood cell abnormalities [http://www.nature.com/ki/journal/v73/n9/abs/ki200825a.html],[http://care.diabetesjournals.org/content/33/3/509.long]. Considering all this, I think it would be appropriate to clearly differentiate fructosamine from glycated albumin (I'm working right now on writing an article for Glycated Albumin, which inaccurately redirects to Fructosamine). Jymorale (talk) 01:34, 2 March 2011 (UTC)
+
+So GA is a type of fructosamine. May be this should be added as a subsection in the fructosamine article than split off into its own article when large enough. Doc James (talk ·  · ) 03:47, 2 March 2011 (UTC)
+
+Hmmm...adding GA to the fructosamine article is a great idea, since it is a type of fructosamine (FA). But I think I just realized what's causing the confusion here. The contents in the fructosamine article (except for the 3 lines of intro) are specific to the fructosamine assay, not the fructosamine molecules. Perhaps it would be best if the fructosamine page was renamed to &quot;Fructosamine Assay&quot; or maybe even split it into two articles: &quot;Fructosamine&quot; and &quot;Fructosamine Assay&quot;. Adding GA to the page as it is now would probably mislead readers to believe that the GA and FA assays are one and the same. Jymorale (talk) 19:48, 2 March 2011 (UTC)
+
+Just because it is current written primarily about an assay does not mean that it should not be rewritten to be about the molecule which IMO it should.Doc James (talk ·  · ) 19:52, 2 March 2011 (UTC)
+I think that one article is likely to be better.  The article could then split the sections into
+Chemistry
+and
+Assays
+(or something like that).  I think the primary advantage of putting it all on one page is that it would be easier for the reader to figure out that the test is not the molecule.  WhatamIdoing (talk) 20:43, 2 March 2011 (UTC)
+
+I agree with both of you. The Fructosamine article should be reorganized so these differences are clear. GA can then be listed as a type of fructosamine, and then link out to the full article when it is available. Thanks for all the feedback! Going back to the original purpose of this post though... Since GA is a stand-alone blood test for diabetes, I think it appropriate to list it on the  page. This is a separate issue from the details about the contents of the individual articles. Jymorale (talk) 21:16, 2 March 2011 (UTC)
+
+Sure once that page exists. Doc James (talk ·  · ) 21:38, 2 March 2011 (UTC)
+
+How would you cite this document?
+
+I want to cite the following document: [http://www.psoriasis.org/NetCommunity/Document.Doc?id=354].  Could someone help me generate the citation? ---My Core Competency is Competency (talk) 20:39, 4 March 2011 (UTC)
+
+The answer depends on the citation format used in the article, but try this:
+citation
+
+
+
+
+
+
+
+
 
 If you need a different style, then let me know.  A &quot;pocket guide&quot; could also be handled like a book, if you wanted.  WhatamIdoing (talk) 21:30, 4 March 2011 (UTC)
 Thank you so much. ---My Core Competency is Competency (talk) 20:15, 5 March 2011 (UTC)
@@ -365,30 +1404,30 @@ With increased growth, the  has started to become a burden to the articles it tr
 
 The full list of supported identifiers is given here (with dummy values):
 *cite journal
- |author=John Smith
- |year=2000
- |title=How to Put Things into Other Things
- |journal=Journal of Foobar
- |volume=1 |issue=2 |pages=3–4
- |arxiv=0123456789
- |asin=0123456789
- |bibcode=0123456789
- |doi=0123456789
- |jfm=0123456789
- |jstor=0123456789
- |lccn=0123456789
- |isbn=0123456789
- |issn=0123456789
- |mr=0123456789
- |oclc=0123456789
- |ol=0123456789
- |osti=0123456789
- |rfc=0123456789
- |pmc=0123456789
- |pmid=0123456789
- |ssrn=0123456789
- |zbl=0123456789
- |id=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Obviously not all citations needs all parameters, but this streamlines the most popular ones and gives both better metadata and better appearances when printed. Headbomb {talk /  /  / } 03:05, 8 March 2011 (UTC)
@@ -544,12 +1583,12 @@ I made this template yesterday following . It's mostly based on the  template, e
 For example:
 
 *cite cochrane
-|author=Jansen AG, Hak E, Veenhoven RH, Damoiseaux RA, Schilder AG, Sanders EA
-|group=Acute Respiratory Infections
-|date=2009 Apr 15
-|title=Pneumococcal conjugate vaccines for preventing otitis media
-|issue=2 |review=CD001480 |version=3
-|pmid=19370566
+
+
+
+
+
+
 
 
 

@@ -3,15 +3,66 @@
   SYSTEM 'wikixml.dtd'>
 <file type="Article" date="2025-03-30T21:58:43Z" sourceCorpus="COVID-19" filename="67030150" title="COVID-19_vaccination_in_Algeria" url="https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Algeria">
 	<text>
-		<segment id="id67030150">Daily vaccinations chart of Algeria
+		<segment id="id67030150">On 29 January 2021, Algeria launched a COVID-19 vaccination campaign, a day after receiving its first shipment of 50,000 doses of the Russia's Sputnik V vaccine. As of 6 June 2021, around 2.5 million doses have been administered. Algeria is currently vaccinating its population with both Sputnik V and Oxford-AstraZeneca vaccines.
+
+Background
+
+Data Reporting
+Algeria has reported on administering over 2.5 million doses of the vaccine. Data is only reported every few weeks or months apart without secondary dose information.
+
+History
+
+Timeline
+
+January 2021
+On 28 January 2021, Algeria received 50,000 doses of Russia's Sputnik V vaccine which landed at Algiers International Airport. On the very next day, 29 January, Algeria launched a coronavirus vaccination campaign.
+
+February 2021
+On 1 February, 50,000 doses of the Oxford–AstraZeneca COVID-19 vaccine arrived.
+
+On 25 February 2021, Algeria received 200,000 more vaccines from China.
+
+April 2021
+364,800 doses of the Oxford-AstraZeneca vaccine were delivered on 3 April through the COVAX pillar.
+
+On 7 April, minister  announced that an agreement had been reached to produce Sputnik V at Saidal's manufacturing plant in Constantine.
+
+On 26 April, the U.S. provided more than 600,000 doses of the Johnson &amp; Johnson COVID-19 vaccine.
+
+August 2021
+By the end of the month, 4.1 million vaccine doses had been administered.
+
+September 2021
+By the end of the month, 10.2 million vaccine doses had been administered.
+
+October 2021
+By the end of the month, 11.2 million vaccine doses had been administered while 27% of the target population had been fully vaccinated.
+
+November 2021
+By the end of the month, 12.1 million vaccine doses had been administered while 30% of the target population had been fully vaccinated.
+
+December 2021
+By the end of the month, 12.5 million vaccine doses had been administered while 31% of the target population had been fully vaccinated.
+
+January 2022
+By the end of the month, 13 million vaccine doses had been administered while 32% of the target population had been fully vaccinated.
+
+April 2022
+By the end of the month, 15 million vaccine doses had been administered while 6.5 million persons had been fully vaccinated.
+
+Progress
+Cumulative vaccinations in Algeria
+
+
+Daily vaccinations chart of Algeria
 
 Graph:Chart|type=stackedrect|yAxisMin=0|y1=0,30,75000|x= 29 January 2021, 30 January 2021,   19 February 2021, 6 June 2021
-|yAxisTitle=Daily vaccinations
-|y2Title=Vaccinated (2nd dose)
-|y1Title=Vaccinated (1st dose)
-|yAxisMax=
-|yGrid=true
-|yType=number|width=400|xAxisAngle=-90|xAxisTitle=Date|legend=|showSymbols=1|linewidth=1|showValues=|colors=palegreen, #FFC000|y2=0,30,75000,2500000
+
+
+
+
+
+
 
 References
 
