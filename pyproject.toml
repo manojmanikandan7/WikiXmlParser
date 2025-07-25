@@ -1,6 +1,6 @@
 [project]
 name = "wikipedia_xml_parser"
-version = "0.0.6"
+version = "0.0.7"
 authors = [
   { name="Manoj Manikandan", email="manoj140805@gmail.com" },
 ]
@@ -15,7 +15,6 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 dependencies = [
     "beautifulsoup4",
-    "lxml",
     "typer",
     "typing_extensions",
     "rich",

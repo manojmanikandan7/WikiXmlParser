@@ -1,4 +1,3 @@
-lxml
 beautifulsoup4
 typer
 typing_extensions
