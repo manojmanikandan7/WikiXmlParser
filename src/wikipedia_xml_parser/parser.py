@@ -22,30 +22,36 @@ class XmlParser:
     def parse_xml(file: Path) -> ET.ElementTree:
         """
         Parse the input XML file and return an `xml.etree.ElementTree.ElementTree` representation of it.
-        :param file:
-        :return:
+        :param file: The path to the file to parse
+        :return: An `xml.etree.ElementTree.ElementTree` object, representing the file contents.
         """
         return ET.parse(file)
 
     def get_attrs(self, page: ET.Element, corpus_name: str, base_name: str):
         """
 
-        :param base:
-        :param corpus_name:
-        :param page:
+        :param base_name: The base_name of the url. (eg. https://en.wikipedia.org/)
+        :param corpus_name: The name of the corpus to include in the output file(s)
+        :param page: The page element to parse
         :return:
         """
+        # Extracting the timestamp
         timestamp = page.find("default:revision", self.ns).find("default:timestamp", self.ns).text
+
+        # The 'filename' is the id of the page.
         filename = page.find("default:id", self.ns).text
 
         title = page.find("default:title", self.ns).text
 
-        # Removing the "Wikipedia_Talk:" prefix
+        # Identifying if the page is a Talk page
         title_parts = title.split(":")
 
         title = title_parts[-1]
+
+        # Substituting space characters with underscores, then splitting archive number (if present)
         title_splits = re.sub(r"\s", "_", title).split("/")
 
+        # If colon is present, the page is inferred to be a talk page
         if len(title_parts) > 1:
             corpus_type = "Talk"
             sub = "_Talk"
@@ -56,7 +62,7 @@ class XmlParser:
             pre = ""
 
 
-        # In this case, the page is not an archive
+        # If forward-slash is not present in the title, it is not an archive (Talk pages only, does not affect Articles).
         if len(title_splits) < 2:
             xml_title = title_splits[0] + sub
             url = f"{base_name}/{pre}{title_splits[0]}"
@@ -68,27 +74,35 @@ class XmlParser:
 
         return {"type": corpus_type, "date": timestamp, "sourceCorpus": corpus_name, "filename": filename, "title": xml_title, "url": url}
 
-    def clean_text(self, txt: str):
+    def clean_text(self, txt: str, cards_filter: list[str] = ["infobox","wikiproject", "user", "press", "graph", "image", "reflist", "multiple", "ordered", "list"]):
         """
+        Function to clean and extract text from the page content.
+        XML/HTML tags, Wikipedia formatting, tables, infoboxes, internal links and media links are all removed.
+        If alternative titles are provided for links, they are preserved.
+        Note: External/markdown-style links are not removed.
 
-        :param txt:
-        :return:
+        :param cards_filter:
+        :param txt: The input text to clean
+        :return: Cleaned text
         """
         ## Text cleaning pipeline ##
         # TODO: Elaborated steps
 
-        # Removing all infoboxes
-        no_infoboxes = re.sub(r"(?s){{(#invoke:)?(Infobox|reflist|WikiProject|User|Press).*?\n.*?\n}}", "", txt)
+        # Removing all cards/modals/infoboxes
+        info_text = '|'.join(cards_filter)
+        no_cards = re.sub(r"(?si){{(#invoke|" + info_text + ")[^}]*?\n.*?\n}}", "", txt)
 
         # Removing all tables
-        no_tables = re.sub(r"(?s){\|.*?\n.*?\n\|}", "", no_infoboxes)
+        no_tables = re.sub(r"(?s){\|.*?\n.*?\n\|}", "", no_cards)
 
         # Removing Wikipedia formatting patterns
+
+        # no_format_patterns = re.sub("{{[^}]*?data/.*?}}", ";DYN;", no_tables)
         # Note: This should be done before removing tags, since Beautiful Soup looks for curly braces ('{', '}') for namespaces
         no_format_patterns = re.sub("{{.*?}}", "", no_tables)
         no_format_patterns = re.sub("{{", "", no_format_patterns)
         no_format_patterns = re.sub("}}", "", no_format_patterns)
-        
+
         # Removing internal links formatting
 
         # Preserving internal links with references in the same article
@@ -132,7 +146,11 @@ class XmlParser:
 
         # Remove indent guides
         no_indent = re.sub(r"\n:+", "\n", no_format)
-        return no_indent
+
+        # Remove leftout infobox/media propertiesk
+        no_props = re.sub(r"(^|\n)\s?\|.*", "\n", no_indent)
+
+        return no_props
 
 
 
