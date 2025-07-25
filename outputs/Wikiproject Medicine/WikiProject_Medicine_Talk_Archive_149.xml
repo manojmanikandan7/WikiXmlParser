@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE file
   SYSTEM 'wikixml.dtd'>
-<file type="Talk" date="2021-09-22T00:38:54Z" sourceCorpus="Wikiproject_Medicine" filename="67429389" title="WikiProject_Medicine_Talk_Archive_149" url="https://en.wikipedia.org/wiki/Wikipedia talk:WikiProject_Medicine/Archive_149">
+<file type="Talk" date="2021-09-22T00:38:54Z" sourceCorpus="Wikiproject_Medicine" filename="67429389" title="WikiProject_Medicine_Talk_Archive_149" url="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Medicine/Archive_149">
 	<text>
 		<segment id="id67429389">Recent  markup changes
 Trivial I know, but yesterday I spent time trying to work out why inputting something like PMID ######### wouldn't generate the customary PubMed link on a talk page. Was it me getting my upper and lower cases confused or something? Or was it some recent change that had passed me by? After a while, I propended for the latter and, in one of those elusive aha moments, today I stumbled on [https://en.wikipedia.org/w/index.php?title=Wikipedia%3APMID&amp;type=revision&amp;diff=1015492198&amp;oldid=936986914 this]. Since I felt that a  might not be so convenient for rapid talk-page discussions, I went to what seemed to me the obvious forum () to question the apparent loss. But when I tried to start a new section there, up popped a message warning me,

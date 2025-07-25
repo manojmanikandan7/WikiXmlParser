@@ -8,7 +8,7 @@ from pathlib import Path
 from xml.dom.minidom import parseString, getDOMImplementation
 from rich.progress import track
 
-from clean_text import clean_text
+from .clean_text import clean_text
 
 
 class XmlParser:
@@ -55,7 +55,7 @@ class XmlParser:
         if len(title_parts) > 1:
             corpus_type = "Talk"
             sub = "_Talk"
-            pre = title_parts[0] + ":"
+            pre = title_parts[0].replace(" ", "_") + ":"
         else:
             corpus_type = "Article"
             sub = ""

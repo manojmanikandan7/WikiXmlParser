@@ -1,9 +1,10 @@
 """
 Module for tools to clean revision text of Wikipedia pages
 """
+import re
+import html
 from typing import Iterable
 from bs4 import BeautifulSoup
-import html
 
 def clean_text(txt: str,
                cards_filter: Iterable[str] = ("infobox", "wikiproject", "user", "press", "graph", "image", "reflist",
