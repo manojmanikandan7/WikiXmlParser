@@ -23,6 +23,10 @@ A parser that parses the XML exported using the [Wikipedia Export feature](https
 - The `typing_extensions` module was a dependency for `typer`, to provide descriptions.
 - The `rich` library was used for formatting outputs in the terminal.
 
+> [!NOTE]
+> Any dynamic references made in the Wikipedia-content text will be replaced with the token `;DYN;`.
+> Currently, evaluations of such references are not possible
+
 ## Requirements
 
 - Python >= 3.9
@@ -95,32 +99,37 @@ x_parser = XmlParser()
 
 # Parse the corpus at `input_file` file path 
 # and store the results at folder 'output_dir'
-x_parser.parse_corpus(input_file, output_dir)
+x_parser.parse_corpus(input_file, output_dir, corpus_name)
 ```
 
 
 ### As a Command Line Interface (CLI) tool
-The CLI can be accessed through the command `wiki_parse`. 
+The CLI can be accessed through the command `wiki-parse`.
 
-Run the following for more information on the command
+There are two commands available: `wiki-parse parse-corpus` and `wiki-parse clean-text`.
+
+- `wiki-parse parse-corpus` can be used for parsing an XML document exported from Wikipedia and segregating all the pages in separate documents.
+- `wiki-parse clean-text` can be used to process the page text from the document to another file.
+
+Run the following for more information on the commands.
 ```bash
-wiki_parse --help
+wiki-parse --help
 ```
 Which should print the usage instructions
 ```
- Usage: wiki_parse [OPTIONS] INPUT_FILE_NAME OUTPUT_DIR CORPUS_NAME                                                                                                                                                              
+ Usage: wiki-parse [OPTIONS] COMMAND [ARGS]...                                                                                                                                                                                   
                                                                                                                                                                                                                                  
- The command-line tool for parsing a Wikipedia-exported XML file to simplified XML files                                                                                                                                         
+ The command-line interface for processing Wikipedia-exported XML files or its contents                                                                                                                                          
                                                                                                                                                                                                                                  
                                                                                                                                                                                                                                  
-╭─ Arguments ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│ *    input_file_name      TEXT  The input file path for the XML file [default: None] [required]                                                                                                                               │
-│ *    output_dir           TEXT  The output file directory for the transformed XML files [default: None] [required]                                                                                                            │
-│ *    corpus_name          TEXT  The name of this corpus [default: None] [required]                                                                                                                                            │
-╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ╭─ Options ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ --install-completion          Install completion for the current shell.                                                                                                                                                       │
 │ --show-completion             Show completion for the current shell, to copy it or customize the installation.                                                                                                                │
 │ --help                        Show this message and exit.                                                                                                                                                                     │
 ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─ Commands ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ parse-corpus   The command-line tool for parsing a Wikipedia-exported XML file to simplified XML files                                                                                                                        │
+│ process-text   The command-line tool for cleaning/processing Wikipedia-formatted text to plain text                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
 ```

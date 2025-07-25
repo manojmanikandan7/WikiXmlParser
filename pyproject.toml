@@ -1,6 +1,6 @@
 [project]
 name = "wikipedia_xml_parser"
-version = "0.0.5"
+version = "0.0.6"
 authors = [
   { name="Manoj Manikandan", email="manoj140805@gmail.com" },
 ]
@@ -26,7 +26,7 @@ Homepage = "https://github.com/manojmanikandan7/WikiXmlParser"
 Issues = "https://github.com/manojmanikandan7/WikiXmlParser/issues"
 
 [project.scripts]
-wiki_parse = "wikipedia_xml_parser.cli:app"
+wiki-parse = "wikipedia_xml_parser.cli:app"
 
 [build-system]
 requires = ["hatchling >= 1.26"]

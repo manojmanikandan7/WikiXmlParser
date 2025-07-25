@@ -74,13 +74,14 @@ class XmlParser:
 
         return {"type": corpus_type, "date": timestamp, "sourceCorpus": corpus_name, "filename": filename, "title": xml_title, "url": url}
 
-    def build_tree(self, page: ET.Element, corpus_name: str, base_name: str):
+    def build_tree(self, page: ET.Element, corpus_name: str, base_name: str) -> tuple[str, ET.Element]:
         """
+        Function to build the new XML tree
 
-        :param base_name:
-        :param page:
-        :param corpus_name:
-        :return:
+        :param base_name: The base name of the url
+        :param page: The object representing the current page
+        :param corpus_name: Name of the corpus to include in the new XML file
+        :return: A tuple, containing the title of page and the root of the new XML tree
         """
         attrs = self.get_attrs(page, corpus_name, base_name)
         file = ET.Element("file", attrs)
@@ -91,10 +92,11 @@ class XmlParser:
 
     def parse_corpus(self, input_file: Path, output_dir: Path, corpus_name: str):
         """
+        Function to parse a Wikipedia-exported XML file, extract information and segregate the pages into separate XML files.
 
-        :param input_file:
-        :param output_dir:
-        :param corpus_name:
+        :param input_file: The path to Wikipedia-exported XML file to process
+        :param output_dir: The path to the directory to dump the segregated XML files
+        :param corpus_name: The name of the corpus to include in the processed the XML files
         """
         tree = self.parse_xml(input_file)
 

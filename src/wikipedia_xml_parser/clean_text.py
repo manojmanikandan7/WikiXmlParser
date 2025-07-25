@@ -20,7 +20,6 @@ def clean_text(txt: str,
     :return: Cleaned text
     """
     ## Text cleaning pipeline ##
-    # TODO: Elaborated steps
 
     # Removing all cards/modals/infoboxes
     info_text = '|'.join(cards_filter)
@@ -32,7 +31,7 @@ def clean_text(txt: str,
     # Removing Wikipedia formatting patterns
 
     no_format_patterns = re.sub("{{[^}]*?data/.*?}}", ";DYN;", no_tables)
-    no_format_patterns = re.sub("{{[^}]*?As of\|(.*?)}}", r"As of \1", no_format_patterns)
+    no_format_patterns = re.sub(r"{{[^}]*?As of\|(.*?)}}", r"As of \1", no_format_patterns)
     # Note: This should be done before removing tags, since Beautiful Soup looks for curly braces ('{', '}') for namespaces
     no_format_patterns = re.sub("{{.*?}}", "", no_format_patterns)
     no_format_patterns = re.sub("{{", "", no_format_patterns)
